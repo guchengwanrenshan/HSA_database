@@ -1,5 +1,10 @@
 # HSA_database
+![image](https://github.com/guchengwanrenshan/HSA_database/assets/112989947/7b923691-dc80-4cf8-b047-52b9c31ce331)
 
-"Total_2023_12_28.zip" -----The original data file of HSA-ligand binding database 
-"pdb.zip"-----The pdb file of HSA-ligand complex
-"redock_result.zip" ----- The redocking results of HSA-ligand complex
+"binding_affinity_bank.zip" -----The binding data of HSA-ligand binding database 
+                          -"origin_data" 
+                          -"processed_data" 
+
+
+"crystal_structure_bank.7z"-----The pdb file of HSA
+
