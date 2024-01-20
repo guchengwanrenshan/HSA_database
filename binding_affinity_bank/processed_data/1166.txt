@@ -1,0 +1,69 @@
+Title:Investigating binding dynamics of trans resveratrol to HSA for an efficient displacement of aflatoxin B1 using spectroscopy and molecular simulation
+DOI:10.1038/s41598-022-06375-5
+ligand name:trans-resveratrol
+ligand smiles:C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIA or Sudlow's site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;303.15;308.15
+KSV;78300.0;43500.0;20600.0
+kq;78300000000000.0;43500000000000.0;20600000000000.0
+n;1.58;1.42;1.27
+K;
+Ka;
+Kb;63600000.0;52900000.0;49900000.0
+ΔH;-366.518;-366.518;-366.518
+ΔS;-1078.0;-1078.0;-1078.0
+ΔG;-44.4759;-38.9939;-33.5975
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

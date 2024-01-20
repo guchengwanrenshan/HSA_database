@@ -1,0 +1,69 @@
+Title:Interactions of acidic pharmaceuticals with human serum albumin: insights into the molecular toxicity of emerging pollutants
+DOI:10.1007/s00726-012-1215-0
+ligand name:Diclofenac
+ligand smiles:C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;309.5
+KSV;2100000.0
+kq;210000000000000.0
+n;
+K;
+Ka;925000.0
+Kb;37114.2;35209.0;33619.0
+ΔH;-6.6;-6.6;-6.6
+ΔS;65.5;65.5;65.5
+ΔG;-26.8;-26.5;-26.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

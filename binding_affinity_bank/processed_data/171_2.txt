@@ -1,0 +1,69 @@
+Title:Comparative investigation of binding interactions between three steroidal compounds and human serum albumin: Multispectroscopic and molecular modeling techniques
+DOI:10.1016/j.steroids.2017.09.011
+ligand name:steroidal compound 3
+ligand smiles:CC16CCC(O)CC1=CCC5C4CCC(=NN=Cc2c[nH]c3ccccc23)C4(C)CCC56
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA) and Sudlow's site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;311000.0;301000.0;282000.0
+kq;
+n;1.0;1.0;1.0
+K;
+Ka;559000.0;344000.0;278000.0
+Kb;
+ΔH;-63.39;-63.39;-63.39
+ΔS;-102.62;-102.62;-102.62
+ΔG;-32.81;-32.19;-31.57
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Vitamin D prevents glycation of proteins: an in vitro study
+DOI:10.1002/1873-3468.12278
+ligand name:calcitriol
+ligand smiles:C[C@H](CCCC(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C
+key residue(hbond):Asn483 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0
+KSV;27100000.0
+kq;2750000000000000.0
+n;0.874
+K;
+Ka;
+Kb;670000.0
+ΔH;
+ΔS;
+ΔG;-32.679
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

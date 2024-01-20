@@ -1,0 +1,95 @@
+Title:Separate and simultaneous binding of tamoxifen and estradiol to human serum albumin: Spectroscopic and molecular modeling investigations
+DOI:10.1016/j.molliq.2017.11.056
+ligand name:estradiol
+ligand smiles:C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
+key residue(hbond):Glu354 d
+key residue(hydrophobic):Ala213;Val216;Val235;Leu327;Leu331;Ala350 d
+PDB ID:
+Binding Area:FA6 d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;280;290;300;310;
+KSV;;;;98.38*10^4;
+kq;;;;9.84*10^12;
+n;
+K;
+Ka;
+Kb;3.46*10^7;2.93*10^7;3.53*10^7;2.12*10^7;
+ΔH;11.66;11.66;11.66;11.66;
+ΔS;90.24;90.24;90.24;90.24;
+ΔG;-13.61;-14.51;-15.41;-16.32;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

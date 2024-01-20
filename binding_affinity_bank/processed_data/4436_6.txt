@@ -1,0 +1,69 @@
+Title:Using Human Serum Albumin Binding Affinities as a Proactive Strategy to Affect the Pharmacodynamics and Pharmacokinetics of Preclinical Drug Candidates
+DOI:10.1021/acsptsci.2c00115
+ligand name:6-hydroxycoumarin
+ligand smiles:C1=CC2=C(C=CC(=O)O2)C=C1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297.0
+KSV;36000.0
+kq;
+n;1.073
+K;
+Ka;
+Kb;48200.0
+ΔH;
+ΔS;
+ΔG;-26.6263
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

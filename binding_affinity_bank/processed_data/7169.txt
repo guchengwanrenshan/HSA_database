@@ -1,0 +1,69 @@
+Title:Fluorescence Behavior of Schiff Base-N, N′-bis(salicylidene) Trans 1, 2-Diaminocyclohexane in Proteinous and Micellar Environments
+DOI:10.1007/s10895-017-2171-6
+ligand name:H2L
+ligand smiles:OC1=CC=CC=C1\C=N\C1CCCCC1\N=C\C1=C(O)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;320;
+pH;
+T;298.0
+KSV;37000.0
+kq;
+n;1.08
+K;
+Ka;
+Kb;3467.37
+ΔH;
+ΔS;
+ΔG;-20.1951
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

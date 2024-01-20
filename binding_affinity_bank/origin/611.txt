@@ -1,0 +1,95 @@
+Title:Human serum albumin-malathion complex study in the presence of silver nanoparticles at different sizes by multi spectroscopic techniques
+DOI:10.1080/07391102.2018.1491416
+ligand name:malathion
+ligand smiles:CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.9*10^3;
+kq;1.9*10^11;
+n;0.8;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.24*10^-5;
+E;0.21;
+R0;2.73;
+r;1.63;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

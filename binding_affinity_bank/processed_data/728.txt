@@ -1,0 +1,69 @@
+Title:Exploration of interaction of canthaxanthin with human serum albumin by spectroscopic and molecular simulation methods
+DOI:10.1002/bio.3430
+ligand name:canthaxanthin
+ligand smiles:CC1=C(C(CCC1=O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C(=O)CCC2(C)C)C)\C)\C)/C)/C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;212000.0;175300.0;153900.0
+kq;21200000000000.0;17530000000000.0;15390000000000.0
+n;0.972;0.966;0.903
+K;
+Ka;146500.0;86580.0;42690.0
+Kb;
+ΔH;-46.083;-46.083;-46.083
+ΔS;-59.697;-59.697;-59.697
+ΔG;-28.771;-28.174;-27.577
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

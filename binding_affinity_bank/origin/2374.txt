@@ -1,0 +1,95 @@
+Title:Intermolecular recognition between pyrimethamine, an antimalarial drug and human serum albumin: Spectroscopic and docking study
+DOI:10.1016/j.molliq.2020.113270
+ligand name:Pyrimethamine
+ligand smiles:CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl
+key residue(hbond):Glu153;Glu188 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;3.54*10^4;2.04*10^4;1.32*10^4;
+kq;
+n;1.02;1.01;0.98;
+K;
+Ka;
+Kb;3.33*10^4;2.04*10^4;1.32*10^4;
+ΔH;-10.60;-10.60;-10.60;
+ΔS;35.54;35.54;35.54;
+ΔG;-20.84;-21.19;-21.55;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

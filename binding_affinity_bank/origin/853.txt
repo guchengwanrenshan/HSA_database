@@ -1,0 +1,95 @@
+Title:In vitro and in vivo cytotoxic activity and human serum albumin interaction for a methoxy-styryl-thiosemicarbazone
+DOI:10.1007/s10637-018-00722-y
+ligand name:4-N-(2'-methoxy-styryl)-thiosemicarbazone (MTSC)
+ligand smiles:COC1=C(\C=C\C=N\NC(N)=S)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow’s site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;1.32*10^5;1.22*10^5;1.33*10^5;
+kq;2.30*10^13;2.13*10^13;1.97*10^13;
+n;
+K;
+Ka;7.11*10^4;6.40*10^4;5.75*10^4;
+Kb;
+ΔH;11.6;11.6;11.6;
+ΔS;53.7;53.7;53.7;
+ΔG;-27.5;-27.9;-28.2;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

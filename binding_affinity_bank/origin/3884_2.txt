@@ -1,0 +1,95 @@
+Title:Biomolecular interactions of amphotericin B nanomicelles with serum albumins: A combined biophysical and molecular docking approach
+DOI:10.1016/j.saa.2018.07.057
+ligand name:SDCS
+ligand smiles:C[C@H](CCC(=O)[O-])[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C.[Na+].[O-]S(=O)(=O)[O-]   
+key residue(hbond):Lys199;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;5.14*10^4;3.60*10^4;1.70*10^4;
+kq;5.14*10^12;3.60*10^12;1.70*10^12;
+n;0.53;0.55;0.96;
+K;
+Ka;
+Kb;1.20*10^6;1.15*10^6;1.10*10^6;
+ΔH;0.67;0.67;0.67;
+ΔS;20.64;20.64;20.64;
+ΔG;-54.55;-55.57;-57.01;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:The study on the interaction of FCLA with human serum albumin with spectroscopy techniques
+DOI:None
+ligand name:FCLA
+ligand smiles:CC1=C(N2C=C(N=CC2=N1)C3=CC=C(C=C3)OCCNC(=S)NC4=CC5=C(C=C4)C6(C7=C(C=C(C=C7)O)OC8=C6C=CC(=C8)[O-])OC5=O)O.[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;1.31*10^5;
+kq;1.31*10^13;
+n;0.98;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.35118*10^-16;
+E;0.237;
+R0;1.2;
+r;1.4;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

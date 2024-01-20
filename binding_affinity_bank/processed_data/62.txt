@@ -1,0 +1,69 @@
+Title:Multi-spectroscopic characterization of human serum albumin binding with cyclobenzaprine hydrochloride: insights from biophysical and in silico approaches
+DOI:10.3390/ijms20030662
+ligand name:Cyclobenzaprine hydrochloride
+ligand smiles: CN(C)CCC=C1C2=CC=CC=C2C=CC3=CC=CC=C31
+key residue(hbond):S192d
+key residue(hydrophobic):Y150;E153;S192;K195;Q196;K199;L238;R257;H288;A291;E292d
+PDB ID:
+Binding Area:subdomain IIA (Sudlow site I) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;17000.0;13000.0;10000.0
+kq;2600000000000.0;2200000000000.0;1700000000000.0
+n;0.99;1.01;1.101
+K;16000.0;14000.0;12000.0
+Ka;
+Kb;
+ΔH;-21.374;-21.374;-21.374
+ΔS;17.972;17.951;17.951
+ΔG;-23.932;-24.058;-24.184
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

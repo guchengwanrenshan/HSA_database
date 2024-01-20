@@ -1,0 +1,69 @@
+Title:Spectroscopic study of drug-binding characteristics of unmodified and pNPA-based acetylated human serum albumin: Does esterase activity affect microenvironment of drug binding sites on the protein?
+DOI:10.1016/j.jlumin.2014.11.019
+ligand name:ibuprofen
+ligand smiles:CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;308.0
+KSV;3400.0;6500.0;9100.0;14600.0
+kq;340000000000.0;650000000000.0;910000000000.0;1460000000000.0
+n;1.128;1.109;1.095;1.065
+K;
+Ka;
+Kb;10380.0;16420.0;21060.0;26130.0
+ΔH;33.009;33.009;33.009;33.009
+ΔS;-193.483;-193.483;-193.483;-193.483
+ΔG;-21.747;-23.682;-24.649;-25.616
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

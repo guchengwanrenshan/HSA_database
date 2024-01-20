@@ -1,0 +1,95 @@
+Title:Studies on the interaction between imidacloprid and human serum albumin: Spectroscopic approach
+DOI:10.1016/j.jphotobiol.2008.11.013
+ligand name:imidacloprid
+ligand smiles:C1CN(/C(=N/[N+](=O)[O-])/N1)CC2=CN=C(C=C2)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;299;304;309;
+KSV;2.32*10^4;2.24*10^4;2.18*10^4;
+kq;4.64*10^12;4.48*10^12;4.36*10^12;
+n;0.96;0.97;1.00;
+K;
+Ka;
+Kb;1.51*10^4;1.58*10^4;2.19*10^4;
+ΔH;28.44;28.44;28.44;
+ΔS;174.76;174.76;174.76;
+ΔG;-23.81;-24.69;-25.56;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.17*10^-15;
+E;0.05;
+R0;1.52;
+r;2.10;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

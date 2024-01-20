@@ -1,0 +1,69 @@
+Title:Study on the interaction between 4-(1H-indol-3-yl)-2-(p-tolyl)quinazoline-3-oxide and human serum albumin
+DOI:10.1016/j.bmc.2020.115720
+ligand name:4-(1H-indol-3-yl)-2-(p-tolyl)quinazoline-3-oxide
+ligand smiles:CC1=CC=C(C=C1)C1=[N+]([O-])C(C2=CNC3=C2C=CC=C3)=C2C=CC=CC2=N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: IIA domain and IIIA domain
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;300.0;303.0
+KSV;14000.0;13900.0;13300.0
+kq;1400000000000.0;1390000000000.0;1330000000000.0
+n;0.87;0.95;1.07
+K;
+Ka;24700.0;17000.0;10300.0
+Kb;
+ΔH;-139.02;-139.02;-139.02
+ΔS;435.73;435.73;435.73
+ΔG;-268.86;-269.74;-271.04
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

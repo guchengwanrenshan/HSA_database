@@ -1,0 +1,95 @@
+Title:Synthesis and biological evaluation of N-aryl-2-phenyl-hydrazinecarbothioamides: Experimental and theoretical analysis on tyrosinase inhibition and interaction with HSA
+DOI:10.1016/j.bioorg.2018.07.035
+ligand name:4
+ligand smiles:BrC1=CC=C(NC(=S)NNC2=CC=CC=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;4.47*10^4;4.41*10^4;4.12*10^4;
+kq;7.78*10^12;7.69*10^12;7.16*10^12;
+n;0.98;1.00;1.01;
+K;
+Ka;
+Kb;3.42*10^4;4.11*10^4;4.69*10^4;
+ΔH;17.2;17.2;17.2;
+ΔS;145;145;145;
+ΔG;-25.7;-26.7;-27.8;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,92 @@
+Title:Comparative analysis of the interaction of capecitabine and gefitinib with human serum albumin using 19F nuclear magnetic resonance-based approach
+DOI:10.1016/j.jpba.2016.06.034
+ligand name:capecitabine
+ligand smiles:CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@H]2[C@@H]([C@@H]([C@H](O2)C)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;NMR spectroscopy
+pH;
+T;
+n;
+K;
+Ka;2.672*10^3;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

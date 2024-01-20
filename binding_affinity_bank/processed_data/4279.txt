@@ -1,0 +1,69 @@
+Title:Unveiling the molecular mechanism of pH-dependent interactions of human serum albumin with chemotherapeutic agent doxorubicin: A combined spectroscopic and constant-pH molecular dynamics study
+DOI:10.1016/j.molliq.2021.115949
+ligand name:doxorubicin
+ligand smiles:C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;14400.0
+kq;1440000000000.0
+n;
+K;
+Ka;
+Kb;6400.0
+ΔH;
+ΔS;
+ΔG;-21.7136
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

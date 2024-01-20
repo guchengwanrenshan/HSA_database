@@ -1,0 +1,95 @@
+Title:Unusual human serum albumin fibrillation inhibition by ketoprofen and fenoprofen: Mechanistic insights
+DOI:10.1002/jmr.2937
+ligand name:Fenoprofen
+ligand smiles:CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;
+KSV;1.52*10^5;
+kq;
+n;0.91;
+K;
+Ka;5.39*10^4;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298.15;303.15;308.15;
+n;
+K;5.7*10^4;6.1*10^4;6.7*10^4;
+Ka;
+Kb;
+ΔH;-112.1;-117.6;-125.8;
+ΔS;-284.9;-296.3;-315.9;
+ΔG;-27.2;-27.8;-28.5;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

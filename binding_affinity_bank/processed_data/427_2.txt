@@ -1,0 +1,69 @@
+Title:A biophysical insight into structural and functional state of human serum albumin in uremia mimic milieu
+DOI:10.1016/j.ijbiomac.2019.03.123
+ligand name:indole-3 acetic acid (IAA)
+ligand smiles:C1=CC=C2C(=C1)C(=CN2)CC(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;4570.0
+Ka;
+Kb;
+ΔH;-15.899
+ΔS;39.313
+ΔG;-19.581
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

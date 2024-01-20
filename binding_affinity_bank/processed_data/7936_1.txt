@@ -1,0 +1,69 @@
+Title:In vitro cytotoxicity of new water soluble copper(II) metallates containing 7-hydroxy-4-oxo-4H-chromene thiosemicarbazones
+DOI:10.1016/j.poly.2019.114120
+ligand name:H-7HFC-mtsc
+ligand smiles:[H]N(C)C(=S)N/N=C/C1=COC2=C(C=CC(O)=C2)C1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;6850.0
+kq;685000000000.0
+n;0.9252
+K;
+Ka;
+Kb;3413.0
+ΔH;
+ΔS;
+ΔG;-20.1559
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

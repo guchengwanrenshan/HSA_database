@@ -1,0 +1,95 @@
+Title:Complex of nicosulfuron with human serum albumin: A biophysical study
+DOI:10.1016/j.molstruc.2010.04.033
+ligand name:nicosulfuron
+ligand smiles:CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow’s site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;297;303;309;
+KSV;1.420*10^4;1.309*10^4;1.141*10^4;1.043*10^4;
+kq;1.420*10^12;1.309*10^12;1.141*10^12;1.043*10^12;
+n;
+K;
+Ka;
+Kb;3.167*10^4;2.693*10^4;2.191*10^4;1.929*10^4;
+ΔH;-21.10;-21.10;-21.10;-21.10;
+ΔS;13.06;13.06;13.06;13.06;
+ΔG;-25.07;-25.19;-25.18;-25.35;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

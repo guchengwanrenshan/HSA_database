@@ -1,0 +1,95 @@
+Title:Spectroscopic and molecular modeling approaches to investigate the binding of proton pump inhibitors to human serum albumin
+DOI:10.1080/07391102.2016.1251337
+ligand name: esomeprazole
+ligand smiles:CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C(N2)C=C(C=C3)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286;293;300;307;
+KSV;2.48*10^4;3.49*10^4;4.97*10^4;5.44*10^4;
+kq;2.48*10^12;3.49*10^12;4.97*10^12;5.44*10^12;
+n;0.98;1.00;1.00;0.97;
+K;1.65*10^4;5.01*10^4;7.97*10^4;10.5*10^4;
+Ka;
+Kb;
+ΔH;170.76;170.76;170.76;170.76;
+ΔS;710.42;710.42;710.42;710.42;
+ΔG;-33.5;-37.6;-41.0;-45.2;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.073*10^-16
+E;0.33;
+R0;1.78;
+r;1.07;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

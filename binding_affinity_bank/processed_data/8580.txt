@@ -1,0 +1,69 @@
+Title:Molecular mechanistic vision on binding interaction of triptan drug, a serotonin (5-HT1) agonist with human serum albumin through multispectral and computational assessments
+DOI:10.5155/eurjchem.11.2.145-155.1971
+ligand name:eletriptan
+ligand smiles: CN1CCC[C@@H]1CC2=CNC3=C2C=C(C=C3)CCS(=O)(=O)C4=CC=CC=C4  
+key residue(hbond):Arg257;Glu292(site I);Lys414;Arg410(site II);Tyr138(site III)d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II; site III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;304.0;312.0
+KSV;209000.0;190000.0;174000.0
+kq;77400000000000.0;70300000000000.0;64400000000000.0
+n;1.351;1.164;1.023
+K;
+Ka;432000.0;369000.0;24000.0
+Kb;1346000.0;215000.0;58000.0
+ΔH;-153.8;-153.8;-153.8
+ΔS;-402.9;-402.9;-402.9
+ΔG;-34.63;-31.41;-28.19
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

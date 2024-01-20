@@ -1,0 +1,95 @@
+Title:Conjugation of testo and testo-Pt(II) with serum proteins: Loading efficacy and protein conformation
+DOI:10.1016/j.ijbiomac.2018.06.186
+ligand name:testo
+ligand smiles:[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])C2[C@H](C\C=C\CN2C=C(N=N2)C2=NC=CC=C2)CC2=CC(=O)CC[C@]12C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;308.15;318.15;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;3.75*10^5;2.42*10^5;1.84*10^5;
+ΔH;-12.26;-12.26;-12.26;
+ΔS;5.13;5.13;5.13;
+ΔG;-13.79;-13.84;-13.90;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

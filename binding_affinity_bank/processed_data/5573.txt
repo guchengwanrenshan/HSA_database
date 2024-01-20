@@ -1,0 +1,69 @@
+Title:Elucidation of binding mechanism of stigmasterol with human serum albumin: a biophysical and molecular dynamics simulation approach
+DOI:10.1080/07391102.2021.1968498
+ligand name:stigmasterol
+ligand smiles:CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;500000.0;580000.0;390000.0
+kq;50000000000000.0;58000000000000.0;39000000000000.0
+n;1.0
+K;
+Ka;
+Kb;35000.0;180000.0;3000.0
+ΔH;-105.646;-105.646;-105.646
+ΔS;-271.2336;-266.6247;-271.2852
+ΔG;-25.8571;-30.3758;-19.8322
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Study on the synergistic effects between sulfamethoxazole and levofloxacin by spectroscopic and molecular modeling techniques
+DOI:10.13526/j.issn.1006-6144.2017.03.005
+ligand name:levofloxacin
+ligand smiles:C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O  
+key residue(hbond):Arg218 d
+key residue(hydrophobic):Phe156;Phe157;Ala191;Trp214;Ala291 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;45000.0;37700.0;31700.0
+kq;
+n;1.07;1.02;1.03
+K;
+Ka;
+Kb;45000.0;37700.0;31700.0
+ΔH;-22.37;-22.37;-22.37
+ΔS;14.03;14.03;14.03
+ΔG;-26.55;-26.64;-26.72
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

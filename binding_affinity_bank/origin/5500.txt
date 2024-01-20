@@ -1,0 +1,95 @@
+Title:Study on interaction of human serum albumin with aniline blue black and their conformation changes
+DOI:None
+ligand name:Naphthol Blue Black
+ligand smiles:C1=CC=C(C=C1)N=NC2=C(C3=C(C(=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])N=NC4=CC=C(C=C4)[N+](=O)[O-])N)O.[Na+].[Na+] 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;6.915*10^4;7.508*10^4;7.854*10^4;
+ΔH;9.36;9.36;9.36;
+ΔS;122.78;122.78;122.78;
+ΔG;-27.00;-27.84;-28.70;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

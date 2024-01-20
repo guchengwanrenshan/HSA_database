@@ -1,0 +1,95 @@
+Title:Binding modes of environmental endocrine disruptors to human serum albumin: insights from STD-NMR, ITC, spectroscopic and molecular docking studies
+DOI:10.1038/s41598-017-11604-3
+ligand name:BPE
+ligand smiles:CC(c1ccc(O)cc1)c2ccc(O)cc2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;7.79*10^4;
+Ka;
+Kb;
+ΔH;-20.041;
+ΔS;12.050;
+ΔG;-23.640;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

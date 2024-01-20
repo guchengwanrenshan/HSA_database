@@ -1,0 +1,95 @@
+Title:Probing the Molecular Interaction of Triazole Fungicides with Human Serum Albumin by Multispectroscopic Techniques and Molecular Modeling
+DOI:10.1021/jf401095n
+ligand name:myclobutanil
+ligand smiles: CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;8.69*10^3;7.52*10^3;6.85*10^3;
+kq;8.69*10^11;7.52*10^11;6.85*10^11;
+n;1.0009;1.0051;1.0057;
+K;
+Ka;8.79*10^3;7.97*10^3;6.90*10^3;
+Kb;8.51*10^3;7.76*10^3;6.92*10^3;
+ΔH;-13.28;-13.28;-13.28;
+ΔS;30.71;30.71;30.71;
+ΔG;-22.35;-22.63;-22.78;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

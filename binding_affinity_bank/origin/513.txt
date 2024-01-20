@@ -1,0 +1,95 @@
+Title:Insights from spectroscopic and in-silico techniques for the exploitation of biomolecular interactions between Human serum albumin and Paromomycin
+DOI:10.1016/j.colsurfb.2017.05.076
+ligand name:Paromomycin
+ligand smiles:C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)N)O[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O[C@@H]4[C@@H]([C@H]([C@@H]([C@@H](O4)CN)O)O)N)O)O)N  
+key residue(hbond):Arg222 d
+key residue(hydrophobic):Glu294 d
+PDB ID:
+Binding Area:Sudlow's binding site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;5099;4809;4529;
+kq;7.993*10^11;7.539*10^11;7.100*10^11;
+n;1;0.9;0.8;
+K;3.262*10^5;3.080*10^5;2.898*10^5;
+Ka;
+Kb;
+ΔH;-25.141;-25.141;-25.141;
+ΔS;95.097;95.097;95.097;
+ΔG;-27.407;-28.357;-29.308;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

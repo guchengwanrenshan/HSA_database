@@ -1,0 +1,69 @@
+Title:Manganese coordination compounds of mefenamic acid: In vitro screening and in silico prediction of biological activity
+DOI:10.1016/j.jinorgbio.2018.09.017
+ligand name:salicylaldoxime (H2sao)
+ligand smiles:C1=CC=C(C(=C1)/C=N/O)O   
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;14400.0
+kq;1440000000000.0
+n;1.44
+K;9120.0
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

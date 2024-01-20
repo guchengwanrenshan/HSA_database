@@ -1,0 +1,69 @@
+Title:Effect of hydroxypropyl-β-cyclodextrin on the bounding of salazosulfapyridine to human serum albumin
+DOI:10.1016/j.ijbiomac.2016.07.033
+ligand name:Salazosulfapyridine
+ligand smiles:C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;728000.0;718000.0;672000.0
+kq;
+n;1.16;1.12;1.09
+K;
+Ka;
+Kb;2207000.0;1838000.0;1512000.0
+ΔH;-48.69;-48.69;-48.69
+ΔS;-40.24;-40.24;-40.24
+ΔG;-36.19;-36.46;-36.67
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

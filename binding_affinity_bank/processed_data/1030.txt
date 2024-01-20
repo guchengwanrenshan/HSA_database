@@ -1,0 +1,69 @@
+Title:Interference of anthocyanin extracted from black soybean coats on aflatoxin B1-human serum albumin in the binding process
+DOI:10.1080/19440049.2021.1930198
+ligand name:cyanidin-3-O-glucoside (C3G) 
+ligand smiles:C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I and site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0
+KSV;
+kq;
+n;1.3332
+K;
+Ka;815605.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

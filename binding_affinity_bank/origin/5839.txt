@@ -1,0 +1,95 @@
+Title:Photophysical Behavior and the Binding to Human Serum Albumin of a Novel Triazole Compound
+DOI:10.6023/a12121053
+ligand name:NPTA
+ligand smiles:C1=C(N(N=N1)C1=CC=CC2=C1C=CC=C2)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;299;309;319;
+KSV;
+kq;
+n;0.88;0.73;0.70;
+K;
+Ka;
+Kb;1.794*10^4;3.677*10^4;4.443*10^4;
+ΔH;8.836;8.836;8.836;
+ΔS;106.880;106.880;106.880;
+ΔG;-23.121;-24.190;-25.259;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.650611*10^-15;
+E;0.058;
+R0;3.28;
+r;5.22;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

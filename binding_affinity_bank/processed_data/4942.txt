@@ -1,0 +1,69 @@
+Title:Study on the binding of Arsenazo-TB to human serum albumin by Rayleigh light scattering technique and FT-IR
+DOI:10.1016/j.bbapap.2005.11.007
+ligand name:Arsenazo-TB
+ligand smiles:C1=CC=C(C(=C1)C2=C(C=C3C=C(C(=C(C3=C2O)O)C4=C(C=C(C=C4Br)Br)Br)S(=O)(=O)O)S(=O)(=O)O)[As](=O)(O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0;318.0
+KSV;
+kq;
+n;53.0;47.0;42.0;36.0
+K;
+Ka;
+Kb;50300000.0;25500000.0;14000000.0;7130000.0
+ΔH;-49.17;-49.17;-49.17;-49.17
+ΔS;318.15;306.77;296.43;285.8
+ΔG;-42.46;-42.25;-42.14;-41.72
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

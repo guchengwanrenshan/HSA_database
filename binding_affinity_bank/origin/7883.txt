@@ -1,0 +1,90 @@
+Title:Constrained Photophysics of 5,7-dimethoxy-2,3,4,9-tetrahydro-1H-carbazol-1-one in the Bioenvironment of Serum Albumins: A Spectroscopic Endeavour Supported by Molecular Docking Analysis
+DOI:10.1007/s10895-017-2094-2
+ligand name:KTHC-57
+ligand smiles:COC1=CC2=C(C(OC)=C1)C1=C(N2)C(=O)CCC1
+key residue(hbond):
+key residue(hydrophobic):Ile166;Phe173;Phe181;Tyr185;Leu206;Leu209 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;43246.89;
+kq;
+n;
+K;
+Ka;
+Kb;1.961*10^4;
+ΔH;
+ΔS;
+ΔG;-24.49;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;0.26;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

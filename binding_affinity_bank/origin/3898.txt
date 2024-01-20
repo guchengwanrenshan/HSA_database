@@ -1,0 +1,95 @@
+Title:Study of interaction of butyl p-hydroxybenzoate with human serum albumin by molecular modeling and multi-spectroscopic method
+DOI:10.1016/j.jlumin.2010.09.040
+ligand name:butoben
+ligand smiles:CCCCOC(=O)C1=CC=C(C=C1)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;0.815*10^4;0.664*10^4;0.544*10^4;0.462*10^4;
+kq;0.815*10^12;0.664*10^12;0.544*10^12;0.462*10^12;
+n;1.09;0.99;1.08;1.20;
+K;
+Ka;
+Kb;
+ΔH;-29.52;-29.52;-29.52;-29.52;
+ΔS;-24.23;-24.23;-24.23;-24.23;
+ΔG;-22.30;-22.18;-22.06;-21.94;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

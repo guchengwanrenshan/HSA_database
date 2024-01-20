@@ -1,0 +1,69 @@
+Title:Molecular action mechanism of desoxyrhaponticin and serum albumin characterized by spectroscopy combined with molecular modeling
+DOI:10.4268/cjcmm20140624
+ligand name:desoxyrhaponticin
+ligand smiles: COC1=CC=C(C=C1)/C=C/C2=CC(=CC(=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;80800.0;102300.0
+kq;80800000000000.0;43510000000000.0
+n;0.94;1.02
+K;
+Ka;
+Kb;360740.0;128880.0
+ΔH;81.5;81.5
+ΔS;379.87;379.87
+ΔG;-31.7;-36.26
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

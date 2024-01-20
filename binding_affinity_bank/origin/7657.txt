@@ -1,0 +1,90 @@
+Title:Study on the interaction of cefazolin and ceftriaxone with human serum albumin with multi-spectroscopic and docking methods
+DOI:10.3964/j.issn.1000-0593(2017)04-1205-06
+ligand name:cefazolin
+ligand smiles:CC1=NN=C(S1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;
+kq;
+n;0.91;1.00;
+K;
+Ka;
+Kb;5.23*10^3;3.67*10^3;
+ΔH;-22.67;-22.67;
+ΔS;-4.90;-4.90;
+ΔG;-21.21;-21.15;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.48*10^-15;
+E;0.3290;
+R0;2.14;
+r;2.41;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Biscoumarin-pyrimidine conjugates as potent anticancer agents and binding mechanism of hit candidate with human serum albumin
+DOI:10.1002/ardp.202000181
+ligand name:compound 1c
+ligand smiles:CC1=CN(CC2=CC(=O)OC3=CC=C(Cl)C=C23)C(=O)N(CC2=CC(=O)OC3=C2C=C(Cl)C=C3)C1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;6.37*10^4;5.61*10^4;5.10*10^4;4.51*10^4;
+kq;1.27*10^13;1.12*10^13;1.02*10^13;0.90*10^13;
+n;0.71;0.71;0.71;0.72;
+K;
+Ka;
+Kb;1.93*10^3;1.65*10^3;1.60*10^3;1.38*10^3;
+ΔH;-16.41;-16.41;-16.41;
+ΔS;7.73;7.73;7.73;
+ΔG;-18.72;-18.76;-18.80;-18.83;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

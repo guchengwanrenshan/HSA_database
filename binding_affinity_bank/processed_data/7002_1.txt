@@ -1,0 +1,69 @@
+Title:Multi-spectroscopic analysis and molecular modeling on the interaction of curcumin and its derivatives with human serum albumin: A comparative study
+DOI:10.1016/j.saa.2014.01.009
+ligand name:demothxycurcumin
+ligand smiles:COC1=C(O)C=CC(/C=C/C(=O)CC(=O)/C=C/C2=CC=C(O)C=C2)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;295;295;295;
+pH;
+T;298.0;304.0;310.0
+KSV;144000.0;137000.0;131000.0
+kq;14400000000000.0;13700000000000.0;13100000000000.0
+n;0.92;0.92;0.9
+K;
+Ka;64900.0;67600.0;69900.0
+Kb;34400.0;32200.0;32900.0
+ΔH;4.767;4.767;4.767
+ΔS;108.13;108.13;108.13
+ΔG;-27.46;-28.11;-28.75
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

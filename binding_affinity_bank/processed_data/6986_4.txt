@@ -1,0 +1,69 @@
+Title:Molecular structure-affinity relationship of bufadienolides and human serum albumin in vitro and molecular docking analysis
+DOI:10.1371/journal.pone.0126669
+ligand name:hellebrigenin
+ligand smiles:C[C@]12CC[C@H]3[C@H]([C@]1(CC[C@@H]2C4=COC(=O)C=C4)O)CC[C@]5([C@@]3(CC[C@@H](C5)O)C=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;310.0
+KSV;7410.0;6740.0;6610.0
+kq;741000000000.0;674000000000.0;661000000000.0
+n;1.1;1.1;1.0
+K;
+Ka;
+Kb;21400.0;14200.0;11100.0
+ΔH;-76.85;-76.85;-76.85
+ΔS;-192.13;-192.13;-192.13
+ΔG;-24.72;-24.02;-24.01
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

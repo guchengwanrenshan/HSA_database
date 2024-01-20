@@ -1,0 +1,95 @@
+Title:Comparative study of the binding between chlorogenic acid and four proteins by isothermal titration calorimetry, spectroscopy and docking methods
+DOI:10.1007/s43440-022-00369-w
+ligand name:chlorogenic acid
+ligand smiles:C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;301;309;
+KSV;7.18*10^4;6.51*10^4;6.13*10^4;
+kq;7.18*10^12;6.51*10^12;6.13*10^12;
+n;1.30;1.30;1.31;
+K;
+Ka;2.06*10^6;3.84*10^6;1.52*10^6;
+Kb;
+ΔH;-12.41;-12.41;-12.41;
+ΔS;78.24;78.24;78.24;
+ΔG;-35.44;-36.15;-36.68;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;1.66*10^5;
+Ka;
+Kb;
+ΔH;-1.6707;
+ΔS;94.14;
+ΔG;-29.7064;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

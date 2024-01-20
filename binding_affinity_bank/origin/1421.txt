@@ -1,0 +1,95 @@
+Title:Molecular Basis of Interactions between the Antibiotic Nitrofurantoin and Human Serum Albumin: A Mechanism for the Rapid Drug Blood Transportation
+DOI:10.3390/ijms22168740
+ligand name:Nitrofurantoin
+ligand smiles:C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;304;310;315;
+KSV;2.48*10^4;2.63*10^4;2.7*10^4;2.86*10^4;2.98*10^4;
+kq;
+n;
+K;;;;4.10*10^4;;
+Ka;2.55*10^4;2.48*10^4;2.28*10^4;2.19*10^4;2.15*10^4;
+Kb;
+ΔH;-3.93;-3.93;-3.93;-3.93;-3.93;
+ΔS;27.05;27.05;27.05;27.05;27.05;
+ΔG;-11.32;-11.45;-11.62;-11.78;-11.91;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

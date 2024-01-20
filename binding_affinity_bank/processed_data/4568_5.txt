@@ -1,0 +1,69 @@
+Title:Complexes between Fluorescent Cholic Acid Derivatives and Human Serum Albumin. A Photophysical Approach To Investigate the Binding Behavior
+DOI:10.1021/jp911114n
+ligand name:NBD-CH
+ligand smiles:[O-][N+](=O)C1=CC=C(NC2CCCCC2)C2=NON=C12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;24700.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

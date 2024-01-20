@@ -1,0 +1,69 @@
+Title:Interaction mechanism for human serum albumin with hexythiazox
+DOI:10.1360/032013-105
+ligand name:hexythiazox
+ligand smiles:C[C@H]1[C@@H](SC(=O)N1C(=O)NC2CCCCC2)C3=CC=C(C=C3)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;298.0
+KSV;47500.0;43000.0
+kq;4750000000000.0;4300000000000.0
+n;
+K;
+Ka;69600.0;61300.0
+Kb;10200.0;7350.0
+ΔH;-33.88;-33.88
+ΔS;-39.66;-39.66
+ΔG;-22.34;-22.06
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

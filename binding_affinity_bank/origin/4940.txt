@@ -1,0 +1,117 @@
+Title:Insight into the binding of alpha-linolenic acid (ALA) on human serum albumin using spectroscopic and molecular dynamics (MD) studies
+DOI:10.1016/j.procbio.2022.09.022
+ligand name:alpha-linolenic acid
+ligand smiles:CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O
+key residue(hbond):Arg114;Leu115 d
+key residue(hydrophobic):ARG186;ARG117;PHE134;LEU135;PHE165;LEU182;MET123;VAL116 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;63.110*10^3;39.943*10^3;31.060*10^3;
+kq;63.110*10^11;39.943*10^11;31.060*10^11;
+n;1.070;1.007;0.912;
+K;
+Ka;
+Kb;161.959*10^3;44.863*10^3;10.283*10^3;
+ΔH;-175.745;-175.745;-175.745;
+ΔS;-490.414;-490.414;-490.414;
+ΔG;-29.700;-26.981;-23.792;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;0.155166667;241.5;103.4333333;0.428295376;
+1:1.33;;0.153833333;378.1;102.55;0.271224544;
+1:2.67;;0.1525;480.7;101.7;0.211566466;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+TYR30;0.665;0.631;-0.034;
+TYR40;0.513;0.541;0.028;
+TYR48;0.621;0.749;0.128;
+TYR84;0.611;0.596;-0.015;
+TYR138;0.536;0.531;-0.005;
+TYR150;0.695;0.698;0.003;
+TYR161;0.552;0.556;0.004;
+TRP214;0.545;0.501;-0.044;
+TYR263;0.61;0.57;-0.04;
+TYR319;0.411;0.398;-0.013;
+TYR332;0.439;0.433;-0.006;
+TYR334;0.534;0.518;-0.016;
+TYR341;0.713;0.753;0.04;
+TYR353;0.576;0.597;0.021;
+TYR370;0.55;0.571;0.021;
+TYR401;0.644;0.66;0.016;
+TYR411;0.523;0.574;0.051;
+TYR452;0.535;0.561;0.026;
+TYR497;0.737;0.727;-0.01;
+
+
+
+
+

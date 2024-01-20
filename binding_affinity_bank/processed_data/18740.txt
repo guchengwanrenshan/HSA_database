@@ -1,0 +1,69 @@
+Title:Study on the interactions of Chinese medicine component deoxyschizandrin and its metal ion complexes with serum albumin
+DOI:None
+ligand name:deoxyschizandrin
+ligand smiles:C[C@@H]1CC2=CC(=C(C(=C2C3=C(C(=C(C=C3C[C@@H]1C)OC)OC)OC)OC)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;59300.0;48000.0;36800.0
+kq;
+n;1.11;1.03;0.944
+K;
+Ka;352000.0;435000.0;593000.0
+Kb;233000.0;91400.0;35800.0
+ΔH;-142.7;-142.7;-142.7
+ΔS;-376.2;-376.2;-376.2
+ΔG;-30.6;-28.76;-26.84
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

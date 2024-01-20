@@ -1,0 +1,69 @@
+Title:Studies on the Interaction of Perfluorononanoic Acid with Human Serum Albumin by Multi-Spectroscopic, Molecular Docking and Isothermal Titration Calorimetry Techniques.
+DOI:
+ligand name:Perfluorononanoic Acid
+ligand smiles:C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O  
+key residue(hbond):
+key residue(hydrophobic):Leu219;Ile290 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;80700.0;84300.0;101700.0
+kq;8070000000000.0;8430000000000.0;10170000000000.0
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;3.33
+K;
+Ka;
+Kb;227100.0
+ΔH;-93.56
+ΔS;-211.3
+ΔG;-30.59
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

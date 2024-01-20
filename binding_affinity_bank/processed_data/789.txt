@@ -1,0 +1,69 @@
+Title:Synthesis and biological evaluation of N-aryl-2-phenyl-hydrazinecarbothioamides: Experimental and theoretical analysis on tyrosinase inhibition and interaction with HSA
+DOI:10.1016/j.bioorg.2018.07.035
+ligand name:4
+ligand smiles:BrC1=CC=C(NC(=S)NNC2=CC=CC=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;44700.0;44100.0;41200.0
+kq;7780000000000.0;7690000000000.0;7160000000000.0
+n;0.98;1.0;1.01
+K;
+Ka;
+Kb;34200.0;41100.0;46900.0
+ΔH;17.2;17.2;17.2
+ΔS;145.0;145.0;145.0
+ΔG;-25.7;-26.7;-27.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

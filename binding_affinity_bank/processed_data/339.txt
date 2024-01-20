@@ -1,0 +1,69 @@
+Title:Insights into the binding mechanism of BODIPY-based photosensitizers to human serum albumin: A combined experimental and computational study
+DOI:10.1016/j.saa.2018.05.103
+ligand name:1a
+ligand smiles:CC1=C(I)C(C)=C2N1[B-](F)(F)[N+]1=C(C)C(I)=C(C)C1=C2C1=CC=CS1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;89430.0
+kq;8943000000000.0
+n;0.785
+K;
+Ka;40120.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

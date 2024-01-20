@@ -1,0 +1,90 @@
+Title:One-pot synthesis of Claisen-Schmidt reaction through (E)-chalcone derivatives: Spectral studies in human serum albumin protein binding and molecular docking investigation
+DOI:10.1080/00397911.2017.1355466
+ligand name:5m
+ligand smiles:CN1CCN(C2=NC3=CC=CC=C3C=C2/C=C/C(=O)C2=CC=C3C=CC=CC3=C2O)CC1
+key residue(hbond):Lys212 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA  d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;4.70*10^4;
+kq;4.70*10^12;
+n;1.13;
+K;
+Ka;
+Kb;2.67*10^5;
+ΔH;
+ΔS;
+ΔG;-29.98;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

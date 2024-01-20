@@ -1,0 +1,95 @@
+Title:Study on the Interaction Between Trimethoprim and Human Serum Albumin by Spectroscopic and Molecular Modeling Methods
+DOI:10.1080/00387010.2012.657332
+ligand name:Trimethoprim
+ligand smiles:COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;8.12*10^3;5.87*10^3;
+kq;8.12*10^11;5.87*10^11;
+n;1.10;0.91;
+K;
+Ka;
+Kb;1.91*10^4;0.275*10^4;
+ΔH;-124;-124;
+ΔS;-334.3;-334.3;
+ΔG;-24.42;-20.41;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.12*10^-15;
+E;0.8675;
+R0;2.284;
+r;1.67;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

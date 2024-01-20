@@ -1,0 +1,95 @@
+Title:Spectroscopic study on the interaction of resveratrol and pterostilbene with human serum albumin
+DOI:10.1016/j.jphotobiol.2015.05.001
+ligand name:pterostilbene
+ligand smiles:COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)O)OC 
+key residue(hbond):
+key residue(hydrophobic):Leu260;Ala261;Ile290;Ala291;Lue238 d
+PDB ID:
+Binding Area:site IA(subdomain II) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;2.39*10^5;
+kq;0.33*10^14;
+n;0.52;
+K;
+Ka;1.98*10^5; 
+Kb;0.299*10^2;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.68*10^-14;
+E;0.22;
+R0;2.67;
+r;3.305;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

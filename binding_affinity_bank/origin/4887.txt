@@ -1,0 +1,95 @@
+Title:Interaction of cyproheptadine hydrochloride with human serum albumin using spectroscopy and molecular modeling methods
+DOI:10.1002/bio.2374
+ligand name:cyproheptadine hydrochloride
+ligand smiles:CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1.Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;318;
+KSV;3.230*10^4;2.905*10^4;2.641*10^4;2.428*10^4;
+kq;3.230*10^12;2.905*10^12;2.641*10^12;2.428*10^12;
+n;1.035;1.022;1.008;0.9963;
+K;
+Ka;3.936*10^4;3.223*10^4;2.651*10^4;2.239*10^4;
+Kb;4.503*10^4;4.481*10^4;4.460*10^4;4.447*10^4;
+ΔH;-14.37;-14.37;-14.37;-14.37;
+ΔS;38.03;38.03;38.03;38.03;
+ΔG;-25.32;-25.71;-26.07;-26.47;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.66*10^-14;
+E;0.029;
+R0;3.04;
+r;5.49;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

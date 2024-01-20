@@ -1,0 +1,95 @@
+Title:Influence of piracetam on gliclazide-glycated human serum albumin interaction. A spectrofluorometric study
+DOI:10.3390/molecules24010111
+ligand name:GLZ
+ligand smiles:CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CC3CCCC3C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's sites II(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310;
+KSV;10.42*10^3;
+kq;1.68*10^12;
+n;1.05;
+K;
+Ka;4.21*10^4;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

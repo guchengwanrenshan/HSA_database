@@ -1,0 +1,95 @@
+Title:Real-time process quality control of ramulus cinnamomi by critical quality attribute using microscale thermophoresis and on-line NIR
+DOI:10.1016/j.saa.2019.117463
+ligand name:Cinnamaldehyde
+ligand smiles:C1=CC=C(C=C1)/C=C/C=O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;
+kq;
+n;
+K;
+Ka;8710.0;3599.5;1722.5;799.7
+Kb;
+ΔH;-122.6;-122.6;-122.6;-122.6;
+ΔS;-336.1;-336.1;-336.1;-336.1;
+ΔG;
+Kd(nm/L);0.1148*10^6;0.2778*10^6;0.5806*10^6;1.251*10^6;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Bromo-Substituted Diazenyl-pyrazolo[1,5-a]pyrimidin-2-amines: Sonogashira Cross-Coupling Reaction, Photophysical Properties, Bio-interaction and HSA Light-Up Sensor
+DOI:10.1002/cbic.202200248
+ligand name:3a
+ligand smiles:CCCCCCC#CC1=CC=C(C=C1)C1=NC2=C(\N=N\C3=CC=CC=C3)C(N)=NN2C(=C1)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):Trp214;Val334;Ala449;Leu453 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;
+KSV;16.8*10^3;
+kq;2.96*10^12;
+n;1.15;
+K;
+Ka;13.7*10^3;
+Kb;4.73*10^3;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

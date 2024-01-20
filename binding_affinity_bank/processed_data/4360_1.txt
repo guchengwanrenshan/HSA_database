@@ -1,0 +1,69 @@
+Title:Binding of Water-Soluble CdSe Quantum Dots with Human Serum Albumin: Further Studies into their Effects on Dietary Polyphenol Binding and Sensing of Antibiotic Lomefloxacin
+DOI:10.1002/slct.202102212
+ligand name:naringenin
+ligand smiles:C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;32360.0
+kq;6472000000000.0
+n;0.755
+K;
+Ka;
+Kb;553900.0
+ΔH;
+ΔS;
+ΔG;-32.768
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

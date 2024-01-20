@@ -1,0 +1,69 @@
+Title:Thermodynamic insights into interaction of protein coated gold nanoclusters with DNA and influence of coating on drug binding
+DOI:10.1016/j.molliq.2019.03.117
+ligand name:5-Fluorouracil
+ligand smiles:C1=C(C(=O)NC(=O)N1)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;3.2
+K;
+Ka;
+Kb;2500.0
+ΔH;-0.73
+ΔS;62.6
+ΔG;-19.4
+Cp;
+Kd;400.0
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:Studies on the interaction of antibiotics with human serum albumin by spectroscopic and electrochemical methods
+DOI:10.13526/j.issn.1006-6144.2014.02.021
+ligand name:CPZ
+ligand smiles:CCN1CCN(C(=O)C1=O)C(=O)N[C@H](C2=CC=C(C=C2)O)C(=O)N[C@H]3[C@@H]4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)[O-].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;318;328;
+KSV;2.20*10^4;1.93*10^4;1.60*10^4;
+kq;2.20*10^12;1.93*10^12;1.60*10^12;
+n;0.96;0.99;0.97;
+K;
+Ka;1.38*10^4;1.21*10^4;1.19*10^4;
+Kb;
+ΔH;-17.03;-17.03;-17.03;
+ΔS;17.88;22.86;24.47;
+ΔG;-22.36;-24.07;-24.81;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;298;318;328;
+J;1.50*10^-14;1.19*10^-14;0.73*10^-14;
+E;0.1781;0.1571;0.1114;
+R0;2.62;2.52;2.32;
+r;3.38;3.33;3.28;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

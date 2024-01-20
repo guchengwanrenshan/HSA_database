@@ -1,0 +1,95 @@
+Title:Recreational drugs 25I-NBOH and 25I-NBOMe bind to both Sudlow′s sites I and II of human serum albumin (HSA): biophysical and molecular modeling studies
+DOI:10.1039/d1nj00806d
+ligand name:25I-NBOMe
+ligand smiles:COC1=CC(I)=C(OC)C=C1CCNCC1=C(OC)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;1.07*10^4;0.98*10^4;0.71*10^4;
+kq;1.07*10^12;0.98*10^12;0.71*10^12;
+n;1.16;1.12;1.07;
+K;
+Ka;
+Kb;3.95*10^4;2.54*10^4;1.79*10^4;
+ΔH;-43.20;-43.20;-43.20;
+ΔS;-58.00;-58.00;-58.00;
+ΔG;-26.03;-25.63;-25.22;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.13*10^-16;6.73*10^-16;5.94*10^-16;
+E;0.0524;0.0916;0.144;
+R0;1.76;1.82;1.89;
+r;2.75;2.58;2.49;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Investigations on the interactions between naphthalimide-based anti-tumor drugs and human serum albumin by spectroscopic and molecular modeling methods
+DOI:10.1002/bio.2928
+ligand name:NADC
+ligand smiles:CN(C)CCN1C(=O)C2=CC=C(NCC3=CC=CS3)C3=CC=CC(C1=O)=C23
+key residue(hbond):Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;7.736*10^4;7.524*10^4;6.911*10^4;6.649*10^4;
+kq;7.736*10^12;7.524*10^12;6.911*10^12;6.649*10^12;
+n;
+K;
+Ka;
+Kb;2.236*10^5;1.924*10^5;1,734*10^5;1,545*10^5;
+ΔH;-15.22;-15.22;-15.22;-15.22;
+ΔS;50.20;50.20;50.20;50.20;
+ΔG;-29.88;-30.18;-30.48;-30.78;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Interactions between epinastine and human serum albumin: Investigation by fluorescence;UV-vis;FT-IR;CD;lifetime measurement and molecular docking
+DOI:10.1016/j.molstruc.2016.12.066
+ligand name:epinastine
+ligand smiles:C1C2C3=CC=CC=C3CC4=CC=CC=C4N2C(=N1)N
+key residue(hbond):
+key residue(hydrophobic): Lys195;Leu198;Ser202;Trp214;Val344;Val455;Leu481 d
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.47*10^4;1.13*10^4;0.95*10^4;
+kq;1.46*10^12;1.13*10^12;0.95*10^12;
+n;1.10;1.09;1.04;
+K;
+Ka;
+Kb;4.07*10^4;2.72*10^4;1.35*10^4;
+ΔH;;-40.56;;
+ΔS;;-52.13;;
+ΔG;;-25.03;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.513*10^-14;
+E;0.069;
+R0;3.24;
+r;4.33;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

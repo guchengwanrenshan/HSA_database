@@ -1,0 +1,69 @@
+Title:Spectroscopic and molecular docking investigation of the binding of a bioactive mercaptobenzimidazole-functionalized Schiff base to human serum albumin
+DOI:10.1007/s11696-021-01585-z
+ligand name: (E)-5-(((2-hydroxynaphthalen-1-yl)methylene)amino)-1 H-benzo[d]imidazole-2(3 H)-thione
+ligand smiles:OC1=CC=C2C=CC=CC2=C1\C=N\C1=CC2=C(NC(=S)N2)C=C1
+key residue(hbond):Asp451 d
+key residue(hydrophobic):Trp214;Leu198;Phe211;Ala210;Leu203;Val344;Leu481;Val482;Leu347;Phe206 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;305.0
+KSV;21100.0;16400.0;10400.0
+kq;2110000000000.0;1640000000000.0;1040000000000.0
+n;0.78;0.69;0.89
+K;
+Ka;
+Kb;27100.0;23100.0;20800.0
+ΔH;-19.92;-19.92;-19.92
+ΔS;58.6;58.6;58.6
+ΔG;-24.85;-24.95;-25.21
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

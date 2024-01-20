@@ -1,0 +1,69 @@
+Title:Interactions of acidic pharmaceuticals with human serum albumin: insights into the molecular toxicity of emerging pollutants
+DOI:10.1007/s00726-012-1215-0
+ligand name:ketoprofen
+ligand smiles:CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;309.5
+KSV;570000.0
+kq;57000000000000.0
+n;
+K;
+Ka;136000.0
+Kb;13086.4;12358.0;11190.0
+ΔH;-10.5;-10.5;-10.5
+ΔS;43.6;43.6;43.6
+ΔG;-24.0;-23.75;-23.5
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

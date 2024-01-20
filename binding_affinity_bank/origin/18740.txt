@@ -1,0 +1,90 @@
+Title:Study on the interactions of Chinese medicine component deoxyschizandrin and its metal ion complexes with serum albumin
+DOI:None
+ligand name:deoxyschizandrin
+ligand smiles:C[C@@H]1CC2=CC(=C(C(=C2C3=C(C(=C(C=C3C[C@@H]1C)OC)OC)OC)OC)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;5.93*10^4;4.80*10^4;3.68*10^4;
+kq;
+n;1.11;1.03;0.944;
+K;
+Ka;3.52*10^5;4.35*10^5;5.93*10^5;
+Kb;2.33*10^5;0.914*10^5;0.358*10^5;
+ΔH;-142.7;-142.7;-142.7;
+ΔS;-376.2;-376.2;-376.2;
+ΔG;-30.60;-28.76;-26.84;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.18*10^-15;
+E;0.130;
+R0;1.19;
+r;1.63;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Probing the binding of bicyclol and human serum albumin by multispectral technologies and molecular docking method
+DOI:10.1007/s10953-019-00927-6
+ligand name:Bicyclol
+ligand smiles:COC1=C2C(=C(C(=C1)CO)C3=C4C(=C(C=C3C(=O)OC)OC)OCO4)OCO2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomian IIIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;1.88*10^4;1.68*10^4;1.57*10^4;
+kq;1.88*10^12;1.68*10^12;1.57*10^12;
+n;1.118;1.20;1.21;
+K;
+Ka;
+Kb;9.11*10^4;10.07*10^4;9.92*10^4;
+ΔH;-19.07;-19.07;-19.07;
+ΔS;27.17;27.17;27.17;
+ΔG;-22.76;-22.82;-22.91;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.4438*10^-12;
+E;0.41;
+R0;5.61;
+r;5.96;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

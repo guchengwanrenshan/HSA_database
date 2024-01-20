@@ -1,0 +1,95 @@
+Title:The cocrystal of 3-((4-(3-isocyanobenzyl) piperazine-1-yl) methyl) benzonitrile with 5-hydroxy isophthalic acid prevents protofibril formation of serum albumin
+DOI:10.1080/07391102.2020.1815585
+ligand name:SS3
+ligand smiles:N#CC1=CC(C[N@H+]2CC[N@H+](CC3=CC=CC(=C3)C#N)CC2)=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;5.8*10^5;
+kq;
+n;1.05;
+K;
+Ka;
+Kb;5.8*10^5;
+ΔH;
+ΔS;
+ΔG;-33.0536;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

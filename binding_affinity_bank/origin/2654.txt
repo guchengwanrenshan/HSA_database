@@ -1,0 +1,95 @@
+Title:The study on the interaction between human serum albumin and a new reagent with antitumor activity by spectrophotometric methods
+DOI:10.1016/j.jphotochem.2004.05.017
+ligand name:2-hydroxy-3-nitro-9-fluorenone
+ligand smiles:OC1=CC2=C(C=C1[N+]([O-])=O)C1=C(C=CC=C1)C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;310;320;
+KSV;
+kq;
+n;1.1;1.0;1.0;
+K;
+Ka;
+Kb;6.08*10^5;3.80*10^5;2.79*10^5;
+ΔH;-31.10;-31.10;-31.10;
+ΔS;6.87;6.87;6.87;
+ΔG;-33.16;-33.23;-33.30;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.3368*10^-15;
+E;0.2386;
+R0;2.21;
+r;2.68;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

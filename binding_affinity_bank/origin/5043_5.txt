@@ -1,0 +1,95 @@
+Title:Investigation of the interaction between isomeric derivatives and human serum albumin by fluorescence spectroscopy and molecular modeling
+DOI:10.1016/j.jlumin.2014.04.001
+ligand name:1h
+ligand smiles:FC1=CC=C(C=C1)C1=CC2=C(N1)C(=O)C1=C2C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;322;
+KSV;1.04*10^4;0.91*10^4;
+kq;1.04*10^12;0.91*10^12;
+n;0.8648;0.6964;
+K;
+Ka;
+Kb;0.21*10^4;0.0476*10^4;
+ΔH;-55.09;-55.09;
+ΔS;-119.85;-119.85;
+ΔG;-19.13;-16.4983;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

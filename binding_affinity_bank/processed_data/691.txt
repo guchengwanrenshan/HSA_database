@@ -1,0 +1,69 @@
+Title:Unveiling the interaction mechanism of alogliptin benzoate with human serum albumin: Insights from spectroscopy, microcalorimetry, and molecular docking and molecular dynamics analyses
+DOI:10.1016/j.saa.2020.119040
+ligand name:alogliptin benzoate (AB)
+ligand smiles:CN1C(=O)C=C(N(C1=O)CC2=CC=CC=C2C#N)N3CCC[C@H](C3)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;23510.0;22890.0;21790.0
+kq;2351000000000.0;2289000000000.0;2179000000000.0
+n;
+K;
+Ka;39800.0;22900.0
+Kb;
+ΔH;-87.2;-87.2;-87.2
+ΔS;-198.2;-198.2;-198.2
+ΔG;-29.1;-26.9;-25.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;39200.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

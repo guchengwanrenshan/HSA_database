@@ -1,0 +1,95 @@
+Title:Computational and spectroscopic analysis of interaction between food colorant citrus red 2 and human serum albumin
+DOI:10.1038/s41598-018-38240-9
+ligand name: citrus red 2
+ligand smiles: COC1=CC(=C(C=C1)OC)N=NC2=C(C=CC3=CC=CC=C32)O  
+key residue(hbond):Arg197 d
+key residue(hydrophobic):Gln29;Gln196;Ser193;Tyr148;Tyr150;Gly248;Lys106;Phe149;Leu250;Cys200;Cys245;Cys246 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;1.26*10^5;1.11*10^5;1.00*10^5;
+kq;
+n;1.00;0.99;1.03;
+K;
+Ka;1.14*10^5;1.03*10^5;0.85*10^5;
+Kb;
+ΔH;-18.75;-18.75;-18.75;
+ΔS;33.92;33.92;33.92;
+ΔG;-28.88;-29.09;-29.25;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

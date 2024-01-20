@@ -1,0 +1,69 @@
+Title:Thermodynamic and kinetic insights into the interaction of kynurenic acid with human serum albumin: Spectroscopic and calorimetric approaches
+DOI:10.1016/j.molliq.2020.112869
+ligand name:kynurenic acid
+ligand smiles:C1=CC=C2C(=C1)C(=O)C=C(N2)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;303.15;310.15;313.15
+KSV;41900.0
+kq;41900000000000.0
+n;1.39;1.54;0.99;1.27
+K;
+Ka;
+Kb;52000.0;17400.0;19600.0;32600.0
+ΔH;-22.521;-22.521;-22.521;-22.521
+ΔS;11.4184;11.4184;11.4184;11.4184
+ΔG;-25.9254;-25.9825;-26.0625;-26.0967
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.15;303.15;310.15;313.15
+n;
+K;
+Ka;
+Kb;7570.0;3380.0;3210.0;6200.0
+ΔH;-14.1332;-14.1332;-14.1332;-14.1332
+ΔS;24.2046;24.2046;24.2046;24.2046
+ΔG;-21.3499;-21.4709;-21.6403;-21.7129
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

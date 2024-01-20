@@ -1,0 +1,95 @@
+Title:Exploring the site-selective binding of jatrorrhizine to human serum albumin: Spectroscopic and molecular modeling approaches
+DOI:10.1016/j.saa.2013.08.013
+ligand name:jatrorrhizine
+ligand smiles:COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site II (subdomain IIIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;5.964*10^4;5.792*10^4;5.629*10^4;
+kq;
+n;0.92;0.96;1.00;
+K;
+Ka;7.975*10^4;7.625*10^4;7.264*10^4;
+Kb;6.776*10^4;6.009*10^4;5.514*10^4;
+ΔH;-5.97;-5.97;-5.97;
+ΔS;73.83;73.83;73.83;
+ΔG;-27.98;-28.42;-28.86;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

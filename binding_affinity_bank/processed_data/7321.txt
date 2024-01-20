@@ -1,0 +1,69 @@
+Title:Comparative study of the bindings between 3-phenyl-1H-indazole and five proteins by isothermal titration calorimetry, spectroscopy and docking methods
+DOI:10.1080/07391102.2018.1554511
+ligand name:1a
+ligand smiles:N1N=C(C2=C1C=CC=C2)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.94
+K;
+Ka;
+Kb;151000.0
+ΔH;-2.6765
+ΔS;89.956
+ΔG;-29.4554
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

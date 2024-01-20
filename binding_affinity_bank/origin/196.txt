@@ -1,0 +1,97 @@
+Title:Study of conformational and functional changes caused by binding of environmental pollutant tonalide to human serum albumin
+DOI:10.1016/j.chemosphere.2020.129431
+ligand name:tonalide
+ligand smiles:CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C  
+key residue(hbond):
+key residue(hydrophobic):Trp214;Arg218;Leu238;Ser287;Ile264;Ile290;Ala261;Leu260;Arg257;Ala291;Lys199;His242 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;4.09*10^4;3.81*10^4;3.55*10^4;
+kq;4.09*10^12;3.81*10^12;3.55*10^12;
+n;0.84;0.90;0.94;
+K;
+Ka;0.68*10^4;1.23*10^4;1.79*10^4;
+Kb;
+ΔH;62.02;62.02;62.02;
+ΔS;281.74;281.74;281.74;
+ΔG;-21.86;-21.86;-21.86;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;17.58;105;6327.96;60.42
+1:2;;17.52;125;6305.28;50.34
+1:4;;17.53;149;6314.4;42.27
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Investigation of interaction between human serum albumin and N6-(2-hydroxyethyl)-adenosine by fluorescence spectroscopy and molecular modelling
+DOI:10.1002/bio.999
+ligand name:N6-(2-hydroxyethyl)-adenosine
+ligand smiles:C1=NC(=C2C(=N1)N(C=N2)[C@H]3C([C@H]([C@H](O3)CO)O)O)NCCO  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;4.14*10^4;3.75*10^4;3.61*10^4;
+kq;4.14*10^12;3.75*10^12;3.61*10^12;
+n;0.81;0.84;1.02;
+K;
+Ka;6.38*10^4;5.17*10^4;3.54*10^4;
+Kb;6.89*10^4;5.77*10^4;3.64*10^4;
+ΔH;-24.05;-24.05;-24.05;
+ΔS;30.23;30.23;30.23;
+ΔG;-26.86;-27.34;-27.87;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Disaggregation-induced ESIPT: a novel approach towards development of sensors for hyperglycemic condition
+DOI:10.1039/c8nj05756g
+ligand name:ONIP1 
+ligand smiles:OC1=C(C2NC3=C(O2)C2=C(NC4=[N+]2C=CC=C4)C2=C3C=CC=C2)C2=CC=CC=C2C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;225nm;225nm;225nm;225nm;
+pH;
+T;282.0;288.0;298.0;308.0
+KSV;68000.0;63000.0;55000.0;51000.0
+kq;68000000000000.0;63000000000000.0;55000000000000.0;51000000000000.0
+n;1.0;1.0;0.98;0.98
+K;
+Ka;
+Kb;69000.0;62000.0;46000.0;41000.0
+ΔH;-15.27;-15.27;-15.27;-15.27
+ΔS;38.46;38.46;38.46;38.46
+ΔG;-26.12;-26.42;-26.59;-27.2
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

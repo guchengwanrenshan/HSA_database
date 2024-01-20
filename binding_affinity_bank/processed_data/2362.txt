@@ -1,0 +1,69 @@
+Title:Characterization of the interaction between acotiamide hydrochloride and human serum albumin: 1H STD NMR spectroscopy, electrochemical measurement, and docking investigations
+DOI:10.1039/c6ra08310b
+ligand name:Z-338
+ligand smiles:CC(C)N(CCNC(=O)C1=CSC(=N1)NC(=O)C2=CC(=C(C=C2O)OC)OC)C(C)C
+key residue(hbond):Leu430;Tyr411 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;305.0;310.0
+KSV;
+kq;
+n;0.991;0.987;0.954
+K;
+Ka;
+Kb;29850.0;18880.0;11250.0
+ΔH;
+ΔS;
+ΔG;-25.61;-24.76;-24.16
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

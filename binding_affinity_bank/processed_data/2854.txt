@@ -1,0 +1,69 @@
+Title:Application of molecular modelling and spectroscopic approaches for investigating binding of vanillin to human serum albumin
+DOI:10.1016/j.foodchem.2010.12.128
+ligand name:vanillin
+ligand smiles:COC1=C(C=CC(=C1)C=O)O
+key residue(hbond):Arg222;Arg222;His242 d
+key residue(hydrophobic):Leu219;Leu238;Glu292;Phe223;Val241 d
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0;318.0
+KSV;
+kq;
+n;1.1;1.1;1.3;1.5
+K;
+Ka;
+Kb;88000.0;77000.0;57000.0;42000.0
+ΔH;-20.0;-20.0;-20.0;-20.0
+ΔS;5.8;5.8;5.8;5.8
+ΔG;-21.6704;-21.7284;-21.7864;-21.8444
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

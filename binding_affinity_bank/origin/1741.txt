@@ -1,0 +1,105 @@
+Title:Alterations in the conformation and function of human serum albumin induced by the binding of methyl hydrogen phthalate
+DOI:10.1016/j.saa.2022.121335
+ligand name:Methyl hydrogen phthalate
+ligand smiles:COC(=O)C1=CC=CC=C1C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;9.638*10^3;8.896*10^3;8.049*10^3;7.299*10^3;
+kq;1.549*10^12;1.430*10^12;1.294*10^12;1.173*10^12;
+n;1.008;1.010;0.984;0.968;
+K;
+Ka;1.539*10^4;1.136*10^4;0.729*10^4;0.508*10^4;
+Kb;
+ΔH;-59.516;-59.516;-59.516;-59.516;
+ΔS;-120.036;-120.036;-120.036;-120.036;
+ΔG;-24.345;-23.745;-23.145;-22.545;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Tyr30;0.163;0.17;0.007;
+Tyr84;0.708;0.377;-0.331;
+Tyr140;0.048;0.052;0.004;
+Tyr150;0.208;0.236;0.028;
+Tyr161;0.083;0.066;-0.017;
+Tyr263;0.765;0.841;0.076;
+Trp214;0.569;0.511;-0.058;
+Phe206;0.718;0.443;-0.275;
+Phe211;0.139;0.091;-0.048;
+Phe223;0.039;0.046;0.007;
+Phe228;0.425;0.428;0.003;
+
+
+
+

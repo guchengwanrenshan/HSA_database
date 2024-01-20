@@ -1,0 +1,95 @@
+Title:A study of the binding of C.I. Direct Yellow 9 to human serum albumin using optical spectroscopy and molecular modeling
+DOI:10.1016/j.dyepig.2008.02.008
+ligand name:C.I. Direct Yellow 9
+ligand smiles:CC1=C(C2=C(C=C1)N=C(S2)C3=CC=C(C=C3)NN=NC4=CC=C(C=C4)C5=NC6=C(S5)C(=C(C=C6)C)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;
+kq;
+n;1.01;1.04;1.06;1.09;
+K;
+Ka;
+Kb;1.17*10^5;1.01*10^5;0.88*10^5;0.78*10^5;
+ΔH;-14.27;-14.27;-14.27;-14.27;
+ΔS;47.62;47.62;47.62;47.62;
+ΔG;-28.03;-28.37;-28.70;-29.03;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.53034*10^-14;
+E;0.34;
+R0;3.26;
+r;3.64;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

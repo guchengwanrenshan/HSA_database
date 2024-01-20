@@ -1,0 +1,69 @@
+Title:Stereo-selectivity of human serum albumin to enantiomeric and isoelectronic pollutants dissected by spectroscopy, calorimetry and bioinformatics
+DOI:10.1371/journal.pone.0026186
+ligand name:2-naphthol
+ligand smiles:C1=CC=C2C=C(C=CC2=C1)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I;site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;318.0
+KSV;0.835;1.007;1.082
+kq;14600.0;11300.0;9500.0
+n;
+K;
+Ka;2600.0;12200.0;21900.0
+Kb;3390000000000.0;2620000000000.0;2200000000000.0
+ΔH;84.9352;84.9352;84.9352
+ΔS;350.9958;350.9958;350.9958
+ΔG;-19.4556;-24.2254;-26.401
+Kd;
+
+
+#ITC#
+parameter;siteI;siteI;siteI;siteI;siteII;siteII;siteII;siteII;
+pH;
+T;288.0;298.0;310.0;318.0;288.0;298.0;310.0;318.0
+n;
+K;
+Ka;
+Kb;104000.0;39600.0;46600.0;13800.0;724.0;440.0;183.0;677.0
+ΔH;-34.267;-44.183;-48.911;-60.0822;-111.3781;-203.0914;-270.2027;-350.0334
+ΔS;-22.8086;-60.2328;-68.1587;-109.5997;-332.105;-630.9697;-828.432;-1046.6579
+ΔG;-27.6562;-26.1918;-27.7399;-25.1877;-15.7318;-15.0624;-13.3888;-17.1962
+Cp;-793.2864;-793.2864;-793.2864;-793.2864;-7626.1768;-7626.1768;-7626.1768;-7626.1768
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

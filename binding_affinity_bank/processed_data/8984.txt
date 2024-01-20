@@ -1,0 +1,69 @@
+Title:Studies on the interaction between scopoletin and two serum albumins by spectroscopic methods
+DOI:10.1016/j.jlumin.2012.05.032
+ligand name:scopoletin
+ligand smiles:COC1=C(C=C2C(=C1)C=CC(=O)O2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;304.0;310.0
+KSV;229600.0;213000.0;182800.0;152600.0
+kq;22960000000000.0;21300000000000.0;18280000000000.0;15260000000000.0
+n;1.02;1.02;1.02;1.02
+K;
+Ka;
+Kb;284000.0;259000.0;222000.0;183000.0
+ΔH;-19.61;-19.61;-19.61;-19.61
+ΔS;37.67;37.67;37.67;37.67
+ΔG;-30.642;-30.831;-31.057;-31.283
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

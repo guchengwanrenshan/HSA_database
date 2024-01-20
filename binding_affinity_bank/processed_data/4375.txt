@@ -1,0 +1,69 @@
+Title:Effect of surfactants on interaction of baicalin and human serum albumin
+DOI:10.3969/j.issn.1008-0805.2010.11.023
+ligand name:Baicalin
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;299.0;309.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;128000.0;91000.0
+ΔH;-26.2;-26.2
+ΔS;10.1;10.1
+ΔG;-23.2;-23.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

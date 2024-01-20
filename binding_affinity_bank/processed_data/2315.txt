@@ -1,0 +1,69 @@
+Title:Synthesis of Triphenylethylene-Naphthalimide Conjugates as topoisomerase-II α inhibitor and HSA binder
+DOI:10.1002/cmdc.202100034
+ligand name:7
+ligand smiles:C\C(=C(/C1=CC=CC=C1)C1=CC=C(C=C1)N1C(=O)C2=CC=CC3=C(C=CC(C1=O)=C23)N1CCOCC1)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;68000.0
+kq;16000000000000.0
+n;1.269
+K;
+Ka;
+Kb;14000.0
+ΔH;
+ΔS;
+ΔG;-35.1456
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

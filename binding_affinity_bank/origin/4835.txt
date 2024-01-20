@@ -1,0 +1,95 @@
+Title:Interaction Between Ginkgolic Acid and Human Serum Albumin by Spectroscopy and Molecular Modeling Methods
+DOI:10.1007/s10953-014-0200-5
+ligand name:Ginkgolic Acid
+ligand smiles:CCCCCC/C=C\CCCCCCCC1=C(C(=CC=C1)O)C(=O)O
+key residue(hbond):His146;Asp108 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;305;308;313;
+KSV;2.67*10^5;2.27*10^5;1.58*10^5;1.40*10^5;
+kq;4.73*10^13;4.05*10^13;2.82*10^13;2.50*10^13;
+n;0.92;0.91;0.93;0.93;
+K;
+Ka;
+Kb;3.57*10^5;3.07*10^5;2.44*10^5;2.11*10^5;
+ΔH;-28.26;-28.26;-28.26;-28.26;
+ΔS;11.55;11.55;11.55;11.55;
+ΔG;-31.70;-31.76;-31.82;-31.88;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

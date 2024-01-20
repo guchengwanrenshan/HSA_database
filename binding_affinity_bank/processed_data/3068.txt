@@ -1,0 +1,69 @@
+Title:Study on the Binding of Methylphenanthrene Isomers with Different Methylated Positions to Human Serum Albumin Employing Spectroscopic Techniques Combined with Molecular Docking
+DOI:10.1080/10406638.2020.1852280
+ligand name:1-MP
+ligand smiles:CC1=C2C=CC3=CC=CC=C3C2=CC=C1 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA); site III(subdomain IB)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;318.0
+KSV;441000.0;323000.0;242000.0
+kq;68900000000000.0;50400000000000.0;37800000000000.0
+n;0.8;0.78;0.76
+K;
+Ka;
+Kb;28200.0;14600.0;9070.0
+ΔH;-44.71;-44.71;-44.71
+ΔS;-65.05;-65.05;-65.05
+ΔG;-25.39;-24.55;-24.09
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,97 @@
+Title:Exploring the binding mechanism and adverse toxic effects of persistent organic pollutant (dicofol) to human serum albumin: A biophysical, biochemical and computational approach
+DOI:10.1016/j.cbi.2021.109707
+ligand name:dicofol
+ligand smiles:C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)(C(Cl)(Cl)Cl)O)Cl  
+key residue(hbond):LSY195;LSY199(Site I) d
+key residue(hydrophobic):LEU198(Site I);PRO447;VAL445;TYR452;CYC448;ASP451(Site II) d
+PDB ID:
+Binding Area:Site I, Site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;1.37*10^4;1.25*10^4;1.18*10^4;
+kq;1.37*10^12;1.25*10^12;1.18*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;4.38*10^4;
+ΔH;-5.42;
+ΔS;70.738;
+ΔG;-26.5;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;4.4*10^-1;265.03;2.97*10^-2;112.07
+1:3;;4.15*10^-1;270.76;2.77*10^-2;102.30
+1:6;;3.63*10^-1;274.7;2.42*10^-2;88.32
+1:9;;3.34*10^-1;282.12;2.22*10^-2;78.91
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Structural analysis and binding domain of albumin complexes with natural dietary supplement humic acid
+DOI:10.1016/j.jlumin.2011.06.005
+ligand name:humic acid
+ligand smiles:C1C2C=CC1C(C2C(=O)O)(C(=O)O)[N+](=O)[O-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;6.192*10^4;5.702*10^4;5.065*10^4;4.515*10^4;
+kq;6.192*10^12;5.702*10^12;5.065*10^12;4.515*10^12;
+n;0.88;0.85;0.82;0.81;
+K;3.055*10^4;2.133*10^4;1.175*10^4;1.019*10^4;
+Ka;1.389*10^4;1.094*10^4;0.6045*10^4;0.4278*10^4;
+Kb;1.531*10^4;1.012*10^4;0.6531*10^4;0.507*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

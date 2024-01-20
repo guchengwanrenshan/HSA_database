@@ -1,0 +1,69 @@
+Title:Insights in to the mechanism of interaction of a thrombin inhibitor, dabigatran etexilate with human serum albumin and influence of β-cyclodextrin on binding: Spectroscopic and computational approach
+DOI:10.1016/j.molliq.2017.12.056
+ligand name:dabigatran
+ligand smiles:CN1C2=C(C=C(C=C2)C(=O)N(CCC(=O)O)C3=CC=CC=N3)N=C1CNC4=CC=C(C=C4)C(=N)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;22100.0;15500.0;12600.0
+kq;
+n;1.02;1.03;1.03
+K;
+Ka;
+Kb;5730.0;3380.0;1200.0
+ΔH;275.3;275.3;275.3
+ΔS;-852.62;-852.62;-852.62
+ΔG;-21.44;-16.42;-12.84
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

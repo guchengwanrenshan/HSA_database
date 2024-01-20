@@ -1,0 +1,95 @@
+Title:Interactions of acidic pharmaceuticals with human serum albumin: insights into the molecular toxicity of emerging pollutants
+DOI:10.1007/s00726-012-1215-0
+ligand name:Diclofenac
+ligand smiles:C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;309.5;
+KSV;2.1*10^6;;;
+kq;2.1*10^14;;;
+n;
+K;
+Ka;9.25*10^5;;;
+Kb;37114.2;35209;33619;
+ΔH;-6.6;-6.6;-6.6;
+ΔS;65.5;65.5;65.5;
+ΔG;-26.8;-26.5;-26.1;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,90 @@
+Title:Study on the binding of novel antitumor drug Ethaselen to bovine serum albumin
+DOI:None
+ligand name:Ethaselen
+ligand smiles:C1=CC=C2C(=C1)C(=O)N([Se]2)CCN3C(=O)C4=CC=CC=C4[Se]3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;9.20*10^4;9.01*10^4;8.47*10^4;
+kq;9.20*10^12;9.01*10^12;8.47*10^12;
+n;0.82;0.88;0.97;
+K;
+Ka;
+Kb;1.5*10^4;2.7*10^4;6.2*10^4;
+ΔH;78.5;78.5;78.5;
+ΔS;344.1;344.1;344.1;
+ΔG;-23.3536;-25.7623;-28.1710;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

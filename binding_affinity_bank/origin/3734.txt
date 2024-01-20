@@ -1,0 +1,95 @@
+Title:Studies on the interaction between promethazine and human serum albumin in the presence of flavonoids by spectroscopic and molecular modeling techniques
+DOI:10.1016/j.colsurfb.2016.06.001
+ligand name:promethazine
+ligand smiles:CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C  
+key residue(hbond):Trp214 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;294;302;310;
+KSV;6.378*10^3;6.196*10^3;6.049*10^3;
+kq;1.063*10^12;1.033*10^12;1.008*10^12;
+n;
+K;
+Ka;
+Kb;1.957*10^4;1.784*10^4;1.567*10^4;
+ΔH;-10.51;-10.51;-10.51;
+ΔS;46.48;46.48;46.48;
+ΔG;-24.15;-24.58;-24.90;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.446*10^-16;
+E;0.3952;
+R0;1.459;
+r;1.567;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

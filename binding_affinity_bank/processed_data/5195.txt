@@ -1,0 +1,69 @@
+Title:Multi-spectroscopic studies on the interaction of human serum albumin with astilbin: Binding characteristics and structural analysis
+DOI:10.1016/j.jlumin.2012.12.004
+ligand name:Astilbin 
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;301.0;311.0
+KSV;17500.0;16900.0;16400.0
+kq;1750000000000.0;1690000000000.0;1640000000000.0
+n;0.94;0.96;0.99
+K;
+Ka;
+Kb;24000.0;21300.0;17400.0
+ΔH;-12.94;-12.94;-12.94
+ΔS;35.92;35.92;35.92
+ΔG;-24.44;-24.83;-25.23
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

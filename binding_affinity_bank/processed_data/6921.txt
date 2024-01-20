@@ -1,0 +1,69 @@
+Title:The influence of CdTe/CdS QDs on the binding affinities of vicenin-2 for HSA
+DOI:None
+ligand name:vicenin-2
+ligand smiles:C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;99000.0
+kq;
+n;1.02
+K;
+Ka;
+Kb;1100000.0
+ΔH;
+ΔS;
+ΔG;-34.4651
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

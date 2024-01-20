@@ -1,0 +1,69 @@
+Title:Characterization of the binding of a novel antitumor drug ibrutinib with human serum albumin: Insights from spectroscopic, calorimetric and docking studies
+DOI:10.1016/j.jphotobiol.2018.05.008
+ligand name:Ibrutinib
+ligand smiles:C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;21300.0;17000.0;14700.0
+kq;
+n;1.01;0.98;0.94
+K;
+Ka;21900.0;19700.0;16800.0
+Kb;24300.0;12900.0;7200.0
+ΔH;-16.91;-16.91;-16.91
+ΔS;26.44;26.44;26.44
+ΔG;-24.77;-25.0;-25.09
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.7
+K;
+Ka;
+Kb;76400.0
+ΔH;-14.15
+ΔS;49.81
+ΔG;-29.003
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

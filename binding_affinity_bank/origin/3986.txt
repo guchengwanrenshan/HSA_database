@@ -1,0 +1,95 @@
+Title:Study on the interaction between human serum albumin and a novel bioactive acridine derivative using optical spectroscopy
+DOI:10.1002/bio.1201
+ligand name:N-(ACR-4-CA)-α-ALA
+ligand smiles:CN(C)CCNC(=O)C1=CC=CC2=C(NCCC(O)=O)C3=C(C=CC=C3)N=C12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;308;
+KSV;2.84*10^5;2.03*10^5;1.84*10^5;
+kq;5.86*10^13;4.06*10^13;3.68*10^13;
+n;0.88;0.87;0.85;
+K;
+Ka;
+Kb;3.4*10^4;2.4*10^4;2.1*10^4;
+ΔH;-10.17;-10.17;-10.17;
+ΔS;10.58;10.58;10.58;
+ΔG;-13.27;-13.37;-13.43;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.512*10^-15;
+E;0.1755;
+R0;2.38;
+r;3.08;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

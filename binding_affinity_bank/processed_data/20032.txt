@@ -1,0 +1,69 @@
+Title:Determination of naproxen with flow injection chemiluminescence of Ru(bpy)3 2+-PbO2 system and its application for the binding study of naproxen to protein
+DOI:10.1016/j.aca.2005.04.060
+ligand name:Naproxen
+ligand smiles:C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;1.22
+K;
+Ka;
+Kb;4800000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

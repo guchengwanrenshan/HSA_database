@@ -1,0 +1,93 @@
+Title:Molecular structure-affinity relationship of bufadienolides and human serum albumin in vitro and molecular docking analysis
+DOI:10.1371/journal.pone.0126669
+ligand name:arenobufagin
+ligand smiles:C[C@]12CC[C@@H](C[C@H]1CC[C@@H]3[C@@H]2[C@@H](C(=O)[C@]4([C@@]3(CC[C@@H]4C5=COC(=O)C=C5)O)C)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;310;
+KSV;8.97*10^3;8.84*10^3;8.43*10^3;
+kq;8.97*10^11;8.84*10^11;8.43*10^11;
+n;1.2;1.1;1.1;
+K;
+Ka;
+Kb;6.55*10^4;3.77*10^4;2.36*10^4;
+ΔH;-254.56;-254.56;-254.56;
+ΔS;-103.33;-103.33;-103.33;
+ΔG;-27.48;-26.46;-25.96;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

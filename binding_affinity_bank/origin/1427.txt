@@ -1,0 +1,95 @@
+Title:Assessment on the binding characteristics of residual marbofloxacin in animal-derived food to bovine/human serum albumin by spectroscopy and molecular modelling
+DOI:10.1002/bio.4022
+ligand name:Marbofloxacin 
+ligand smiles:CN1CCN(CC1)C2=C(C=C3C4=C2OCN(N4C=C(C3=O)C(=O)O)C)F 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;301;311;
+KSV;0.69*10^4;0.66*10^4;0.59*10^4;
+kq;5.40*10^11;5.16*10^11;4.63*10^11;
+n;0.94;0.99;0.96;
+K;
+Ka;0.97*10^4;0.76*10^4;0.66*10^4;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

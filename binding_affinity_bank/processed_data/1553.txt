@@ -1,0 +1,69 @@
+Title:A combined computational/experimental study on HSA binding of two water-soluble Schiff base ligands derived from pyridine derivative and ethylendiamine
+DOI:10.1080/07391102.2018.1436091
+ligand name:PE
+ligand smiles:C(C\N=C\C1=CC=NC=C1)\N=C\C1=CC=NC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB in site III d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;42000.0;54000.0;55000.0
+kq;4200000000000.0;5400000000000.0;5500000000000.0
+n;1.3;1.2;0.98
+K;
+Ka;
+Kb;21000.0;36000.0
+ΔH;37.8;37.8;37.8
+ΔS;206.0;206.0;206.0
+ΔG;-24.3;-25.5;-27.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Multispectral and molecular modeling investigations on the binding behaviors of two anticoccidials with serum albumins
+DOI:10.1080/07391102.2021.1886173
+ligand name:Clopidol
+ligand smiles:CC1=C(C(=O)C(=C(N1)C)Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;301;311;
+KSV;
+kq;1.36*10^12;1.26*10^12;1.11*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;-28.11;;;
+ΔS;-10.93;;;
+ΔG;-24.93;;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.38*10^-16;
+E;0.169;
+R0;1.55;
+r;2.02;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Effect of Kolavenic acid on the structure of human serum albumin
+DOI:None
+ligand name:Kolavenic acid
+ligand smiles:C[C@@H]1CC[C@@]2([C@@H]([C@@]1(C)CC/C(=C/C(=O)O)/C)CCC=C2C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4
+T;298.0;308.0;318.0
+KSV;9630.0;10670.0;11800.0
+kq;
+n;0.87;0.85;0.7
+K;
+Ka;
+Kb;16420.0;19860.0;36500.0
+ΔH;8.003;8.003;8.003
+ΔS;103.112;103.112;103.112
+ΔG;-22.724;-23.755;-24.787
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Binding of hydroxylated polybrominated diphenyl ethers with human serum albumin: Spectroscopic characterization and molecular modeling
+DOI:10.1002/bio.3280
+ligand name:5-OH-BDE-47
+ligand smiles:OC1=C(Br)C=C(Br)C(OC2=CC=C(Br)C=C2Br)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;298;310;
+KSV;0.98*10^7;1.39*10^7;1.82*10^7;
+kq;0.98*10^15;1.39*10^15;1.82*10^15;
+n;1.14;0.98;0.99;
+K;
+Ka;0.32*10^7;0.96*10^7;1.73*10^7;
+Kb;
+ΔH;61.20;61.20;61.20;
+ΔS;336.87;336.87;336.87;
+ΔG;-36.13;-39.84;-42.95;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.87*10^-14;
+E;0.31;
+R0;3.32;
+r;3.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

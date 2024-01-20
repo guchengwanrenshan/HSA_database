@@ -1,0 +1,69 @@
+Title:Interaction of fungal lipase with potential phytotherapeutics
+DOI:10.1371/journal.pone.0264460
+ligand name:carvacrol
+ligand smiles:CC1=C(C=C(C=C1)C(C)C)O
+key residue(hbond):Asp108 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;2330.0
+kq;2330000000000.0
+n;1.29
+K;
+Ka;22000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

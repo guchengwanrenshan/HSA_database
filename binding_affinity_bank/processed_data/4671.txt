@@ -1,0 +1,69 @@
+Title:Excited state intermolecular proton and energy transfer of 1-hydroxypyrene interacting with the human serum albumin protein
+DOI:10.1016/j.jphotochem.2011.10.024
+ligand name:1-hydroxypyrene
+ligand smiles:C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0
+KSV;
+kq;
+n;
+K;1840000.0
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-35.1456
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

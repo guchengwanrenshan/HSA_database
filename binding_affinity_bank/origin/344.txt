@@ -1,0 +1,95 @@
+Title:Unravelling the binding mechanism and protein stability of human serum albumin while interacting with nefopam analogues: a biophysical and in silico approach
+DOI:10.1080/07391102.2016.1216895
+ligand name:NF1
+ligand smiles:CCOC(=O)C1=C(C=C2OC\C=C/CN(C3=CC=CC=C3)C2=C1C)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:sites IIIA, IB and IIA  d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;
+kq;5.5*10^13；
+n;0.87
+K;
+Ka;
+Kb;1.53*10^4;
+ΔH;
+ΔS;
+ΔG;-22.928;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

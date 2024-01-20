@@ -1,0 +1,90 @@
+Title:Synthesis of 2-(4-methylphenyl)-3-(N-acetyl)-5-(2-hydroxyphenyl)-1,3,4-oxodiazoline and its interaction with HSA
+DOI:None
+ligand name:
+ligand smiles:CC(=O)N1N=C(C2=CC=CC=C2O)OC1C1=CC=C(C)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;301;309;
+KSV;
+kq;
+n;1.06;1.01;0.72;
+K;
+Ka;
+Kb;1.28*10^6;5.08*10^5;4.58*10^3;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;293;
+J;
+E;
+R0;
+r;1.31;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

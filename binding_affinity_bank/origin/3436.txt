@@ -1,0 +1,95 @@
+Title:Preparation of hydroxyl-cinnamic acid derivatives and their interaction with human serum albumin
+DOI:10.13550/j.jxhg.2015.09.011
+ligand name:I
+ligand smiles:OC(=O)C1=CC=C(CCC(=O)\C=C\C2=CC(O)=C(O)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;8.590*10^3;8.210*10^3;7.960*10^3;
+kq;8.590*10^11;8.210*10^11;7.960*10^11;
+n;1.17;0.91;0.77;
+K;
+Ka;
+Kb;4.689*10^4;3.269*10^3;8.641*10^2;
+ΔH;-305.6;-305.6;-305.6;
+ΔS;-937.3;-937.3;-937.3;
+ΔG;-26.15;-21.46;-16.77;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.73*10^-15;
+E;0.11;
+R0;2.20;
+r;3.13;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

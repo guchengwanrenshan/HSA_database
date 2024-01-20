@@ -1,0 +1,69 @@
+Title:Thermodynamic insights into interaction of protein coated gold nanoclusters with DNA and influence of coating on drug binding
+DOI:10.1016/j.molliq.2019.03.117
+ligand name:Cyclophosphamide
+ligand smiles:C1CNP(=O)(OC1)N(CCCl)CCCl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;12.3
+K;
+Ka;
+Kb;1800.0
+ΔH;-0.16
+ΔS;61.7
+ΔG;-18.6
+Cp;
+Kd;555.0
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

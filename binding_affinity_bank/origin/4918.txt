@@ -1,0 +1,95 @@
+Title:Caffeic acid phenethyl ester exhibiting distinctive binding interaction with human serum albumin implies the pharmacokinetic basis of propolis bioactive components
+DOI:10.1016/j.jpba.2016.01.040
+ligand name:Caffeic acid phenethyl ester
+ligand smiles:C1=CC=C(C=C1)CCOC(=O)/C=C/C2=CC(=C(C=C2)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;295;300;305;310;
+KSV;1.53*10^6;1.41*10^6;1.31*10^6;1.27*10^6;1.09*10^6;
+kq;1.53*10^14;1.41*10^14;1.31*10^14;1.27*10^14;1.09*10^14;
+n;
+K;
+Ka;
+Kb;2.76*10^6;2.15*10^6;1.08*10^6;0.929*10^6;0.888*10^6;
+ΔH;-46.67;-46.67;-46.67;-46.67;-46.67;
+ΔS;-38.01;-38.01;-38.01;-38.01;-38.01;
+ΔG;-35.65;-35.46;-35.27;-35.08;-34.89;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.11595*10^-12;
+E;0.4191;
+R0;5.38;
+r;5.7;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

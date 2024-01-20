@@ -1,0 +1,69 @@
+Title:Molecular modeling and spectroscopic studies on binding of 2,6-bis[4-(4-amino-2-trifluoromethylphenoxy)benzoyl] pyridine to human serum albumin
+DOI:10.1016/j.saa.2009.06.044
+ligand name:BAFP
+ligand smiles:NC1=CC(=C(OC2=CC=C(C=C2)C(=O)C2=CC=CC(=N2)C(=O)C2=CC=C(OC3=CC=C(N)C=C3C(F)(F)F)C=C2)C=C1)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0;318.0
+KSV;
+kq;
+n;0.97;0.97;0.98;0.99
+K;
+Ka;96300.0;89200.0;77200.0;69700.0
+Kb;95500.0;86800.0;81700.0;71100.0
+ΔH;-7.75;-7.75;-7.75;-7.75
+ΔS;67.33;67.33;67.33;67.33
+ΔG;-27.68;-28.15;-28.62;-29.16
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

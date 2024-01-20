@@ -1,0 +1,69 @@
+Title:Ullmann-type copper-catalyzed coupling amination, photophysical and DNA/HSA-binding properties of new 4-(trifluoromethyl)quinoline derivatives
+DOI:10.1016/j.jfluchem.2019.04.006
+ligand name:2b
+ligand smiles:CC1=CC=C(C2=NC3=CC=C(N4C=CC5=C4C=CC=C5)C=C3C(C(F)(F)F)=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;33400.0
+kq;5890000000000.0
+n;1.55
+K;
+Ka;
+Kb;66000.0
+ΔH;
+ΔS;
+ΔG;-27.4946
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

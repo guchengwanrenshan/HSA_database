@@ -1,0 +1,95 @@
+Title:Study of the structure-activity relationship of flavonoids based on their interaction with human serum albumin
+DOI:10.1039/c5ra12824b
+ligand name:Naringenin
+ligand smiles:C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O 
+key residue(hbond):ARG485;ASN391;ARG410;LEU430 d
+key residue(hydrophobic):LEU349;ALA449;LEU407;MET446;PHE403;ILE388;LEU430;PRO384;VAL433;LEU397;LEU453 d
+PDB ID:
+Binding Area:site I;site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;1.50*10^5;1.31*10^5;1.24*10^5;1.11*10^5;
+kq;
+n;
+K;
+Ka;
+Kb;1.03*10^5;1.00*10^5;0.72*10^5;0.56*10^5;
+ΔH;-26.54;-26.54;-26.54;-26.54;
+ΔS;5.96;5.96;5.96;5.96;
+ΔG;-28.28;-28.32;-28.35;-28.39;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

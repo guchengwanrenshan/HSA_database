@@ -1,0 +1,69 @@
+Title:Controlling Plasma Protein Binding: Structural Correlates of Interactions of Hydrophobic Polyamine Endotoxin Sequestrants with Human Serum Albumin
+DOI:10.1021/mp8001123
+ligand name:2
+ligand smiles:CCCCCCCCCCCCCCCCC(=O)NCCCNCCCNCCCCNCCCN
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310.0
+n;5.11
+K;
+Ka;505000.0
+Kb;
+ΔH;-47.1955
+ΔS;43.0952
+ΔG;
+Cp;
+Kd;1.98
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

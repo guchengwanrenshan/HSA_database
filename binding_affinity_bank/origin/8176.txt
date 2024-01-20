@@ -1,0 +1,90 @@
+Title:Characterisation of interaction between food colourant allura red AC and human serum albumin: Multispectroscopic analyses and docking simulations
+DOI:10.1016/j.foodchem.2014.08.088
+ligand name:allura red AC
+ligand smiles:CC1=CC(=C(C=C1S(=O)(=O)[O-])OC)N=NC2=C(C=CC3=C2C=CC(=C3)S(=O)(=O)[O-])O.[Na+].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;9.878*10^4;9.396*10^4;9.113*10^4;
+kq;
+n;1.1969;1.0955;1.0071;
+K;
+Ka;
+Kb;10.75*10^5;3.038*10^5;1.087*10^5;
+ΔH;-147.00;-147.00;-147.00;
+ΔS;-387.07;-387.07;-387.07;
+ΔG;-34.33;-32.07;-29.80;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;1.125*10^6;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

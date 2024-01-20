@@ -1,0 +1,95 @@
+Title:Insights into the binding of thiosemicarbazone derivatives with human serum albumin: spectroscopy and molecular modelling studies
+DOI:10.1080/07391102.2015.1075905
+ligand name:Pro semi
+ligand smiles:CCC(=O)OC1=CC=C(C=C1)C(\C)=N/NC(N)=S
+key residue(hbond):Leu185 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;
+KSV;
+kq;0.860*10^11;0.564*10^11;
+n;1.06;1.03;
+K;
+Ka;
+Kb;6.77*10^5;5.53*10^5;
+ΔH;-17.96;-17.96
+ΔS;72.95;72.95;
+ΔG;-21.757;-22.121;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.703*10^-21;
+E;0.0553;
+R0;0.1782;
+r;0.28
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

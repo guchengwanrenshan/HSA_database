@@ -1,0 +1,95 @@
+Title:Study the interactions between human serum albumin and two antifungal drugs: Fluconazole and its analogue DTP
+DOI:10.1016/j.bmcl.2014.09.034
+ligand name:DTP
+ligand smiles:OC(CN1C=NC=N1)(CN1C=NC=N1)C1=C(Cl)C=C(Cl)C=C1
+key residue(hbond):Arg222;Lys199;Lys195 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;310;
+KSV;6.45*10^4;5.92*10^4;5.50*10^4;
+kq;
+n;0.99;1.02;1.02;
+K;
+Ka;6.03*10^4;5.76*10^4;5.11*10^4;
+Kb;6.33*10^4;5.78*10^4;5.42*10^4;
+ΔH;-6.69;-6.69;-6.69;
+ΔS;32.76;32.76;32.76;
+ΔG;-16.45;-16.58;-16.84;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

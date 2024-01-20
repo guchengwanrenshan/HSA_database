@@ -1,0 +1,69 @@
+Title:Insight into the interaction of human serum albumin with folic acid: A biophysical study
+DOI:10.1016/j.saa.2018.06.093
+ligand name:Folic Acid
+ligand smiles: C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;89700.0;89000.0
+kq;13500000000000.0;13400000000000.0
+n;1.22;1.15
+K;
+Ka;
+Kb;97800.0;88200.0
+ΔH;-7.87;-7.87
+ΔS;69.06;68.4
+ΔG;-28.45;-28.94
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

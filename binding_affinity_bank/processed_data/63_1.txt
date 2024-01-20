@@ -1,0 +1,69 @@
+Title:Competitive binding of (-)-epigallocatechin-3-gallate and 5-fluorouracil to human serum albumin: A fluorescence and circular dichroism study
+DOI:10.1016/j.saa.2016.10.023
+ligand name: 5-fluorouracil
+ligand smiles: C1=C(C(=O)NC(=O)N1)F 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.2;302.2;306.2;310.2
+KSV;2400.0;2300.0;2300.0;2200.0
+kq;2400.0;2300.0;2300.0;2200.0
+n;1.37;1.41;1.4;1.44
+K;
+Ka;29900.0;37700.0;44000.0;51900.0
+Kb;
+ΔH;34.86;34.86;34.86;34.86
+ΔS;206.49;206.49;206.49;206.49
+ΔG;-25.54;-26.47;-27.21;-27.99
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

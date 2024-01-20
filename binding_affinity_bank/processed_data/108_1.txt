@@ -1,0 +1,69 @@
+Title:Biophysical and in silico studies of the interaction between the anti-viral agents acyclovir and penciclovir, and human serum albumin
+DOI:10.3390/molecules22111906
+ligand name:penciclovir
+ligand smiles:C1=NC2=C(N1CCC(CO)CO)N=C(NC2=O)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Site I and II(subdomains IIA and IIIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;309.0
+KSV;30400.0;27700.0;26000.0
+kq;11300000000000.0;10300000000000.0;9600000000000.0
+n;1.01;1.0;1.0
+K;29900.0;26800.0;25900.0
+Ka;
+Kb;
+ΔH;-4.47;-4.47;-4.47
+ΔS;69.95;69.95;69.95
+ΔG;-24.62;25.32;-26.08
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

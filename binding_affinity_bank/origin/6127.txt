@@ -1,0 +1,118 @@
+Title:Combined spectroscopic and computational approaches for the recognition of bioactive flavonoid 6-hydroxyflavone by human serum albumin: Effects of non-enzymatic glycation in the binding
+DOI:10.1016/j.molliq.2021.118288
+ligand name:6-Hydroxyflavone
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=CC(=C3)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;
+kq;
+n;0.948;0.994;1.044;
+K;
+Ka;
+Kb;1.731*10^5;1.370*10^5;1.226*10^5;
+ΔH;12.918;12.918;12.918;
+ΔS;55.590;55.590;55.590;
+ΔG;-29.039;-29.595;-30.151;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;8.313*10^-14;
+E;0.181;
+R0;2.366;
+r;3.042;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+#subdomian IIA#
+ALA291;;;36.9;
+LEU238;;;29.37;
+LYS199;;;23.27;
+ARG222;;;15.08;
+TYR150;;;14.1;
+LEU219;;;12.45;
+ARG257;;;12;
+LEU260;;;11.06;
+ILE290;;;10.93;
+ILE264;;;9.96;
+HIS242;;;5.23;
+TRP214;;;5.12;
+
+#subdomain IIIA#
+LYS195;;;29.05;
+TYR452;;;27.09;
+ASP451;;;26.25;
+CYS448;;;23.1;
+ARG218;;;22.77;
+ALA191;;;18.98;
+LYS436;;;17.23;
+VAL455;;;14.22;
+PRO447;;;9.73;
+
+
+
+
+
+

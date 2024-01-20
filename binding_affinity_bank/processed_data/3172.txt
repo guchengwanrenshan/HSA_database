@@ -1,0 +1,69 @@
+Title:Chloramphenicol binding to human serum albumin: Determination of binding constants and binding sites by steady-state fluorescence
+DOI:10.1016/j.molstruc.2009.04.018
+ligand name:chloramphenicol
+ligand smiles:C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;287.0;295.0;303.0;311.0
+KSV;29290.0;28320.0;27690.0;27090.0
+kq;29290.0;28320.0;27690.0;27090.0
+n;
+K;
+Ka;
+Kb;28520.0;27650.0;26380.0;25420.0
+ΔH;-3.634;-3.634;-3.634;-3.634
+ΔS;72.66;72.66;72.66;72.66
+ΔG;-24.48;-25.08;-25.65;-26.23
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Spectroscopic studies on the interaction between tilorone and human serum albumin
+DOI:10.17721/fujcv5i1p48-59
+ligand name:Tilorone
+ligand smiles:CCN(CC)CCOC1=CC2=C(C=C1)C3=C(C2=O)C=C(C=C3)OCCN(CC)CC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;313;
+KSV;3.23*10^4;2.07*10^4;
+kq;3.23*10^12;2.07*10^12;
+n;1.08;1.05;
+K;
+Ka;
+Kb;7.19*10^4;3.75*10^4;
+ΔH;-33.64;-33.64;
+ΔS;-19.91;-19.91;
+ΔG;-27.71;-27.41;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.88*10^-16
+E;0.536;
+R0;1.67;
+r;1.63;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

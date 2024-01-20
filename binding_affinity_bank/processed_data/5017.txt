@@ -1,0 +1,69 @@
+Title:Study on the interaction between dauricine and human serum albumin by fluorescence quenching method
+DOI:None
+ligand name:dauricine
+ligand smiles:CN1CCC2=CC(=C(C=C2[C@H]1CC3=CC=C(C=C3)OC4=C(C=CC(=C4)C[C@@H]5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0;320.0
+KSV;8730.0;10300.0
+kq;873000000000.0;1030000000000.0
+n;0.8309;0.863
+K;
+Ka;
+Kb;1567.0;2492.0
+ΔH;38.251;38.251
+ΔS;182.49;182.49
+ΔG;-18.9613;-20.8072
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

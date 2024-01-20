@@ -1,0 +1,69 @@
+Title:Manganese(II) complexes with the non-steroidal anti-inflammatory drugs naproxen and mefenamic acid: synthesis, structure, antioxidant capacity, and interaction with albumins and DNA
+DOI:10.1039/c8nj03226b
+ligand name:Naproxen
+ligand smiles:C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;12400.0
+kq;1240000000000.0
+n;0.43
+K;
+Ka;
+Kb;32700.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

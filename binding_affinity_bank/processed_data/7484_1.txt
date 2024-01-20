@@ -1,0 +1,69 @@
+Title:Investigation on the competition interaction of ferulic acid and paeonol with human serum albumin by high-performance affinity chromatography
+DOI:None
+ligand name: paeonol
+ligand smiles:CC(=O)C1=C(C=C(C=C1)OC)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;310.0
+n;
+K;
+Ka;4573.6393
+Kb;
+ΔH;-23.79
+ΔS;-6.34
+ΔG;-21.82
+Kd;
+
+

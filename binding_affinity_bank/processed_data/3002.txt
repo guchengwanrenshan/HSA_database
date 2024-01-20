@@ -1,0 +1,69 @@
+Title:Fluorescence spectrometric studies on the binding of puerarin to human serum albumin using warfarin, ibuprofen and digitoxin as site markers with the aid of chemometrics
+DOI:10.1016/j.jlumin.2011.07.011
+ligand name:puerarin
+ligand smiles:C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;69500.0;50500.0;44200.0
+kq;6950000000000.0;5050000000000.0;4420000000000.0
+n;
+K;
+Ka;
+Kb;46100.0;66800.0;91200.0
+ΔH;43.62;43.62;43.62
+ΔS;235.8;235.8;235.8
+ΔG;-26.63;-28.05;-29.46
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Comparison between psoralen and isopsoralen binding to human serum albumin
+DOI:None
+ligand name:isopsoralen
+ligand smiles:C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;318;
+KSV;3.218*10^4;2.933*10^4;2.720*10^4;2.649*10^4;
+kq;
+n;0.82;0.82;0.81;0.84;
+K;
+Ka;0.520*10^5;0.466*10^5;0.438*10^5;0.386*10^5;
+Kb;0.563*10^5;0.485*10^5;0.462*10^5;0.415*10^5;
+ΔH;-7.045;-7.045;-7.045;-7.045;
+ΔS;62.362;62.362;62.362;62.362;
+ΔG;-25.504;-25.941;-26.377;-26.876;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;3.65;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

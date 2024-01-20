@@ -1,0 +1,69 @@
+Title:Understanding the binding of quinoline amines with human serum albumin by spectroscopic and induced fit docking methods
+DOI:10.1080/07391102.2018.1496141
+ligand name:1a
+ligand smiles:C1COC2=CC(NC3=CC=NC4=C3C=CC=C4)=CC=C2O1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;47200.0
+kq;
+n;1.118
+K;
+Ka;138000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

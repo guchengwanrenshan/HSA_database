@@ -1,0 +1,95 @@
+Title:Thermodynamics of interaction of imidacloprid with human serum albumin
+DOI:10.3866/pku.whxb201511021
+ligand name:Imidacloprid 
+ligand smiles:C1CN(/C(=N/[N+](=O)[O-])/N1)CC2=CN=C(C=C2)Cl  
+key residue(hbond):His288;Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;7.202*10^4;6.709*10^4;6.102*10^4;5.799*10^4;
+kq;7.202*10^12;6.709*10^12;6.102*10^12;5.799*10^12;
+n;
+K;
+Ka;
+Kb;7.110*10^4;5.301*10^4;3.791*10^4;2.605*10^4;
+ΔH;-41.94;-41.94;-41.94;-41.94;
+ΔS;-50.75;-50.75;-50.75;-50.75;
+ΔG;-27.12;-26.95;-26.65;-26.21;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

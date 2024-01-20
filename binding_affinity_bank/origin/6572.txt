@@ -1,0 +1,94 @@
+Title:Interaction between 2, 4, 6-Trichlorophenol and human serum albumin
+DOI:10.13526/j.issn.1006-6144.2018.03.012
+ligand name:2,4,6-Trichlorophenol
+ligand smiles:C1=C(C=C(C(=C1Cl)O)Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;305;310;315;
+KSV;
+kq;2.821*10^13;4.090*10^13;4.532*10^13;4.613*10^13;
+n;0.9647;1.159;0.9218;0.8999;
+K;
+Ka;
+Kb;1.702*10^5;36.81*10^5;1.520*10^5;1.335*10^5;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

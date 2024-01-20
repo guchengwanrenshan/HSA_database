@@ -1,0 +1,69 @@
+Title:A study on the interaction between 5-methyluridine and human serum albumin using fluorescence quenching method and molecular modeling
+DOI:10.1007/s00894-009-0548-4
+ligand name:5-Methyluridine
+ligand smiles:CC1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+key residue(hbond):Lys195; Arg218; Arg222; Ala291 d
+key residue(hydrophobic):Lys195; Glu292; His242; Leu238; Phe223; Arg222; Ala215; Phe211; Arg218;Trp214 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300310.0;320.0
+KSV;7673.0;7246.0;6198.0
+kq;767300000000.0;724600000000.0;619800000000.0
+n;
+K;
+Ka;
+Kb;8334.0;7090.0;5759.0
+ΔH;-12.62;-12.62;-12.62
+ΔS;33.0;33.0;33.0
+ΔG;-22.52;-22.85;-23.04
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

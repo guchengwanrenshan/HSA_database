@@ -1,0 +1,95 @@
+Title:Chromatographic Framework to Determine the Memantine Binding Mechanism on Human Serum Albumin Surface
+DOI:10.1365/s10337-008-0675-6
+ligand name:Memantine
+ligand smiles:CC12CC3CC(C1)(CC(C3)(C2)N)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;278;283;293;298;303;308;
+n;
+K;
+Ka;
+Kb;
+ΔH;42.5;24.6;-14.6;-33.2;-51.1;-68.5;
+ΔS;174.9;101.3;-34.6;-97.5;-157.3;-214.2;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Study on the binding of sulfaclozine sodium monohydrate with bovine and human serum albumins using multi-spectroscopy and molecular docking
+DOI:10.1080/07391102.2020.1780945
+ligand name:sulfaclozine sodium monohydrate
+ligand smiles:C1=CC(=CC=C1N)S(=O)(=O)[N-]C2=CN=CC(=N2)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;301.0;311.0
+KSV;62460.0;56690.0;44820.0
+kq;6124000000000.0;5558000000000.0;4394000000000.0
+n;1.24;0.9;0.86
+K;
+Ka;94540.0;72140.0;49100.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

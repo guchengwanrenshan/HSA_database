@@ -1,0 +1,95 @@
+Title:Interaction of isofraxidin with human serum albumin
+DOI:10.1016/j.bmc.2003.10.030
+ligand name:isofraxidin
+ligand smiles:COC1=C(C(=C2C(=C1)C=CC(=O)O2)OC)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;318;
+KSV;
+kq;
+n;0.78;0.75;0.74;0.74
+K;
+Ka;
+Kb;4.1266*10^5;3.8612*10^5;3.5063*10^5;3.1241*10^5;
+ΔH;-10.08;-10.08;-10.08;-10.08;
+ΔS;73.57;73.57;73.57;73.57;
+ΔG;-31.86;-32.37;-32.89;-33.48;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

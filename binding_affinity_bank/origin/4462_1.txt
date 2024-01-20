@@ -1,0 +1,95 @@
+Title:Investigation into the interaction of methylparaben and erythromycin with human serum albumin using multispectroscopic methods
+DOI:10.1002/bio.2979
+ligand name:erythromycin
+ligand smiles:CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;308;
+KSV;0.59*10^5;0.61*10^5;0.62*10^5;0.64*10^5;0.66*10^5;
+kq;0.59*10^13;0.61*10^13;0.62*10^13;0.64*10^13;0.66*10^13;
+n;1.14;0.99;0.96;0.91;0.84;
+K;
+Ka;
+Kb;22.6*10^3;10.6*10^3;3.79*10^3;1.67*10^3;0.68*10^3;
+ΔH;-131;-131;-131;-131;-131;
+ΔS;-370;-370;-370;-370;-370;
+ΔG;-24.2;-22.3;-20.5;-18.6;-16.8;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.4318*10^-14;
+E;0.1814;
+R0;1.8763;
+r;2.1681;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

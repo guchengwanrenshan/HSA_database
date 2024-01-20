@@ -1,0 +1,95 @@
+Title:Binding properties of drospirenone with human serum albumin and lysozyme in vitro
+DOI:10.1016/j.saa.2015.09.017
+ligand name:Drospirenone
+ligand smiles:O.[H][C@@]12[C@@H]3C[C@@H]3[C@@]3(CCC(=O)O3)[C@@]1(C)CC[C@]1([H])[C@@]3(C)CCC(=O)C=C3[C@@H]3C[C@@H]3[C@@]21[H]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;5.345*10^4;3.764*10^4;3.158*10^4;
+kq;5.345*10^12;3.764*10^12;3.158*10^12;
+n;1.05;1.01;0.91;
+K;
+Ka;
+Kb;8.886*10^4;4.020*10^4;1.118*10^4;
+ΔH;-128.9;-128.9;-128.9;
+ΔS;-337.3;-337.3;-337.3;
+ΔG;-28.23;-26.80;-24.17;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

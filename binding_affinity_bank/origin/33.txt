@@ -1,0 +1,95 @@
+Title:Biointeractions of herbicide atrazine with human serum albumin: uv-vis, fluorescence and circular dichroism approaches
+DOI:10.3390/ijerph15010116
+ligand name: Atrazine(280nm)
+ligand smiles: CCNC1=NC(=NC(=N1)Cl)NC(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;307;316;
+KSV;8.90*10^4;7.12*10^4;6.66*10^4;
+kq;8.90*10^12;7.12*10^12;6.66*10^12;
+n;1.0434;0.9647;0.8743
+K;
+Ka;5.33*10^4;5.31*10^4;5.21*10^4;
+Kb;
+ΔH;-1.11;-1.11;1.11;
+ΔS;86.79;86.79;86.79;
+ΔG;-26.97;-27.75;-28.54;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.6383*10^-14;
+E;0.058739;
+R0;2.7638;
+r;4.3871;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,90 @@
+Title:Transport of a Cancer Chemopreventive Polyphenol, Resveratrol: Interaction with Serum Albumin and Hemoglobin
+DOI:10.1007/s10895-007-0220-2
+ligand name:trans-resveratrol
+ligand smiles:C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O    
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.81*10^5;1.76*10^5;1.67*10^5;
+kq;1.81*10^13;1.76*10^13;1.67*10^13;
+n;1.05;1.15;1.14;
+K;
+Ka;
+Kb;10.21*10^5;7.43*10^5;5.81*10^5;
+ΔH;-20.69;-20.69;-20.69;
+ΔS;23.37;23.37;23.37;
+ΔG;-27.42;-27.65;-27.89;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

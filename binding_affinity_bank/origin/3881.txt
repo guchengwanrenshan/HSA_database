@@ -1,0 +1,95 @@
+Title:Association of iminium and alkanolamine forms of the benzo[c]phenanthridine alkaloid chelerythrine with human serum albumin: photophysical, thermodynamic and theoretical approach
+DOI:10.1039/c7nj02972a
+ligand name:Chelerythrine(I)
+ligand smiles:C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;293;298;303;
+KSV;6.38*10^4;5.64*10^4;;4.79*10^4;
+kq;1.09*10^13;0.96*10^13;;0.82*10^13;
+n;
+K;
+Ka;
+Kb;;;1.87*10^5;;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;0.98;
+K;
+Ka;
+Kb;1.85*10^5;
+ΔH;-80.6257;
+ΔS;-169.7468;
+ΔG;-30.0411;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.26*10^-14;
+E;0.70;
+R0;2.67;
+r;2.32;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Molecular action mechanism of desoxyrhaponticin and serum albumin characterized by spectroscopy combined with molecular modeling
+DOI:10.4268/cjcmm20140624
+ligand name:desoxyrhaponticin
+ligand smiles: COC1=CC=C(C=C1)/C=C/C2=CC(=CC(=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;0.8080*10^5;1.0230*10^5;
+kq;8.0800*10^13;4.3510*10^13
+n;0.94;1.02;
+K;
+Ka;
+Kb;3.6074*10^5;1.2888*10^5;
+ΔH;81.50;81.50;
+ΔS;379.87;379.87;
+ΔG;-31.70;-36.26;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.81*10^-14;
+E;0.4620;
+R0;2.72;
+r;2.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

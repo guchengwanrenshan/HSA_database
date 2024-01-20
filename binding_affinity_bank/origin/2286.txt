@@ -1,0 +1,95 @@
+Title:Investigation of neohesperidin dihydrochalcone binding to human serum albumin by spectroscopic methods
+DOI:10.1016/j.jlumin.2014.06.032
+ligand name:neohesperidin dihydrochalcone
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC(=C(C=C4)OC)O)O)CO)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow׳s site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.15;298.15;310.15;318.15;
+KSV;2.49*10^4;2.31*10^4;2.25*10^4;2.12*10^4;
+kq;
+n;1.04;1.02;1.00;0.95;
+K;
+Ka;
+Kb;4.01*10^4;2.79*10^4;2.11*10^4;1.16*10^4;
+ΔH;-29.22;-29.22;-29.22;-29.22;
+ΔS;-12.91;-12.91;-12.91;-12.91;
+ΔG;-25.50;-25.37;-25.22;-25.11;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

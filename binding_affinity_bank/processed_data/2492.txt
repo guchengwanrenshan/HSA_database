@@ -1,0 +1,69 @@
+Title:Binding of sulforhodamine B to human serum albumin: A spectroscopic study
+DOI:10.1016/j.dyepig.2013.06.011
+ligand name:Sulforhodamine B
+ligand smiles:CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=C(C=C(C=C4)S(=O)(=O)O)S(=O)(=O)[O-] 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;11000.0
+kq;1100000000000.0
+n;1.03;1.05;1.0
+K;
+Ka;
+Kb;125892.5412;158489.3192;158489.3192
+ΔH;5.2;5.2;5.2
+ΔS;116.5;116.5;116.5
+ΔG;-28.3;-29.7;-30.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

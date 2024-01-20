@@ -1,0 +1,95 @@
+Title:Monosaccharides interact weakly with human serum albumin. Insights for the functional perturbations on the binding capacity of albumin
+DOI:10.1016/j.carres.2021.108274
+ligand name:Fructose
+ligand smiles:C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA (Sudlow's site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;370;241;203;
+kq;7.40*10^10;4.82*10^10;4.06*10^10;
+n;
+K;
+Ka;3100;1100;3400;
+Kb;3110;1790;571;
+ΔH;-92.0;-92.0;-92.0;
+ΔS;243.24;243.24;243.24;
+ΔG;-164;-166;-167;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Streptozocin; a GLUT2 binding drug, interacts with human serum albumin at loci h6DOM3-h7DOM3
+DOI:10.1016/j.ijbiomac.2019.01.217
+ligand name:streptozocin
+ligand smiles:CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O 
+key residue(hbond):Thr508;Glu505(ubdomain IIIB);d
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIIA;subdomain B; subdomain IIIB;
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286.0;291.0;306.0
+KSV;5400.0;7400.0;3100.0
+kq;
+n;0.6;0.8;1.1
+K;213.0;1548.8;6208.0
+Ka;
+Kb;
+ΔH;234.4;234.4;234.4
+ΔS;841.4;841.4;841.4
+ΔG;-12.7;-17.8;-22.2
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

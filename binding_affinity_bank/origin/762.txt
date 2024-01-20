@@ -1,0 +1,95 @@
+Title:Contrasting thermodynamics governs the interaction of 3-hydroxyflavone with the N-isoform and B-isoform of human serum albumin
+DOI:10.1021/acs.langmuir.0c01362
+ligand name:3-Hydroxyflavone
+ligand smiles:C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;293.15;298.15;303.15;313.15;
+n;0.78;0.78;0.80;0.95
+K;
+Ka;7.94*10^4;6.04*10^5;1.13*10^6;3.99*10^6;
+Kb;
+ΔH;-95.10;-57.77;-20.19;-16.38;
+ΔS;-247.28;-77.54;60.37;85.81;
+ΔG;-22.60;-34.65;-38.49;-43.25;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

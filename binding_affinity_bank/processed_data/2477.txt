@@ -1,0 +1,69 @@
+Title:Investigation on the interaction of antibacterial drug moxifloxacin hydrochloride with human serum albumin using multi-spectroscopic approaches;molecular docking and dynamical simulation
+DOI:10.1039/c7ra08731d
+ligand name:moxifloxacin hydrochloride
+ligand smiles:[H][C@@]12CCCN[C@]1([H])CN(C1=C(OC)C3=C(C=C1F)C(=O)C(C(=O)O)=CN3C1CC1)C2
+key residue(hbond):Glu153 d
+key residue(hydrophobic):Gln196;Arg257;His288;Ala291;Glu292 d
+PDB ID:
+Binding Area:site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;89010.0;77940.0;70410.0
+kq;
+n;1.148;1.101;1.059
+K;
+Ka;
+Kb;540700.0;248900.0;136100.0
+ΔH;-80.89;-80.89;-80.89
+ΔS;-172.97;-172.97;-172.97
+ΔG;-32.34;-31.3;-30.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

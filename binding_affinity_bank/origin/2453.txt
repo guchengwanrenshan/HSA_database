@@ -1,0 +1,95 @@
+Title:1H-NMR study of the effect of acetonitrile on the interaction of ibuprofen with human serum albumin
+DOI:10.1016/s0731-7085(02)00225-x
+ligand name:Azo-4N(−UV) 
+ligand smiles:NCCNCCNCCNC(=O)C1=CC=C(C=C1)\N=N\C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;309;
+KSV;5.5*10^4;3.7*10^4;
+kq;1.6*10^13;1.0*10^13;
+n;1.0;1.1;
+K;
+Ka;5.7*10^4;3.5*10^4;
+Kb;5.4*10^4;3.3*10^4;
+ΔH;-34.6;-34.6;
+ΔS;-24.9;-24.9;
+ΔG;-27.1;-26.8;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.04*10^-14;
+E;0.46;
+R0;2.76;
+r;2.94;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

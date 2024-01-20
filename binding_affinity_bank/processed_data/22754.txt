@@ -1,0 +1,69 @@
+Title:Characterizing the interaction between tartrazine and two serum albumins by a hybrid spectroscopic approach
+DOI:10.1021/jf200907x
+ligand name:Tartrazine
+ligand smiles:C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;320.0
+KSV;63800.0;51280.0
+kq;6830000000000.0;5128000000000.0
+n;
+K;
+Ka;41500.0;18670.0
+Kb;
+ΔH;-31.88;-31.88
+ΔS;-17.87;-16.75
+ΔG;-26.52;-26.16
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

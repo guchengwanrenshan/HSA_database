@@ -1,0 +1,95 @@
+Title:Study on the interaction between tabersonine and human serum albumin by optical spectroscopy and molecular modeling methods
+DOI:10.1016/j.jlumin.2011.09.050
+ligand name:tabersonine
+ligand smiles:CC[C@]12CC(=C3[C@@]4([C@H]1N(CC4)CC=C2)C5=CC=CC=C5N3)C(=O)OC
+key residue(hbond):Val241;Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;3.990*10^4;3.796*10^4;3.574*10^4;
+kq;3.990*10^12;3.796*10^12;3.574*10^12;
+n;1.040;1.009;0.9604;
+K;
+Ka;4.931*10^4;4.229*10^4;3.545*10^4;
+Kb;4.773*10^4;4.650*10^4;4.422*10^4;
+ΔH;-12.99;-12.99;-12.99;
+ΔS;46.21;46.21;46.21;
+ΔG;-26.76;-27.26;-27.68;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.73*10^-14;
+E;0.042;
+R0;3.05;
+r;5.14;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

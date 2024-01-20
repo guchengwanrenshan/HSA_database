@@ -1,0 +1,95 @@
+Title:Interaction between deferiprone and human serum albumin: Multi-spectroscopic, electrochemical and molecular docking methods
+DOI:10.1016/j.ejps.2014.08.001
+ligand name:deferiprone
+ligand smiles:CC1=C(C(=O)C=CN1C)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;1.07*10^4;1.42*10^4;2.27*10^4;
+kq;1.07*10^12;1.42*10^12;2.27*10^12;
+n;0.9;0.98;1.13;
+K;
+Ka;
+Kb;0.4*10^4;1.06*10^4;7.62*10^4;
+ΔH;99.74;99.74;99.74;
+ΔS;414.5;414.5;414.5;
+ΔG;-19.63;-23.78;-28.75;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.84*10^-16;
+E;0.12;
+R0;2.07;
+r;2.88;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

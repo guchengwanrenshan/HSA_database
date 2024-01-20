@@ -1,0 +1,69 @@
+Title:Molecular interaction between human serum albumin (HSA) and phloroglucinol derivative that shows selective anti-proliferative potential
+DOI:10.1016/j.jlumin.2017.08.007
+ligand name:2,4,6-triacetylphloroglucinol
+ligand smiles:CC(=O)C1=C(C(=C(C(=C1O)C(=O)C)O)C(=O)C)O
+key residue(hbond):Lys199;Arg222;Arg242;Arg257(site I);Arg410;Lys414;Tyr411;Asn391(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II  d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;74800.0;72900.0;70400.0
+kq;74800000000000.0;72900000000000.0;70400000000000.0
+n;
+K;
+Ka;
+Kb;14300.0;12200.0;10200.0
+ΔH;-21.84;-21.84;-21.84
+ΔS;13.73;13.73;13.73
+ΔG;-25.93;-25.99;-26.09
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;1.897
+K;
+Ka;
+Kb;
+ΔH;-11.17
+ΔS;50.63
+ΔG;-26.26
+Cp;
+Kd;25.05
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

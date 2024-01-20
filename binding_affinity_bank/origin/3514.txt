@@ -1,0 +1,95 @@
+Title:Binding of α-lipoic acid to human serum albumin: spectroscopic and molecular modeling studies
+DOI:10.1007/s00706-021-02858-9
+ligand name:α-lipoic acid
+ligand smiles:C1CSS[C@H]1CCCCC(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;1.01*10^5;1.14*10^5;1.18*10^5;
+kq;
+n;1.15;1.11;1.08;
+K;
+Ka;
+Kb;5.31*10^5;4.11*10^5;3.01*10^5;
+ΔH;-36.209;-36.209;-36.209;
+ΔS;-11.82;-11.82;-11.82;
+ΔG;-32.69;-32.62;-32.54;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;0.86;
+K;
+Ka;
+Kb;3.19*10^5;
+ΔH;-40.12;
+ΔS;-29.30;
+ΔG;-31.3886;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Studies on the interaction between tubeimoside II and human serum albumin by spectroscopic methods
+DOI:None
+ligand name: tubeimoside II
+ligand smiles:CC1C2C(C(C(O1)OC3C(C(COC3OC(=O)C45CCC(CC4C6=CCC7C(C6(CC5O)C)(CCC8C7(CC(C(C8(C)CO)OC9C(C(C(C(O9)CO)O)O)OC1C(C(C(CO1)OC(=O)CC(CC(=O)O2)(C)O)O)O)O)C)C)(C)C)O)O)O)OC1C(C(C(CO1)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;308.0
+KSV;45240.0;42430.0;39880.0;37640.0
+kq;4524000000000.0;4243000000000.0;3988000000000.0;3764000000000.0
+n;1.069;1.043;1.021;1.007
+K;
+Ka;
+Kb;100200.0;70100.0;41400.0;41100.0
+ΔH;-44.829;-44.829;-44.829;-44.829
+ΔS;-57.497;-57.497;-57.497
+ΔG;-27.982;-27.695;-27.12
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

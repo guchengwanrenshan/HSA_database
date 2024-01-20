@@ -1,0 +1,69 @@
+Title:Binding of daunorubicin to human serum albumin using molecular modeling and its analytical application
+DOI:10.1016/j.ijbiomac.2007.10.013
+ligand name:daunorubicin
+ligand smiles:C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O  
+key residue(hbond):Leu219;Ala291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295.0;305.0;315.0
+KSV;15990.0;14960.0;14470.0
+kq;1599000000000.0;1496000000000.0;1447000000000.0
+n;0.8674;0.849;0.9902
+K;
+Ka;
+Kb;20200.0;19500.0;18900.0
+ΔH;-16.13;-16.13;-16.13
+ΔS;27.86;27.86;27.86
+ΔG;-24.31;-25.05;-25.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

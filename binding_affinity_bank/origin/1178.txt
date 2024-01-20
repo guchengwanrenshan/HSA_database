@@ -1,0 +1,95 @@
+Title:Investigation of the Interaction between Human Serum Albumin and Branched Short-Chain Perfluoroalkyl Compounds
+DOI:10.1021/acs.chemrestox.2c00211
+ligand name:C6O4
+ligand smiles:OC(=O)C(F)(F)OC1(F)OC(F)(F)OC1(F)OC(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's sites II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;310;
+n;1.6;1.5;
+K;
+Ka;
+Kb;
+ΔH;-21.4;-25.8;
+ΔS;-35.90;5.48;
+ΔG;-32.10;-31.70;
+Cp;
+Kd;2.4;5.4;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

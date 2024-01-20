@@ -1,0 +1,69 @@
+Title:Plasma Protein Binding of Anisomelic Acid: Spectroscopy and Molecular Dynamic Simulations
+DOI:10.1021/acs.jcim.6b00445
+ligand name:anisomelic acid
+ligand smiles:C/C/1=C\CC/C(=C/CC/C(=C\C2C(CC1)C(=C)C(=O)O2)/C)/C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;23100.0;16300.0;14100.0;13500.0
+kq;2310000000000.0;1630000000000.0;1410000000000.0;1350000000000.0
+n;1.018;1.112;1.159;1.173
+K;
+Ka;
+Kb;27300.0;53200.0;76100.0;101200.0
+ΔH;66.69;66.69;66.69;66.69
+ΔS;309.56;309.56;309.56;309.56
+ΔG;-25.31;-27.41;-28.78;-29.99
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Combined spectroscopy methods and molecular simulations for the binding properties of trametinib to human serum albumin
+DOI:10.1039/c7ra12890h
+ligand name:trametinib
+ligand smiles:CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC=CC(=C4)NC(=O)C)C5CC5 
+key residue(hbond):Lys195;Arg218;Arg222;Asp451 d
+key residue(hydrophobic):Gln196;Ser192;Leu219;His242;Ala291 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;6.702*10^4;5.981*10^4;5.664*10^4;
+kq;1.321*10^13;1.179*10^13;1.116*10^13;
+n;1.049;1.024;1.016;
+K;
+Ka;
+Kb;6.826*10^4;3.618*10^4;2.334*10^4;
+ΔH;-68.93;-68.93;-68.93;
+ΔS;-138.95;-138.95;-138.95;
+ΔG;-27.53;-26.69;-25.86;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Characterization of the interaction between 2'-deoxyuridine and human serum albumin
+DOI:10.1016/j.carres.2009.01.009
+ligand name:2′-deoxyuridine
+ligand smiles:C1[C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)CO)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;310;320;
+KSV;3.550*10^4;3.510*10^4;3.236*10^4;
+kq;3.550*10^12;3.510*10^12;3.236*10^12;
+n;
+K;
+Ka;
+Kb;3.460*10^4;2.709*10^4;1.701*10^4;
+ΔH;-18.87;-18.87;-18.87;
+ΔS;24.00;24.00;24.00;
+ΔG;-26.07;-26.31;-25.92;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.0933*10^-14;
+E;
+R0;
+r;4.75;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

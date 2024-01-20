@@ -1,0 +1,95 @@
+Title:Exploring the interaction between the antiallergic drug, tranilast and human serum albumin: Insights from calorimetric, spectroscopic and modeling studies
+DOI:10.1016/j.ijpharm.2015.06.042
+ligand name:tranilast
+ligand smiles:COC1=C(C=C(C=C1)/C=C/C(=O)NC2=CC=CC=C2C(=O)O)OC
+key residue(hbond):Lys195;Arg218;Arg257(site I);Lys414;Lys545(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;0.80;
+K;
+Ka;
+Kb;3.21*10^6;
+ΔH;-25.2;
+ΔS;46.9;
+ΔG;-39.1;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

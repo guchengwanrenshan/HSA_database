@@ -1,0 +1,69 @@
+Title:Interaction properties of biosynthesized cadmium sulfide quantum dots with human serum albumin: further investigation of antibacterial activities and sensing applications
+DOI:10.1002/bio.4228
+ligand name:Hesperidin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0
+KSV;38660.0;34710.0
+kq;77720.0;69420.0
+n;1.112;1.336
+K;
+Ka;
+Kb;52440.0;45260.0
+ΔH;-9.57;-9.57
+ΔS;48.04;48.04
+ΔG;-26.767;-27.455
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

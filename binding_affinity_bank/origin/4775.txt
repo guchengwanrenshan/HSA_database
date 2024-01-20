@@ -1,0 +1,95 @@
+Title:Study on the interaction of ephedrine hydrochloride and pseudoephedrine hydrochloride with human serum albumin by spectroscopy
+DOI:None
+ligand name:ephedrine hydrochloride
+ligand smiles:C[C@@H]([C@@H](C1=CC=CC=C1)O)NC.Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;6.02*10^3;5.50*10^3;5.06*10^3;
+kq;
+n;0.871;0.926;1.01;
+K;
+Ka;
+Kb;5.26*10^3;3.36*10^3;1.360*10^3;
+ΔH;-20.646;-20.646;-20.646;
+ΔS;-52.3557;-53.4295;-54.1141;
+ΔG;-5.044;-4.724;-4.520;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.27862*10^-21;
+E;0.125;
+R0;0.174;
+r;0.241;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

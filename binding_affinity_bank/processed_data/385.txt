@@ -1,0 +1,69 @@
+Title:Human Serum Albumin-Occupying-Based Fluorescence Turn-On Analysis of Antiepileptic Drug Tiagabine Hydrochloride
+DOI:10.1021/acs.analchem.9b03507
+ligand name:Tiagabine Hydrochloride
+ligand smiles:CC1=C(SC=C1)C(=CCCN2CCC[C@H](C2)C(=O)O)C3=C(C=CS3)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;164000.0;151000.0;138000.0
+kq;
+n;0.93
+K;
+Ka;6840.0
+Kb;
+ΔH;-30.16;-30.16;-30.16
+ΔS;-10.19;-10.19;-10.19
+ΔG;-27.13;-27.13;-27.13
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

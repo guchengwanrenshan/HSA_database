@@ -1,0 +1,69 @@
+Title:Interaction of coomassie brilliant blue G250 with human serum albumin: Probing of the binding mechanism and binding site by spectroscopic and molecular modeling methods
+DOI:10.1016/j.molstruc.2010.01.015
+ligand name:Coomassie brilliant blue G250
+ligand smiles:CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC(=C(C=C2)/C(=C\3/C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)O)C=C3C)/C5=CC=C(C=C5)NC6=CC=C(C=C6)OCC)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0;310.0
+KSV;119800.0;103000.0;98000.0;86600.0
+kq;11980000000000.0;10300000000000.0;9800000000000.0;8660000000000.0
+n;
+K;
+Ka;
+Kb;208500.0;179500.0;146900.0;122200.0
+ΔH;-103.83;-103.83;-103.83;-103.83
+ΔS;-12.48;-12.48;-12.48;-12.48
+ΔG;-99.87;-99.99;-100.2;-99.96
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

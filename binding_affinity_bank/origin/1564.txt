@@ -1,0 +1,95 @@
+Title:Study on the interaction of 6-(2-morpholin-4-yl-ethyl)-6H-indolo [2,3-b]quinoxaline hydrochloride with human serum albumin by fluorescence spectroscopy
+DOI:10.1088/2050-6120/4/3/034012
+ligand name:MIQ
+ligand smiles:C(CN1CCOCC1)N1C2=C(C=CC=C2)C2=C1N=C1C=CC=CC1=N2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;313;
+KSV;2.68*10^5;1.64*10^5;1.46*10^5;
+kq;2.68*10^13;1.64*10^13;1.46*10^13;
+n;1.20;1.02;1.01;
+K;
+Ka;25.52*10^5;1.69*10^5;1.70*10^5;
+Kb;
+ΔH;-150.39;-150.39;-150.39;
+ΔS;-383.53;-383.53;-383.53;
+ΔG;-36.10;-32.27;-30.35;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.35*10^-14;
+E;0.744;
+R0;2.83;
+r;2.37;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

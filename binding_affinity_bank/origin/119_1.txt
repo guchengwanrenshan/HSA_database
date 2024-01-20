@@ -1,0 +1,95 @@
+Title:Structure-affinity relationship of flavones on binding to serum albumins: effect of hydroxyl groups on ring A
+DOI:10.1002/mnfr.200900454
+ligand name:7-Hydroxyflavone
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C=C3)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I and site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.15;
+KSV;3.82*10^5;
+kq;
+n;1.22;
+K;
+Ka;3.55*10^6;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.58*10^-14;
+E;
+R0;3.29;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

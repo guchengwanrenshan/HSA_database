@@ -1,0 +1,69 @@
+Title:Bromo-Substituted Diazenyl-pyrazolo[1,5-a]pyrimidin-2-amines: Sonogashira Cross-Coupling Reaction, Photophysical Properties, Bio-interaction and HSA Light-Up Sensor
+DOI:10.1002/cbic.202200248
+ligand name:2a
+ligand smiles:CCCCCCC#CC1=CC=C(C=C1)\N=N\C1=C2N=C(C=C(N2N=C1N)C(F)(F)F)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):Trp214;Val334;Ala449;Leu453 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15
+KSV;2500.0
+kq;440000000000.0
+n;1.3
+K;
+Ka;1250.0
+Kb;4500.0
+ΔH;
+ΔS;
+ΔG;-20.8514
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

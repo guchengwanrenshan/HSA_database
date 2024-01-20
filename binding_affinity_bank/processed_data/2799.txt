@@ -1,0 +1,69 @@
+Title:Binding of helicid to human serum albumin: A hybrid spectroscopic approach and conformational study
+DOI:10.1016/j.saa.2013.12.108
+ligand name:helicid
+ligand smiles:C1=CC(=CC=C1C=O)O[C@H]2[C@@H]([C@@H]([C@@H]([C@H](O2)CO)O)O)O  
+key residue(hbond):Arg222;Arg291 d
+key residue(hydrophobic):Ala291;Ala213;Ala258;Leu219;Leu238;Leu260;Phe211;Val216;Val241;Trp214 d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0
+KSV;
+kq;
+n;1.08;1.14;1.34
+K;
+Ka;
+Kb;22500.0;19900.0;15500.0
+ΔH;-19.35;-19.35;-19.35
+ΔS;16.54;16.54;16.54
+ΔG;-24.13;-24.25;-24.36
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

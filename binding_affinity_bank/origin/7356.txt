@@ -1,0 +1,99 @@
+Title:Mechanism of non-enzymatic antiglycation action by coumarin: a biophysical study
+DOI:10.1039/c9nj01490j
+ligand name:coumarin
+ligand smiles:C1=CC=C2C(=C1)C=CC(=O)O2  
+key residue(hbond):
+key residue(hydrophobic):Arg257;Ala261;Leu238;Leu260;Ile290;Ala291 d
+PDB ID:
+Binding Area:subdomain IIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;310;
+KSV;2.94*10^4;3.47*10^4;4.17*10^4;
+kq;5.08*10^12;6.00*10^12;7.21*10^12;
+n;1.06;1.06;1.06;
+K;
+Ka;
+Kb;5.62*10^4;6.56*10^4;7.73*10^4;
+ΔH;13.8909;13.8909;13.8909;
+ΔS;138.371877;138.3620;138.3420;
+ΔG;-26.6102;-27.9910;-28.9533;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;310;
+n;
+K;
+Ka;
+Kb;7.96*10^4;
+ΔH;
+ΔS;
+ΔG;-29.0788;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.86*10^-15;
+E;0.1562;
+R0;1.99;
+r;2.63;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Arg222;31.178;20.651;10.527;
+Leu238;30.529;0;30.529;
+Arg257;15.368;5.231;10.137;
+Leu260;15.548;4.426;11.122;
+Ala261;3.405;0.113;3.292;
+Ile264;9.647;0;9.647;
+Ser287;6.395;3.007;3.388;
+Ile290;12.978;0.19;12.788;
+Ala291;40.991;15.578;25.413;
+
+
+
+
+

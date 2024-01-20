@@ -1,0 +1,95 @@
+Title:Insights into the binding of paclitaxel to human serum albumin: multispectroscopic studies
+DOI:10.1002/bio.2522
+ligand name:paclitaxel
+ligand smiles:CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+key residue(hbond):
+key residue(hydrophobic):Arg218;Arg222;Lys199;His242 d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;721;547;438;
+kq;7.21*10^10;5.47*10^10;4.38*10^10;
+n;0.87;0.93;1.03;
+K;
+Ka;
+Kb;525;324;257;
+ΔH;
+ΔS;-67.4;-67.4;-67.4;
+ΔG;-15.0;-14.3;-14.2;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.23*10^-3;
+E;0.258;
+R0;2.64;
+r;2.23;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Study on the interaction of paeoniflorin with human serum albumin (HSA) by spectroscopic and molecular docking techniques
+DOI:10.1186/s13065-017-0348-3
+ligand name:paeoniflorin
+ligand smiles:C[C@]12C[C@@]3([C@@H]4C[C@]1([C@@]4([C@H](O2)O3)COC(=O)C5=CC=CC=C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O 
+key residue(hbond):K195;Q196;K199;R222;H242;R257 d
+key residue(hydrophobic):K195;Q196;K199;R222;H242;R257 d
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;5680.0;5450.0;5210.0
+kq;948300000000.0;908300000000.0;868300000000.0
+n;0.9053;0.8977;0.8868
+K;
+Ka;1909.0;1680.0;1421.0
+Kb;
+ΔH;-9.98;-9.98;-9.98
+ΔS;28.18;28.18;28.18
+ΔG;-18.1;-18.38;-18.72
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

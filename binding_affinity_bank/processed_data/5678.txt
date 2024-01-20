@@ -1,0 +1,69 @@
+Title:Interaction of anticancer reduced Schiff base coumarin derivatives with human serum albumin investigated by fluorescence quenching and molecular modeling
+DOI:10.1016/j.bioorg.2013.10.003
+ligand name:1a
+ligand smiles:CC1=CC(=O)OC2=C1C=CC(NCC1=C(O)C=CC=C1)=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;478630.09
+ΔH;
+ΔS;
+ΔG;-32.4034
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

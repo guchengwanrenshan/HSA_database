@@ -1,0 +1,69 @@
+Title:Synthesis, spectroscopic characterization and DNA/HSA binding studies of (phenyl/naphthyl)ethenyl-substituted 1,3,4-oxadiazolyl-1,2,4-oxadiazoles
+DOI:10.1039/d0nj04530f
+ligand name:7ac
+ligand smiles:COC1=CC=C(C2=NOC(C3=NN=C(/C=C/C4=CC=CC=C4)O3)=N2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.2
+T;298.0
+KSV;1400.0
+kq;247000000000.0
+n;1.29
+K;
+Ka;
+Kb;1240.0
+ΔH;
+ΔS;
+ΔG;-17.6565
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

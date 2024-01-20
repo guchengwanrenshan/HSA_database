@@ -1,0 +1,95 @@
+Title:Fluorescence spectroscopy and molecular simulation on the interaction of caffeic acid with human serum albumin
+DOI:10.1002/bio.3135
+ligand name:caffeic acid
+ligand smiles:C1=CC(=C(C=C1/C=C/C(=O)O)O)O
+key residue(hbond):GLU188;LYS195;LYS199;GLN196;GLU292 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;4.94*10^4;5.87*10^4;7.01*10^4;
+kq;4.94*10^12;5.87*10^12;7.01*10^12;
+n;
+K;
+Ka;
+Kb;3.03*10^4;8.99*10^4;10.9*10^4;
+ΔH;15.48;15.48;15.48;
+ΔS;110.15;110.15;110.15;
+ΔG;-24.87;-28.45;-29.91;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

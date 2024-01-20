@@ -1,0 +1,69 @@
+Title:Mechanism of the interaction between benthiavalicarb-isopropyl and human serum albumin
+DOI:10.1080/00387010.2020.1756343
+ligand name:benthiavalicarb-isopropyl 
+ligand smiles:C[C@H](C1=NC2=C(S1)C=C(C=C2)F)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;8660.0;5140.0;4410.0
+kq;866000000000.0;514000000000.0;441000000000.0
+n;0.79;0.601;0.324
+K;
+Ka;
+Kb;796.5;71.9;3.2
+ΔH;-206.39;-206.39;-206.39
+ΔS;-654.93;-654.93;-654.93
+ΔG;-164.59;-99.09;-33.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

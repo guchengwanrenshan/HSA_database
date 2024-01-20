@@ -1,0 +1,69 @@
+Title:Spectroscopic approach of the interaction study of amphiphilic drugs with the serum albumins
+DOI:10.1016/j.colsurfb.2011.06.007
+ligand name:PMT
+ligand smiles: CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;280nm;290nm;
+pH;
+T;310.0;310.0
+KSV;27100.0;29900.0
+kq;2710000000000.0;2990000000000.0
+n;1.051
+K;51600.0;19500.0
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-27.02;-24.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:Binding of mitomycin C to blood proteins: A spectroscopic analysis and molecular docking
+DOI:10.1016/j.molstruc.2009.03.016
+ligand name:mitomycin C
+ligand smiles:CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;2.57*10^4;2.12*10^4;1.90*10^4;
+kq;2.57*10^12;2.12*10^12;1.90*10^12;
+n;1.02;1.02;1.01;
+K;
+Ka;
+Kb;3.35*10^4;2.71*10^4;2.07*10^4;
+ΔH;-17.71;-17.71;-17.71;
+ΔS;25.18;25.18;25.18;
+ΔG;-24.96;-25.21;-25.46;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

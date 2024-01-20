@@ -1,0 +1,95 @@
+Title:Investigation of binding interaction between human serum albumin with zirconium complex of curcumin and curcumin
+DOI:10.1080/07391102.2020.1819421
+ligand name:curcumin
+ligand smiles:COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O  
+key residue(hbond):Lys195;Ser202;Arg218;d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA and IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;2.02*10^6;
+kq;2.02*10^14;
+n;1.31
+K;
+Ka;1.25*10^6;
+Kb;
+ΔH;
+ΔS;
+ΔG;-34.76904;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.15*10^-14;
+E;
+R0;2.71;
+r;2.95
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

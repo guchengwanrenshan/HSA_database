@@ -1,0 +1,69 @@
+Title:Probing of possible olanzapine binding site on human serum albumin: Combination of spectroscopic methods and molecular dynamics simulation
+DOI:10.1016/j.jlumin.2014.09.027
+ligand name:olanzapine
+ligand smiles:CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.0;293.0;303.0;308.0
+KSV;31140.0;19140.0;11100.0;6240.0
+kq;
+n;0.853;0.867;0.88;0.921
+K;
+Ka;
+Kb;6622.0;4853.0;3338.0;2427.0
+ΔH;-28.03;-28.03;-28.03;-28.03
+ΔS;-25.52;-25.52;-25.52;-25.52
+ΔG;-20.81;-20.55;-20.3;-20.17
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

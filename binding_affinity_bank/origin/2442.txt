@@ -1,0 +1,95 @@
+Title:Multispectroscopic and computational studies of interaction of bovine serum albumin, human serum albumin and bovine hemoglobin with bisacodyl
+DOI:10.1016/j.molstruc.2021.131550
+ligand name:Bisacodyl
+ligand smiles:CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3  
+key residue(hbond):Ser480 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;5.3*10^3;
+kq;5.3*10^11;
+n;1.0;
+K;
+Ka;
+Kb;1.17*10^2;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.4*10^-14;
+E;0.27;
+R0;3.1;
+r;3.7;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

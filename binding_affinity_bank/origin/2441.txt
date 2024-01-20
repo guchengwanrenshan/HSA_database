@@ -1,0 +1,95 @@
+Title:Binding studies of phloridzin with human serum albumin and its effect on the conformation of protein
+DOI:10.1016/j.jpba.2011.05.018
+ligand name:phloridzin
+ligand smiles:C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;
+kq;
+n;1.31;1.33;1.36;1.42;
+K;
+Ka;
+Kb;6.67*10^4;6.45*10^4;6.12*10^4;5.56*10^4;
+ΔH;-6.41;-6.41;-6.41;-6.41;
+ΔS;70.30;70.30;70.30;70.30;
+ΔG;-26.73;-27.22;-27.71;-28.20;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.44*10^-14;
+E;0.062;
+R0;2.38;
+r;3.74;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

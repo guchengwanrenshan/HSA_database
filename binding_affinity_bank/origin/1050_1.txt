@@ -1,0 +1,95 @@
+Title:Studies on the interaction between HSA and new halogenated metformin derivatives: influence of lipophilic groups in the binding ability
+DOI:10.1080/07391102.2019.1627247
+ligand name:MFBr
+ligand smiles:CN(C)C(=N)NC(=N)\N=C\C1=CC=C(Br)C=C1
+key residue(hbond):Trp214;Ser453 d
+key residue(hydrophobic):Leu197;Phe210;Leu480 d 
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;305;310;315;
+KSV;3.90*10^4;3.93*10^4;3.19*10^4;
+kq;6.34*10^12;6.34*10^12;6.39*10^12;
+n;1.06;1.03;1.00;
+K;
+Ka;3.72*10^4;4.16*10^4;4.64*10^4;
+Kb;3.04*10^4;3.44*10^4;3.89*10^4;
+ΔH;18.56;18.56;18.56;
+ΔS;147;147;147;
+ΔG;-26.2;-26.9;-27.7;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

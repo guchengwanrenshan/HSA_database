@@ -1,0 +1,95 @@
+Title:Thermodynamic and computational analyses reveal the functional roles of the galloyl group of tea catechins in molecular recognition
+DOI:10.1371/journal.pone.0204856
+ligand name:EGCG-3''-O-Me
+ligand smiles:COC1=CC(=CC(O)=C1O)C(=O)O[C@@H]1CC2=C(O[C@@H]1C1=CC(O)=C(O)C(O)=C1)C=C(O)C=C2O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;303;
+n;1.0;
+K;
+Ka;
+Kb;
+ΔH;-33.0536;
+ΔS;19.3320;
+ΔG;-39.3296;
+Cp;
+Kd:140;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

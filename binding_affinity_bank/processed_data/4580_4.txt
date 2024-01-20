@@ -1,0 +1,69 @@
+Title:Interactions of human serum albumin with bioactive 3H-imidazo[4,5-a]acridines: Insights from fluorescence spectroscopic studies
+DOI:10.1134/s1068162016010131
+ligand name:Ve
+ligand smiles:CCCCN1C=NC2=C1C=CC1=NC3=C(C=CC=C3)C(Cl)=C21
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;33800.0
+kq;3380000000000.0
+n;1.14
+K;
+Ka;
+Kb;316000.0
+ΔH;
+ΔS;
+ΔG;-31.38
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

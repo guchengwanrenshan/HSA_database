@@ -1,0 +1,90 @@
+Title:Antioxidant Activity Evaluation and Assessment of the Binding Affinity to HSA of a New Catechol Hydrazinyl-Thiazole Derivative
+DOI:10.3390/antiox11071245
+ligand name:CHT
+ligand smiles:CC1=CSC([NH2+]/N=C/C2=CC=C(O)C(O)=C2)=N1
+key residue(hbond):PHE134;TYR161 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:FA1 d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;7.153*10^3;
+ΔH;-77.8224;
+ΔS;187.4432;
+ΔG;-21.9660;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;NMR
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

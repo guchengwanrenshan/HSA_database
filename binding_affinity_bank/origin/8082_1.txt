@@ -1,0 +1,90 @@
+Title:Investigations with spectroscopy, zeta potential and molecular modeling of the non-cooperative behaviour between cyclophosphamide hydrochloride and aspirin upon interaction with human serum albumin: binary and ternary systems from the view point of multi-drug therapy
+DOI:10.1080/07391102.2011.10507382
+ligand name:AYA
+ligand smiles:CC(=O)OC1=C(C(=O)O)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;280nm;280nm;280nm;295nm;
+pH;
+T;298;305;310;298;
+KSV;1.25*10^8;;;;0.56*10^8;
+kq;1.25*10^16;;;;0.56*10^16;
+n;0.73;;;;0.84;
+K;
+Ka;9.99*10^8;;;;1.25*10^8;
+Kb;
+ΔH;-8.13;-8.13;-8.13;;
+ΔS;10.17;10.17;10.17;;
+ΔG;-11.15;-10.69;-10.03;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;298;
+J;
+E;
+R0;
+r;1.78;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

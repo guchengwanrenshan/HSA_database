@@ -1,0 +1,95 @@
+Title:Interaction between anticancer drug quercetin and human serum albumin by spectroscopy
+DOI:None
+ligand name:quercetin
+ligand smiles:C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;318;
+KSV;1.96*10^5;1.51*10^5;1.41*10^5;
+kq;1.96*10^13;1.51*10^13;1.41*10^13;
+n;0.9458;0.8913;0.8096;
+K;
+Ka;2.12*10^5;2.31*10^5;3.59*10^5;
+Kb;11.2*10^4;4.58*10^4;1.48*10^4;
+ΔH;-57.19;-57.19;-57.19;
+ΔS;-95.27;-95.26;-100.0;
+ΔG;-28.80;-27.66;-25.39;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

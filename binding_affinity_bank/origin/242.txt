@@ -1,0 +1,95 @@
+Title:Unraveling the thermodynamics, binding mechanism and conformational changes of HSA with chromolyn sodium: Multispecroscopy, isothermal titration calorimetry and molecular docking studies
+DOI:10.1016/j.ijbiomac.2017.06.122
+ligand name: chromolyn sodium
+ligand smiles:C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)[O-])O)C(=O)C=C(O2)C(=O)[O-]
+key residue(hbond):Asp324 d
+key residue(hydrophobic):Arg209;Val216;Ala350;Ala213;Leu347;Lys351 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;2.44*10^4;2.281*10^4;2.099*10^4;
+kq;4.28*10^13;4.02*10^13;3.68*10^13;
+n;1.100;1.081;1.066
+K;
+Ka;
+Kb;6.81*10^4;
+ΔH;-31.8486;-31.8486;-31.8486;
+ΔS;-14.546;-14.540;-14.536;
+ΔG;-27.513984;-27.442856;-27.34244;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298
+n;
+K;
+Ka;
+Kb;1.6*10^4;
+ΔH;-36.844304;
+ΔS;-43.890;
+ΔG;-24.0162;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.157*10^-15
+E;
+R0;1.047
+r;1.633
+EFRET;6.48
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

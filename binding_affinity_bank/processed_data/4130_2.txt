@@ -1,0 +1,69 @@
+Title:Study of interactions between tetracyclines and human serum albumin
+DOI:None
+ligand name:tetracycline
+ligand smiles:C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;310.0
+KSV;39800.0;30400.0
+kq;3980000000000.0;3040000000000.0
+n;1.2;1.2
+K;
+Ka;
+Kb;65100.0;60300.0
+ΔH;-3.4023;-3.4023
+ΔS;80.5;80.5
+ΔG;-26.9999;-28.3573
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

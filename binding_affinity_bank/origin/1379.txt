@@ -1,0 +1,95 @@
+Title:Exploration of binding studies of β-oxalyldiamino propionic acid (β-ODAP), a non-protein amino acid with human serum albumin-biophysical and computational approach
+DOI:10.1080/07391102.2018.1528181
+ligand name:β-oxalyldiamino propionic acid (β-ODAP)
+ligand smiles:CC(=O)C(=O)N[C@H](N)C(O)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;
+KSV;
+kq;5.43*10^13;
+n;
+K;5.09*10^4;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-123.587;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

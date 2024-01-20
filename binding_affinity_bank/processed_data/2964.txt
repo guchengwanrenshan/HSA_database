@@ -1,0 +1,69 @@
+Title:Binding of antioxidant flavone isovitexin to human serum albumin investigated by experimental and computational assays
+DOI:10.1016/j.jpba.2014.05.015
+ligand name:isovitexin
+ligand smiles:C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;72000.0;59100.0;46700.0
+kq;72000000000000.0;59100000000000.0;46700000000000.0
+n;1.16;1.09;1.01
+K;
+Ka;
+Kb;105000.0;83000.0;58000.0
+ΔH;-22.1;-22.1;-22.1
+ΔS;19.6;19.6;19.6
+ΔG;-27.7;-27.9;-28.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Non-enzymatic glycation enhances human serum albumin binding capacity to sodium fluorescein at room temperature: A spectroscopic analysis
+DOI:10.1016/j.cca.2017.04.008
+ligand name:Sodium fluorescein
+ligand smiles:C1=CC=C(C(=C1)C2=C3C=CC(=O)C=C3OC4=C2C=CC(=C4)[O-])C(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II(subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;301;310;
+KSV;1.72*10^4;1.66*10^4;1.60*10^4;
+kq;
+n;1.17;1.034;0.91;
+K;96161.227;23388.372;6397.348;
+Ka;
+Kb;
+ΔH;-144.36;-144.36;-144.36;
+ΔS;-393.67;-393.67;-393.67;
+ΔG;-28.24;-25.16;-22.59;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

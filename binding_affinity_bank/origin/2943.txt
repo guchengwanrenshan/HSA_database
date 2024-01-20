@@ -1,0 +1,95 @@
+Title:Biophysical and molecular docking insight into interaction mechanism and thermal stability of human serum albumin isoforms with a semi-synthetic water-soluble camptothecin analog irinotecan hydrochloride
+DOI:10.1080/07391102.2015.1082504
+ligand name:irinotecan hydrochloride
+ligand smiles:CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+key residue(hbond):
+key residue(hydrophobic):His146;Ser193;Tyr150;Trp214;Asp187 d
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;4.99*10^4;4.47*10^4;4.40*10^4;
+kq;8.75*10^12;8.31*10^12;7.28*10^12;
+n;1.15;1.15;1.09;
+K;
+Ka;
+Kb;3.23*10^4;3.10*10^4;2.50*10^4;
+ΔH;-9.749;-9.749;-9.749;
+ΔS;71.767;71.746;71.803;
+ΔG;-30.334;-31.296;-31.924;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;2.16*10^3;
+ΔH;-45.313;
+ΔS;-88.173;
+ΔG;-19.037;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

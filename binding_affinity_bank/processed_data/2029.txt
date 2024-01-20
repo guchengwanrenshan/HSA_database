@@ -1,0 +1,69 @@
+Title:Comprehensive insights into the interaction mechanism between perfluorodecanoic acid and human serum albumin
+DOI:10.1039/c8nj00124c
+ligand name:perfluorodecanoic acid
+ligand smiles:C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.0567
+K;
+Ka;
+Kb;214000.0
+ΔH;-113.7211
+ΔS;-279.4912
+ΔG;-30.4106
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

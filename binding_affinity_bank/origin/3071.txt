@@ -1,0 +1,95 @@
+Title:Effect of cationic gemini surfactant and its monomeric counterpart on the conformational stability and esterase activity of human serum albumin
+DOI:10.1016/j.molliq.2018.03.070
+ligand name:16 MEA
+ligand smiles:CCCCCCCCCCCCCCCC[N+](C)(C)CCO
+key residue(hbond):GLN153 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;16.19*10^3;11.66*10^3;10.08*10^3;8.70*10^3;
+kq;16.19*10^11;11.66*10^11;10.08*10^11;8.70*10^11;
+n;1.054;1.042;1.039;1.017;
+K;
+Ka;
+Kb;32.16*10^3;18.36*10^3;15.28*10^3;10.50*10^3;
+ΔH;-55.00;-55.00;-55.00;-55.00;
+ΔS;-98.81;-98.81;-98.81;-98.81;
+ΔG;-25.54;-25.05;-24.56;-24.06;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

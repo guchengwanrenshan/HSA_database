@@ -1,0 +1,69 @@
+Title:Fluorescence spectroscopy and docking study in two flavonoids, isolated tectoridin and its aglycone tectorigenin, interacting with human serum albumin: a comparison study
+DOI:10.1002/bio.2918
+ligand name:tectoridin
+ligand smiles:COC1=C(C=C2C(=C1O)C(=O)C(=CO2)C3=CC=C(C=C3)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O
+key residue(hbond):Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;315.0
+KSV;44794.0;39729.0;38810.0
+kq;4479000000000.0;3973000000000.0;3881000000000.0
+n;1.0772;1.0544;1.0418
+K;
+Ka;
+Kb;102235.0;71040.0;58492.0
+ΔH;-25.177;-25.177;-25.177
+ΔS;11.48;11.48;11.48
+ΔG;-28.58;-28.79;-28.75
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

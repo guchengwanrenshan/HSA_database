@@ -1,0 +1,69 @@
+Title:Probing the interaction of cephalospor in antibiotic-ceftazidime with human serum albumin: Abiophysical investigation
+DOI:10.1016/j.ijbiomac.2017.07.036
+ligand name:Ceftazidime
+ligand smiles:CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):Gln397;Leu398;Gly399;Tyr401;Lys402;Glu542;Lys545;Ala546;Asp549 d
+PDBID:
+Binding Area:subdomain III; Sudlow's site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;18000.0
+kq;32000000000000.0
+n;1.1
+K;
+Ka;
+Kb;91000.0
+ΔH;
+ΔS;
+ΔG;-28.2904
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

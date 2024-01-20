@@ -1,0 +1,69 @@
+Title:Binding of Janus kinase inhibitor tofacitinib with human serum albumin: multi-technique approach
+DOI:10.1080/07391102.2015.1104522
+ligand name:tofacitinib
+ligand smiles:C[C@@H]1CCN(C[C@@H]1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N  
+key residue(hbond):	Asp549 d
+key residue(hydrophobic):Glu518;Gln522;Lys525;Ala552;Ala553;Glu556 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;46800.0
+kq;8350000000000.0
+n;1.07
+K;
+Ka;
+Kb;120000.0
+ΔH;
+ΔS;
+ΔG;-28.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

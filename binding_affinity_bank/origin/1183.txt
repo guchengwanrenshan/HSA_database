@@ -1,0 +1,95 @@
+Title:Structure of the complex of an iminopyridinedione protein tyrosine phosphatase 4A3 phosphatase inhibitor with human serum albumin
+DOI:10.1124/molpharm.120.000131
+ligand name:JMS-053
+ligand smiles:C1=CC=C(C=C1)C2=CC3=C(S2)C(=N)C(=O)NC3=O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:6WUW
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;303;
+n;1.0;
+K;
+Ka;8.5*10^3;
+Kb;
+ΔH;
+ΔS;
+ΔG;-23.4;
+Cp;
+Kd:118;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

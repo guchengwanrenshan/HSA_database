@@ -1,0 +1,93 @@
+Title:Effect of Kolavenic acid on the structure of human serum albumin
+DOI:None
+ligand name:Kolavenic acid
+ligand smiles:C[C@@H]1CC[C@@]2([C@@H]([C@@]1(C)CC/C(=C/C(=O)O)/C)CCC=C2C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;
+T;298;308;318;
+KSV;0.963*10^4;1.067*10^4;1.180*10^4;
+kq;
+n;0.87;0.85;0.70;
+K;
+Ka;
+Kb;1.642*10^4;1.986*10^4;3.650*10^4;
+ΔH;8.003;8.003;8.003;
+ΔS;103.112;103.112;103.112;
+ΔG;-22.724;-23.755;-24.787;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

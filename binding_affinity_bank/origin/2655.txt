@@ -1,0 +1,95 @@
+Title:Comparison of the interaction between three anthocyanins and human serum albumins by spectroscopy
+DOI:10.1016/j.jlumin.2014.03.004
+ligand name:Pelargonidin-3-O-glucoside
+ligand smiles:C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;5.452*10^4;5.350*10^4;4.472*10^4;
+kq;5.452*10^12;5.350*10^12;4.472*10^12;
+n;1.113;0.995;0.990;
+K;
+Ka;
+Kb;1.066*10^5;0.689*10^5;0.393*10^5;
+ΔH;-61.52;-61.52;-61.52;
+ΔS;-112.49;-112.49;-112.49;
+ΔG;-29.12;-28.00;-26.83;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.070;
+R0;1.839;
+r;2.83;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

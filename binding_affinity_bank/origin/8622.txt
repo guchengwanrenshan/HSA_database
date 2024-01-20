@@ -1,0 +1,90 @@
+Title:Mechanism study on the interaction between 2'-hydroxy-2,4-dibromo diphenyl ethers and human serum albumin based on spectroscopic methods and computional simulations
+DOI:10.7503/cjcu20141007
+ligand name:2'-hydroxy-2,4-dibromo diphenyl ethers
+ligand smiles:OC1=CC=CC=C1OC1=CC=C(Br)C=C1Br
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;310;
+KSV;4.58*10^6;3.44*10^6;2.71*10^6;
+kq;4.58*10^14;3.44*10^14;2.71*10^14;
+n;1.11;1.11;1.07;
+K;
+Ka;
+Kb;2.57*10^7;1.98*10^7;0.83*10^7;
+ΔH;-45.79;-45.79;-45.79;
+ΔS;-14.92;-14.92;-14.92;
+ΔG;-41.44;-41.34;-41.16;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.43*10^-14;
+E;0.34;
+R0;3.66;
+r;3.48;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

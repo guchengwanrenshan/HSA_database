@@ -1,0 +1,90 @@
+Title:Studies on interaction between pentafluoropropionic acid and human serum albumin by spectroscopy and computational simulation
+DOI:10.3969/j.issn.1004-4957.2015.07.004
+ligand name:IPC-PFFA-3
+ligand smiles:O=C(O)C(F)(F)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;310;
+KSV;7.47*10^5;6.91*10^5;4.16*10^5;
+kq;7.47*10^13;6.91*10^13;4.16*10^13;
+n;1.1057;1.0174;0.9768;
+K;
+Ka;3.89*10^6;8.91*10^5;3.09*10^5;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

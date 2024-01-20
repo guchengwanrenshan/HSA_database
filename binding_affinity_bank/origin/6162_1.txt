@@ -1,0 +1,93 @@
+Title:Multispectroscopic and molecular modeling approach to investigate the interaction of diclofop-methyl enantiomers with human serum albumin
+DOI:10.1016/j.jlumin.2014.06.040
+ligand name:S-diclofop-methyl
+ligand smiles:C[C@@H](C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;7.4;
+T;293;303;313;
+KSV;6.37*10^4;4.82*10^4;3.75*10^4;
+kq;6.37*10^12;4.82*10^12;3.75*10^12;
+n;0.892;0.859;0.794;
+K;
+Ka;7.211*10^4;6.917*10^4;6.555*10^4;
+Kb;5.639*10^4;4.092*10^4;2.528*10^4;
+ΔH;-3.63;-3.63;-3.63;
+ΔS;80.39;80.39;80.39;
+ΔG;-23.56;-24.36;-25.17;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

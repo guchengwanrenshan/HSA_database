@@ -1,0 +1,95 @@
+Title:A concise approach to 1,11-didechloro-6-methyl-4'-O-demethyl rebeccamycin and its binding to human serum albumin: Fluorescence spectroscopy and molecular modeling method
+DOI:10.1016/j.bmc.2008.07.017
+ligand name:JDC-108
+ligand smiles:CN1C(=O)C2=C(C1=O)C1=C(N([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)C3=C1C=CC=C3)C1=C2C2=C(N1)C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;299;309;
+KSV;2.09*10^5;1.85*10^5;1.60*10^5;
+kq;2.09*10^13;1.85*10^13;1.60*10^13;
+n;0.9957;0.9333;1.0689;
+K;
+Ka;
+Kb;2.31*10^5;1.95*10^5;1.45*10^5;
+ΔH;-12.17;-12.17;-12.17;
+ΔS;60.56;60.56;60.56;
+ΔG;-29.67;-30.28;-30.53;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.55523*10^-15;
+E;0.1284;
+R0;2.34;
+r;3.22;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

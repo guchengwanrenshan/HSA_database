@@ -1,0 +1,69 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Oxamyl
+ligand smiles:CNC(=O)O/N=C(/C(=O)N(C)C)\SC 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;52290.0;57350.0;66050.0
+kq;5339000000000.0;5735000000000.0;6605000000000.0
+n;0.774;0.789;0.807
+K;
+Ka;
+Kb;3914.0;5139.0;7112.0
+ΔH;32.515;32.515;32.515
+ΔS;178.534;178.534;178.534
+ΔG;-20.331;-21.581;-22.831
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

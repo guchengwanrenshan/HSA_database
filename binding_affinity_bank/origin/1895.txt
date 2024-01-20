@@ -1,0 +1,95 @@
+Title:The evaluation of acute toxicity, antimicrobial activity of 1-phenyl-5-p-tolyl-1H-1, 2, 3-triazole, and binding to human serum albumin
+DOI:10.1002/jbt.21959
+ligand name:PPTA
+ligand smiles:CC1=CC=C(C=C1)C1=CN=NN1C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;6.72*10^3;6.40*10^3;4.72*10^3;
+kq;
+n;0.95;0.80;0.90;
+K;0.836*10^4;1.293*10^4;1.536*10^4;
+Ka;
+Kb;
+ΔH;-13.893;-13.893;-13.893;
+ΔS;27.162;27.162;27.162;
+ΔG;-22.014;-22.286;-22.557;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.9515*10^-14
+E;
+R0;2.64;
+r;4.97;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

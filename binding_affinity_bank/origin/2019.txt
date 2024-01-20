@@ -1,0 +1,95 @@
+Title:Effect of N-Butyl-N-Methyl-Morpholinium Bromide Ionic Liquid on the Conformation Stability of Human Serum Albumin
+DOI:10.1002/slct.201601477
+ligand name:N-Butyl-N-Methyl-Morpholinium Bromide
+ligand smiles:CCCC[N+]1(Br)CCOCC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;308;313;
+KSV;0.62*10^3;0.61*10^3;0.45*10^3;0.39*10^3;0.37*10^3;0.30*10^3;
+kq;1.00*10^11;0.99*10^11;0.74*10^11;0.64*10^11;0.60*10^11;0.49*10^11;
+n;0.81;0.82;1.12;1.06;1.06;1.15;
+K;
+Ka;
+Kb;0.61*10^3;0.60*10^3;0.44*10^3;0.39*10^3;0.36*10^3;0.29*10^3;
+ΔH;-23.61;-23.61;-23.61;-23.61;-23.61;-23.61;
+ΔS;-20;-20;-20;-20;-20;-20;
+ΔG;-15.87;-15.74;-15.60;-15.47;-15.34;-15.20;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

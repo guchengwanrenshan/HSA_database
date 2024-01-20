@@ -1,0 +1,69 @@
+Title:Insight into the interaction of benzothiazole tethered triazole analogues with human serum albumin: Spectroscopy and molecular docking approaches
+DOI:10.1002/bio.3676
+ligand name:MS70
+ligand smiles:FC1=CC=C(N2C=C(CN(CC3=CN(N=N3)C3=CC=C(F)C=C3F)C3=NC4=C(S3)C=CC=C4)N=N2)C(F)=C1
+key residue(hbond):Y452;K436d
+key residue(hydrophobic):H146;E425;K190;D187;A191;K432;D451;V455;N429;E459;A194;S193d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;3300.0
+kq;3100000000000.0
+n;0.7
+K;
+Ka;
+Kb;2154.0
+ΔH;
+ΔS;
+ΔG;-19.0156
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Binding analysis of glycyrrhetinic acid to human serum albumin: Fluorescence spectroscopy, FTIR, and molecular modeling
+DOI:10.1016/j.bmc.2005.12.034
+ligand name:glycyrrhetinic acid(C_GEA/C_HSA < 5.2)
+ligand smiles:C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;301;310;318;
+KSV;
+kq;
+n;0.44;0.43;0.46;0.54;
+K;
+Ka;2.77*10^5;1.66*10^5;1.21*10^5;0.776*10^5;
+Kb;2.74*10^5;1.65*10^5;1.18*10^5;0.743*10^5;
+ΔH;-36.33;-36.33;-36.33;-36.33;
+ΔS;-20.66;-20.66;-20.66;-20.66;
+ΔG;-30.22;-30.11;-29.93;-29.76;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

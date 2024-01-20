@@ -1,0 +1,69 @@
+Title:Unravelling the interaction of glipizide with human serum albumin using various spectroscopic techniques and molecular dynamics studies
+DOI:10.1080/07391102.2019.1711195
+ligand name:glipizide
+ligand smiles:CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3  
+key residue(hbond):
+key residue(hydrophobic):Lys195;His288;Lys444;Pro447 d
+PDB ID:
+Binding Area: subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;310.0
+KSV;49400.0;60700.0;75700.0
+kq;8540000000000.0;10500000000000.0;13100000000000.0
+n;1.05;1.04;1.03
+K;97000.0;106000.0;115000.0
+Ka;
+Kb;
+ΔH;7.573;7.573;7.573
+ΔS;121.2;121.2;121.2
+ΔG;-27.949;-29.162;-29.999
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

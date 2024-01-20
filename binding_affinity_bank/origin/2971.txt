@@ -1,0 +1,95 @@
+Title:Spectroscopic investigation on the binding of bioactive pyridazinone derivative to human serum albumin and molecular modeling
+DOI:10.1016/j.colsurfb.2008.03.008
+ligand name:CNPB
+ligand smiles:[O-][N+](=O)C1=C(C=C(Cl)C=C1)C(=O)NC1=CC=C(C=C1)C1=NNC(=O)CC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;
+KSV;8.407*10^4;8.346*10^4;
+kq;8.407*10^12;8.346*10^12;
+n;0.94;0.92;
+K;
+Ka;1.17*10^5;0.73*10^5;
+Kb;4.22*10^4;3.32*10^4;
+ΔH;-17.35;-17.35;
+ΔS;9.57;9.57;
+ΔG;-20.12;-20.22;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.1248*10^-14;
+E;0.8115;
+R0;2.5;
+r;1.96;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Human serum albumin interaction with paraquat studied using spectroscopic methods
+DOI:10.1016/j.pestbp.2006.05.003
+ligand name:paraquat
+ligand smiles:C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;295.0;302.0;309.0
+KSV;39540.0;37700.0;36720.0;34950.0
+kq;3954000000000.0;3770000000000.0;3672000000000.0;3495000000000.0
+n;1.1037;1.0826;1.0285;1.0117
+K;
+Ka;
+Kb;42453.0;39879.0;35944.0;34389.0
+ΔH;-6.71;-6.71;-6.71;-6.71
+ΔS;64.849;64.849;64.849;64.849
+ΔG;-25.386;-25.84;-26.294;-26.748
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

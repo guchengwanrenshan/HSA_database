@@ -1,0 +1,69 @@
+Title:Shedding light on the molecular interaction between the Hepatitis B virus inhibitor, clevudine, and human serum albumin: Thermodynamic, spectroscopic, microscopic, and in silico analyses
+DOI:10.1016/j.molliq.2022.120737
+ligand name:clevudine
+ligand smiles:CC1=CN(C(=O)NC1=O)[C@@H]2[C@@H]([C@H]([C@@H](O2)CO)O)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0;315.0
+KSV;10830.0;9700.0;8470.0;7300.0
+kq;1700000000000.0;1520000000000.0;1330000000000.0;1140000000000.0
+n;1.04;1.08;1.12;1.16
+K;
+Ka;
+Kb;11200.0;10400.0;9120.0;8650.0
+ΔH;-7.89;-7.89;-7.89;-7.89
+ΔS;51.89;51.89;51.89;51.89
+ΔG;-22.5;-23.04;-23.55;-23.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

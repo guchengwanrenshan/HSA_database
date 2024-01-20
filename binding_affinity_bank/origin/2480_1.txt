@@ -1,0 +1,95 @@
+Title:Binding of the endocrine disruptors 4-tert-octylphenol and 4-nonylphenol to human serum albumin
+DOI:10.1016/j.jhazmat.2013.01.036
+ligand name:4-nonylphenol
+ligand smiles:CCCCCCCCCC1=CC=C(C=C1)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;3.63*10^4;4.72*10^4;5.35*10^4;
+ΔH;14.55;14.55;14.55;
+ΔS;137.62;137.62;137.62;
+ΔG;-25.36;-26.74;-28.11;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.14;
+R0;2.44;
+r;3.31;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

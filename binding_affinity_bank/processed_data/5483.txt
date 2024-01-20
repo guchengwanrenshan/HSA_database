@@ -1,0 +1,69 @@
+Title:Binding mechanism of phloretin and human serum albumin
+DOI:10.11653/syfj2013150178
+ligand name:phloretin
+ligand smiles:C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;313.0
+KSV;114020.0;106710.0;82800.0
+kq;11402000000000.0;10671000000000.0;8280000000000.0
+n;1.0255;0.991;0.9795
+K;
+Ka;109020.0;100890.0;48910.0
+Kb;151810.0;94412.0;54178.0
+ΔH;53.28;53.28;53.28
+ΔS;277.99;277.99;277.99
+ΔG;-29.56;-28.39;-27.01
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Determination of interactions between human serum albumin and niraparib through multi-spectroscopic and computational methods
+DOI:10.1016/j.saa.2018.07.100
+ligand name: niraparib
+ligand smiles:C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N  
+key residue(hbond):Tyr138 d
+key residue(hydrophobic):Phe134;Phe165;Tyr161;Leu115;Lys190;Arg186;Ile142;Ala158 d
+PDB ID:
+Binding Area:site III(IB subdomains)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310
+KSV;3.386*10^4;3.148*10^4;2.988*10^4;
+kq;
+n;1.026;1.018;1.004;
+K;
+Ka;
+Kb;4.408*10^4;3.551*10^4;2.844*10^4;
+ΔH;-15.238;-15.238;-15.238;
+ΔS;36.955;36.955;36.955;
+ΔG;-26.251;-26.472;-26.694;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

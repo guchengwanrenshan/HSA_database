@@ -1,0 +1,95 @@
+Title:Molecular interaction study of an anticancer drug, ponatinib with human serum albumin using spectroscopic and molecular docking methods
+DOI:10.1016/j.saa.2019.02.028
+ligand name:ponatinib
+ligand smiles:CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5
+key residue(hbond):Lys195;Arg222;Cys448;Pro447(site I);Glu383(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area: Sudlow's sites I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;5.17 *10^4;4.57*10^4;3.43 *10^4;
+kq;8.10*10^12;7.16*10^12;5.38*10^12;
+n;
+K;
+Ka;5.75*10^4;4.93*10^4;3.52*10^4;
+Kb;
+ΔH;-12.49;-12.49;-12.49;
+ΔS;47.53;47.53;47.53;
+ΔG;-26.18;-26.66;-27.13;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

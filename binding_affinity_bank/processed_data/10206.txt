@@ -1,0 +1,69 @@
+Title:Deciphering the Fluorescence Resonance Energy Transfer Signature of 3-Pyrazolyl 2-Pyrazoline in Transport Proteinous Environment
+DOI:10.1021/jp811479r
+ligand name:3-Pyrazolyl 2-Pyrazoline
+ligand smiles:[H][C@]12CCC([H])(C1)[C@@]1([H])C2N(N=C1C1=C(C#N)C(C)=NN1C1=CC=CC=C1)C1=CC=C(Br)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;36200.0
+kq;
+n;0.9
+K;
+Ka;43700.0
+Kb;36500.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

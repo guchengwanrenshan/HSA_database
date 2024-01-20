@@ -1,0 +1,95 @@
+Title:Interaction of conazole pesticides epoxiconazole and prothioconazole with human and bovine serum albumin studied using spectroscopic methods and molecular modeling
+DOI:10.3390/ijms22041925
+ligand name:Eepoxiconazole (EPX) 
+ligand smiles:C1=CC=C(C(=C1)C2C(O2)(CN3C=NC=N3)C4=CC=C(C=C4)F)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;
+kq;
+n;0.98;0.95;0.91;
+K;
+Ka;6.22*10^4;2.04*10^4;8.14*10^4;
+Kb;
+ΔH;-105.74;-105.74;-105.74;
+ΔS;-265.88;-265.88;-265.88;
+ΔG;-26.51;-25.18;-23.32;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

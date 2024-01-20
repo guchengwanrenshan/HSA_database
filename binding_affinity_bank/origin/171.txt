@@ -1,0 +1,95 @@
+Title:Comparative investigation of binding interactions between three steroidal compounds and human serum albumin: Multispectroscopic and molecular modeling techniques
+DOI:10.1016/j.steroids.2017.09.011
+ligand name:steroidal compound I
+ligand smiles:CC16CCC(O)CC1=CCC5C4CCC(=NN=Cc3ccc2ccccc2c3)C4(C)CCC56
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA) and Sudlow's site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;4.75*10^5;4.35*10^5;3.97*10^5;
+kq;
+n;1.0;1.0;1.0
+K;
+Ka;4.46*10^5;2.59*10^5;1.51*10^5;
+Kb;
+ΔH;-69.05;-69.05;-69.05;
+ΔS;-123.54;-123.54;-123.54;
+ΔG;-32.23;-31.49;-30.75;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

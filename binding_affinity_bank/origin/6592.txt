@@ -1,0 +1,94 @@
+Title:Fluorescence study on the interaction of human serum albumin with Butein in liposomes [Erratum to document cited in CA163:660411]
+DOI:10.1016/j.saa.2015.12.018
+ligand name:Butein
+ligand smiles:C1=CC(=C(C=C1/C=C/C(=O)C2=C(C=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;270;270;270;270;270;270;
+pH;
+T;303;306;309;311;314;316;
+KSV;1.147*10^5;1.133*10^5;1.028*10^5;0.954*10^5;0.788*10^5;0.743*10^5;
+kq;1.147*10^13;1.133*10^13;1.028*10^13;0.954*10^13;0.788*10^13;0.743*10^13;
+n;1.365;1.389;1.410;1.467;1.575;1.587;
+K;
+Ka;
+Kb;8.649*10^6;11.238*10^6;13.088*10^6;23.318*10^6;66.880*10^6;72.660*10^6;
+ΔH;143.3;143.3;143.3;143.3;143.3;143.3;
+ΔS;603.3;603.3;603.3;603.3;603.3;603.3;
+ΔG;-39.5;-41.3;-43.2;-44.4;-46.2;-47.4;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

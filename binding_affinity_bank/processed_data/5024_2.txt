@@ -1,0 +1,69 @@
+Title:Binding of Hydroxyquinoline Probes to Human Serum Albumin: Combining Molecular Modeling and Foerster's Resonance Energy Transfer Spectroscopy to Understand Flexible Ligand Binding
+DOI:10.1021/jp311238n
+ligand name:8HQ
+ligand smiles:OC1=CC=CC2=C1N=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0
+KSV;9100.0
+kq;1400000000000.0
+n;1.2
+K;
+Ka;
+Kb;100000.0
+ΔH;
+ΔS;
+ΔG;-28.3327
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

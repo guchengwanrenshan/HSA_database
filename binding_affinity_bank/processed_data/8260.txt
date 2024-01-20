@@ -1,0 +1,69 @@
+Title:Quantitative investigation of the dynamic interaction of human serum albumin with procaine using a multi-way calibration method coupled with three-dimensional fluorescence spectroscopy
+DOI:10.1039/c5ay00790a
+ligand name:procaine
+ligand smiles:CCN(CC)CCOC(=O)C1=CC=C(C=C1)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;303.0;310.0
+KSV;
+kq;
+n;1.2;1.2;1.2
+K;
+Ka;
+Kb;2040000.0;850000.0;820000.0
+ΔH;-36.2;-36.2;-36.2
+ΔS;-4.51;-4.51;-4.51
+ΔG;-34.89;-34.83;-34.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;2040000.0;850000.0;820000.0
+ΔH;-36.2;-36.2;-36.2
+ΔS;-4.51;-4.51;-4.51
+ΔG;-34.89;-34.83;-34.8
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;290.0;303.0;310.0
+n;1.2;1.2;1.2
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

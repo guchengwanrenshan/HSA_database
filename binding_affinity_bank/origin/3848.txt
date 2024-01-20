@@ -1,0 +1,95 @@
+Title:Evaluation of binding mode between anticancer drug etoposide and human serum albumin by numerous spectrometric techniques and molecular docking
+DOI:10.1016/j.chemphys.2019.110593
+ligand name:Etoposide
+ligand smiles:C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;300;308;
+KSV;2.68*10^5;2.28*10^5;1.86*10^5;
+kq;9.93*10^13;8.44*10^13;6.88*10^13;
+n;1.407;1.259;1.118;
+K;
+Ka;4.13*10^5;3.15*10^5;2.44*10^5;
+Kb;20.14*10^5;6.05*10^5;1.70*10^5;
+ΔH;-115.315;-115.315;-115.315;
+ΔS;-274.278;-274.278;-274.278;
+ΔG;-35.23;-33.03;-30.84;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.39*10^-15;
+E;0.28;
+R0;1.76473;
+r;2.06557;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

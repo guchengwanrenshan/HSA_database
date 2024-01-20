@@ -1,0 +1,69 @@
+Title:Investigation of the interactions between three flavonoids and human serum albumin by isothermal titration calorimetry, spectroscopy, and molecular docking
+DOI:10.1039/d2nj00314g
+ligand name:Taxifolin
+ligand smiles:C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):LEU453;LEU430 d
+PDB ID:
+Binding Area:site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;301.0;311.0
+KSV;138000.0;166000.0;180000.0
+kq;13800000000000.0;16600000000000.0;18000000000000.0
+n;1.0748;1.0466;1.0057
+K;
+Ka;
+Kb;240000.0;183000.0;136000.0
+ΔH;-12.41;-12.41;-12.41
+ΔS;63.18;63.18;63.18
+ΔG;-30.79;-31.42;-32.05
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.99
+K;
+Ka;
+Kb;129000.0
+ΔH;-1.21
+ΔS;93.7216
+ΔG;-29.1206
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

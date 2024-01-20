@@ -1,0 +1,90 @@
+Title:Investigation of the interaction between indigotin and two serum albumins by spectroscopic approaches
+DOI:10.1016/j.jpha.2013.01.004
+ligand name:indigotin
+ligand smiles:C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;304;310;
+KSV;1.135*10^5;1.056*10^5;0.960*10^5;0.840*10^5;
+kq;1.135*10^13;1.056*10^13;0.960*10^13;0.840*10^13;
+n;1.13;1.15;1.17;1.21;
+K;
+Ka;
+Kb;4.824*10^5;6.005*10^5;6.518*10^5;7.513*10^5;
+ΔH;18.573;18.573;18.573;18.573;
+ΔS;0.172;0.172;0.172;0.172;
+ΔG;-31.965;-32.827;-33.862;-34.897;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.920*10^-15;
+E;0.306;
+R0;2.517;
+r;2.885;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Thermodynamic and structural profiles of multi-target binding of vinblastine in solution
+DOI:10.1002/jmr.2989
+ligand name:vinblastine
+ligand smiles:CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:TR-5 binding site d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;0.0088;0.0101;0.0122
+kq;
+n;
+K;
+Ka;
+Kb;1239.47;3566.88;13307.41
+ΔH;75.42;100.47;87.52
+ΔS;320.0;400.0;360.0
+ΔG;-17.16;-20.39;-24.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

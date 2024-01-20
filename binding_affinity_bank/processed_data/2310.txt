@@ -1,0 +1,69 @@
+Title:Interactions between the antiviral drug telaprevir and human serum albumin: a combined study with spectroscopic methods and molecular modeling
+DOI:10.1039/c8nj00655e
+ligand name:Telaprevir
+ligand smiles:CCC[C@@H](C(=O)C(=O)NC1CC1)NC(=O)[C@@H]2[C@H]3CCC[C@H]3CN2C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C4CCCCC4)NC(=O)C5=NC=CN=C5 
+key residue(hbond):Lys199;Arg222;Glu292 d
+key residue(hydrophobic):Trp214;Leu219;Leu 238 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;9709.0;9171.0;8735.0
+kq;
+n;1.094;1.07;1.028
+K;
+Ka;
+Kb;25590.0;17860.0;11690.0
+ΔH;-50.07;-50.07;-50.07
+ΔS;-83.73;-83.73;-83.73
+ΔG;-25.11;-24.61;-24.11
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

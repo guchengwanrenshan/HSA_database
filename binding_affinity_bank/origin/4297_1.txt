@@ -1,0 +1,95 @@
+Title:Fluorescence spectroscopy and docking study in two flavonoids, isolated tectoridin and its aglycone tectorigenin, interacting with human serum albumin: a comparison study
+DOI:10.1002/bio.2918
+ligand name:tectorigenin
+ligand smiles:COC1=C(C2=C(C=C1O)OC=C(C2=O)C3=CC=C(C=C3)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;315;
+KSV;60752;66748;73486;
+kq;6.075*10^12;6.675*10^12;7.349*10^12;
+n;1.0535;1.0693;1.0783;
+K;
+Ka;
+Kb;130858;138548;140832;
+ΔH;3.43;3.43;3.43;
+ΔS;109.47;109.47;109.47;
+ΔG;-29.19;-30.51;-31.05;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.034*10^-14;
+E;0.219;
+R0;3.01;
+r;3.72;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

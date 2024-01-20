@@ -1,0 +1,95 @@
+Title:Characterizing the interaction between pyrogallol and human serum albumin by spectroscopic and molecular docking methods
+DOI:10.1080/07391102.2018.1496854
+ligand name: Pyrogallol
+ligand smiles: C1=CC(=C(C(=C1)O)O)O
+key residue(hbond): Ala291;Ser287;Arg257;Tyr150 d
+key residue(hydrophobic):His288;Ile264;Ala261;Leu260;Ile290;Val241 d
+PDB ID:
+Binding Area: site I (sub-domain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310
+KSV;4.589*10^4;4.154*10^4;2.904*10^4;
+kq;4.589*10^12;4.154*10^12;2.904*10^12;
+n;0.9969;1.130;1.315;
+K;
+Ka;3.903*10^4;2.897*10^4;1.498*10^4;
+Kb;
+ΔH;-61.08;-61.08;-61.08;
+ΔS;-144.04;-144.04;-144.04;
+ΔG;-21.42;-20.25;-18.14;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.4247*10^-19
+E;0.084
+R0;6.25
+r;1.93
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

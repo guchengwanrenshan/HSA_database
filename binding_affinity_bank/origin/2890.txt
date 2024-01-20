@@ -1,0 +1,95 @@
+Title:Potential toxicity of amphenicol antibiotic: binding of chloramphenicol to human serum albumin
+DOI:10.1007/s11356-014-3081-7
+ligand name:chloramphenicol
+ligand smiles:C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-] 
+key residue(hbond):Arg222;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(sub-domain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;1.338*10^4;1.148*10^4;0.903*10^4;
+kq;1.338*10^12;1.148*10^12;0.903*10^12;
+n;
+K;
+Ka;
+Kb;6.054*10^4;4.569*10^4;3.196*10^4
+ΔH;-34.77;-34.77;-34.77;
+ΔS;-25.81;-25.81;-25.81;
+ΔG;-27.13;-26.95;-26.77;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Probing the binding of thioTEPA to human serum albumin using spectroscopic and molecular simulation approaches
+DOI:10.1139/cjc-2013-0571
+ligand name:thioTEPA
+ligand smiles:C1CN1P(=S)(N2CC2)N3CC3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;306.0;310.0
+KSV;2848.2;1466.9;1428.3
+kq;284820000000.0;146690000000.0;142830000000.0
+n;0.8058;0.9392;0.9083
+K;
+Ka;
+Kb;1056.5;1035.8;1027.2
+ΔH;-1.8105;-1.8105;-1.8105
+ΔS;-0.0056;-0.0056;-0.0056
+ΔG;-0.1362;-0.0894;-0.0692
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

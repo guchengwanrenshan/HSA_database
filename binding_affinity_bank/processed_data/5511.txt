@@ -1,0 +1,69 @@
+Title:Combined voltammetric and spectroscopic investigation of binding interaction between nifedipine and human serum albumin on polyelectrolyte modified ITO electrode
+DOI:10.1016/j.electacta.2013.08.130
+ligand name:nifedipine
+ligand smiles:CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;32800.0;35900.0;38500.0
+kq;3280000000000.0;3590000000000.0;3850000000000.0
+n;1.08;1.04;1.01
+K;
+Ka;
+Kb;247.52;266.67;293.26
+ΔH;-36.43;-36.43;-36.43
+ΔS;-117.48;-117.48;-117.48
+ΔG;-1.421;-0.8336;-0.2462
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

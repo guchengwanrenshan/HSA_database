@@ -1,0 +1,95 @@
+Title:Acridine Based N-Acylhydrazone Derivatives as Potential Anticancer Agents: Synthesis, Characterization and ctDNA/HSA Spectroscopic Binding Properties
+DOI:10.3390/molecules27092883
+ligand name:3a
+ligand smiles:O=C(N\N=C\C1=CC=CC2=CC3=C(C=CC=C3)N=C12)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;2.67*10^5;2.68*10^5;2.61*10^5;
+kq;2.67*10^13;2.68*10^13;2.61*10^13;
+n;1.068;1.054;1.023;
+K;
+Ka;
+Kb;6.10*10^5;5.18*10^5;3.46*10^5;
+ΔH;-43.21;-43.21;-43.21;
+ΔS;-33.80;-33.80;-33.80;
+ΔG;-33.13;-32.96;-32.79;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

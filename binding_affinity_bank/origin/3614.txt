@@ -1,0 +1,95 @@
+Title:Docking simulations and spectroscopy of the interactions of ellagic acid and oleuropein with human serum albumin
+DOI:10.1016/j.jlumin.2014.06.002
+ligand name:ellagic acid
+ligand smiles:C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;309;319;
+KSV;65.46*10^4;43.9*10^4;39.43*10^4;
+kq;
+n;1.076;1.041;0.991;
+K;
+Ka;
+Kb;103.5*10^4;73.27*10^4;33.73*10^4;
+ΔH;-59.47;-59.47;-59.47;
+ΔS;-80.45;-80.45;-80.45;
+ΔG;-35.66;-34.61;-33.8;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

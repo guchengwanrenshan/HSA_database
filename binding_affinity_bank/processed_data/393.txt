@@ -1,0 +1,69 @@
+Title:Non-enzymatic glycation of human serum albumin modulates its binding efficacy towards bioactive flavonoid chrysin: A detailed study using multi-spectroscopic and computational methods
+DOI:10.1080/07391102.2019.1711196
+ligand name:chrysin
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O  
+key residue(hbond): Tyr150;Arg257(subdomain IIA);Lys413;Thr540(subdomain IIIA)
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA and IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;319300.0;257300.0;172300.0
+kq;56710000000000.0;45700000000000.0;30600000000000.0
+n;0.723;0.758;0.601
+K;
+Ka;
+Kb;703500.0;477900.0;348500.0
+ΔH;-25.938;-25.938;-25.938
+ΔS;22.248;22.248;22.248
+ΔG;-32.39;-32.612;-32.835
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

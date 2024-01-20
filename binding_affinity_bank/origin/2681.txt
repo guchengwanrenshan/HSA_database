@@ -1,0 +1,95 @@
+Title:Exploring the interactions of decabrominateddiphenyl ether and tetrabromobisphenol A with human serum albumin
+DOI:10.1016/j.etap.2014.08.009
+ligand name:decabrominateddiphenyl ether
+ligand smiles:C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br  
+key residue(hbond):
+key residue(hydrophobic):Leu115;Leu182;Ile142;Met123 d
+PDB ID:
+Binding Area:subdomain IIA;subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;
+kq;
+n;0.91;0.94;
+K;
+Ka;
+Kb;1.22*10^4;1.38*10^4;
+ΔH;7.82;7.82;
+ΔS;104.46;104.46;
+ΔG;-23.31;-24.57;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

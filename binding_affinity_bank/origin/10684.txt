@@ -1,0 +1,90 @@
+Title:Spectroscopic, docking and molecular dynamics simulation studies on the interaction of etofylline and human serum albumin
+DOI:10.22036/pcr.2019.176484.1606
+ligand name:Etofylline
+ligand smiles:CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CCO  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;4.90*10^3;4.67*10^3;4.43*10^3;
+kq;4.90*10^11;4.67*10^11;4.43*10^11;
+n;0.988;0.971;0.970;
+K;
+Ka;
+Kb;4.92*10^3;4.65*10^3;4.31*10^3;
+ΔH;-5.71;-5.71;-5.71;
+ΔS;51.14;51.14;51.14;
+ΔG;-20.95;-21.20;-21.56;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.72*10^-15;
+E;0.2645;
+R0;1.83;
+r;2.17;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Characterization of interaction and the effect of carbamazepine on the structure of human serum albumin
+DOI:10.1016/j.jpba.2010.05.025
+ligand name:carbamazepine
+ligand smiles:C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;307;
+KSV;
+kq;
+n;1.031;1.015;1.055;0.983;
+K;
+Ka;
+Kb;2.394*10^4;2.081*10^4;1.813*10^4;1.621*10^4;
+ΔH;-19.76;-19.76;-19.76;-19.76;
+ΔS;15.58;15.58;15.58;15.58;
+ΔG;-24.57;-24.64;-24.71;-24.82;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.16*10^-15;
+E;
+R0;2.91;
+r;3.43;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

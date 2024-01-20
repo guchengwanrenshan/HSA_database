@@ -1,0 +1,69 @@
+Title:Spectroscopic study of interaction of harpagoside and human serum albumin
+DOI:10.11895/j.issn.0253-3820.160873
+ligand name:harpagoside
+ligand smiles:C[C@@]1(C[C@H]([C@]2([C@@H]1[C@@H](OC=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)OC(=O)/C=C/C4=CC=CC=C4
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;(buffer)B-R;B-R;B-R;Tris-HCl;Tris-HCl;Tris-HCl;
+pH;7.0;7.0;7.0;7.4;7.4;7.4
+T;297.0;310.0;323.0;297.0;310.0;323.0
+KSV;56100.0;42700.0;41400.0;51400.0;48800.0;43300.0
+kq;5610000000000.0;4270000000000.0;4140000000000.0;5140000000000.0;4880000000000.0;4330000000000.0
+n;1.3252;1.0532;1.2439;1.2771;1.2376;1.0888
+K;
+Ka;
+Kb;1460000.0;578000.0;290000.0;642000.0;301000.0;120000.0
+ΔH;-49.59;-49.59;-49.59;-51.29;-51.29;-51.29
+ΔS;-49.21;-49.21;-49.21;-61.22;-61.22;-61.22
+ΔG;-34.98;-34.34;-33.7;-33.11;-32.31;-31.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

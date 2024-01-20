@@ -1,0 +1,69 @@
+Title:Interaction of daunomycin antibiotic with human serum albumin: Investigation by resonant mirror biosensor technique, fluorescence spectroscopy and molecular modeling methods
+DOI:10.1016/j.jpba.2005.03.045
+ligand name:daunomycin
+ligand smiles:C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O  
+key residue(hbond):Ser193 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0
+KSV;62300.0
+kq;6230000000000.0
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Synthesis and bioactive evaluation of novel hybrids of metronidazole and berberine as new type of antimicrobial agents and their transportation behavior by human serum albumin
+DOI:10.1016/j.bmc.2013.05.007
+ligand name:5g
+ligand smiles:COC1=C(OCCN(CCN2C=NC=C2[N+]([O-])=O)CC2=CC=C(F)C=C2F)C2=C[N+]3=C(C=C2C=C1)C1=C(CC3)C=C2OCOC2=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295.0;304.0;310.0
+KSV;33250.0;31600.0;30800.0
+kq;
+n;1.17;1.37;1.46
+K;
+Ka;54900.0;37800.0;30800.0
+Kb;50800.0;38000.0;30200.0
+ΔH;-17.86;-17.86;-17.86
+ΔS;28.09;28.09;28.09
+ΔG;-25.89;-26.23;-26.58
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

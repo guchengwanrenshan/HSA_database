@@ -1,0 +1,94 @@
+Title:Interaction of caffeine with human serum albumin by molecular spectroscopy
+DOI:10.3969/j.issn.1008-0805.2012.11.019
+ligand name:caffeine
+ligand smiles:CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;3.86*10^4;4.04*10^4;
+kq;
+n;1.23;1.09;
+K;
+Ka;
+Kb;33.5*10^4;9.53*10^4;
+ΔH;-80.45;-80.45;
+ΔS;-164.23;-164.23;
+ΔG;-31.52;-29.55;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;4.76;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

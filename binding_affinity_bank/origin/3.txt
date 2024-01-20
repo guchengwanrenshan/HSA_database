@@ -1,0 +1,102 @@
+Title: Binding of Tolperisone Hydrochloride with Human Serum Albumin: Effects on the Conformation;Thermodynamics;and Activity of HSA
+DOI: 10.1021/acs.molpharmaceut.7b00976
+ligand name: tolperisone hydrochloride
+ligand smiles: Cc2ccc(C(=O)C(C)CN1CCCCC1)cc2
+key residue(Hbond): K199;H242 d
+key residue(hydrophobic):Y150;E153;L238;R257;A261;I264;S287;I290;A291 d	
+PDB ID:
+Binding Area: IIA subdomain (Sudlow site I) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;315;
+KSV;4.9*10^4;4.0*10^4;3.5*10^4;3.0*10^4;
+kq; 8.4*10^12;6.9*10^12;6.0*10^12;5.1*10^12;
+n;0.93;0.93;0.92;0.93;
+K;
+Ka;
+Kb; 2.3*10^4;1.8*10^4;1.5*10^4;1.4*10^4;
+ΔH;-20.5016;-20.5016;-20.5016;-20.5016;
+ΔS;14.321;14.223;14.307;14.212;
+ΔG; -24.7693;-24.8111;-24.9366;-24.9785;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310;
+n;0.96;
+K;
+Ka;2.15*10^5;
+Kb;
+ΔH;-78.3245;
+ΔS;-156.5626;
+ΔG;-29.7901;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;100;0.025;267;18;0.06741573;
+1:5;96;0.0273;530;19.68;0.037132075;
+1:10;92;0.0288;912;20.76;0.022763158;
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.45*10^-15；
+E;0.42;
+R0;2.01;
+r;2.11;
+EFRET;
+F0;3667
+F;2109
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA (Å2) of HSA;ASA (Å2) of com;ΔASA (Å2)
+Y150;17.30;1.49;15.81;
+E153;11.65;2.40;9.25;
+K199;32.00;14.81;17.19;
+L238;30.63;6.66;23.97;
+H242;5.23;0;5.23;
+R257;19.64;5.39;14.25;
+A261;4.27;0.13;4.14;
+I264;10.89;8.31;2.58;
+S287;8.87;4.23;4.64;
+I290;13.68;2.86;10.82;
+A291;36.98;3.66;33.32;

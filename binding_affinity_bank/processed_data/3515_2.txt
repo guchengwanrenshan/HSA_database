@@ -1,0 +1,69 @@
+Title:Introduction of fluorinated environment on metformin. Evaluation of its serum-albumin interaction with molecular modeling studies
+DOI:10.1016/j.molliq.2018.03.083
+ligand name:MTF3
+ligand smiles:CN(C)C(=N)NC(=N)NCC1=CC=C(F)C=C1
+key residue(hbond):Asp450 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;11800.0;11200.0;9900.0
+kq;2020000000000.0;1920000000000.0;1700000000000.0
+n;0.98;0.97;0.96
+K;
+Ka;
+Kb;18200.0;13100.0;10300.0
+ΔH;-31.1;-31.1;-31.1
+ΔS;-23.6;-23.6;-23.6
+ΔG;-24.1;-23.9;-23.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

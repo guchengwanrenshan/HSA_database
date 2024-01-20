@@ -1,0 +1,69 @@
+Title:Unraveling the thermodynamics, binding mechanism and conformational changes of HSA with chromolyn sodium: Multispecroscopy, isothermal titration calorimetry and molecular docking studies
+DOI:10.1016/j.ijbiomac.2017.06.122
+ligand name: chromolyn sodium
+ligand smiles:C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)[O-])O)C(=O)C=C(O2)C(=O)[O-]
+key residue(hbond):Asp324d
+key residue(hydrophobic):Arg209;Val216;Ala350;Ala213;Leu347;Lys351d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;24400.0;22810.0;20990.0
+kq;42800000000000.0;40200000000000.0;36800000000000.0
+n;1.1;1.081;1.066
+K;
+Ka;
+Kb;68100.0
+ΔH;-31.8486;-31.8486;-31.8486
+ΔS;-14.546;-14.54;-14.536
+ΔG;-27.514;-27.4429;-27.3424
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;16000.0
+ΔH;-36.8443
+ΔS;-43.89
+ΔG;-24.0162
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

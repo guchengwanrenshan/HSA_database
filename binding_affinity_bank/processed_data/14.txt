@@ -1,0 +1,69 @@
+Title:Study on the bindings of dichlorprop and diquat dibromide herbicides to human serum albumin by spectroscopic methods
+DOI:10.1016/j.jhazmat.2014.03.022
+ligand name:Dichlorprop
+ligand smiles:CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0;318.0
+KSV;9540.0;8540.0;7890.0;6820.0
+kq;954000000000.0;854000000000.0;789000000000.0;682000000000.0
+n;0.84;0.84;0.87;0.86
+K;
+Ka;
+Kb;7480.0;6620.0;6360.0;5390.0
+ΔH;-7.48;-7.48;-7.48;-7.48
+ΔS;48.22;48.22;48.22;48.22
+ΔG;-21.38;-21.86;-22.44;-22.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

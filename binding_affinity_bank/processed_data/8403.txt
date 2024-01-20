@@ -1,0 +1,69 @@
+Title:Probing the interaction between pachymic acid and human serum albumin by fluorescence spectroscopy and molecular docking
+DOI:10.16155/j.0254-1793.2020.12.06
+ligand name:pachymic acid
+ligand smiles:CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O  
+key residue(hbond):Lys414;Lys545 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;3360.0;2250.0;1060.0
+kq;236000000000.0;225000000000.0;106000000000.0
+n;0.717;0.132;0.303
+K;
+Ka;
+Kb;177.4;0.677;1.193
+ΔH;-186.3;-186.3;-186.3
+ΔS;-611.8;-611.8;-611.8
+ΔG;-10.07;-3.947;2.171
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

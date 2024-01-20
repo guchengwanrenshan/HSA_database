@@ -1,0 +1,95 @@
+Title:An investigation into the interaction between piplartine (piperlongumine) and human serum albumin
+DOI:10.1016/j.saa.2019.04.076
+ligand name:piplartine
+ligand smiles:COC1=CC(=CC(=C1OC)OC)/C=C/C(=O)N2CCC=CC2=O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;8.9*10^4;6.6*10^4;4.7*10^4;
+kq;8.9*10^12;6.6*10^12;4.7*10^12;
+n;1.12;1.08;1.00;
+K;
+Ka;
+Kb;3.9*10^5;1.8*10^5;0.47*10^5;
+ΔH;-78.1;-78.1;-78.1;
+ΔS;-164.23;-161.74;-164.29;
+ΔG;-30.8;-29.9;-27.5;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

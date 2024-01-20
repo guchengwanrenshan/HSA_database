@@ -1,0 +1,107 @@
+Title:Exploring the binding mechanism of dihydropyrimidinones to human serum albumin: Spectroscopic and molecular modeling techniques
+DOI:10.1016/j.colsurfb.2011.01.016
+ligand name:EMPD
+ligand smiles:CCOC(=O)C1=C(C)NC(=O)NC1C1=CC=CC=C1
+key residue(hbond):Lys195;Arg222;Arg218;Ala29 d
+key residue(hydrophobic):Leu238;Leu219;Phe211;Ala215;Ala291;Val241;Ile290;Trp214 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;310;
+KSV;2.68*10^4;2.45*10^4;2.15*10^4;
+kq;2.68*10^12;2.45*10^12;2.15*10^12;
+n;
+K;
+Ka;
+Kb;1.45*10^5;1.16*10^5;0.87*10^5;
+ΔH;-19.61;-19.61;-19.61;
+ΔS;31.40;31.40;31.40;
+ΔG;-28.75;-28.97;-29.35;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.46*10^-15;
+E;0.07;
+R0;3.04;
+r;4.85;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Lys195;107.36;43.29;64.07;
+Phe211;9.72;6.54;3.18;
+Trp214;68.03;16.27;51.76;
+Ala215;4.45;3.02;1.43;
+Arg218;156.70;43.43;113.27;
+Leu219;7.78;1.81;5.97;
+Arg222;47.02;14.58;32.44;
+Leu238;11.17;1.65;9.52;
+Val241;1.36;0.08;1.28;
+His242;98.66;91.44;7.22;
+Ile290;2.98;0.17;2.81;
+Ala291;1.55;0;1.55;
+Glu292;23.57;21.69;1.88;
+
+
+
+

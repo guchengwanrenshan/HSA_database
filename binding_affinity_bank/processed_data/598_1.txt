@@ -1,0 +1,69 @@
+Title:Comparative study of the interactions between bisphenol analogues and serum albumins by electrospray mass spectrometry and fluorescence spectroscopy
+DOI:10.1002/rcm.7633
+ligand name:tetrachlorobisphenol A
+ligand smiles:CC(C)(C1=CC(=C(C(=C1)Cl)O)Cl)C2=CC(=C(C(=C2)Cl)O)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;284.0;297.0;310.0
+KSV;612100.0;487000.0;377900.0
+kq;61210000000000.0;48700000000000.0;37790000000000.0
+n;
+K;
+Ka;679300.0;583500.0;500000.0
+Kb;
+ΔH;-8.62;-8.62;-8.62
+ΔS;81.31;81.31;81.31
+ΔG;-31.71;-32.77;-33.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

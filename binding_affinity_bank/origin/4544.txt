@@ -1,0 +1,95 @@
+Title:Investigating the affinity of BDE154 and 3OH-BDE154 with HSA: Experimental and simulation validation
+DOI:10.1016/j.etap.2017.03.004
+ligand name:BDE154
+ligand smiles:BrC1=CC(Br)=C(OC2=CC(Br)=C(Br)C=C2Br)C(Br)=C1
+key residue(hbond):Lys195;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;310;
+KSV;5.94*10^7;5.19*10^7;4.63*10^7;
+kq;5.94*10^15;5.19*10^15;4.63*10^15;
+n;
+K;
+Ka;
+Kb;
+ΔH;95.29;95.29;95.29;
+ΔS;383.45;383.45;383.45;
+ΔG;-42.89;-42.38;-35.89;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.58*10^-13;
+E;0.35;
+R0;4.0318;
+r;4.47;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

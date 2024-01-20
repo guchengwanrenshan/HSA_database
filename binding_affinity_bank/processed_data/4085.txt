@@ -1,0 +1,69 @@
+Title:Interaction between ethacrynic acid and human serum albumin
+DOI:https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7fm4X_1ttJAnNEoZi_4WSFhBwb_4mB6rc_J7ctCPaygOcO6FofoIeI7pn4bfyXn1V&uniplatform=NZKPT
+ligand name:ethacrynic acid
+ligand smiles:CCC(=C)C(=O)C1=C(C(=C(C=C1)OCC(=O)O)Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;306.0;318.0
+KSV;
+kq;
+n;0.94;0.93;0.95
+K;
+Ka;
+Kb;149000.0;124000.0;102000.0
+ΔH;-13.51;-13.51;-13.51
+ΔS;53.39;53.39;53.39
+ΔG;-29.31;-29.84;-30.48
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

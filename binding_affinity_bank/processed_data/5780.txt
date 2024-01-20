@@ -1,0 +1,69 @@
+Title:Biophysical study on the interaction of ropivacaine with human serum albumin using spectroscopic methods
+DOI:None
+ligand name:ropivacaine
+ligand smiles:CCCN1CCCC[C@H]1C(=O)NC2=C(C=CC=C2C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;1.0
+K;
+Ka;
+Kb;54900.0
+ΔH;-0.735
+ΔS;10.3
+ΔG;-3.8044
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

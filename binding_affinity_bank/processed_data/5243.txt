@@ -1,0 +1,69 @@
+Title:In vitro and in silico Determination of the Interaction of Artemisinin with Human Serum Albumin
+DOI:10.1134/s0026893320040056
+ligand name:Artemisinin
+ligand smiles:C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C
+key residue(hbond):Arg218 d
+key residue(hydrophobic):Glu292;Lys444;Pro447;Val343;Arg222 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;23800.0;20800.0;18900.0
+kq;2380000000000.0;2080000000000.0;1890000000000.0
+n;0.0962;1.0043;1.004
+K;
+Ka;
+Kb;23810.0;20800.0;18900.0
+ΔH;-14.67;-14.67;-14.67
+ΔS;15.29;15.29;15.29
+ΔG;-19.2264;-19.3029;-19.3793
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Multiple spectroscopic and theoretical approaches to study the interaction between hsa and the antiparasitic drugs: benznidazole, metronidazole, nifurtimox and megazol
+DOI:10.21577/0103-5053.20180029
+ligand name:megazol
+ligand smiles:CN1C(=CN=C1C2=NN=C(S2)N)[N+](=O)[O-]  
+key residue(hbond):Arg221;Asn294;Ser453 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;2.24*10^4;2.09*10^4;1.92*10^4;
+kq;3.94*10^12;3.68*10^12;3.38*10^12;
+n;
+K;
+Ka;
+Kb;2.22*10^5;2.10*10^5;1.98*10^5;
+ΔH;-6.15;-6.15;-6.15;
+ΔS;82;82;82;
+ΔG;-30.4;-31.0;-31.6;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

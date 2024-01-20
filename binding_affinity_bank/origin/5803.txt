@@ -1,0 +1,95 @@
+Title:Study of interaction between sodium fluorescein and human serum albumin by multi-spectroscopic method
+DOI:10.14233/ajchem.2014.15643
+ligand name:sodium fluorescein
+ligand smiles:O=C1OC2(C3=C(C=C([O-])C=C3)OC3=C2C=CC([O-])=C3)C2=C1C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;2.77*10^5;2.64*10^5;2.52*10^5;2.33*10^5;
+kq;2.77*10^13;2.64*10^13;2.52*10^13;2.33*10^13;
+n;1.07;1.06;1.05;1.02;
+K;
+Ka;
+Kb;1.75*10^5;1.60*10^5;1.46*10^5;1.33*10^5;
+ΔH;-17.55;-17.55;-17.55;-17.55;
+ΔS;41.18;41.18;41.18;41.18;
+ΔG;-29.92;-30.08;-30.25;-30.41;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

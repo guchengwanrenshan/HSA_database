@@ -1,0 +1,69 @@
+Title:Comparison of the interaction between three anthocyanins and human serum albumins by spectroscopy
+DOI:10.1016/j.jlumin.2014.03.004
+ligand name:Delphinidin-3-O-glucoside
+ligand smiles:C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;45660.0;54830.0;71080.0
+kq;4566000000000.0;5483000000000.0;7108000000000.0
+n;1.102;1.082;1.114
+K;
+Ka;
+Kb;127100.0;144300.0;281700.0
+ΔH;29.2;29.2;29.2
+ΔS;198.32;198.32;198.32
+ΔG;-27.92;-29.9;-31.89
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

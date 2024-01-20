@@ -1,0 +1,95 @@
+Title:A spectroscopic study on the interaction between the anticancer drug erlotinib and human serum albumin
+DOI:10.1007/s10847-013-0311-4
+ligand name:erlotinib
+ligand smiles:COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;5.64*10^4;4.49*10^4;3.44*10^4;1.79*10^4;
+kq;5.64*10^12;4.49*10^12;3.44*10^12;1.79*10^12;
+n;0.98;1.07;1.20;1.41;
+K;
+Ka;
+Kb;25.3*10^5;8.13*10^4;3.59*10^4;1.93*10^4;
+ΔH;-16.2;-16.2;-16.2;-16.2;
+ΔS;-449;-450;-450;-450;
+ΔG;-30.3;-28.4;-26.4;-24.1;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.13548*10^-14;
+E;0.052;
+R0;3.22;
+r;3.48;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Novel BTK inhibitor acalabrutinib (ACP-196) tightly binds to site I of the human serum albumin as observed by spectroscopic and computational studies
+DOI:10.1016/j.ijbiomac.2019.01.083
+ligand name:Acalabrutinib
+ligand smiles:CC#CC(=O)N1CCC[C@H]1C2=NC(=C3N2C=CN=C3N)C4=CC=C(C=C4)C(=O)NC5=CC=CC=N5  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;
+kq;
+n;1.0;1.01;1.01
+K;
+Ka;
+Kb;
+ΔH;-2.93;-2.93;-2.93
+ΔS;83.48;83.48;83.48
+ΔG;-27.81;-28.23;-28.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

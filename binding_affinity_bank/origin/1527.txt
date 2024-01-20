@@ -1,0 +1,95 @@
+Title:Synthesis and study on the binding of thiazol-2(3H)-ylidine derivative with human serum albumin using spectroscopic and molecular docking methods
+DOI:10.1002/bio.3227
+ligand name:3a
+ligand smiles:CCCCCCCC\C=C\CCCCCCCC(=O)N\N=C1\SC(C)=C(C)N1C1=CC=CC=C1
+key residue(hbond):Ala190; d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;305;312;
+KSV;5.73*10^4;4.04*10^4;3.28*10^4;
+kq;5.73*10^12;4.04*10^12;3.28*10^12;
+n;0.93;0.94;0.95;
+K;
+Ka;
+Kb;2.55*10^4;1.99*10^4;1.78*10^4;
+ΔH;-19.92;;;
+ΔS;16.63;;;
+ΔG;-25.14;;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.64*10^-15;
+E;0.32;
+R0;2.47;
+r;2.78;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

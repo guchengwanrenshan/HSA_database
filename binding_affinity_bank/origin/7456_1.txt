@@ -1,0 +1,90 @@
+Title:Synthesis, Comparative Photosensitizing Efficacy, Human Serum Albumin (Site II) Binding Ability, and Intracellular Localization Characteristics of Novel Benzobacteriochlorins Derived from vic-Dihydroxybacteriochlorins
+DOI:10.1021/jm030341y
+ligand name:17
+ligand smiles:[H][C@@]1(C)C2=N/C(=C(/CC(=O)OC)C3=C(C(=O)OC)C(C)=C(/C=C4\N=C(/C=C5\N/C(=C\2)C(C)=C5CC)C2(C)C4=CC=C(C(=O)OC)C2C(=O)OC)N3)[C@@]1([H])CC(=O)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1.75*10^7;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

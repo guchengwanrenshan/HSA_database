@@ -1,0 +1,69 @@
+Title:Binding of Volatile Anesthetics to Serum Albumin: Measurements of Enthalpy and Solvent Contributions
+DOI:10.1021/bi035941d
+ligand name:isoflurane
+ligand smiles:C(C(F)(F)F)(OC(F)F)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;293.0
+n;3.0
+K;
+Ka;
+Kb;2019.0
+ΔH;-15.6356
+ΔS;9.9388
+ΔG;-18.5477
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

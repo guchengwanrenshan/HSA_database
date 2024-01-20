@@ -1,0 +1,95 @@
+Title:Interaction between thionine and human serum albumin investigated by spectroscopic methods
+DOI:None
+ligand name:thionine
+ligand smiles:C1=CC2=C(C=C1N)SC3=CC(=[NH2+])C=CC3=N2.[Cl-] 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;5.103*10^4;4.608*10^4;4.434*10^4;
+kq;5.103*10^12;4.608*10^12;4.434*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;-9.024;-9.024;-9.024;
+ΔS;40.63;40.63;40.63;
+ΔG;-12.11;-12.36;-12.60;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.692*10^-13;
+E;0.2783;
+R0;3.928;
+r;4.604;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

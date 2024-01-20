@@ -1,0 +1,69 @@
+Title:Study of the Enantioselective Interaction of Diclofop and Human Serum Albumin by Spectroscopic and Molecular Modeling Approaches In Vitro
+DOI:10.1002/chir.22204
+ligand name:S-Diclofop
+ligand smiles:C[C@@H](C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl  
+key residue(hbond):ARG410;LYS414 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;313.0
+KSV;200300.0;160300.0;111500.0
+kq;20030000000000.0;16030000000000.0;11150000000000.0
+n;0.803;0.778;0.737
+K;
+Ka;147660.0;128990.0;108820.0
+Kb;199200.0;148300.0;82500.0
+ΔH;-11.616;-11.616;-11.616
+ΔS;59.372;59.372;59.372
+ΔG;-17.41;-18.0;-18.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

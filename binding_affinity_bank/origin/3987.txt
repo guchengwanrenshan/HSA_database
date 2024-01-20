@@ -1,0 +1,95 @@
+Title:Spectroscopic and molecular simulation studies on the interaction of di-(2-ethylhexyl) phthalate and human serum albumin
+DOI:10.1002/bio.2713
+ligand name:Di-(2-ethylhexyl) phthalate
+ligand smiles:CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC
+key residue(hbond):Arg218;Arg222 d
+key residue(hydrophobic):Ala291;Val293;Trp214 d
+PDB ID:
+Binding Area:sundomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;2.81*10^3;2.50*10^3;2.19*10^3;
+kq;
+n;0.93;0.93;0.91;
+K;
+Ka;
+Kb;5.19*10^3;4.96*10^3;4.83*10^3;
+ΔH;-4.61;-4.61;-4.61;
+ΔS;55.65;55.65;55.65;
+ΔG;-21.19;-21.53;-21.86;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

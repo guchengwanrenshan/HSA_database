@@ -1,0 +1,69 @@
+Title:Study on the interaction of ephedrine hydrochloride and pseudoephedrine hydrochloride with human serum albumin by spectroscopy
+DOI:None
+ligand name:ephedrine hydrochloride
+ligand smiles:C[C@@H]([C@@H](C1=CC=CC=C1)O)NC.Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;6020.0;5500.0;5060.0
+kq;
+n;0.871;0.926;1.01
+K;
+Ka;
+Kb;5260.0;3360.0;1360.0
+ΔH;-20.646;-20.646;-20.646
+ΔS;-52.3557;-53.4295;-54.1141
+ΔG;-5.044;-4.724;-4.52
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

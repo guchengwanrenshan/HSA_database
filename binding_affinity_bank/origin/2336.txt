@@ -1,0 +1,95 @@
+Title:Calorimetric and spectroscopic binding studies of amoxicillin with human serum albumin
+DOI:10.1007/s10973-016-5555-y
+ligand name:Amoxicillin
+ligand smiles:CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;6.646*10^3;
+kq;1.149*10^12;
+n;0.84;
+K;
+Ka;
+Kb;1.174*10^3;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;303;310;
+n;1.32;1.38;1.44;
+K;
+Ka;
+Kb;413;369;223;
+ΔH;388.3;440.5;1007.2;
+ΔS;1355.0336;1500.9901;3294.1935;
+ΔG;-15.5;-14.3;-14.1;
+Cp;53500;53500;53500;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.68*10^-15;
+E;0.216
+R0;2.29;
+r;2.83;
+EFRET;
+F0;98.88;
+F;77.52;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Switching of Trp-214 intrinsic rotamer population in human serum albumin: An insight into the aftermath of embracing therapeutic bioorganic luminophore azapodophyllotoxin into sudlow site I
+DOI:10.1016/j.bioorg.2018.11.015
+ligand name:HPFQ
+ligand smiles:OCCN1C2=C(C(C3=CC=CC=C3)C3=C1C=C1CCCC1=C3)C(=O)OC2
+key residue(hbond):
+key residue(hydrophobic):Trp214;Ala215;Leu219;Phe223;Leu234;Leu238;Val241;Ile264;Ala291d
+PDB ID:
+Binding Area:sudlow site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0
+KSV;170300.0;148600.0;129100.0
+kq;170300000000000.0;148600000000000.0;129100000000000.0
+n;
+K;
+Ka;
+Kb;103800.0;148500.0;1949000.0
+ΔH;26.978;26.978;26.978
+ΔS;94.089;94.089;94.089
+ΔG;-0.59;-1.06;-1.532
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

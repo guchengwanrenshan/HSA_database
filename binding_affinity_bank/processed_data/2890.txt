@@ -1,0 +1,69 @@
+Title:Potential toxicity of amphenicol antibiotic: binding of chloramphenicol to human serum albumin
+DOI:10.1007/s11356-014-3081-7
+ligand name:chloramphenicol
+ligand smiles:C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-] 
+key residue(hbond):Arg222;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(sub-domain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;13380.0;11480.0;9030.0
+kq;1338000000000.0;1148000000000.0;903000000000.0
+n;
+K;
+Ka;
+Kb;60540.0;45690.0;31960.0
+ΔH;-34.77;-34.77;-34.77
+ΔS;-25.81;-25.81;-25.81
+ΔG;-27.13;-26.95;-26.77
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

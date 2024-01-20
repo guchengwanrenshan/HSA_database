@@ -1,0 +1,95 @@
+Title:Influence of antioxidant flavonoids quercetin and rutin on the in-vitro binding of neratinib to human serum albumin
+DOI:10.1016/j.saa.2020.118977
+ligand name: neratinib
+ligand smiles: CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)/C=C/CN(C)C
+key residue(hbond): Ala291;Arg222;Agr257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;307;
+KSV;1.91*10^5;1.88*10^5;1.76*10^5;
+kq;1.91*10^13;1.88*10^13;1.76*10^13;
+n;1.12;1.09;1.04;	
+K;
+Ka;
+Kb;7.12*10^5;4.37*10^5;2.53*10^5;	
+ΔH;-86.68;-86.68;-86.68;
+ΔS;-178.62;-178.62;-178.62;
+ΔG;-33.45;-32.56;-31.84;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

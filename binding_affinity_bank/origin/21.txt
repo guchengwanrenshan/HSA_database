@@ -1,0 +1,95 @@
+Title:Insight into the interaction of human serum albumin with folic acid: A biophysical study
+DOI:10.1016/j.saa.2018.06.093
+ligand name:Folic Acid
+ligand smiles: C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308；
+KSV;8.97*10^4;8.90*10^4;
+kq;1.35*10^13;1.34*10^13;
+n;1.22;1.15;
+K;
+Ka;
+Kb;9.78*10^4;8.82*10^4;
+ΔH;-7.87;-7.87;
+ΔS;69.06;68.40;
+ΔG;-28.45;-28.94;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;28.44 × 10^−15;
+E;1.65
+R0;1.95;
+r;2.55;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

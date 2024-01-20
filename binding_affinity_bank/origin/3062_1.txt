@@ -1,0 +1,95 @@
+Title:Investigating the interactions of a novel anticancer delocalized lipophilic cation and its precursor compound with human serum albumin
+DOI:10.1039/c3ra46997b
+ligand name:F16
+ligand smiles:C[N+]1=CC=C(\C=C\C2=CNC3=C2C=CC=C3)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;2.416*10^4;2.513*10^4;2.616*10^4;2.730*10^4;
+kq;2.416*10^12;2.513*10^12;2.616*10^12;2.730*10^12;
+n;1.18;1.17;1.06;1.08;
+K;
+Ka;
+Kb;2.490*10^4;2.653*10^4;2.916*10^4;3.017*10^4;
+ΔH;11.41;11.41;11.41;11.41;
+ΔS;142.16;142.16;142.16;142.16;
+ΔG;-30.24;-30.95;-31.66;-32.38;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

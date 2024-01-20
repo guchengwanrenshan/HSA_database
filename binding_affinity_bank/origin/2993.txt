@@ -1,0 +1,95 @@
+Title:Interaction of Hydralazine with Human Serum Albumin and Effect of β-Cyclodextrin on Binding: Insights from Spectroscopic and Molecular Docking Techniques
+DOI:10.1021/acs.iecr.6b00517
+ligand name:Hydralazine
+ligand smiles:C1=CC=C2C(=C1)C=NN=C2NN 
+key residue(hbond):CYS448;TYR452;PRO447 d
+key residue(hydrophobic):Leu453;Val456;Val455;Pro447;Ala449 d
+PDB ID:
+Binding Area: site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.852*10^4;1.658*10^4;1.323*10^4;
+kq;1.852*10^12;1.658*10^12;1.323*10^12;
+n;0.933;0.903;0.995;
+K;
+Ka;
+Kb;6.05*10^3;5.12*10^3;4.40*10^3;
+ΔH;-17.30;-17.30;-17.30;
+ΔS;-11.55;-11.55;-11.55;
+ΔG;-20.70;-20.50;-20.92;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.80*10^-14;
+E;0.082;
+R0;2.95;
+r;4.45;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

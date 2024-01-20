@@ -1,0 +1,69 @@
+Title:Biomolecular study and conjugation of two para-aminobenzoic acid derivatives with serum proteins: drug binding efficacy and protein structural analysis
+DOI:10.1080/07391102.2020.1719889
+ligand name:DAB-0
+ligand smiles:CC(C)(C)OC(=O)NNC(=O)C1=CC=C(C=C1)N1C(=O)CCC1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;308.15;318.15
+KSV;
+kq;
+n;
+K;118000.0;85200.0;62300.0
+Ka;
+Kb;
+ΔH;-10.92;-10.92;-10.92
+ΔS;5.55;5.55;5.55
+ΔG;-12.57;-12.63;-12.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

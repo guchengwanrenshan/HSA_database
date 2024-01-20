@@ -1,0 +1,95 @@
+Title:Characterization of the interaction between human serum albumin and diazinon via spectroscopic and molecular docking methods
+DOI:10.1177/0960327117741752
+ligand name:diazinon
+ligand smiles:CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310;
+KSV;2.878*10^4;
+kq;
+n;1.01
+K;
+Ka;3.367*10^4;
+Kb;
+ΔH;-21.39;
+ΔS;17.64;
+ΔG;-26.86;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.37*10^-15;
+E;
+R0;1.91;
+r;2.18;
+EFRET;0.31
+F0;483.54
+F;331.19
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

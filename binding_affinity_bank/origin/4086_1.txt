@@ -1,0 +1,95 @@
+Title:Uncovering the molecular and physiological processes of anticancer leads binding human serum albumin: a physical insight into drug efficacy
+DOI:10.1371/journal.pone.0176208
+ligand name:NSC290956
+ligand smiles:C1CN(CCC12NC(=O)CS2)CCCN3C4=CC=CC=C4SC5=C3C=C(C=C5)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;
+KSV;1.10*10^4;;
+kq;1.10*10^12;;
+n;0.76;;
+K;
+Ka;
+Kb;1.99*10^4;;
+ΔH;12.28;12.28;
+ΔS;119.29;119.29;
+ΔG;-22.67;-23.26;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310;
+n;0.75;
+K;
+Ka;
+Kb;2.65*10^4;
+ΔH;12.07;
+ΔS;140;
+ΔG;-32.19
+Cp;
+Kd;116;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;7.81;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Identification of modes of interactions between 9-aminoacridine hydrochloride hydrate and serum proteins by low and high resolution spectroscopy and molecular modeling
+DOI:10.1039/c6ra04140j
+ligand name:9-aminoacridine hydrochloride hydrate
+ligand smiles:C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;2.82*10^3;8.43*10^3;28.1*10^3;
+ΔH;175.37;175.37;175.37;
+ΔS;654.36;654.36;654.36;
+ΔG;-19.63;-22.90;-26.17;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.95334*10^-15;
+E;0.72;
+R0;2.27;
+r;1.83;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

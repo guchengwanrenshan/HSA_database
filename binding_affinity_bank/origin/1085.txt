@@ -1,0 +1,95 @@
+Title:Molecular mechanism and thermodynamic study of Rosuvastatin interaction with human serum albumin using a surface plasmon resonance method combined with a multi-spectroscopic, and molecular modeling approach
+DOI:10.1016/j.ejps.2021.106005
+ligand name:Rosuvastatin
+ligand smiles:CC(C)C1=NC(=NC(=C1/C=C/[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;305;310;318;
+KSV;0.6759*10^6;0.6781*10^6;0.6786*10^6;0.6309*10^6;
+kq;
+n;0.99;0.87;0.84;0.65;
+K;
+Ka;5.64*10^4;1.43*10^4;1.09*10^4;0.08*10^4;
+Kb;
+ΔH;-161.93;-161.93;-161.93;-161.93;
+ΔS;-450;-450;-450;-450;
+ΔG;-27.44;-24.88;-22.02;-18.41;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.04*10^-14;
+E;0.3276;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

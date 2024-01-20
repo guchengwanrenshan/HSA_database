@@ -1,0 +1,95 @@
+Title:Binding of bioactive phytochemical piperine with human serum albumin: a spectrofluorometric study
+DOI:10.1002/bip.20735
+ligand name:piperine
+ligand smiles:C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;320;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;8.78*10^4;6.17*10^4;5.07*10^4;4.5*10^4;
+ΔH;;;0;;
+ΔS;;;89.5376;;
+ΔG;;;-26.8613;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.69*10^-15;
+E;0.05;
+R0;1.7;
+r;2.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

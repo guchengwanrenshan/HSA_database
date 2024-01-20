@@ -1,0 +1,95 @@
+Title:Studies on the binding of nevadensin to human serum albumin by molecular spectroscopy and modeling
+DOI:10.1016/j.molstruc.2007.01.020
+ligand name:nevadensin
+ligand smiles:COC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C(=C3O2)OC)O)OC)O
+key residue(hbond):Arg218;Arg222;Lys195(site I);Asp451(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I;site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;306;318;
+KSV;9.781*10^5;8.031*10^5;6.558*10^5;
+kq;1.956*10^14;1.606*10^14;1.312*10^14;
+n;
+K;
+Ka;
+Kb;8.114*10^5;6.815*10^5;5.622*10^5;
+ΔH;-13.050;-13.050;-13.050;
+ΔS;69.034;69.034;69.034;
+ΔG;-33.484;-34.174;-35.003;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.49*10^-14;
+E;
+R0;3.30;
+r;3.09;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

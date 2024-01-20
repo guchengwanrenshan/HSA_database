@@ -1,0 +1,95 @@
+Title:Biomolecular interaction mechanism of an anticancer drug, pazopanib with human serum albumin: a multi-spectroscopic and computational approach
+DOI:10.1080/07391102.2021.1911850
+ligand name:pazopanib
+ligand smiles:CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N  
+key residue(hbond):Lys199;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;3.10*10^5;2.23*10^5;0.88*10^5;
+kq;
+n;
+K;
+Ka;5.51*10^5;3.56*10^5;1.05*10^5;
+Kb;
+ΔH;-60.31;-60.31;-60.31;
+ΔS;98.37;98.37;98.37;
+ΔG;-88.64;-89.62;-90.61;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

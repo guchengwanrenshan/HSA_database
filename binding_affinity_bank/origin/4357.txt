@@ -1,0 +1,95 @@
+Title:The interaction of (7-chloroquinolin-4-yl)-(2,5-dimethoxyphenyl)-amine hydrochloride dihydrate with serum albumin proteins, inputs from spectroscopic, molecular docking and X-ray diffraction studies
+DOI:10.1039/c5ra02815a
+ligand name:CQDPA
+ligand smiles:COC1=CC=C(OC)C(NC2=CC=NC3=C2C=CC(Cl)=C3)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;14.4*10^5;12.3*10^5;11.7*10^5;
+kq;
+n;
+K;
+Ka;
+Kb;3.7*10^5;3.4*10^5;2.8*10^5;
+ΔH;-2.50;-2.50;-2.50;
+ΔS;42.31;42.31;42.31;
+ΔG;-30.78;-31.29;-31.79;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.4649*10^-15;
+E;0.2618;
+R0;2.28;
+r;2.71;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

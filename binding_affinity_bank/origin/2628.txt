@@ -1,0 +1,95 @@
+Title:Interaction of the docetaxel with human serum albumin using optical spectroscopy methods
+DOI:10.1016/j.jlumin.2009.05.023
+ligand name:docetaxel
+ligand smiles:CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;300;310;
+KSV;4.094*10^4;3.027*10^4;2.935*10^4;
+kq;4.094*10^12;3.027*10^12;2.935*10^12;
+n;1.027;1.02;0.97;
+K;
+Ka;
+Kb;9.80*10^4;3.38*10^4;2.18*10^4;
+ΔH;-41.07;-41.07;-41.07;
+ΔS;-49.72;-49.72;-49.72;
+ΔG;-27.00;-26.15;-25.66;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.38*10^-14;
+E;0.02598;
+R0;2.58;
+r;4.72;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

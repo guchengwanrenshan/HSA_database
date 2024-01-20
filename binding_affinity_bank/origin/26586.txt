@@ -1,0 +1,95 @@
+Title:In vitro investigation of domain specific interactions of phenothiazine dye with serum proteins by spectroscopic and molecular docking approaches
+DOI:10.1039/c4ra04630g
+ligand name:Azure A 
+ligand smiles:C[N+](=C1C=CC2=NC3=C(C=C(C=C3)N)SC2=C1)C.[Cl-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;7.03*10^4;
+kq;7.03*10^12;
+n;1.12;
+K;4.70*10^5;
+Ka;4.62*10^5;
+Kb;5.75*10^5;
+ΔH;
+ΔS;
+ΔG;-32.36;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

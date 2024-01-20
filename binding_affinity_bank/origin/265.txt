@@ -1,0 +1,95 @@
+Title:Stereoselective interactions of lactic acid enantiomers with HSA: Spectroscopy and docking application
+DOI:10.1016/j.foodchem.2018.07.135
+ligand name:L-lactic acid
+ligand smiles:C[C@@H](C(=O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;301;310;
+KSV;3.54*10^5;3.3*10^5;3.29*10^5;
+kq;3.54*10^13;3.3*10^13;3.29*10^13;
+n;0.979;0.975;0.912;
+K;
+Ka;2.64*10^5;2.39*10^5;0.985*10^5;
+Kb;
+ΔH;-44.1;-44.1;-44.1;
+ΔS;-46.8;-43.6;-46.8;
+ΔG;-30.4;-31.0;-29.6;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

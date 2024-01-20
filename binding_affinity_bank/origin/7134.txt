@@ -1,0 +1,94 @@
+Title:Comparative study of two antipsychotic drugs binding to human serum albumin: By multispectroscopic and molecular docking methods
+DOI:10.1016/j.molliq.2022.120084
+ligand name:RIP
+ligand smiles:CC1=C(CCN2CCC(CC2)C2=NOC3=CC(F)=CC=C23)C(=O)N2CCCCC2=N1
+key residue(hbond):Lys199 d
+key residue(hydrophobic):Phe211;Trp214;Arg222;Leu238;His242;Arg257;Leu260;Ile264;Ser287;Ile290;Ala291 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286;298;310;
+KSV;3.30*10^4;3.27*10^4;3.21*10^4;
+kq;
+n;
+K;
+Ka;
+Kb;1.53*10^4;1.47*10^4;1.33*10^4;
+ΔH;-4.24;-4.24;-4.24;
+ΔS;65.35;65.35;65.35;
+ΔG;-23.07;-23.72;-24.50;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

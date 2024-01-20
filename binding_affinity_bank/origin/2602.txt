@@ -1,0 +1,95 @@
+Title:Spectroscopy study of the interaction between endocrine disruptor 4-OH-2,2',3,4'-BDE and human serum albumin
+DOI:10.1039/c7ay00419b
+ligand name:4-OH-BDE42
+ligand smiles:OC1=CC=C(OC2=CC=C(Br)C=C2Br)C(Br)=C1Br
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;313;
+KSV;2.54*10^5;1.92*10^5;1.25*10^5;
+kq;
+n;1.05;0.98;0.85;
+K;
+Ka;
+Kb;4.68*10^5;1.45**10^5;0.22*10^5;
+ΔH;-175.93;-175.93;-175.93;
+ΔS;-481.81;-481.82;-478.95;
+ΔG;-32.35;-29.94;-26.02;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.2090*10^-14;
+E;0.1680;
+R0;2.54;
+r;3.31;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

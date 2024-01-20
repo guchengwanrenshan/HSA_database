@@ -1,0 +1,95 @@
+Title:Protective effects of three structurally similar polyphenolic compounds against oxidative damage and their binding properties to human serum albumin
+DOI:10.1016/j.foodchem.2021.129118
+ligand name:hematein
+ligand smiles:C1C2=CC(=C(C=C2C3=C4C=CC(=O)C(=C4OCC31O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA (site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;2.328*10^4;2.531*10^4;2.810*10^4;
+kq;2.328*10^12;2.531*10^12;2.810*10^12;
+n;1.109;1.118;1.158;
+K;2.330*10^4;2.493*10^4;2.717*10^4;
+Ka;
+Kb;
+ΔH;9.834;9.834;9.834;
+ΔS;116.577;116.577;116.577;
+ΔG;-24.906;-25.605;-26.305;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

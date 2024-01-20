@@ -1,0 +1,95 @@
+Title:Unique dynamic mode between Artepillin C and human serum albumin implies the characteristics of Brazilian green propolis representative bioactive component
+DOI:10.1038/s41598-020-74197-4
+ligand name:Artepillin C
+ligand smiles:CC(=CCC1=CC(=CC(=C1O)CC=C(C)C)/C=C/C(=O)O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I(subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;295;300;305;
+KSV;0.842*10^6;0.985*10^6;1.261*10^6;1.321*10^6;
+kq;0.842*10^14;0.985*10^14;1.261*10^14;1.321*10^14;
+n;0.9667;0.8430;0.9541;0.9493;
+K;
+Ka;0.821*10^6;0.908*10^6;1.246*10^6;1.378*10^6;
+Kb;
+ΔH;-27.507;-27.507;-27.507;-27.507;
+ΔS;207.877;207.877;207.877;207.877;
+ΔG;-32.836;-33.650;-35.008;-35.849;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Investigation of the interaction between vitamin C and vitamin B12 with human serum albumin using spectroscopic techniques
+DOI:10.24214/jcbps.c.8.2.03653
+ligand name:vitamin C
+ligand smiles:C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;9460.0
+kq;946000000000.0
+n;
+K;
+Ka;
+Kb;13000.0
+ΔH;
+ΔS;
+ΔG;-23.4693
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

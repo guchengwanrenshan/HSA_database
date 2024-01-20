@@ -1,0 +1,95 @@
+Title:Elucidation of binding mechanism of stigmasterol with human serum albumin: a biophysical and molecular dynamics simulation approach
+DOI:10.1080/07391102.2021.1968498
+ligand name:stigmasterol
+ligand smiles:CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;5.0*10^5;5.8*10^5;3.9*10^5;
+kq;5.0*10^13;5.8*10^13;3.9*10^13;
+n;;1;;
+K;
+Ka;
+Kb;0.35*10^5;1.8*10^5;0.03*10^5;
+ΔH;-105.646;-105.646;-105.646;
+ΔS;-271.2336;-266.6247;-271.2852;
+ΔG;-25.8571;-30.3758;-19.8322;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Multi-spectroscopic and theoretical analysis on the interaction between human serum albumin and a capsaicin derivative-RPF101
+DOI:10.3390/biom8030078
+ligand name:RPF101
+ligand smiles: C1OC2=C(O1)C=C(C=C2)CNS(=O)(=O)C3=CC=CC=C3  
+key residue(hbond):Arg221;Lys443;Asp450;Ser453 d
+key residue(hydrophobic):Trp214;Val343;Leu480 d
+PDB ID:
+Binding Area:site I(Sudlow's site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;1.47*10^4;1.45*10^4;1.33*10^4;
+kq;2.54*10^12;2.50*10^12;2.30*10^12
+n;
+K;
+Ka;3.70*10^3;1.08*10^4;5.79*10^4;
+Kb;
+ΔH;149;149;149;
+ΔS;573;573;573;
+ΔG;-20.6;-24.6;-28.6;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

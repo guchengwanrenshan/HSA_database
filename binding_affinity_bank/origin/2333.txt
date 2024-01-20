@@ -1,0 +1,95 @@
+Title:Anti-amyloidogenic behavior and interaction of Diallylsulfide with Human Serum Albumin
+DOI:10.1016/j.ijbiomac.2016.08.035
+ligand name:Diallysulfide
+ligand smiles:C=CCSCC=C 
+key residue(hbond):
+key residue(hydrophobic):Tyr401;Glu518;Gln522;Lys525;Asp549Met548;Ala552 d
+PDB ID:
+Binding Area:subdomain III d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.59*10^3;
+kq;2.82*10^11;
+n;1.04;
+K;
+Ka;
+Kb;1.14*10^3;
+ΔH;
+ΔS;
+ΔG;-17.43;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

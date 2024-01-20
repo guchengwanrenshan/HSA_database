@@ -1,0 +1,90 @@
+Title:Biological assays of BF2-naphthyridine compounds: Tyrosinase and acetylcholinesterase activity, CT-DNA and HSA binding property evaluations
+DOI:10.1016/j.ijbiomac.2020.05.162
+ligand name:1i
+ligand smiles:CN(C)C1=CC=C(C=C1)C1=NC2=[N+](C3=C(C=C2)C(=CC(=N3)C2=CC=C(C=C2)[N+]([O-])=O)C(F)(F)F)[B-](F)(F)O1
+key residue(hbond):Lys198;Arg221;His241 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;0.473*10^4;0.46*10^4;0.448*10^4;
+kq;0.809*10^12;0.786*10^12;0.766*10^12;
+n;
+K;
+Ka;
+Kb;11.4*10^4;8.8*10^4;6.58*10^4;
+ΔH;-30.01;-30.01;-30.01;
+ΔS;4.5;4.5;4.5;
+ΔG;-31.3;-31.4;-31.5;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Analysis of binding interaction between captopril and human serum albumin
+DOI:10.4236/ajac.2011.22030
+ligand name:captopril
+ligand smiles:C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.15;300.15;310.15;
+KSV;3.157*10^3;2.370*10^3;2.314*10^3;
+kq;3.157*10^11;2.370*10^11;2.314*10^11;
+n;1.49;1.57;1.62;
+K;
+Ka;
+Kb;1.38*10^5;1.99*10^5;3.14*10^5;
+ΔH;35.97;35.97;35.97;
+ΔS;221.22;221.22;221.22;
+ΔG;-28.84;-30.45;-32.64;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.09*10^-18;
+E;0.15;
+R0;
+r;1.05;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

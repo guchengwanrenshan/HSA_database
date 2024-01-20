@@ -1,0 +1,69 @@
+Title:Indole-nitroimidazole conjugates as efficient manipulators to decrease the genes expression of methicillin-resistant Staphylococcus aureus
+DOI:10.1016/j.ejmech.2019.06.093
+ligand name:4b
+ligand smiles:CC(=O)/C(=C/C1=CN(CC(=O)N2CCCCC2)C2=C1C=CC=C2)N1C=C([N+](=O)[O-])N=C1C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;313.0
+KSV;81400.0;76300.0;63500.0
+kq;12700000000000.0;11900000000000.0;9900000000000.0
+n;1.007;1.174;1.221
+K;
+Ka;131500.0;79800.0;56900.0
+Kb;58800.0;57300.0;49500.0
+ΔH;-5.7548;-5.7548;-5.7548
+ΔS;71.617;71.617;71.617
+ΔG;-26.5238;-27.2399;-28.171
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

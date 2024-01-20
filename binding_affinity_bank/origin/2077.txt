@@ -1,0 +1,95 @@
+Title:Mechanism of the interaction between benthiavalicarb-isopropyl and human serum albumin
+DOI:10.1080/00387010.2020.1756343
+ligand name:benthiavalicarb-isopropyl 
+ligand smiles:C[C@H](C1=NC2=C(S1)C=C(C=C2)F)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;8.66*10^3;5.14*10^3;4.41*10^3;
+kq;8.66*10^11;5.14*10^11;4.41*10^11;
+n;0.790;0.601;0.324;
+K;
+Ka;
+Kb;796.5;71.9;3.2;
+ΔH;-206.39;-206.39;-206.39;
+ΔS;-654.93;-654.93;-654.93;
+ΔG;-164.59;-99.09;-33.60;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.06*10^-14;
+E;
+R0;
+r;4.29;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

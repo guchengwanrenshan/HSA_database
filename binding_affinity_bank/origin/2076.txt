@@ -1,0 +1,95 @@
+Title:A spectroscopic study of the interaction of isoflavones with human serum albumin
+DOI:10.1111/j.1742-4658.2005.05071.x
+ligand name:genistein
+ligand smiles:O=C1C(C2=CC=C(O)C=C2)=COC2=CC(O)=CC(O)=C12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;
+KSV;
+kq;
+n;1;
+K;1.0*10^5;
+Ka;
+Kb;1.5*10^5;
+ΔH;-55.0614;
+ΔS;-87.8640;
+ΔG;-28.7022;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.5*10^-15;
+E;0.05;
+R0;2.26;
+r;3.6;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

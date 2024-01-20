@@ -1,0 +1,95 @@
+Title:Biophysical Characterization of the Interaction between a Transport Human Plasma Protein and the 5,10,15,20-Tetra(pyridine-4-yl)porphyrin
+DOI:10.3390/molecules27165341
+ligand name:4-TPyP
+ligand smiles:N1C2=CC=C1\C(=C1\C=CC(=N1)\C(=C1/N\C(\C=C1)=C(/C1=N/C(/C=C1)=C2/C1=CC=NC=C1)C1=CC=NC=C1)\C1=CC=NC=C1)C1=CC=NC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA (site I) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;2.57*10^4;2.30*10^4;2.17*10^4;
+kq;5.39*10^12;4.84*10^12;4.55*10^12;
+n;0.857;0.948;1.15;
+K;
+Ka;
+Kb;
+ΔH;-9.31;-9.31;-9.31;
+ΔS;52.9;52.9;52.9;
+ΔG;-25.0;-25.3;-25.7;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

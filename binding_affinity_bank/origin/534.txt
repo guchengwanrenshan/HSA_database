@@ -1,0 +1,95 @@
+Title:Exploring the combination characteristics of lumefantrine, an antimalarial drug and human serum albumin through spectroscopic and molecular docking studies
+DOI:10.1080/07391102.2020.1713215
+ligand name:lumefantrine
+ligand smiles:CCCCN(CCCC)CC(C1=CC(=CC\2=C1C3=C(/C2=C/C4=CC=C(C=C4)Cl)C=C(C=C3)Cl)Cl)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: Site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;7.47*10^4;6.37*10^4;5.05*10^4;
+kq;
+n;1.01;1.00;0.99;
+K;
+Ka;7.27*10^4;6.06*10^4;5.01*10^4;
+Kb;
+ΔH;-12.30;-12.30;-12.30;
+ΔS;50.34;50.34;50.34;
+ΔG;-26.80;-27.31;-27.81;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

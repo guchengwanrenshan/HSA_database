@@ -1,0 +1,95 @@
+Title:Binding of fluphenazine with human serum albumin in the presence of rutin and quercetin: An evaluation of food-drug interaction by spectroscopic techniques
+DOI:10.1002/bio.3291
+ligand name:FPZ
+ligand smiles:OCCN4CCN(CCCn3c1ccccc1sc2ccc(C(F)(F)F)cc23)CC4
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;300;310
+KSV;1.857*10^4;1.653*10^4;1.517*10^4;
+kq;3.095*10^12;2.755*10^12;2.528*10^12
+n;
+K;
+Ka;2.521*10^4;2.429*10^4;2.258*10^4
+Kb;
+ΔH;-4.637;;;
+ΔS;19.98;;;
+ΔG;-24.60;-25.19;-25.84;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.567*10^-15
+E;0.1703
+R0;1.800
+r;2.344
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

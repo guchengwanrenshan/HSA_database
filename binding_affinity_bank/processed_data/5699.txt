@@ -1,0 +1,69 @@
+Title:Spectroscopic analysis and molecular modeling on the interaction of jatrorrhizine with human serum albumin (HSA)
+DOI:10.1016/j.saa.2013.07.029
+ligand name:jatrorrhizine
+ligand smiles:COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;299.0;304.0
+KSV;28900.0;27900.0
+kq;2890000000000.0;2790000000000.0
+n;0.8007;0.7172
+K;
+Ka;
+Kb;4059.0;1438.0
+ΔH;-12.25;-12.25
+ΔS;28.17;28.17
+ΔG;-20.68;-20.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

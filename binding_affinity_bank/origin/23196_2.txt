@@ -1,0 +1,95 @@
+Title:Spectroscopic Investigation of the Interactions of Cryptotanshinone and Icariin with Two Serum Albumins
+DOI:10.1007/s10953-013-0022-x
+ligand name: icariin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=C(C2=O)C(=CC(=C3CC=C(C)C)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)C5=CC=C(C=C5)OC)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.15;298.15;304.15;310.15;
+KSV;3.69*10^4;4.05*10^4;5.25*10^4;6.20*10^4;
+kq;
+n;1.22;1.24;1.28;1.32;
+K;32.48*10^4;42.01*10^4;86.42*10^4;146.35*10^4;
+Ka;
+Kb;
+ΔH;69.64;69.64;69.64;69.64;
+ΔS;342.53;342.53;342.53;342.53;
+ΔG;-30.71;-32.42;-34.47;-36.53;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.84*10^-15;
+E;0.1048;
+R0;2.42;
+r;3.46;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

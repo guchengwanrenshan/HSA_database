@@ -1,0 +1,69 @@
+Title:Study on the interaction between salicylic acid and human serum albumin
+DOI:None
+ligand name:salicylic acid
+ligand smiles:C1=CC=C(C(=C1)C(=O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;282;282;282;
+pH;
+T;296.0;306.0;313.0
+KSV;19900.0;13700.0;9220.0
+kq;1990000000000.0;1370000000000.0;922000000000.0
+n;1.21;1.14;0.96
+K;
+Ka;
+Kb;90830.0;70400.0;6750.0
+ΔH;177.07;177.07;177.07
+ΔS;660.6;671.45;672.05
+ΔG;-29.71;-28.4;-21.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

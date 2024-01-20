@@ -1,0 +1,69 @@
+Title:Comparative study of two antipsychotic drugs binding to human serum albumin: By multispectroscopic and molecular docking methods
+DOI:10.1016/j.molliq.2022.120084
+ligand name:RIP
+ligand smiles:CC1=C(CCN2CCC(CC2)C2=NOC3=CC(F)=CC=C23)C(=O)N2CCCCC2=N1
+key residue(hbond):Lys199 d
+key residue(hydrophobic):Phe211;Trp214;Arg222;Leu238;His242;Arg257;Leu260;Ile264;Ser287;Ile290;Ala291 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286.0;298.0;310.0
+KSV;33000.0;32700.0;32100.0
+kq;
+n;
+K;
+Ka;
+Kb;15300.0;14700.0;13300.0
+ΔH;-4.24;-4.24;-4.24
+ΔS;65.35;65.35;65.35
+ΔG;-23.07;-23.72;-24.5
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

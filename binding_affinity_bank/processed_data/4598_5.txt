@@ -1,0 +1,69 @@
+Title:Structure and binding thermodynamics of viologen-phosphorous dendrimers to human serum albumin: A combined computational/experimental investigation
+DOI:10.1016/j.fluid.2016.02.014
+ligand name:6
+ligand smiles:CCOP(=O)(CC[N+]1=CC=C(C=C1)C1=CC=[N+](CC2=CC(C[N+]3=CC=C(C=C3)C3=CC=[N+](CC4=CC=C(C=NN(C)P5(=NP(=NP(=N5)(N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)(N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)C=C4)C=C3)=CC(C[N+]3=CC=C(C=C3)C3=CC=[N+](CCP(=O)(OCC)OCC)C=C3)=C2)C=C1)OCC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;245840.0;200480.0;137760.0
+kq;43900000000000.0;35800000000000.0;24600000000000.0
+n;1.289;1.323;1.304
+K;
+Ka;
+Kb;245000000.0;132000000.0;83600000.0
+ΔH;-68.8268;-68.8268;-68.8268
+ΔS;70.2013;74.1521;76.1218
+ΔG;-47.9068;-46.3587;-45.229
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.071
+K;
+Ka;
+Kb;527000000.0
+ΔH;-71.2954
+ΔS;72.167
+ΔG;-49.7896
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

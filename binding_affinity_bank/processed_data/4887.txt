@@ -1,0 +1,69 @@
+Title:Interaction of cyproheptadine hydrochloride with human serum albumin using spectroscopy and molecular modeling methods
+DOI:10.1002/bio.2374
+ligand name:cyproheptadine hydrochloride
+ligand smiles:CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1.Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0;318.0
+KSV;32300.0;29050.0;26410.0;24280.0
+kq;3230000000000.0;2905000000000.0;2641000000000.0;2428000000000.0
+n;1.035;1.022;1.008;0.9963
+K;
+Ka;39360.0;32230.0;26510.0;22390.0
+Kb;45030.0;44810.0;44600.0;44470.0
+ΔH;-14.37;-14.37;-14.37;-14.37
+ΔS;38.03;38.03;38.03;38.03
+ΔG;-25.32;-25.71;-26.07;-26.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:The effect of dichlorvos on the structural alteration of serum albumins: a combined spectroscopic and molecular dynamic simulation approach
+DOI:10.1007/s00706-016-1857-9
+ligand name:dichlorvos
+ligand smiles:COP(=O)(OC)OC=C(Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;178000.0
+kq;
+n;0.71
+K;
+Ka;1640000.0
+Kb;3620.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

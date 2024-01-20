@@ -1,0 +1,69 @@
+Title:Potassium sorbate as an AGE activator for human serum albumin in the presence and absence of glucose
+DOI:10.1016/j.ijbiomac.2013.08.045
+ligand name:Potassium sorbate
+ligand smiles:C/C=C/C=C/C(=O)[O-].[K+] 
+key residue(hbond):Asn111 d
+key residue(hydrophobic):His146;Arg145;Pro110 d
+PDB ID:
+Binding Area:subdomain IB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310.0
+n;
+K;
+Ka;
+Kb;
+ΔH;466.516
+ΔS;1422.56
+ΔG;-48.116
+Cp;31798.4
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

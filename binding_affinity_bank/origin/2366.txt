@@ -1,0 +1,95 @@
+Title:Human serum albumin interaction with paraquat studied using spectroscopic methods
+DOI:10.1016/j.pestbp.2006.05.003
+ligand name:paraquat
+ligand smiles:C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;295;302;309;
+KSV;3.954*10^4;3.770*10^4;3.672*10^4;3.495*10^4;
+kq;3.954*10^12;3.770*10^12;3.672*10^12;3.495*10^12;
+n;1.1037;1.0826;1.0285;1.0117;
+K;
+Ka;
+Kb;4.2453*10^4;3.9879*10^4;3.5944*10^4;3.4389*10^4;
+ΔH;-6.710;-6.710;-6.710;-6.710;
+ΔS;64.849;64.849;64.849;64.849;
+ΔG;-25.386;-25.840;-26.294;-26.748;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.553*10^-14;
+E;0.034;
+R0;2.06;
+r;3.54;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

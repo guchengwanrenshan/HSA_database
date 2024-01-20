@@ -1,0 +1,95 @@
+Title:Investigation on the Interaction of Norgestrel with Human Serum Albumin Using Spectroscopy and Molecular-Docking Method
+DOI:10.1002/jbt.21790
+ligand name:Norgestrel
+ligand smiles:CC[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34 
+key residue(hbond):Lys199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;305;312;
+KSV;5.027*10^3;4.696*10^3;4.244*10^3;
+kq;
+n;1.027;1.020;0.953;
+K;
+Ka;
+Kb;6.877*10^3;5.592*10^3;2.828*10^3;
+ΔH;-48.97;-48.97;-48.97;
+ΔS;-90.11;-90.11;-90.11;
+ΔG;-21.9;-22.04;-20.6;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

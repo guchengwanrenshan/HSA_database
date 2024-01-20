@@ -1,0 +1,98 @@
+Title:Studies on conformational changes induced by binding of pendimethalin with human serum albumin
+DOI:10.1016/j.chemosphere.2019.125270
+ligand name: pendimethalin
+ligand smiles: CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
+key residue(hbond):rg22;Lys199;Arg257 d
+key residue(hydrophobic):ala291,Lys219;Leu238;Tyr150 d
+PDB ID:
+Binding Area:subdomain IIA (sudlow's site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;9.92*10^4;8.35*10^4;7.17*10^4;
+kq;1.72*10^13;1.44*10^13;1.24*10^13;
+n;1.01;1.0;1.02;
+K;
+Ka;
+Kb;10.63*10^4;9.85*10^4;8.47*10^4;
+ΔH;-16.17;-16.17;-16.17;
+ΔS;45.78;45.78;45.78;
+ΔG;-29.81;-30.04;-30.27;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298
+n;1.1
+K;
+Ka;
+Kb;12.34*10^4;
+ΔH;-25.68;
+ΔS;21.21;
+ΔG;-32;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;0.306;227.6;2.55 × 10^−2;112.04
+1:5;;0.294;273.1;2.45 × 10^−2;89.71
+1:10;;0.301;357.3;2.50 × 10^−2;69.96
+1:15;;0.308;428.0;2.57 × 10^−2;60.04
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

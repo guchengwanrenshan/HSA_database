@@ -1,0 +1,69 @@
+Title:Investigation of the binding behavior of bioactive 7-methoxyflavone to human serum albumin by coupling multi-spectroscopic with computational approaches
+DOI:10.1016/j.saa.2022.121920
+ligand name:7-methoxyflavone
+ligand smiles:COC1=CC2=C(C=C1)C(=O)C=C(O2)C3=CC=CC=C3  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;41870.0;45820.0;44110.0
+kq;4187000000000.0;4582000000000.0;4411000000000.0
+n;
+K;
+Ka;
+Kb;49200.0;28610.0;15520.0
+ΔH;-73.54;-73.54;-73.54
+ΔS;-157.13;-157.13;-157.13
+ΔG;-26.72;-25.93;-24.83
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

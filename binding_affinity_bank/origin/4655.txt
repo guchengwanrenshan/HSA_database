@@ -1,0 +1,95 @@
+Title:Studies of the Interaction Between Ronidazole and Human Serum Albumin by Spectroscopic and Molecular Docking Methods
+DOI:10.1007/s10953-013-0027-5
+ligand name:Ronidazole
+ligand smiles:CN1C(=CN=C1COC(=O)N)[N+](=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;1.969*10^4;2.030*10^4;2.058*10^4;2.168*10^4;
+kq;1.969*10^12;2.030*10^12;2.058*10^12;2.168*10^12;
+n;1.0009;0.9827;0.9729;0.9297;
+K;
+Ka;
+Kb;2.1281*10^4;1.6580*10^4;1.5279*10^4;1.0104*10^4;
+ΔH;-37.94;-37.94;-37.94;-37.94;
+ΔS;-42.87;-42.87;-42.87;-42.87;
+ΔG;-25.16;-25.16;-25.16;-25.16;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Investigations of the molecular mechanism of diltiazem binding to human serum albumin in the presence of metal ions, glucose and urea
+DOI:10.1080/07391102.2021.1891137
+ligand name:Diltiazem
+ligand smiles:CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;318;338;
+KSV;1.12*10^4;0.89*10^4;0.62*10^4;0.56*10^4;1.51*10^4;2.13*10^4;
+kq;1.12*10^12;0.89*10^12;0.62*10^12;0.56*10^12;1.51*10^12;2.13*10^12;
+n;
+K;
+Ka;2.09*10^6;0.44*10^6;0.19*10^6;0.19*10^6;0.02*10^6;0.90*10^6;
+Kb;
+ΔH;-16.300;-16.300;-16.300;-16.300;-16.300;-16.300;
+ΔS;-432.827;-432.827;-432.827;-432.827;-432.827;-432.827;
+ΔG;-33.700;-31.500;-29.300;-27.200;-25.000;-16.400;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

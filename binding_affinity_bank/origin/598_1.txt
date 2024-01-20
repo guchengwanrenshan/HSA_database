@@ -1,0 +1,95 @@
+Title:Comparative study of the interactions between bisphenol analogues and serum albumins by electrospray mass spectrometry and fluorescence spectroscopy
+DOI:10.1002/rcm.7633
+ligand name:tetrachlorobisphenol A
+ligand smiles:CC(C)(C1=CC(=C(C(=C1)Cl)O)Cl)C2=CC(=C(C(=C2)Cl)O)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;284;297;310;
+KSV;61.21*10^4;48.70*10^4;37.79*10^4;
+kq;61.21*10^12;48.70*10^12;37.79*10^12;
+n;
+K;
+Ka;67.93*10^4;58.35*10^4;50.00*10^4;
+Kb;
+ΔH;-8.62;-8.62;-8.62;
+ΔS;81.31;81.31;81.31;
+ΔG;-31.71;-32.77;-33.82;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

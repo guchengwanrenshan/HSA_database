@@ -1,0 +1,69 @@
+Title:Evaluation of binding properties of human serum albumin and mono-benzyl phthalate (MBZP): Multi-spectroscopic analysis and computer simulation
+DOI:10.1016/j.molliq.2021.117283
+ligand name:Mono-benzyl phthalate
+ligand smiles:C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2C(=O)O  
+key residue(hbond):Ala291;Arg222;Lys195 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;308.0
+KSV;85000.0;76600.0;72400.0;67800.0
+kq;13500000000000.0;12200000000000.0;11500000000000.0;10800000000000.0
+n;1.03;1.01;1.0;0.99
+K;
+Ka;
+Kb;102600.0;86700.0;69600.0;57500.0
+ΔH;-30.78;-30.78;-30.78;-30.78
+ΔS;-8.92;-8.92;-8.92;-8.92
+ΔG;-28.17;-28.12;-28.08;-28.03
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

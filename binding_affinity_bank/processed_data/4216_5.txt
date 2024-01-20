@@ -1,0 +1,69 @@
+Title:Species Differences in the Binding of Sodium 4-Phenylbutyrate to Serum Albumin
+DOI:10.1016/j.xphs.2017.04.025
+ligand name:PH
+ligand smiles:OC(=O)CCCCCCC1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;0.91
+K;
+Ka;
+Kb;2580000.0
+ΔH;
+ΔS;
+ΔG;-36.5771
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

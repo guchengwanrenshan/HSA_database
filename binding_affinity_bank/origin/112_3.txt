@@ -1,0 +1,95 @@
+Title:Interactions between tetrahydroisoindoline-1,3-dione derivatives and human serum albumin via multiple spectroscopy techniques
+DOI:10.1007/s11356-018-1955-9
+ligand name:tetrahydroisoindoline-1,3-dione derivative III-1k
+ligand smiles:C1C2=C(CCC1)C(=O)N(C2=O)C3=CC=C4C(=C3F)OC(=O)N4C(C(=O)OCC)CC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;307;316;
+KSV;4.71*10^4;3.90*10^4;3.56*10^4;
+kq;10.09*10^12;8.35*10^12;7.62*10^12;
+n;0.9153;0.9348;0.9801;
+K;
+Ka;4.26*10^4;3.53*10^4;3.46*10^4;
+Kb;
+ΔH;-9.15;-9.15;-9.15;
+ΔS;57.87;57.87;57.87;
+ΔG;-26.39;-26.91;-27.44;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

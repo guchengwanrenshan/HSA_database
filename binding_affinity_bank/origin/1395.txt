@@ -1,0 +1,95 @@
+Title:Effect of carbamylation on the molecular recognition action of amino benzothiazole by carrier protein
+DOI:10.1016/j.saa.2019.117595
+ligand name:ABT
+ligand smiles:NC1=NC2=C(S1)C=CC=C2
+key residue(hbond):ARG257 d
+key residue(hydrophobic):SER287 d
+PDB ID:
+Binding Area:Sudlow's site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;
+kq;
+n;1.139;1.142;1.139;1.138;
+K;
+Ka;
+Kb;1.873*10^4;1.743*10^4;1.587*10^4;1.518*10^4;
+ΔH;-9.102;-9.102;-9.102;-9.102;
+ΔS;50.62;50.62;50.62;50.62;
+ΔG;-23.88;-24.19;-24.49;-24.80;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

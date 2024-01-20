@@ -1,0 +1,95 @@
+Title:Probing the binding of fluoxetine hydrochloride to human serum albumin by multispectroscopic techniques
+DOI:10.1016/j.saa.2009.10.031
+ligand name:fluoxetine hydrochloride
+ligand smiles:CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;300;310;
+KSV;1.87*10^3;1.64*10^3;1.36*10^3;
+kq;1.87*10^11;1.64*10^11;1.36*10^11;
+n;
+K;
+Ka;
+Kb;
+ΔH;-9.53;-9.53;-9.53;
+ΔS;29.85;29.85;29.85;
+ΔG;-18.2;-18.5;-18.8;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.23
+R0;2.23;
+r;2.73;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

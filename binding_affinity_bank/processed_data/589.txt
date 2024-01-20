@@ -1,0 +1,69 @@
+Title:Monosaccharides interact weakly with human serum albumin. Insights for the functional perturbations on the binding capacity of albumin
+DOI:10.1016/j.carres.2021.108274
+ligand name:Fructose
+ligand smiles:C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA (Sudlow's site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;370.0;241.0;203.0
+kq;74000000000.0;48200000000.0;40600000000.0
+n;
+K;
+Ka;3100.0;1100.0;3400.0
+Kb;3110.0;1790.0;571.0
+ΔH;-92.0;-92.0;-92.0
+ΔS;243.24;243.24;243.24
+ΔG;-164.0;-166.0;-167.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Investigation on the Interaction of Dabrafenib with Human Serum Albumin Using Combined Experiment and Molecular Dynamics Simulation: Exploring the Binding Mechanism, Esterase-like Activity, and Antioxidant Activity
+DOI:10.1021/acs.molpharmaceut.8b00806
+ligand name:Dabrafenib
+ligand smiles:CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;
+kq;
+n;0.98;1.015;1.072
+K;97600.0;127300.0;210300.0
+Ka;
+Kb;
+ΔH;-40.414;-40.414;-40.414
+ΔS;230.92;230.92;230.92
+ΔG;-28.4;-29.786;-31.171
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

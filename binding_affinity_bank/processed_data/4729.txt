@@ -1,0 +1,69 @@
+Title:Spectroscopic study on interaction of chlorogenic acid and human serum albumin
+DOI:None
+ligand name:chlorogenic acid
+ligand smiles:C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0;320.0
+KSV;48900.0;48600.0;47700.0;44600.0
+kq;4890000000000.0;4860000000000.0;4770000000000.0;4460000000000.0
+n;1.59;1.36;1.08;1.02
+K;
+Ka;
+Kb;23000000.0;1940000.0;119000.0;60100.0
+ΔH;-179.0;-216.0;-56.4;-153.1
+ΔS;-476.1;-599.4;-84.7;-386.7
+ΔG;-40.9;-36.1;-30.1;-29.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

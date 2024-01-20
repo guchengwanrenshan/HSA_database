@@ -1,0 +1,69 @@
+Title:Study of intermolecular interactions between pterostilbene and human serum albumin by fluorescence spectrometry-surface enhanced Raman spectroscopy
+DOI:10.11895/j.issn.0253-3820.170341
+ligand name:Pterostilbene
+ligand smiles:COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)O)OC 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;79000.0;76200.0;62200.0
+kq;7900000000000.0;7620000000000.0;6220000000000.0
+n;0.84;0.95;1.12
+K;
+Ka;
+Kb;11200.0;40700.0;245000.0
+ΔH;197.23;197.23;197.23
+ΔS;738.62;738.62;738.62
+ΔG;-22.87;-27.31;-31.74
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

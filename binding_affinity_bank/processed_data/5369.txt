@@ -1,0 +1,69 @@
+Title:Specific interaction of 4'-O-(a--Cladinosyl) daunorubicin with human serum albumin: The binding site II on HSA molecular using spectroscopy and modeling
+DOI:10.1016/j.jphotobiol.2009.03.001
+ligand name:CDNR
+ligand smiles:COC1=CC=CC2=C1C(=O)C1=C(O)C3=C(C[C@](O)(C[C@@H]3O[C@@H]3C[C@H](N)[C@H](O[C@H]4C[C@@](C)(OC)[C@@H](C)[C@H](C)O4)[C@H](C)O3)C(C)=O)C(O)=C1C2=O
+key residue(hbond):Arg218;Arg222;Glu292 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;294.0;304.0;314.0
+KSV;35850.0;33640.0
+kq;3585000000000.0;3364000000000.0
+n;1.19;1.12;1.03
+K;
+Ka;91700.0;63800.0;45300.0
+Kb;92800.0;60700.0;43600.0
+ΔH;-19.89;-19.89;-19.89
+ΔS;26.23;26.23;26.23
+ΔG;-28.02;-28.05;-28.08
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

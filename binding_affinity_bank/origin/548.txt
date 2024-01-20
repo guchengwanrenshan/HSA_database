@@ -1,0 +1,95 @@
+Title:Stabilization of a potential anticancer thiosemicarbazone derivative in Sudlow site I of human serum albumin: In vitro spectroscopy coupled with molecular dynamics simulation
+DOI:10.1016/j.bpc.2020.106509
+ligand name:DAHTS
+ligand smiles:CCN(CC)C1=CC(O)=C(\C=N\CC(=S)N(C)C)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I(Subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;6.09*10^4;8.08*10^4;9.08*10^4;10.18*10^4;
+kq;6.09*10^13;8.08*10^13;9.08*10^13;10.18*10^13;
+n;
+K;
+Ka;5.58*10^4;6.15*10^4;6.56*10^4;8.11*10^4;
+Kb;
+ΔH;17.88;17.88;17.88;17.88;
+ΔS;151.73;151.73;151.73;151.73;
+ΔG;-26.63;-27.33;-27.94;-28.94;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

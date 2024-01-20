@@ -1,0 +1,69 @@
+Title:The interaction between protocatechuic aldehyde and human serum albumin using three-dimensional fluorescence techniques
+DOI:10.1155/2011/932060
+ligand name:protocatechuic aldehyde
+ligand smiles:C1=CC(=C(C=C1C=O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;
+kq;
+n;1.1;1.17;1.22
+K;
+Ka;
+Kb;44300000.0;133000000.0;979000000.0
+ΔH;114.02;114.02;114.02
+ΔS;541.92;541.92;541.92
+ΔG;-42.16;-47.25;-53.01
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Synthesis of N-(2-chloro purin-6-yl) aza-18-crown-6 and its interaction with human serum albumin
+DOI:10.1039/c1ob06241g
+ligand name:NCPAC
+ligand smiles:ClC1=NC(N2CCOCCOCCOCCOCCOCC2)=C2N=CNC2=N1
+key residue(hbond):ARG222;RG218;LYS195 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;313;
+KSV;7.355*10^6;7.010*10^6;6.624*10^6;
+kq;7.355*10^14;7.010*10^14;6.624*10^14;
+n;1.173;1.238;1.294;
+K;
+Ka;1.182*10^5;1.019*10^5;0.8999*10^5;
+Kb;2.204*10^5;2.032*10^5;1.266*10^5;
+ΔH;-10.87;-10.87;-10.87;
+ΔS;60.0;60.0;60.0;
+ΔG;-28.45;-29.05;-29.69;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.99*10^-14;
+E;0.0899;
+R0;2.4478;
+r;3.6;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,90 @@
+Title:Characterization of the interaction between 4-(tetrahydro-2-furanmethoxy)-N-octadecyl-1,8-naphthalimide and human serum albumin by molecular spectroscopy and its analytical application
+DOI:10.1366/11-06425
+ligand name:TNN
+ligand smiles:CCCCCCCCCCCCCCCCCCN1C(=O)C2=CC=C(OCC3CCCO3)C3=CC=CC(=C23)C1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;2.23*10^5;2.16*10^5;2.08*10^5;1.08*10^5;
+kq;
+n;1.15;1.15;1.14;1.14;
+K;
+Ka;
+Kb;1.20*10^6;1.17*10^6;1.15*10^6;1.07*10^6;
+ΔH;-7.31;-7.31;-7.31;-7.31;
+ΔS;72.75;72.75;72.75;72.75;
+ΔG;-28.99;-29.22;-29.57;-29.86;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

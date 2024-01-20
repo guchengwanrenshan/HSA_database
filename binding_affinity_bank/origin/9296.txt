@@ -1,0 +1,90 @@
+Title:Study of the interaction of an anticancer drug with human and bovine serum albumin: Spectroscopic approach
+DOI:10.1016/j.jpba.2005.11.037
+ligand name:gemcitabine hydrochloride
+ligand smiles:C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;309;
+KSV;8.13*10^3;7.91*10^3;7.74*10^3;
+kq;8.13*10^11;7.91*10^11;7.74*10^11;
+n;
+K;
+Ka;
+Kb;
+ΔH;-13.96;-13.96;-13.96;
+ΔS;26.92;26.92;26.92;
+ΔG;-21.68;-22.01;-22.22;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.2*10^-15;
+E;0.24;
+R0;1.69;
+r;2.05;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

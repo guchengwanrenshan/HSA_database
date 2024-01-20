@@ -1,0 +1,90 @@
+Title:Dietary polyphenols inhibit plasma protein arabinosylation: Biomolecular interaction of genistein and ellagic acid with serum albumins
+DOI:10.1016/j.bpc.2021.106651
+ligand name:Ellagic acid
+ligand smiles:C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O  
+key residue(hbond):Arg214;Asn291;Lys440 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;318;323;
+KSV;4.75*10^5;4.63*10^5;4.41*10^5;4.10*10^5;4.64*10^5;2.78*10^5;
+kq;
+n;
+K;
+Ka;7.17*10^4;4.64*10^4;5.62*10^4;6.18*10^4;5.67*10^4;8.45*10^4;
+Kb;
+ΔH;-12.11;-12.11;-12.11;-12.11;-12.11;-12.11;
+ΔS;53.12;53.12;53.12;53.12;53.12;53.12;
+ΔG;-27.94;-28.21;-28.47;-28.74;-29.01;-29.27;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

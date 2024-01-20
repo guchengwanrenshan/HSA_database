@@ -1,0 +1,69 @@
+Title:Study on the interaction of 6-(2-morpholin-4-yl-ethyl)-6H-indolo [2,3-b]quinoxaline hydrochloride with human serum albumin by fluorescence spectroscopy
+DOI:10.1088/2050-6120/4/3/034012
+ligand name:MIQ
+ligand smiles:C(CN1CCOCC1)N1C2=C(C=CC=C2)C2=C1N=C1C=CC=CC1=N2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;313.0
+KSV;268000.0;164000.0;146000.0
+kq;26800000000000.0;16400000000000.0;14600000000000.0
+n;1.2;1.02;1.01
+K;
+Ka;2552000.0;169000.0;170000.0
+Kb;
+ΔH;-150.39;-150.39;-150.39
+ΔS;-383.53;-383.53;-383.53
+ΔG;-36.1;-32.27;-30.35
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

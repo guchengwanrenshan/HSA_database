@@ -1,0 +1,95 @@
+Title:In vitro investigation of the interaction between the hepatitis C virus drug sofosbuvir and human serum albumin through 1H NMR, molecular docking, and spectroscopic analyses
+DOI:10.1039/c5nj02003d
+ligand name:sofosbuvir
+ligand smiles:C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;4.87*10^3;3.91*10^3;2.77*10^3;
+kq;4.87*10^11;3.91*10^11;2.77*10^11;
+n;1.01;1.08;1.21;
+K;
+Ka;
+Kb;5.43*10^3;8.04*10^3;23.65*10^3;
+ΔH;93.5542;93.5542;93.5542;
+ΔS;385.5458;382.3405;385.3329;
+ΔG;-21.2966;-22.6354;-25.8571;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

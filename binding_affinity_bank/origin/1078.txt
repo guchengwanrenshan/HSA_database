@@ -1,0 +1,95 @@
+Title:Molecular spectroscopic studies examining the interactions between phenobarbital and human serum albumin in alcohol consumption.
+DOI:10.1080/00952990.2017.1387265
+ligand name:phenobarbital
+ligand smiles:CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;1.36*10^4;1.08*10^4;1.03*10^4;
+kq;2.13*10^12;1.69*10^12;1.61*10^12;
+n;1.08;1.14;1.12;
+K;
+Ka;4.5*10^4;3.47*10^4;1.72*10^4;
+Kb;4.21*10^4;2.80*10^4;1.65*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

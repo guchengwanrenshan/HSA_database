@@ -1,0 +1,69 @@
+Title:Potential toxic effects of sulfonamides antibiotics: Molecular modeling, multiple-spectroscopy techniques and density functional theory calculations
+DOI:10.1016/j.ecoenv.2022.113979
+ligand name:SMT
+ligand smiles:CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;33500.0;28600.0;21600.0
+kq;33500.0;28600.0;21600.0
+n;0.99;0.98;1.02
+K;
+Ka;
+Kb;45300.0;44600.0;44200.0
+ΔH;-1.07;-1.07;-1.07
+ΔS;85.55;85.55;85.55
+ΔG;-26.56;-27.33;-28.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

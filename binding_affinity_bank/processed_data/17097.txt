@@ -1,0 +1,69 @@
+Title:The influence of several nutritional supplements on the rational use of cabozantinib
+DOI:10.1002/bio.4404
+ligand name:cabozantinib
+ligand smiles:COC1=CC2=C(C=CN=C2C=C1OC)OC3=CC=C(C=C3)NC(=O)C4(CC4)C(=O)NC5=CC=C(C=C5)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;310.0
+KSV;52230.0;54000.0;56960.0
+kq;5223000000000.0;5400000000000.0;5696000000000.0
+n;0.9137;0.8909;0.7301
+K;
+Ka;
+Kb;55059.0;51240.0;43450.0
+ΔH;0.945;0.945;0.945
+ΔS;92.28;92.28;92.28
+ΔG;-26.39;-27.32;-27.52
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

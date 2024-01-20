@@ -1,0 +1,69 @@
+Title:Study on the interaction of PTB and serum albumin by fluorescence method
+DOI:
+ligand name:PTB
+ligand smiles: C1=CC=C(C=C1)C2=NN([N+](=N2)C3=CC=CC=C3)C4=CC=CC=C4.[Cl-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;310.0
+KSV;
+kq;299000000000.0;416000000000.0
+n;1.16;0.87
+K;
+Ka;
+Kb;3830.0;3350.0
+ΔH;
+ΔS;
+ΔG;-19.7555;-20.9195
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

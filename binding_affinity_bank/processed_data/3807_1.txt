@@ -1,0 +1,69 @@
+Title:Enhanced transport of nandrolone decanoate drug by human serum albumin in presence of [BMIM]PF6 and [BMIM]BF4
+DOI:10.17344/acsi.2018.4301
+ligand name:[BMIM]PF6
+ligand smiles:CCCCN1C=C[N+](=C1)C.F[P-](F)(F)(F)(F)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;285.15;293.15;303.15;310.15
+KSV;175000.0;151000.0;126000.0;108000.0
+kq;
+n;1.35;1.25;1.28;1.11
+K;
+Ka;
+Kb;700000.0;651000.0;544000.0;380000.0
+ΔH;-27.14;-27.14;-27.14;-27.14
+ΔS;16.7;16.7;16.7;16.7
+ΔG;-31.9;-32.04;-33.2;-32.32
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

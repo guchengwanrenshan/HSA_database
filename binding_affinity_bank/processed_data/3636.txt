@@ -1,0 +1,69 @@
+Title:Molecular interactions of benzophenone UV filters with human serum albumin revealed by spectroscopic techniques and molecular modeling
+DOI:10.1016/j.jhazmat.2013.10.024
+ligand name:BP-1
+ligand smiles:OC1=CC=C(C(=O)C2=CC=CC=C2)C(O)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;24700.0;21900.0;18700.0
+kq;2470000000000.0;2190000000000.0;1870000000000.0
+n;0.96;0.92;1.02
+K;
+Ka;27500.0;26700.0;26000.0
+Kb;27700.0;25500.0;22600.0
+ΔH;-3.06;-3.06;-3.06
+ΔS;74.63;74.63;74.63
+ΔG;-25.16;-25.68;-26.2
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

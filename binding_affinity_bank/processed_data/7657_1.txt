@@ -1,0 +1,69 @@
+Title:Study on the interaction of cefazolin and ceftriaxone with human serum albumin with multi-spectroscopic and docking methods
+DOI:10.3964/j.issn.1000-0593(2017)04-1205-06
+ligand name:ceftriaxone
+ligand smiles:CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\OC)/C4=CSC(=N4)N)SC2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;
+kq;
+n;1.13;1.07
+K;
+Ka;
+Kb;97000.0;52200.0
+ΔH;-39.56;-39.56
+ΔS;-37.28;-37.28
+ΔG;-28.45;-28.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

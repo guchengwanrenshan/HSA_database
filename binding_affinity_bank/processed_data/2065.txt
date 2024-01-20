@@ -1,0 +1,69 @@
+Title:The interaction of silibinin with human serum albumin: A spectroscopic investigation
+DOI:10.1016/j.jphotochem.2007.08.028
+ligand name:silibinin
+ligand smiles:COC1=C(C=CC(=C1)[C@@H]2[C@H](OC3=C(O2)C=C(C=C3)[C@@H]4[C@H](C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIa
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;313.0
+KSV;
+kq;
+n;0.95;0.97;0.98;0.98
+K;
+Ka;
+Kb;101200.0;97200.0;97000.0;96500.0
+ΔH;-6.76;-6.76;-6.76;-6.76
+ΔS;73.69;73.69;73.69
+ΔG;-28.35;-28.72;-29.09;-29.83
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

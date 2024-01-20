@@ -1,0 +1,95 @@
+Title:Biomolecular interactions and binding dynamics of tyrosine kinase inhibitor erdafitinib, with human serum albumin
+DOI:10.1080/07391102.2020.1772880
+ligand name:Erdafitinib
+ligand smiles:CC(C)NCCN(C1=CC2=NC(=CN=C2C=C1)C3=CN(N=C3)C)C4=CC(=CC(=C4)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site III(subdomain IB)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;2.04*10^4;1.66*10^4;1.12*10^4;
+kq;2.04*10^13;1.66*10^13;1.12*10^13;
+n;1.087;1.051;1.031;
+K;
+Ka;
+Kb;5.384*10^4;2.875*10^4;1.490*10^4;
+ΔH;-50.543;-50.543;-50.543;
+ΔS;-79.50;-79.50;-79.50;
+ΔG;-26.991;-26.288;-25.405;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.26*10^-15;
+E;0.139
+R0;2.34;
+r;3.17;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

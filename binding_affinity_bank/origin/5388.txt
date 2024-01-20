@@ -1,0 +1,95 @@
+Title:Investigation of the mechanism of binding of thiacloprid to human serum albumin using spectroscopic techniques and molecular modeling methods
+DOI:10.1155/2011/195489
+ligand name:thiacloprid
+ligand smiles:C1CSC(=NC#N)N1CC2=CN=C(C=C2)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;3.304*10^4;2.672*10^4;1.911*10^4;
+kq;
+n;0.9936;1.0036;0.9667;
+K;
+Ka;
+Kb;3.07*10^4;2.74*10^4;1.35*10^4;
+ΔH;-20.378;-20.378;-20.378;
+ΔS;16.328;16.328;16.328;
+ΔG;-25.113;-25.276;-25.439;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

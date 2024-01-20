@@ -1,0 +1,90 @@
+Title:Investigations of interaction mechanism and conformational variation of serum albumin affected by artemisinin and dihydroartemisinin
+DOI:10.1002/jmr.3000
+ligand name:dihydroartemisinin
+ligand smiles:C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)O)C
+key residue(hbond):
+key residue(hydrophobic):Phe157;Ala191;Ala291 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;5.50*10^3;4.30*10^3;3.70*10^3;
+kq;
+n;
+K;
+Ka;
+Kb;1.89*10^4;1.23*10^4;0.73*10^4;
+ΔH;-75.92;-75.92;-75.92;
+ΔS;-123.64;-123.64;-123.64;
+ΔG;-24.45;-23.71;-22.97;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

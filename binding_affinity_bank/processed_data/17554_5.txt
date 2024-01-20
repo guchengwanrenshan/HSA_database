@@ -1,0 +1,69 @@
+Title:Aza-Oxa-Triazole Based Macrocycles with Tunable Properties: Design, Synthesis, and Bioactivity
+DOI:10.3390/molecules27113409
+ligand name:MC6
+ligand smiles:C1=CC=C(CN2CCN(CC3=CC=CC=C3)CC3=CN(CCNCCN4C=C(C2)N=N4)N=N3)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;0.9909
+K;
+Ka;
+Kb;930.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

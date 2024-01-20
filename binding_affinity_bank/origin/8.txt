@@ -1,0 +1,105 @@
+Title: Biophysical Study on the Interaction between Eperisone Hydrochloride and Human Serum Albumin Using Spectroscopic, Calorimetric, and Molecular Docking Analyses
+DOI: 10.1021/acs.molpharmaceut.6b01124
+ligand name: eperisone hydrochloride
+ligand smiles:CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2
+key residue(Hbond):R257 d
+key residue(hydrophobic): Y150;K199;L219;F223;L238;H242;R257;L260;I264;I290;A291 d
+PDB ID:
+Binding Area: IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;315;
+KSV;9.7*10^4;7.9*10^4;6.1*10^4;4.8*10^4;
+kq;1.6*10^13;1.3*10^13;1.0*10^13;0.83*10^13;
+n;0.93;1.0;1.0;1.1;
+K;
+Ka;
+Kb;0.49*10^5;0.99*10^5;1.0*10^5;1.7*10^5;
+ΔH;46.024;46.024;46.024;46.024;
+ΔS;245.705;245.793;245.641;245.727;
+ΔG;-27.196;-28.4512;-30.1248;-31.38;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;2.73*10^4;
+Kb;
+ΔH;-130.5408;
+ΔS;-340.4765;
+ΔG;-28.0328;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;100;0.0233;250;16.8;0.0672;
+1:5;98;0.0243;480;17.4;0.03625;
+1:10;94;0.0255;630;18.0;0.02857;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA (Å2) of HSA;ASA (Å2) of com;ΔASA (Å2)；
+Y150;25.01;9.35;15.66
+K199;43.53;23.65;19.88
+L219;12.80;3.02;9.78
+F223;4.33;0;4.33
+L238;38.39;0.65;37.74
+H242;11.17;0;11.17
+R257;23.30;8.03;15.27
+L260;17.93;5.02;12.91
+I264;13.80;0;13.8
+I290;14.33;0;14.33
+A291;44.45;16.25;28.2
+
+

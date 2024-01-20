@@ -1,0 +1,90 @@
+Title:Molecular interaction of novel benzothiazolyl triazolium analogues with calf thymus DNA and HSA-their biological investigation as potent antimicrobial agents
+DOI:10.1016/j.ejmech.2018.02.056
+ligand name:5q
+ligand smiles:CCOC1=CC=C2C(=C1)SC1=NC(C3=CC=CC=C3)=C(COCC3=CN(CC4=CC(Cl)=C(Cl)C=C4)N=N3)N21
+key residue(hbond):Lys199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.3;7.3;7.3;
+T;286;303;310;
+KSV;4.04*10^4;3.54*10^4;3.42*10^4;
+kq;6.36*10^12;5.53*10^12;5.34*10^12;
+n;1.21;1.26;1.37;
+K;
+Ka;2.63*10^4;2.57*10^4;1.94*10^4;
+Kb;2.17*10^4;2.18*10^4;1.76*10^4;
+ΔH;-6.43;-6.43;-6.43;
+ΔS;60.5;60.5;60.5;
+ΔG;-24.733;-24.762;-25.185;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

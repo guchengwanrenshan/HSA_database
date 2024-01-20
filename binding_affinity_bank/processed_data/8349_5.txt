@@ -1,0 +1,69 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Methomyl
+ligand smiles:CC(=NOC(=O)NC)SC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;34010.0;40250.0;52880.0
+kq;3401000000000.0;4025000000000.0;5288000000000.0
+n;0.661;0.727;0.766
+K;
+Ka;
+Kb;683.0;1727.0;3536.0
+ΔH;89.675;89.675;89.675
+ΔS;357.453;357.453;357.453
+ΔG;-16.131;-18.633;-21.135
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Binding properties of drospirenone with human serum albumin and lysozyme in vitro
+DOI:10.1016/j.saa.2015.09.017
+ligand name:Drospirenone
+ligand smiles:O.[H][C@@]12[C@@H]3C[C@@H]3[C@@]3(CCC(=O)O3)[C@@]1(C)CC[C@]1([H])[C@@]3(C)CCC(=O)C=C3[C@@H]3C[C@@H]3[C@@]21[H]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;53450.0;37640.0;31580.0
+kq;5345000000000.0;3764000000000.0;3158000000000.0
+n;1.05;1.01;0.91
+K;
+Ka;
+Kb;88860.0;40200.0;11180.0
+ΔH;-128.9;-128.9;-128.9
+ΔS;-337.3;-337.3;-337.3
+ΔG;-28.23;-26.8;-24.17
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

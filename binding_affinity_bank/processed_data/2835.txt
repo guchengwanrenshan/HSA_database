@@ -1,0 +1,69 @@
+Title:Interaction of cucurbitacins with human serum albumin: Thermodynamic characteristics and influence on the binding of site specific ligands
+DOI:10.1016/j.jphotobiol.2009.03.005
+ligand name:cucurbitacins B
+ligand smiles:[H][C@@]12C[C@H](O)C(=O)C(C)(C)C1=CC[C@@]1([H])[C@]3(C)C[C@@H](O)C([C@@](C)(O)C(=C)\C=C\C(C)(C)OC(C)=O)[C@@]3(C)CC(=O)[C@@]21C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;293.0;298.0;303.0
+KSV;
+kq;
+n;1.07;1.02;1.21;1.17
+K;
+Ka;
+Kb;2460000.0;2330000.0;2130000.0;2020000.0
+ΔH;-9.879;-9.879;-9.879;-9.879
+ΔS;88.07;88.07;88.07;88.07
+ΔG;-35.24;-35.68;-36.12;-36.56
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

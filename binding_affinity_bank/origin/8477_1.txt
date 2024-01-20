@@ -1,0 +1,90 @@
+Title:Efficacy of a combined antiplatelet therapy is not affected by a simultaneous binding of cangrelor and PSB 0777 to albumin
+DOI:10.3389/fphar.2021.638257
+ligand name:PSB 0777
+ligand smiles:C1=CC(=CC=C1CCSC2=NC(=C3C(=N2)N(C=N3)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N)S(=O)(=O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;302;312;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;8.53*10^4;6.43*10^4;7.50*10^4;
+ΔH;-5.06;-5.06;-5.06;
+ΔS;76.49;76.49;76.49;
+ΔG;-27.41;-28.17;-28.94;
+Kd;11.7;15.6;13.3;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

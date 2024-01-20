@@ -1,0 +1,69 @@
+Title:Interaction between olanzapine and human serum albumin and effect of metal ions, caffeine and flavonoids on the binding: A spectroscopic study
+DOI:10.1016/j.saa.2020.119295
+ligand name: olanzapine
+ligand smiles:CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;299.0;303.0;310.0
+KSV;10300.0;10700.0;11300.0;12600.0
+kq;1030000000000.0;1070000000000.0;1130000000000.0;1260000000000.0
+n;1.42;1.36;1.31;1.18
+K;
+Ka;
+Kb;710000.0;478000.0;256000.0;73000.0
+ΔH;-124.96;-124.96;-124.96
+ΔS;-309.56;-309.56;-309.56
+ΔG;-33.33;-32.4;-31.16;-29.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,96 @@
+Title:Interactions of isoorientin and its Semi-synthetic analogs with human serum albumin
+DOI:10.1016/j.bioorg.2021.105319
+ligand name:Isoorientin
+ligand smiles:C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.24*10^5;
+kq;2.37*10^13;
+n;0.73;
+K;
+Ka;14.89*10^4;
+Kb;
+ΔH;
+ΔS;
+ΔG;-29.51;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;100;0.025;231;18;0.0779;
+1:5;93;0.0178;359;12.84;0.0358;
+1:10;90;0.0115;419;8.28;0.0198;
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;45.98*10^-15;
+E;
+R0;3.32;
+r;3.92;
+EFRET;0.27;
+F0;3434;
+F;2508;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

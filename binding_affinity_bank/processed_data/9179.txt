@@ -1,0 +1,69 @@
+Title:Spectroscopic analysis of everolimus and human serum albumin interaction
+DOI:10.1063/5.0098027
+ligand name:Everolimus
+ligand smiles:C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0
+KSV;85600.0;45800.0;25400.0
+kq;8560000000000.0;4580000000000.0;2540000000000.0
+n;1.1;1.05;0.95
+K;
+Ka;
+Kb;47700.0;16400.0;2400.0
+ΔH;-280.57;-280.57;-280.57
+ΔS;-853.43;-853.43;-853.43
+ΔG;-26.97;-23.56;-20.14
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

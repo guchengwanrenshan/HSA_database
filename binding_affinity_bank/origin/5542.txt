@@ -1,0 +1,95 @@
+Title:Analysis of binding properties and interaction of thiabendazole and its metabolite with human serum albumin via multiple spectroscopic methods
+DOI:10.1016/j.foodchem.2017.04.119
+ligand name:Thiabendazole
+ligand smiles:C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1.39*10^5;1.12*10^5;0.973*10^5;
+ΔH;-22.50;-22.50;-22.50;
+ΔS;21.85;21.85;21.85;
+ΔG;-29.34;-29.38;-39.60;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;1.22*10^5;
+ΔH;-4.22;
+ΔS;21.1;
+ΔG;-48.49;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

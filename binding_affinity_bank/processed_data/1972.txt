@@ -1,0 +1,69 @@
+Title:Molecular interactions of AL3818 (anlotinib) to human serum albumin as revealed by spectroscopic and molecular docking studies
+DOI:10.1016/j.molliq.2018.10.025
+ligand name:anlotinib
+ligand smiles:CC1=CC2=C(N1)C=CC(=C2F)OC3=C4C=C(C(=CC4=NC=C3)OCC5(CC5)N)OC  
+key residue(hbond):	LEU238;ALA291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;309.0
+KSV;113000.0;111000.0;111000.0
+kq;41700000000000.0;41200000000000.0;41100000000000.0
+n;1.12;1.13;1.14
+K;119000.0;115000.0;109000.0
+Ka;
+Kb;
+ΔH;-3.18;-3.18;-3.18
+ΔS;86.2;86.2;86.2
+ΔG;-28.0;-28.86;-29.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

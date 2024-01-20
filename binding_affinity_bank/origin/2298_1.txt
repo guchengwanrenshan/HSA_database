@@ -1,0 +1,95 @@
+Title:Investigating the interaction mechanism of fluorescent whitening agents to human serum albumin using saturation transfer difference-NMR, multi-spectroscopy, and docking studies
+DOI:10.1039/c7ra04008c
+ligand name:CBS
+ligand smiles:[O-]S(=O)(=O)C1=CC=CC=C1\C=C\C1=CC=C(C=C1)C1=CC=C(\C=C\C2=C(C=CC=C2)S([O-])(=O)=O)C=C1
+key residue(hbond):
+key residue(hydrophobic):Met548;Val409;Ala406 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;5.134*10^5;5.411*10^5;5.565*10^5;
+kq;
+n;1.360;1.261;1.145;
+K;
+Ka;3.158*10^5;3.563*10^5;4.418*10^5;
+Kb;3.100*10^5;3.651*10^5;4.367*10^5;
+ΔH;21.967;21.967;21.967;
+ΔS;178.811;178.811;178.811;
+ΔG;-31.318;-32.391;-33.465;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.231*10^-14;
+E;0.505;
+R0;2.37;
+r;2.36;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

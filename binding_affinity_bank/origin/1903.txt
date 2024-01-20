@@ -1,0 +1,95 @@
+Title:Study on the interaction of paeoniflorin with human serum albumin (HSA) by spectroscopic and molecular docking techniques
+DOI:10.1186/s13065-017-0348-3
+ligand name:paeoniflorin
+ligand smiles:C[C@]12C[C@@]3([C@@H]4C[C@]1([C@@]4([C@H](O2)O3)COC(=O)C5=CC=CC=C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O 
+key residue(hbond):K195;Q196;K199;R222;H242;R257 d
+key residue(hydrophobic):K195;Q196;K199;R222;H242;R257 d
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;0.568*10^4;0.545*10^4;0.521*10^4;
+kq;0.9483*10^12;0.9083*10^12;0.8683*10^12;
+n;0.9053;0.8977;0.8868;
+K;
+Ka;1.909*10^3;1.680*10^3;1.421*10^3;
+Kb;
+ΔH;-9.98;-9.98;-9.98;
+ΔS;28.18;28.18;28.18;
+ΔG;-18.10;-18.38;-18.72;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.729*10^-16;
+E;0.0537;
+R0;1.08;
+r;1.74;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

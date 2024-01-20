@@ -1,0 +1,69 @@
+Title:Investigation of the interaction mechanism between salbutamol and human serum albumin by multispectroscopic and molecular docking
+DOI:10.1155/2020/1693602
+ligand name:Salbutamol
+ligand smiles:CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O  
+key residue(hbond):Ile290d
+key residue(hydrophobic):Leu219;Phe223;Leu238;Leu264;Ile264d
+PDB ID:
+Binding Area: subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;300.0;310.0
+KSV;
+kq;
+n;
+K;1.6121;1.0886;0.3472
+Ka;
+Kb;
+ΔH;-50.46;-50.46;-50.46
+ΔS;-93.53;-93.53;-93.53
+ΔG;-23.52;-22.4;-21.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

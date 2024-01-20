@@ -1,0 +1,95 @@
+Title:The investigation of interaction between Thioguanine and human serum albumin by fluorescence and modeling
+DOI:10.1016/j.arabjc.2013.06.031
+ligand name:Thioguanine
+ligand smiles:C1=NC2=C(N1)C(=S)N=C(N2)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297;307;317;
+KSV;
+kq;3.106*10^12;2.853*10^12;2.698*10^12;
+n;0.8073;0.9799;1.1192;
+K;
+Ka;
+Kb;4.24*10^4;3.13*10^4;2.47*10^4;
+ΔH;-21.11;-21.11;-21.11;
+ΔS;17.5;17.5;17.5;
+ΔG;-26.31;-26.42;-26.66;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.1235*10^-14;
+E;0.113;
+R0;3.10;
+r;4.37;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

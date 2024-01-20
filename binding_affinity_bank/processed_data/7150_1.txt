@@ -1,0 +1,69 @@
+Title:Photodynamic activity of thiophene-derived lysosome-specific dyes
+DOI:10.1016/j.jphotobiol.2016.02.013
+ligand name:TC2
+ligand smiles:CCOC(=O)C(C#N)=C(C1=CC=C(S1)N(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=C(S1)N(C1=CC=CC=C1)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;22.0
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

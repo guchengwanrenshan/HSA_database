@@ -1,0 +1,69 @@
+Title:Mechanistic and conformational studies on the interaction of food dye amaranth with human serum albumin by multispectroscopic methods
+DOI:10.1016/j.foodchem.2012.09.026
+ligand name:amaranth
+ligand smiles:C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;21230.0;14880.0;12370.0
+kq;2123000000000.0;1488000000000.0;1237000000000.0
+n;
+K;
+Ka;
+Kb;142200.0;120300.0;104000.0
+ΔH;-20.02;-20.02;-20.02
+ΔS;31.46;31.46;31.46
+ΔG;-29.4;-29.58;-29.77
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

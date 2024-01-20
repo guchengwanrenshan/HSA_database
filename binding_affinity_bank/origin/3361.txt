@@ -1,0 +1,95 @@
+Title:In vitro study on the interaction of methoxyflurane with human serum albumin: Phenotypic characterization
+DOI:10.1016/j.jfluchem.2013.05.006
+ligand name:methoxyflurane
+ligand smiles:COC(C(Cl)Cl)(F)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;6.27*10^4;4.01*10^4;2.38*10^4;
+kq;6.27*10^12;4.01*10^12;2.38*10^12;
+n;0.912;0.865;0.857;
+K;
+Ka;
+Kb;2.21*10^4;0.852*10^4;0.471*10^4;
+ΔH;-68.9;-68.9;-68.9;
+ΔS;-154;-154;-154;
+ΔG;-24.1;-22.6;-21.8;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;4.91;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,90 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Isoprocarb
+ligand smiles:CC(C)C1=CC=CC=C1OC(=O)NC 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;2.175*10^4;2.758*10^4;3.015*10^4;
+kq;2.175*10^12;2.758*10^12;3.015*10^12;
+n;0.669;0.689;0.712;
+K;
+Ka;
+Kb;0.4875*10^3;0.7701*10^3;1.111*10^3;
+ΔH;44.910;44.910;44.910;
+ΔS;203.281;203.281;203.281;
+ΔG;-15.260;-16.683;-18.106;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;2.338;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Insights into In Vitro Binding of Parecoxib to Human Serum Albumin by Spectroscopic Methods
+DOI:10.1002/jbt.21582
+ligand name:Parecoxib
+ligand smiles:CCC(=O)NS(=O)(=O)C1=CC=C(C=C1)C2=C(ON=C2C3=CC=CC=C3)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;298;306;
+KSV;5.28*10^4;3.73*10^4;2.64*10^4;
+kq;5.28*10^12;3.73*10^12;2.64*10^12;
+n;1.11;1.00;0.95;
+K;
+Ka;
+Kb;2.09*10^5;3.45*10^4;1.56*10^4;
+ΔH;-120;-120;-120;
+ΔS;-313;-313;-313;
+ΔG;-29.5;-25.9;-24.6;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;2.94;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

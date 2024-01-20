@@ -1,0 +1,95 @@
+Title:Spectroscopic and molecular modeling investigation on the binding of a synthesized steroidal amide to protein
+DOI:10.1016/j.jlumin.2014.03.025
+ligand name:DAAO
+ligand smiles:CC12CCC3C(CC(O)C4=CC(O)CCC34C)C1CCC(=O)N2
+key residue(hbond):ARG218;ARG222;LYS199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;299;305;311;
+KSV;2.469*10^5;1.991*10^5;1.666*10^5;1.481*10^5;
+kq;
+n;1.105;1.049;1.026;1.018;
+K;
+Ka;
+Kb;8.255*10^5;3.511*10^5;2.290*10^5;1.889*10^5;
+ΔH;-61.58;-61.58;-61.58;-61.58;
+ΔS;-98.24;-98.24;-98.24;-98.24;
+ΔG;-32.80;-32.20;-31.621;-31.031;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

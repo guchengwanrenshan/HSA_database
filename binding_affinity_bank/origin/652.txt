@@ -1,0 +1,95 @@
+Title:Probing the interaction of a coumarin-di(2-picolyl)amine hybrid drug-like molecular entity with human serum albumin: Multiple spectroscopic and molecular modeling techniques
+DOI:10.1016/j.saa.2019.117330
+ligand name:di(2-picolyl)amine-3(bromoacetyl) coumarin
+ligand smiles:O=C(CN(CC1=CC=CC=N1)CC1=CC=CC=N1)C1=CC2=C(OC1=O)C=CC=C2
+key residue(hbond):LEU203;GLY207;GLU208 d
+key residue(hydrophobic):LYS199;GLN204;GLN221;THR239;HIS242;THR243;HIS247 d
+PDB ID:
+Binding Area:Sudlow's site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;
+kq;
+n;0.998;1.001;0.996;
+K;1.6*10^4;1.2*10^4;0.85*10^4;
+Ka;
+Kb;
+ΔH;-49.078;-49.078;-49.078;
+ΔS;-83.764;-83.764;-83.764;
+ΔG;-24.100;-23.681;-23.096;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;2.1*10^4;
+ΔH;-56.777;
+ΔS;-103.051;
+ΔG;-26.066;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

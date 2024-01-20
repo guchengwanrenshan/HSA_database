@@ -1,0 +1,69 @@
+Title:Comparative binding mechanism of lupeol compounds with plasma proteins and its pharmacological importance
+DOI:10.1039/c4mb00635f
+ligand name:lupeol
+ligand smiles:[H][C@@]12[C@H](CC[C@@]1(C)CCC1(C)[C@]2([H])CC[C@]2([H])[C@@]3(C)CCC(O)C(C)(C)[C@]3([H])CC[C@]12C)C(C)=C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;285nm;
+pH;
+T;298.0
+KSV;284480.0
+kq;50800000000000.0
+n;0.8
+K;
+Ka;
+Kb;30000.0
+ΔH;
+ΔS;
+ΔG;-27.5726
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

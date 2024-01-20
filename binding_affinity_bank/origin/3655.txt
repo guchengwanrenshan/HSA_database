@@ -1,0 +1,95 @@
+Title:Biomacroexploring the interactions between caffeic acid and human serum albumin using spectroscopic and molecular docking techniques
+DOI:10.31883/pjfns/133203
+ligand name:Caffeic Acid
+ligand smiles:C1=CC(=C(C=C1/C=C/C(=O)O)O)O  
+key residue(hbond):Asn9;Gly248;Asp249;Leu251;Glu252 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;4.25*10^4;2.43*10^4;1.53*10^4;
+kq;4.25*10^12;2.43*10^12;1.53*10^12;
+n;
+K;0.93;0.92;0.91;
+Ka;5.85*10^4;3.52*10^4;2.44*10^4;
+Kb;2.18*10^4;1.14*10^4;0.64*10^4;
+ΔH;-32.75;-32.75;-32.75;
+ΔS;-21.78;-21.78;-21.78;
+ΔG;-26.43;-26.22;-26.00;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.6637*10^-19;
+E;0.075;
+R0;3.6616;
+r;1.92;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

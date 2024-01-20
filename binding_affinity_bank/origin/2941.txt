@@ -1,0 +1,95 @@
+Title:Specific interaction of chalcone-protein: Cardamonin binding site II on the human serum albumin molecule
+DOI:10.1002/bip.20328
+ligand name:Cardamonin
+ligand smiles:COC1=CC(=CC(=C1C(=O)/C=C/C2=CC=CC=C2)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;318;
+KSV;
+kq;
+n;1.18;1.10;1.11;0.99;
+K;
+Ka;
+Kb;3.636*10^4;3.485*10^4;3.207*10^4;3.145*10^4;
+ΔH;-25.312;-25.312;-25.312;-25.312;
+ΔS;7.040;7.040;7.040;7.040;
+ΔG;-27.396;-27.466;-27.516;-27.551;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.7634*10^-14;
+E;0.2578;
+R0;3.01;
+r;3.59;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

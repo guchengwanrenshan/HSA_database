@@ -1,0 +1,69 @@
+Title:Analysis of binding properties and interaction of thiabendazole and its metabolite with human serum albumin via multiple spectroscopic methods
+DOI:10.1016/j.foodchem.2017.04.119
+ligand name:Thiabendazole
+ligand smiles:C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;139000.0;112000.0;97300.0
+ΔH;-22.5;-22.5;-22.5
+ΔS;21.85;21.85;21.85
+ΔG;-29.34;-29.38;-39.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;122000.0
+ΔH;-4.22
+ΔS;21.1
+ΔG;-48.49
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

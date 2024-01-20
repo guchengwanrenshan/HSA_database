@@ -1,0 +1,95 @@
+Title:Reactions between acidic phenolsulfonphthaleins and human serum albumin
+DOI:None
+ligand name:Chlorophenol red
+ligand smiles:C1=CC=C2C(=C1)C(OS2(=O)=O)(C3=CC(=C(C=C3)O)Cl)C4=CC(=C(C=C4)O)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;6.25*10^4;5.89*10^4;5.19*10^4;
+ΔH;-3.78;-3.78;-3.78;
+ΔS;76.56;76.56;76.56;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.33*10^-15;1.08*10^-15;1.09*10^-15;
+E;0.26;0.27;0.31;
+R0;2.23;2.28;2.29;
+r;2.64;2.70;2.60;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

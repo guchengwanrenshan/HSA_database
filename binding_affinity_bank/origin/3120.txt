@@ -1,0 +1,95 @@
+Title:Thymoquinone, a potential therapeutic agent of Nigella sativa, binds to site I of human serum albumin
+DOI:10.1016/j.phymed.2010.01.011
+ligand name:Thymoquinone
+ligand smiles:CC1=CC(=O)C(=CC1=O)C(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;310;318;
+KSV;;2.33*10^4;;;;
+kq;;4.66*10^12;;;;
+n;;1.11;;;;
+K;
+Ka;
+Kb;;2.39*10^4;;;;
+ΔH;-10.24;;-10.24;-10.24;-10.24;
+ΔS;45;;45;45;45;
+ΔG;-23.05;;-23.71;-24.05;-24.46;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

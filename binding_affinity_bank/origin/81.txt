@@ -1,0 +1,95 @@
+Title:Interactions of cinnamaldehyde and its metabolite cinnamic acid with human serum albumin and interference of other food additives
+DOI:10.1016/j.foodchem.2017.09.109
+ligand name:Cinnamaldehyde
+ligand smiles:C1=CC=C(C=C1)/C=C/C=O  
+key residue(hbond):Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I and site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;8.71*10^4;7.89*10^4;7.02*10^4;
+kq
+n;
+K;
+Ka;
+Kb;
+ΔH;42.25;42.25;42.25;
+ΔS;265.72;265.72;265.72;
+ΔG;-36.67;-38.26;-40.12;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

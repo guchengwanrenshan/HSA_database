@@ -1,0 +1,69 @@
+Title:Multispectroscopic and computational studies of interaction of bovine serum albumin, human serum albumin and bovine hemoglobin with bisacodyl
+DOI:10.1016/j.molstruc.2021.131550
+ligand name:Bisacodyl
+ligand smiles:CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3  
+key residue(hbond):Ser480 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;5300.0
+kq;530000000000.0
+n;1.0
+K;
+Ka;
+Kb;117.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

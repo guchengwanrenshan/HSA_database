@@ -1,0 +1,90 @@
+Title:Differential scanning calorimetry as a tool to estimate binding parameters in multiligand binding proteins
+DOI:10.1016/j.ab.2005.12.029
+ligand name:8-anilinonaphthalene-1-sulfonic acid
+ligand smiles:O=S(=O)(O)C1=C2C(=CC=C1)C=CC=C2NC1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;308;318;
+n;1;1;1;
+K;
+Ka;
+Kb;0.83*10^6
+ΔH;-31.7984;-23.8488;-31.3800;
+ΔS;-106.7060;-77.4312;-98.6792;
+ΔG;-11.2968;-20.0832;-16.3176;
+Cp;-209.2;-209.2;-209.2;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

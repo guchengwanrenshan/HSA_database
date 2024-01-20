@@ -1,0 +1,95 @@
+Title:Studies on the binding of vinpocetine to human serum albumin by molecular spectroscopy and modeling
+DOI:10.1016/j.cclet.2012.02.003
+ligand name:vinpocetine
+ligand smiles:CC[C@@]12CCCN3[C@@H]1C4=C(CC3)C5=CC=CC=C5N4C(=C2)C(=O)OCC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;8.286*10^4;7.715*10^4;6.773*10^4;
+kq;8.286*10^12;7.715*10^12;6.773*10^12;
+n;1.110;1.027;0.9675;
+K;
+Ka;
+Kb;8.693*10^4;8.541*10^4;8.347*10^4;
+ΔH;-1.59;-1.59;-1.59;
+ΔS;89.16;89.16;89.16;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.54*10^-14;
+E;0.128;
+R0;2.86;
+r;3.94;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

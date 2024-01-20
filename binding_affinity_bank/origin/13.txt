@@ -1,0 +1,96 @@
+Title:Probing the interaction of cephalospor in antibiotic-ceftazidime with human serum albumin: Abiophysical investigation
+DOI:10.1016/j.ijbiomac.2017.07.036
+ligand name:Ceftazidime
+ligand smiles:CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):Gln397;Leu398;Gly399;Tyr401;Lys402;Glu542;Lys545;Ala546;Asp549 d
+PDBID:
+Binding Area:subdomain III; Sudlow's site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.8*10^4;
+kq;3.2*10^13;
+n;1.1;
+K;
+Ka;
+Kb;9.1*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA(%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.7×10^13
+E;
+R0;2.08
+r;2.5
+EFRET;0.118
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2)ofHSA;ASA(Å2)ofcom;ΔASA(Å2)
+
+
+
+
+

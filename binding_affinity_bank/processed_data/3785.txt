@@ -1,0 +1,69 @@
+Title:Differential effects of methoxy group on the interaction of curcuminoids with two major ligand binding sites of human serum albumin
+DOI:10.1371/journal.pone.0087919
+ligand name:curcumin
+ligand smiles:COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0
+KSV;
+kq;
+n;1.09
+K;
+Ka;
+Kb;252000.0
+ΔH;
+ΔS;
+ΔG;-32.0549
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Studies on the binding of antibiotic mequindox with human serum albumin
+DOI:None
+ligand name:mequindox
+ligand smiles:CC1=C([N+](=O)C2=CC=CC=C2N1[O-])C(=O)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0;310.0
+KSV;29330.0;32310.0;34810.0;37510.0
+kq;2933000000000.0;3231000000000.0;3481000000000.0;3751000000000.0
+n;0.7643;0.7431;0.7154;0.6865
+K;
+Ka;
+Kb;2201.0;1802.0;1560.0;1274.0
+ΔH;-67.7;-67.7;-67.7;-67.7
+ΔS;-152.9;-152.9;-152.9;-152.9
+ΔG;-22.14;-21.52;-20.91;-20.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Switching of Trp-214 intrinsic rotamer population in human serum albumin: An insight into the aftermath of embracing therapeutic bioorganic luminophore azapodophyllotoxin into sudlow site I
+DOI:10.1016/j.bioorg.2018.11.015
+ligand name:HPFQ
+ligand smiles:OCCN1C2=C(C(C3=CC=CC=C3)C3=C1C=C1CCCC1=C3)C(=O)OC2
+key residue(hbond):
+key residue(hydrophobic):Trp214;Ala215;Leu219;Phe223;Leu234;Leu238;Val241;Ile264;Ala291 d
+PDB ID:
+Binding Area:sudlow site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;1.703*10^5;1.486*10^5;1.291*10^5;
+kq;1.703*10^14;1.486*10^14;1.291*10^14;
+n;
+K;
+Ka;
+Kb;1.038*10^5;1.485*10^5;1.949*10^6;
+ΔH;26.978;26.978;26.978;
+ΔS;94.089;94.089;94.089;
+ΔG;-0.590;-1.060;-1.532;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.41*10^14；
+E;0.854;
+R0;2.84;
+r;2.18;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

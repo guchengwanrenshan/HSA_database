@@ -1,0 +1,69 @@
+Title:Comparing the interaction of four structurally similar coumarins from Fraxinus Chinensis Roxb. with HSA through multi-spectroscopic and docking studies
+DOI:10.1016/j.molliq.2021.117234
+ligand name:fraxetin
+ligand smiles:COC1=C(C(=C2C(=C1)C=CC(=O)O2)O)O
+key residue(hbond):Tyr150;Arg257 d
+key residue(hydrophobic):Ala291;Arg222;Ala261;Ser287;Ile290 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295.0;300.0;305.0;310.0
+KSV;87600.0;83000.0;82500.0;77900.0
+kq;1460000000000.0;1380000000000.0;1370000000000.0;1300000000000.0
+n;0.852;0.829;0.808;0.857
+K;
+Ka;
+Kb;85800.0;76000.0;57700.0;46400.0
+ΔH;-32.18;-32.18;-32.18;-32.18
+ΔS;11.59;11.59;11.59;11.59
+ΔG;-35.59;-35.65;-35.71;-35.77
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:Novel aminopyrimidinyl benzimidazoles as potentially antimicrobial agents: Design, synthesis and biological evaluation
+DOI:10.1016/j.ejmech.2017.11.027
+ligand name:7d
+ligand smiles:CC1=CC=C(C2=NC(N)=NC(C3=NC4=CC=CC=C4N3)=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;284;298;303;
+KSV;1.96*10^5;1.90*10^5;1.73*10^5;
+kq;
+n;1.18;1.16;1.09;
+K;
+Ka;10.63*10^4;6.96*10^4;6.04*10^4;
+Kb;16.11*10^5;12.49*10^5;5.04*10^5;
+ΔH;-21.092;-21.092;-21.092;
+ΔS;21.95;21.95;21.95;
+ΔG;-27.326;-27.633;-27.743;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

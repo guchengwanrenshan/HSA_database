@@ -1,0 +1,95 @@
+Title:Spectroscopic, zeta potential and molecular docking analysis on the interaction between human serum albumin and halogenated thienyl chalcones
+DOI:10.1016/j.molliq.2017.07.091
+ligand name:T03
+ligand smiles:[H]C1=CC=C(N1)C(=O)\C=C\C1=CC=C(F)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;4.42*10^4;4.19*10^4;4.02*10^4;
+kq;8.42*10^12;7.98*10^12;7.66*10^12;
+n;
+K;
+Ka;
+Kb;2.81*10^4;3.63*10^4;4.38*10^4;
+ΔH;24.1;24.1;24.1;
+ΔS;167;167;167;
+ΔG;-25.3;-26.5;-27.7;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.72*10^-14;
+E;0.5112;
+R0R;2.68;
+r;2.66;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

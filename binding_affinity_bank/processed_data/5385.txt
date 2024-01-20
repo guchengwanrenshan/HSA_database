@@ -1,0 +1,69 @@
+Title:Interaction between thionine and human serum albumin investigated by spectroscopic methods
+DOI:None
+ligand name:thionine
+ligand smiles:C1=CC2=C(C=C1N)SC3=CC(=[NH2+])C=CC3=N2.[Cl-] 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;51030.0;46080.0;44340.0
+kq;5103000000000.0;4608000000000.0;4434000000000.0
+n;
+K;
+Ka;
+Kb;
+ΔH;-9.024;-9.024;-9.024
+ΔS;40.63;40.63;40.63
+ΔG;-12.11;-12.36;-12.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Differential interactions and structural stability of chitosan oligomers with human serum albumin and α-1-glycoprotein
+DOI:10.1080/07391102.2013.868321
+ligand name:chitosan dimer
+ligand smiles:C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)N)O)CO)N)O)O)O
+key residue(hbond):HIS9;ARG10;ASP13;ASP255;ALA258;ASP259;LYS262 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;3.192*10^5;
+kq;5.7*10^13;
+n;1.0;
+K;
+Ka;
+Kb;0.5*10^5；
+ΔH;
+ΔS;
+ΔG;-26.5684;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

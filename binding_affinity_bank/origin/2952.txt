@@ -1,0 +1,95 @@
+Title:Investigation on the interaction between endocrine disruptor triphenyltin with human serum albumin
+DOI:10.1016/j.saa.2013.10.010
+ligand name:triphenyltin
+ligand smiles:C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;4.2*10^3;;
+kq;4.2*10^11;
+n;0.96;;
+K;
+Ka;
+Kb;2.51*10^3;;
+ΔH;103.24;103.24;
+ΔS;411.68;411.68;
+ΔG;-19.44;-24.38;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.60*10^-15;
+E;0.054;
+R0;0.438;
+r;3.13;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:The interaction and binding of flavonoids to human serum albumin modify its conformation, stability and resistance against aggregation and oxidative injuries
+DOI:10.1016/j.bbagen.2016.03.014
+ligand name:phloretin
+ligand smiles:C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;3.6*10^4;3.0*10^4;2.84*10^4;
+kq;
+n;
+K;
+Ka;
+Kb;1.68*10^4;2.36*10^4;5.44*10^4;
+ΔH;33.0;33.0;33.0;
+ΔS;144.0;144.0;144.0;
+ΔG;-10.4;-11.2;-12.1;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

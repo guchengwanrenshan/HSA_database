@@ -1,0 +1,95 @@
+Title:Probing the mechanism of interaction of metoprolol succinate with human serum albumin by spectroscopic and molecular docking analysis
+DOI:10.1002/bio.3275
+ligand name:Metoprolol succinate
+ligand smiles:CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIAd 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;3.23*10^3;2.87*10^3;2.53*10^3;
+kq;3.23*10^11;2.87*10^11;2.53*10^11;
+n;1.00;1.00;1.02;
+K;333*10^3;3.80*10^3;1.53*10^3;
+Ka;
+Kb;
+ΔH;-595.47;-595.47;-595.47;
+ΔS;82.64;82.64;82.64;
+ΔG;-17.2;-19.8;-24.4;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

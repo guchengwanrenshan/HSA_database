@@ -1,0 +1,95 @@
+Title:Interactions of acidic pharmaceuticals with human serum albumin: insights into the molecular toxicity of emerging pollutants
+DOI:10.1007/s00726-012-1215-0
+ligand name:ketoprofen
+ligand smiles:CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;309.5;
+KSV;5.7*10^5;;;
+kq;5.7*10^13;;;
+n;
+K;
+Ka;1.36*10^5;;;
+Kb;13086.4;12358;11190;
+ΔH;-10.5;-10.5;-10.5;
+ΔS;43.6;43.6;43.6;
+ΔG;-24.0;-23.75;-23.5;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

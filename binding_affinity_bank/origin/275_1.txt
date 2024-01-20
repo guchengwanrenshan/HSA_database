@@ -1,0 +1,95 @@
+Title:Study on the stereoselective binding of cytosine nucleoside enantiomers to human serum albumin
+DOI:10.1016/j.saa.2019.117452
+ligand name:β-D-cytidine
+ligand smiles:NC1=NC(=O)N(C=C1)[C@@H]1O[C@@H](CO)[C@H](O)[C@H]1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:IIA and IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;303;310;
+KSV;
+kq;0.3960*10^12;0.3709*10^12;0.3371*10^12;
+n;0.6082;0.7912;0.9834;
+K;
+Ka;0.1217*10^3;0.5877**10^3;2.977*10^3;
+Kb;
+ΔH;170.4;;;
+ΔS;615.5;;;
+ΔG;-11.78;-16.09;-20.39;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Investigation of the binding properties between levamlodipine and HSA based on MCR-ALS and computer modeling
+DOI:10.1016/j.saa.2020.118929
+ligand name:Levamlodipine (LEE)
+ligand smiles:CCOC(=O)C1=C(NC(=C([C@@H]1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;398;303;
+KSV;7.691*10^3;7.167*10^3;7.087*10^3;
+kq;1.411*10^12;1.315*10^12;1.300*10^12;
+n;1.166;1.103;1.057;
+K;
+Ka;4.503*10^4;2.139*10^4;1.280*10^4;
+Kb;
+ΔH;-92.934;-92.934;-92.934;
+ΔS;-228.377;-228.377;-228.377;
+ΔG;-25.985;-24.843;-23.701;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

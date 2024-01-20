@@ -1,0 +1,69 @@
+Title:Separate and simultaneous binding effects of aspirin and amlodipine to human serum albumin based on fluorescence spectroscopic and molecular modeling characterizations: A mechanistic insight for determining usage drugs doses
+DOI:10.1016/j.jlumin.2011.04.043
+ligand name:aspirin
+ligand smiles:CC(=O)OC1=CC=CC=C1C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;280;295;
+pH;7.4;7.4
+T;298.0;298.0
+KSV;
+kq;
+n;1.31;0.98
+K;
+Ka;
+Kb;1030000.0;415000.0
+ΔH;
+ΔS;
+ΔG;-34.3022;-32.05
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

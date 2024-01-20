@@ -1,0 +1,69 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Metolcarb
+ligand smiles:CC1=CC(=CC=C1)OC(=O)NC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;32610.0;34150.0;44420.0
+kq;3261000000000.0;3415000000000.0;4442000000000.0
+n;0.564;0.587;0.616
+K;
+Ka;
+Kb;224.9;339.4;549.7
+ΔH;48.673;48.673;48.673
+ΔS;209.338;209.338;209.338
+ΔG;-13.291;-14.756;-16.222
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

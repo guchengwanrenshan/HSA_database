@@ -1,0 +1,95 @@
+Title:Novel Naphthalimide Aminothiazoles as Potential Multitargeting Antimicrobial Agents
+DOI:10.1021/acsmedchemlett.7b00452
+ligand name:4d
+ligand smiles:O=C1N(NC2=NC=CS2)C(=O)C2=C3C1=CC=CC3=C(C=C2)N1CCNCC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286;298;310;
+KSV;5.83*10^4;5.20*10^4;3.86*10^4;
+kq;9.11*10^12;8.13*10^12;6.03*10^12;
+n;1.03;1.04;0.99;
+K;
+Ka;4.57*10^4;4.12*10^4;3.83*10^4;
+Kb;5.78*10^4;4.99*10^4;3.76*10^4;
+ΔH;-13.173;-13.173;-13.173;
+ΔS;70.25;70.25;70.25;
+ΔG;-33.26;-34.11;-34.95;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

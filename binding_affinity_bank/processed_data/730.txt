@@ -1,0 +1,69 @@
+Title:Probing the interaction of thionine with human serum albumin by multispectroscopic studies and its in vitro cytotoxic activity toward MCF-7 breast cancer cells
+DOI:10.1080/07391102.2016.1235513
+ligand name:thionine
+ligand smiles:C1=CC2=C(C=C1N)SC3=CC(=[NH2+])C=CC3=N2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I(subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;659000.0
+kq;65900000000000.0
+n;0.97
+K;549000.0
+Ka;544000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;-32.74
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.07
+K;
+Ka;602000.0
+Kb;
+ΔH;-9.78
+ΔS;77.82
+ΔG;-32.97
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

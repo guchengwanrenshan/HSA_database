@@ -1,0 +1,90 @@
+Title:Biophysical study on the interaction of etomidate and the carrier protein in vitro
+DOI:10.3109/10837450.2015.1022790
+ligand name:etomidate
+ligand smiles:CCOC(=O)C1=CN=CN1[C@H](C)C2=CC=CC=C2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;280;295;310;
+KSV;8.1*10^5;5.2*10^5;2.3*10^5;
+kq;8.1*10^13;5.2*10^13;2.3*10^13;
+n;1.26;1.16;0.96;
+K;
+Ka;
+Kb;1.58*10^6;3.55*10^5;1.60*10^4;
+ΔH;-68.5;-68.5;-68.5;
+ΔS;364;364;364;
+ΔG;-33.2;-31.3;-24.9;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.593*10^-15;
+E;0.057;
+R0;3.63;
+r;3.01;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

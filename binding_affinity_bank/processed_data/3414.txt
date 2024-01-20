@@ -1,0 +1,69 @@
+Title:Probing the interaction of human serum albumin with DPPH in the absence and presence of the eight antioxidants
+DOI:10.1016/j.saa.2014.08.140
+ligand name:DPPH
+ligand smiles:O=[N+]([O-])C1=CC([N+](=O)[O-])=C(NN(C2=CC=CC=C2)C2=CC=CC=C2)C([N+](=O)[O-])=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;138300.0
+kq;20580000000000.0
+n;1.084
+K;
+Ka;
+Kb;428500.0
+ΔH;
+ΔS;
+ΔG;-32.1293
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

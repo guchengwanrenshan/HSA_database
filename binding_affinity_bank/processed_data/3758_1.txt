@@ -1,0 +1,69 @@
+Title:Metal Ions Enhance the Affinities of Flavonoids for Human Serum Albumin in Vitro
+DOI:10.1007/s10953-012-9846-z
+ligand name:Chrysin
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O   
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.15
+KSV;193000.0
+kq;
+n;1.23
+K;
+Ka;
+Kb;3019951.72
+ΔH;
+ΔS;
+ΔG;-37.2339
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

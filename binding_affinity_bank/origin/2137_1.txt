@@ -1,0 +1,95 @@
+Title:Biophysical characterization of interactions between falcarinol-type polyacetylenes and human serum albumin via multispectroscopy and molecular docking techniques
+DOI:10.1016/j.jlumin.2018.03.082
+ligand name:Panaxydol
+ligand smiles:CCCCCCC[C@H]1[C@H](O1)CC#CC#C[C@@H](C=C)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II(subdomain IIIA) d 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;307;316;
+KSV;7.25*10^4;5.06*10^4;5.56*10^4;
+kq;14.50*10^12;10.12*10^12;11.12*10^12;
+n;0.9644;0.9932;0.9941;
+K;
+Ka;
+Kb;8.35*10^4;9.56*10^4;19.32*10^4;
+ΔH;-9.23;-9.23;-9.23;
+ΔS;128.08;128.08;128.08;
+ΔG;-47.39;-48.55;-49.71;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.40*10^-15;
+E;0.0924;
+R0;2.10;
+r;3.07;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

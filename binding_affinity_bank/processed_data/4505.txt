@@ -1,0 +1,69 @@
+Title:Drug-protein binding mechanism of juglone for early pharmacokinetic profiling: Insights from ultrafiltration;multi-spectroscopic and molecular docking methods
+DOI:10.1016/j.jpba.2017.03.036
+ligand name:Juglone
+ligand smiles:C1=CC2=C(C(=O)C=CC2=O)C(=C1)O
+key residue(hbond):Ala261 d
+key residue(hydrophobic):Leu238;Arg257;Leu260;Ser287;Ala291 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;49100.0;41600.0;32900.0
+kq;4910000000000.0;4160000000000.0;3290000000000.0
+n;1.03;0.99;0.96
+K;
+Ka;
+Kb;46300.0;38400.0;28500.0
+ΔH;-16.34;-16.34;-16.34
+ΔS;32.69;32.69;32.69
+ΔG;-25.75;-26.08;-26.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

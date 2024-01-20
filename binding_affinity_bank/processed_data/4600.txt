@@ -1,0 +1,69 @@
+Title:Interaction between Plectranthus barbatus herbal tea components and human serum albumin and lysozyme: Binding and activity studies
+DOI:10.1155/2011/678537
+ligand name:rosmarinic acid
+ligand smiles:C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0
+KSV;245192.0;355856.0;482757.0
+kq;24519200000000.0;35585600000000.0;48275700000000.0
+n;1.4998;1.5796;1.6237
+K;
+Ka;
+Kb;132000000.0;396000000.0;779000000.0
+ΔH;131.16;131.16;131.16
+ΔS;603.68;603.68;603.68
+ΔG;-45.551;-49.048;-51.577
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

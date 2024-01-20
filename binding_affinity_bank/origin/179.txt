@@ -1,0 +1,95 @@
+Title:Interaction between olanzapine and human serum albumin and effect of metal ions, caffeine and flavonoids on the binding: A spectroscopic study
+DOI:10.1016/j.saa.2020.119295
+ligand name: olanzapine
+ligand smiles:CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;299;303;310;
+KSV;1.03*10^4;1.07*10^4;1.13*10^4;1.26*10^4;
+kq;1.03*10^12;1.07*10^12;1.13*10^12;1.26*10^12;
+n;1.42;1.36;1.31;1.18;
+K;
+Ka;
+Kb;7.10*10^5;4.78*10^5;2.56*10^5;0.73*10^5;
+ΔH;-124.96;-124.96;-124.96;
+ΔS;-309.56;-309.56;-309.56;
+ΔG;-33.33;-32.40;-31.16;-29.00;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.38*10^13
+E;
+R0;2.14
+r;3.71
+EFRET;0.035
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

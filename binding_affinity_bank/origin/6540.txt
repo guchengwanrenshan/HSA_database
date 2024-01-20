@@ -1,0 +1,94 @@
+Title:Probing the binding of an endocrine disrupting compound-Bisphenol F to human serum albumin: Insights into the interactions of harmful chemicals with functional biomacromolecules
+DOI:10.1016/j.saa.2014.05.093
+ligand name:Bisphenol F 
+ligand smiles:C1=CC(=CC=C1CC2=CC=C(C=C2)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;298;308;
+KSV;1.046*10^4;0.627*10^4;0.390*10^4;
+kq;
+n;1.11;1.07;0.99;
+K;
+Ka;
+Kb;3.519*10^4;1.417*10^4;0.361*10^4;
+ΔH;-63.741;-63.741;-63.741;
+ΔS;-137.16;-137.16;-137.16;
+ΔG;-24.631;-23.682;-20.973;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;8.59*10^-17;
+E;0.027;
+R0;1.109;
+r;2.015;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

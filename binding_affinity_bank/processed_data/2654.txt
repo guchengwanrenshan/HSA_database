@@ -1,0 +1,69 @@
+Title:The study on the interaction between human serum albumin and a new reagent with antitumor activity by spectrophotometric methods
+DOI:10.1016/j.jphotochem.2004.05.017
+ligand name:2-hydroxy-3-nitro-9-fluorenone
+ligand smiles:OC1=CC2=C(C=C1[N+]([O-])=O)C1=C(C=CC=C1)C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;310.0;320.0
+KSV;
+kq;
+n;1.1;1.0;1.0
+K;
+Ka;
+Kb;608000.0;380000.0;279000.0
+ΔH;-31.1;-31.1;-31.1
+ΔS;6.87;6.87;6.87
+ΔG;-33.16;-33.23;-33.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

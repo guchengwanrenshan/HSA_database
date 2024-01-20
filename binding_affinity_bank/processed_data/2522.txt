@@ -1,0 +1,69 @@
+Title:Study on the interaction between methyl blue and human serum albumin by fluorescence spectrometry
+DOI:10.1016/j.jlumin.2008.09.008
+ligand name:methyl blue
+ligand smiles:C1=CC(=NC2=CC=C(C=C2)S(=O)(=O)[O-])C=CC1=C(C3=CC=C(C=C3)NC4=CC=C(C=C4)S(=O)(=O)O)C5=CC=C(C=C5)NC6=CC=C(C=C6)S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;65000.0;59000.0;50000.0
+kq;6500000000000.0;5900000000000.0;5000000000000.0
+n;1.128;1.159;1.253
+K;
+Ka;
+Kb;257600.0;326600.0;746400.0
+ΔH;39.78;39.78;39.78
+ΔS;239.67;239.67;239.67
+ΔG;-29.72;-32.12;-34.52
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

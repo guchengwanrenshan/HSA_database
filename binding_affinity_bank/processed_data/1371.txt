@@ -1,0 +1,69 @@
+Title:Investigations of the molecular mechanism of diltiazem binding to human serum albumin in the presence of metal ions, glucose and urea
+DOI:10.1080/07391102.2021.1891137
+ligand name:Diltiazem
+ligand smiles:CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0;318.0;338.0
+KSV;11200.0;8900.0;6200.0;5600.0;15100.0;21300.0
+kq;1120000000000.0;890000000000.0;620000000000.0;560000000000.0;1510000000000.0;2130000000000.0
+n;
+K;
+Ka;2090000.0;440000.0;190000.0;190000.0;20000.0;900000.0
+Kb;
+ΔH;-16.3;-16.3;-16.3;-16.3;-16.3;-16.3
+ΔS;-432.827;-432.827;-432.827;-432.827;-432.827;-432.827
+ΔG;-33.7;-31.5;-29.3;-27.2;-25.0;-16.4
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

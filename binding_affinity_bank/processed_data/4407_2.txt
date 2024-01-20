@@ -1,0 +1,69 @@
+Title:Multiple spectroscopic and theoretical approaches to study the interaction between hsa and the antiparasitic drugs: benznidazole, metronidazole, nifurtimox and megazol
+DOI:10.21577/0103-5053.20180029
+ligand name:nifurtimox
+ligand smiles:CC1CS(=O)(=O)CCN1/N=C/C2=CC=C(O2)[N+](=O)[O-]
+key residue(hbond):Arg221;Glu449 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;8300.0;8900.0;9500.0
+kq;1460000000000.0;1570000000000.0;1670000000000.0
+n;
+K;
+Ka;
+Kb;25000.0;31000.0;41000.0
+ΔH;27.6;27.6;27.6
+ΔS;177.0;177.0;177.0
+ΔG;-24.8;-26.0;-27.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Mechanism of interactions between organophosphorus insecticides and human serum albumin: Solid-phase microextraction, thermodynamics and computational approach
+DOI:10.1016/j.chemosphere.2020.126698
+ligand name:Parathion-methyl
+ligand smiles:COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-] 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;303;310;
+KSV;
+kq;
+n;
+K;
+Ka;8.19*10^4;1.45*10^4;
+Kb;
+ΔH;-193.3;-193.3;
+ΔS;-543.7;-543.7;
+ΔG;-28.51;-24.71;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

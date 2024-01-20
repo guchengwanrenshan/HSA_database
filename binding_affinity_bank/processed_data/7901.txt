@@ -1,0 +1,69 @@
+Title:Unraveling the binding interaction of a bioactive pyrazole-based probe with serum proteins: Relative concentration dependent 1:1 and 2:1 probe-protein stoichiometries
+DOI:10.1016/j.bpc.2018.06.001
+ligand name:DSDP
+ligand smiles:C1=CC=C(/C=C/C2=NN(C3=CC=CC=C3)C(C3=CC=CC=C3)C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;1:2(HSA:DSDP);1:1(HSA:DSDP);
+pH;
+T;298.0;298.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;13700000000.0;185000.0
+ΔH;-11.4;-17.43
+ΔS;155.8;42.04
+ΔG;-57.8;-30.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Effect of Chinese medicine alpinetin on the structure of human serum albumin
+DOI:10.1016/j.bmc.2004.11.038
+ligand name:alpinetin
+ligand smiles:COC1=CC(=CC2=C1C(=O)C[C@H](O2)C3=CC=CC=C3)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;313.0;318.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;52670.0;45620.0;37160.0;20640.0
+ΔH;-10.197;-10.197;-10.197;-10.197
+ΔS;53.972;53.972;53.972;53.972
+ΔG;-26.189;-26.928;-27.09;-27.36
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

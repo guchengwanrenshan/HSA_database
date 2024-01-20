@@ -1,0 +1,95 @@
+Title:Investigating binding dynamics of trans resveratrol to HSA for an efficient displacement of aflatoxin B1 using spectroscopy and molecular simulation
+DOI:10.1038/s41598-022-06375-5
+ligand name:trans-resveratrol
+ligand smiles:C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIA or Sudlow's site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;303.15;308.15;
+KSV;7.83*10^4;4.35*10^4;2.06*10^4;
+kq;7.83*10^13;4.35*10^13;2.06*10^13;
+n;1.58;1.42;1.27;
+K;
+Ka;
+Kb;6.36*10^7;5.29*10^7;4.99*10^7;
+ΔH;-366.518;-366.518;-366.518;
+ΔS;-1078;-1078;-1078;
+ΔG;-44.4759;-38.9939;-33.5975;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

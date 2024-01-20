@@ -1,0 +1,69 @@
+Title:Insights into protein recognition for γ-lactone essences and the effect of side chains on interaction via microscopic, spectroscopic, and simulative technologies
+DOI:10.1016/j.foodchem.2018.11.037
+ligand name:γ-Decalactone
+ligand smiles:CCCCCCC1CCC(=O)O1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;
+kq;
+n;
+K;1539.45;1887.22;2822.06
+Ka;
+Kb;
+ΔH;38.88;38.88;38.88
+ΔS;191.18;191.18;191.18
+ΔG;-18.18;-19.06;-20.48
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

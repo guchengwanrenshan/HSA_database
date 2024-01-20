@@ -1,0 +1,69 @@
+Title:Investigation of the interaction between naringin and human serum albumin
+DOI:10.1016/j.molstruc.2007.03.063
+ligand name:naringin
+ligand smiles: C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O  
+key residue(hbond):Lys195;Asp451;Arg218;Gly292 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0
+KSV;
+kq;
+n;1.51;1.47;1.44;1.42
+K;
+Ka;
+Kb;16200.0;16800.0;17200.0;17900.0
+ΔH;3.45;3.45;3.45;3.45
+ΔS;92.52;92.52;92.52;3.45
+ΔG;-23.28;-23.93;-24.58;-25.23
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

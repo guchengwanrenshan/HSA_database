@@ -1,0 +1,95 @@
+Title:Mechanistic and conformational studies on the interaction of food dye amaranth with human serum albumin by multispectroscopic methods
+DOI:10.1016/j.foodchem.2012.09.026
+ligand name:amaranth
+ligand smiles:C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;2.123*10^4;1.488*10^4;1.237*10^4;
+kq;2.123*10^12;1.488*10^12;1.237*10^12;
+n;
+K;
+Ka;
+Kb;1.422*10^5;1.203*10^5;1.040*10^5;
+ΔH;-20.02;-20.02;-20.02;
+ΔS;31.46;31.46;31.46;
+ΔG;-29.40;-29.58;-29.77;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.816*10^-15;
+E;0.112;
+R0;2.15;
+r;3.03;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Potential charge transfer probe induced conformational changes of model plasma protein human serum albumin: Spectroscopic;molecular docking;and molecular dynamics simulation study
+DOI:10.1002/bip.22057
+ligand name:DMAPPDN
+ligand smiles:CN(C)C1=CC=C(\C=C\C=C\C#N)C=C1
+key residue(hbond):Glu196 d
+key residue(hydrophobic):Leu238;Leu260;Ile290;Ala291;Tyr150;Arg222;Arg257 d
+PDB ID:
+Binding Area:subdomian IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;7450.0
+ΔH;
+ΔS;
+ΔG;-21.966
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

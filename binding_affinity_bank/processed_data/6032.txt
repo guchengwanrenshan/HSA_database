@@ -1,0 +1,69 @@
+Title:Investigation of the interaction between N,N'-di(4-chlorophenyl)thiourea and human serum albumin by fluorescence spectroscopy: synchronous fluorescence determination of human serum albumin
+DOI:10.1002/jccs.200700075
+ligand name:DCPT
+ligand smiles:ClC1=CC=C(NC(=S)NC2=CC=C(Cl)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4
+T;287.0;297.0
+KSV;318000.0;285600.0
+kq;31800000000000.0;28560000000000.0
+n;1.09;0.97
+K;
+Ka;
+Kb;254100.0;203300.0
+ΔH;-12.28;-12.28
+ΔS;59.13;59.13
+ΔG;-29.68;-30.28
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

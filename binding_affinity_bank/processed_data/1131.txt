@@ -1,0 +1,69 @@
+Title:Rare-earth metal complexes of the antibacterial drug oxolinic acid: synthesis, characterization, DNA/protein binding and cytotoxicity studies
+DOI:10.3390/molecules25225418
+ligand name:oxolinic acid
+ligand smiles:CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;19500.0
+kq;1950000000000.0
+n;0.9
+K;
+Ka;10800.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Interpretation of the binding interaction between bupropion hydrochloride with human serum albumin: A collective spectroscopic and computational approach
+DOI:10.1016/j.saa.2018.10.047
+ligand name:bupropion hydrochloride
+ligand smiles:CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286;296;306;
+KSV;6.1*10^4;5.4*10^4;4.9*10^4;
+kq;1.07*10^13;9.47*10^13;8.59*10^13;
+n;
+K;
+Ka;7.23*10^4;6.51*10^4;3.38*10^4;
+Kb;19.36*10^5;4.93*10^5;1.57*10^5;
+ΔH;-94.94;-94.94;-94.94;
+ΔS;-211.34;-211.34;-211.34;
+ΔG;-34.49;-32.28;-30.27;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.74*10^-15;
+E;0.29;
+R0;2.35;
+r;2.72;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

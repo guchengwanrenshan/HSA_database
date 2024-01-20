@@ -1,0 +1,95 @@
+Title:Novel BTK inhibitor acalabrutinib (ACP-196) tightly binds to site I of the human serum albumin as observed by spectroscopic and computational studies
+DOI:10.1016/j.ijbiomac.2019.01.083
+ligand name:Acalabrutinib
+ligand smiles:CC#CC(=O)N1CCC[C@H]1C2=NC(=C3N2C=CN=C3N)C4=CC=C(C=C4)C(=O)NC5=CC=CC=N5  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;7.42 *10^4;6.81 *10^4;6.65 *10^4;
+kq;2.75 *10^13;2.52 *10^13;2.46 *10^13;
+n;1.00;1.01;1.01;
+K;7.54* 10^4;7.23* 10^4;7.18* 10^4;
+Ka;
+Kb;
+ΔH;-2.93;-2.93;-2.93;
+ΔS;83.48;83.48;83.48;
+ΔG;-27.81;-28.23;-28.81;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

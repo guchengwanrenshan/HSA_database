@@ -1,0 +1,94 @@
+Title:Synthesis of 2-aminonaphthalene-1-sulfonic acid Schiff bases and their interactions with human serum albumin
+DOI:10.1515/tjb-2019-0284
+ligand name:SAA
+ligand smiles:OC1=C(\C=C/C2=C(C3=C(C=CC=C3)C=C2)S(O)(=O)=O)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;;2.09*10^4;;
+kq;;2.09*10^12;;
+n;;0.88;;
+K;
+Ka;
+Kb;1.03*10^4;1.29*10^4;1.40*10^4;
+ΔH;-11.33;-11.33;-11.33;
+ΔS;40.68;40.68;40.68;
+ΔG;-23.25;-23.46;-23.66;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;3.08*10-15;
+E;0.21;
+R0;2.097;
+r;2.62;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

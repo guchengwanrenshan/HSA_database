@@ -1,0 +1,69 @@
+Title:Determining the binding site and binding affinity of estradiol to human serum albumin and holo-transferrin: fluorescence spectroscopic, isothermal titration calorimetry and molecular modeling approaches
+DOI:10.1080/07391102.2017.1333460
+ligand name:estradiol
+ligand smiles:C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
+key residue(hbond):Arg117d
+key residue(hydrophobic):Leu115;Val116;Phe157;Leu182d
+PDB ID:
+Binding Area:sub-domain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;33100.0
+kq;3310000000000.0
+n;0.95
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;18170000.0
+Kb;
+ΔH;231.902
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

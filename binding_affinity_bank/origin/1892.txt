@@ -1,0 +1,95 @@
+Title:Interaction of human serum albumin with novel imidazole derivatives studied by spectroscopy and molecular docking
+DOI:10.1002/bio.3010
+ligand name:BPTI
+ligand smiles:BrC1=CC=C(C=C1)N1C(=NC(=C1C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;303;296;289;
+KSV;3.878*10^4;3.967*10^4;4.062*10^4;
+kq;3.878*10^12;3.967*10^12;4.062*10^12;
+n;0.9801;0.9839;0.9812;
+K;3.839*10^4;4.128*10^4;4.415*10^4;
+Ka;
+Kb;
+ΔH;-7.268;-7.268;-7.268;
+ΔS;63.77;63.77;63.77;
+ΔG;-26.59;-26.14;-25.70;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.20*10^-14;
+E;0.125;
+R0;2.53;
+r;3.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

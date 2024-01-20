@@ -1,0 +1,95 @@
+Title:Spectroscopic evaluation of synthesized 5β-dihydrocortisol and 5β-dihydrocortisol acetate binding mechanism with human serum albumin and their role in anticancer activity
+DOI:10.1080/07391102.2018.1433554
+ligand name:5β-dihydrocortisol
+ligand smiles:C[C@]12CCC(=O)C[C@H]1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:domain I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;
+kq;5.0*10^13;
+n;0.85
+K;4.7*10^4;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-28.451;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

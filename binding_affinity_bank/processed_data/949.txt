@@ -1,0 +1,69 @@
+Title:The noncovalent conjugations of human serum albumin (HSA) with MS/AK and the effect on anti-oxidant capacity as well as anti-glycation activity of Monascus yellow pigments
+DOI:10.1039/d0fo03025b
+ligand name:Monascin
+ligand smiles:CCCCCC(=O)[C@@H]1[C@H]2CC3=C(COC(=C3)/C=C/C)C(=O)[C@@]2(OC1=O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;248000.0;224000.0;196000.0
+kq;24800000000000.0;22400000000000.0;19600000000000.0
+n;0.75;0.82;0.88
+K;
+Ka;365000.0;297000.0;254000.0
+Kb;
+ΔH;-23.05;-23.05;-23.05
+ΔS;29.15;29.15;29.15
+ΔG;-31.74;-31.91;-32.09
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

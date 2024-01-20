@@ -1,0 +1,95 @@
+Title:Probing of possible olanzapine binding site on human serum albumin: Combination of spectroscopic methods and molecular dynamics simulation
+DOI:10.1016/j.jlumin.2014.09.027
+ligand name:olanzapine
+ligand smiles:CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;293;303;308;
+KSV;3.114*10^4;1.914*10^4;1.110*10^4;0.624*10^4;
+kq;
+n;0.853;0.867;0.880;0.921;
+K;
+Ka;
+Kb;6.622*10^3;4.853*10^3;3.338*10^3;2.427*10^3;
+ΔH;-28.03;-28.03;-28.03;-28.03;
+ΔS;-25.52;-25.52;-25.52;-25.52;
+ΔG;-20.81;-20.55;-20.30;-20.17;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

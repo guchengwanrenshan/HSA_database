@@ -1,0 +1,95 @@
+Title:Non-enzymatic glycation of human serum albumin modulates its binding efficacy towards bioactive flavonoid chrysin: A detailed study using multi-spectroscopic and computational methods
+DOI:10.1080/07391102.2019.1711196
+ligand name:chrysin
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O  
+key residue(hbond): Tyr150;Arg257(subdomain IIA);Lys413;Thr540(subdomain IIIA) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA and IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;3.193*10^5;2.573*10^5;1.723*10^5;
+kq;5.671*10^13;4.570*10^13;3.060*10^13;
+n;0.723;0.758;0.601;
+K;
+Ka;
+Kb;7.035*10^5;4.779*10^5;3.485*10^5;
+ΔH;-25.938;-25.938;-25.938;
+ΔS;22.248;22.248;22.248;
+ΔG;-32.390;-32.612;-32.835;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.701*10^-14
+E;0.478
+R0;2.674;
+r;2.714;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

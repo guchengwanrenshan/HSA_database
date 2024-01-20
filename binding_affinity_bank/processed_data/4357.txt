@@ -1,0 +1,69 @@
+Title:The interaction of (7-chloroquinolin-4-yl)-(2,5-dimethoxyphenyl)-amine hydrochloride dihydrate with serum albumin proteins, inputs from spectroscopic, molecular docking and X-ray diffraction studies
+DOI:10.1039/c5ra02815a
+ligand name:CQDPA
+ligand smiles:COC1=CC=C(OC)C(NC2=CC=NC3=C2C=CC(Cl)=C3)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;1440000.0;1230000.0;1170000.0
+kq;
+n;
+K;
+Ka;
+Kb;370000.0;340000.0;280000.0
+ΔH;-2.5;-2.5;-2.5
+ΔS;42.31;42.31;42.31
+ΔG;-30.78;-31.29;-31.79
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

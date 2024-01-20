@@ -1,0 +1,69 @@
+Title:Binding properties of the natural red dye carthamin with human serum albumin: Surface plasmon resonance, isothermal titration microcalorimetry, and molecular docking analysis
+DOI:10.1016/j.foodchem.2016.11.124
+ligand name:carthamin
+ligand smiles: C1=CC(=CC=C1/C=C/C(=O)C2=C([C@@](C(=C(C2=O)/C=C\3/C(=O)C(=C([C@](C3=O)([C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)C(=O)/C=C/C5=CC=C(C=C5)O)O)([C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O)O)O  
+key residue(hbond):Arg222;Glu188;Ser202 d
+key residue(hydrophobic):Phe211;Leu219;Leu238;Ala291 d
+PDB ID:
+Binding Area:Sudlow’s site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;19000.0
+ΔH;-4.18
+ΔS;67.89
+ΔG;-24.41
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

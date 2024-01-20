@@ -1,0 +1,69 @@
+Title:Spectroscopic Investigation of the Effect of Salt on Binding of Tartrazine with Two Homologous Serum Albumins: Quantification by Use of the Debye-Hueckel Limiting Law and Observation of Enthalpy-Entropy Compensation
+DOI:10.1021/jp304537m
+ligand name:Tartrazine
+ligand smiles:C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;5.7;5.7;5.7
+T;290.0;300.0;310.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;101000.0;79000.0;68600.0
+ΔH;-14.49
+ΔS;45.59
+ΔG;-28.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

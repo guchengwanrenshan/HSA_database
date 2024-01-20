@@ -1,0 +1,69 @@
+Title:Molecular modeling and spectroscopic studies on characterization of two xanthones binding on human serum albumin
+DOI:None
+ligand name:Dehydrocycloguanandin
+ligand smiles:CC1(C=CC2=C(O1)C3=C(C=C2)C(=O)C4=C(C=CC=C4O3)O)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;15200.0;16300.0;17600.0
+kq;
+n;0.869;0.868;0.863
+K;
+Ka;27600.0;31100.0;33600.0
+Kb;27700.0;29300.0;31800.0
+ΔH;7.97;7.97;7.97
+ΔS;106.96;106.96;106.96
+ΔG;-23.69;-24.44;-25.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:N-ethyl-2-pyrrolidinone substitution enhances binding affinity between tea flavoalkaloids and human serum albumin: Greatly influenced by esterization
+DOI:10.1016/j.saa.2021.120097
+ligand name:13
+ligand smiles:[H][C@]1(CCC(=O)N1CC)C1=C(O)C2=C(O[C@@H]([C@@H](C2)OC(=O)\C=C\C2=CC=CC=C2)C2=CC=C(O)C(O)=C2)C=C1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;300.0;310.0
+KSV;35400.0;33200.0;30600.0
+kq;3540000000000.0;3320000000000.0;3060000000000.0
+n;1.09;1.05;1.15
+K;31900.0;31700.0;25800.0
+Ka;
+Kb;
+ΔH;-9.23;-9.23;-9.23
+ΔS;54.91;54.91;54.91
+ΔG;-25.26;-25.85;-26.15
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

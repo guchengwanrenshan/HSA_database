@@ -1,0 +1,95 @@
+Title:Molecular mechanism of the binding of 3,4,5-tri-O-caffeoylquinic acid to human serum albumin: Saturation transfer difference NMR, multi-spectroscopy, and docking studies
+DOI:10.1016/j.jphotobiol.2016.10.017
+ligand name:3,4,5-triCQA
+ligand smiles:OC(=O)C1(O)C[C@@H](OC(=O)\C=C\C2=CC(O)=C(O)C=C2)C(OC(=O)\C=C\C2=CC(O)=C(O)C=C2)[C@@H](C1)OC(=O)\C=C\C1=CC(O)=C(O)C=C1
+key residue(hbond):Lys475;Glu478 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II(subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;10.312*10^4;9.803*10^4;9.711*10^4;
+kq;
+n;1.164;1.132;1.109;
+K;
+Ka;
+Kb;5.557*10^5;3.756*10^5;3.162*10^5;
+ΔH;-29.526;-29.526;-29.526;
+ΔS;9.968;9.968;9.968;
+ΔG;-32.496;-32.526;-32.556;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.34*10^-15;
+E;0.1235;
+R0;2.42;
+r;3.35;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

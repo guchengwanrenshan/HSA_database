@@ -1,0 +1,69 @@
+Title:Comparison between loureirin A and cochinchinenin C on the interaction with human serum albumin
+DOI:10.1016/j.ejmech.2015.02.025
+ligand name: loureirin A
+ligand smiles:COC1=CC(=C(C=C1)CCC(=O)C2=CC=C(C=C2)O)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;305.0;310.0
+KSV;98500.0;79800.0;62400.0
+kq;9850000000000.0;7980000000000.0;6240000000000.0
+n;0.88;0.93;0.86
+K;
+Ka;
+Kb;129100.0;95100.0;85600.0
+ΔH;-31.98;-31.98;-31.98
+ΔS;-9.0;-9.0;-9.0
+ΔG;-29.28;-29.28;-29.28
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

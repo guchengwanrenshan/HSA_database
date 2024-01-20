@@ -1,0 +1,69 @@
+Title:Interaction and esterase activity of albumin serums with orphenadrine: A spectroscopic and computational approach
+DOI:10.1016/j.molstruc.2021.130522
+ligand name:Orphenadrine
+ligand smiles:CC1=CC=CC=C1C(C2=CC=CC=C2)OCCN(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;308.0
+KSV;17170.0;14770.0;13790.0;12280.0
+kq;1717000000000.0;1477000000000.0;1379000000000.0;1228000000000.0
+n;1.05;1.03;1.04;1.04
+K;
+Ka;
+Kb;30900.0;21370.0;19950.0;10950.0
+ΔH;-21.9;-21.9;-21.9;-21.9
+ΔS;0.634;0.634;0.634;0.634
+ΔG;-25.13;-24.7;-24.94;-25.23
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

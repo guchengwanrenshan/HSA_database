@@ -1,0 +1,69 @@
+Title:Thymoquinone, a potential therapeutic agent of Nigella sativa, binds to site I of human serum albumin
+DOI:10.1016/j.phymed.2010.01.011
+ligand name:Thymoquinone
+ligand smiles:CC1=CC(=O)C(=CC1=O)C(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;293.0;298.0;310.0;318.0
+KSV;23300.0
+kq;4660000000000.0
+n;1.11
+K;
+Ka;
+Kb;23900.0
+ΔH;-10.24;-10.24;-10.24;-10.24
+ΔS;45.0;45.0;45.0;45.0
+ΔG;-23.05;-23.71;-24.05;-24.46
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

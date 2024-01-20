@@ -1,0 +1,95 @@
+Title:Comparison of the interaction between three anthocyanins and human serum albumins by spectroscopy
+DOI:10.1016/j.jlumin.2014.03.004
+ligand name:Delphinidin-3-O-glucoside
+ligand smiles:C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;4.566*10^4;5.483*10^4;7.108*10^4;
+kq;4.566*10^12;5.483*10^12;7.108*10^12;
+n;1.102;1.082;1.114;
+K;
+Ka;
+Kb;1.271*10^5;1.443*10^5;2.817*10^5;
+ΔH;29.20;29.20;29.20;
+ΔS;198.32;198.32;198.32;
+ΔG;-27.92;-29.90;-31.89;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.114;
+R0;1.663;
+r;2.34;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

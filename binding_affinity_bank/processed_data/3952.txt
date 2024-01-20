@@ -1,0 +1,69 @@
+Title:A fluorescence and molecular docking study on the interaction of 4′-hydroxychalcone with bovine serum albumin and human serum albumin
+DOI:10.14233/ajchem.2022.23663
+ligand name:4′-hydroxychalcone
+ligand smiles:C1=CC=C(C=C1)/C=C/C(=O)C2=CC=C(C=C2)O
+key residue(hbond):LEU481 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;230000.0;237000.0;276000.0;285000.0
+kq;23000000000000.0;23700000000000.0;27600000000000.0;28500000000000.0
+n;1.08;1.11;1.24;1.4
+K;
+Ka;
+Kb;234000.0;233000.0;219000.0;185000.0
+ΔH;-14.37;-14.37;-14.37;-14.37
+ΔS;55.12;55.12;55.12;55.12
+ΔG;-30.79;-31.07;-31.34;-31.62
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

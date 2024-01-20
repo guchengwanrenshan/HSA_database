@@ -1,0 +1,69 @@
+Title:Interaction of morin with human serum albumin by fluorescence spectroscopic methods
+DOI:10.3969/j.issn.1009-8143.2013.06.03
+ligand name:morin
+ligand smiles:C1=CC(=C(C=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;
+kq;
+n;0.8837;0.9149
+K;
+Ka;
+Kb;40800.0;44700.0
+ΔH;-27.3;-27.3
+ΔS;12.6;12.6
+ΔG;-31.1;-31.2
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

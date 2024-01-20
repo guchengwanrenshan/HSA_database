@@ -1,0 +1,69 @@
+Title:Analysis of Binding Interaction Between Antibacterial Ciprofloxacin and Human Serum Albumin by Spectroscopic Techniques
+DOI:10.1007/s12013-014-9863-1
+ligand name:Chloroform
+ligand smiles:C(Cl)(Cl)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;20.0
+kq;2000000000.0
+n;1.03
+K;
+Ka;
+Kb;18.13
+ΔH;
+ΔS;
+ΔG;-7.16
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

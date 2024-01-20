@@ -1,0 +1,69 @@
+Title:Insight into the interaction of antitubercular and anticancer compound clofazimine with human serum albumin: spectroscopy and molecular modelling
+DOI:10.1080/07391102.2015.1132258
+ligand name:clofazimine
+ligand smiles:CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;47000.0;34400.0;26600.0
+kq;47000000000000.0;34400000000000.0;26500000000000.0
+n;1.07;1.08;1.02
+K;
+Ka;
+Kb;98700.0;83600.0;35700.0
+ΔH;-66.4419;-66.4419;-66.4419
+ΔS;-126.9007;-126.9007;-126.9007
+ΔG;-28.3675;-28.4094;-26.9031
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

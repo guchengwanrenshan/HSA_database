@@ -1,0 +1,69 @@
+Title:Cordycepin and N6-(2-hydroxyethyl)-adenosine from Cordyceps pruinosa and their interaction with human serum albumin
+DOI:10.1371/journal.pone.0121669
+ligand name:cordycepin
+ligand smiles:C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)CO  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;4257.0;3094.0;1903.0
+kq;425700000000.0;309400000000.0;190300000000.0
+n;1.0012;1.0181;1.0549
+K;
+Ka;
+Kb;4227.0;3573.0;3076.0
+ΔH;-11.912;-11.912;-11.912
+ΔS;28.332;28.332;28.332
+ΔG;-20.128;-20.412;-20.695
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Binding of the endocrine disruptors 4-tert-octylphenol and 4-nonylphenol to human serum albumin
+DOI:10.1016/j.jhazmat.2013.01.036
+ligand name:4-nonylphenol
+ligand smiles:CCCCCCCCCC1=CC=C(C=C1)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;36300.0;47200.0;53500.0
+ΔH;14.55;14.55;14.55
+ΔS;137.62;137.62;137.62
+ΔG;-25.36;-26.74;-28.11
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

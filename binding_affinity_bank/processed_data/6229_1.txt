@@ -1,0 +1,69 @@
+Title:Determination of Thermodynamics Constant of Interaction among of Atenolol and Metoprolol with Human Serum Albumin: Spectroscopic and Molecular Modeling Approaches
+DOI:10.1134/s0036024421140181
+ligand name:Metoprolol
+ligand smiles:CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;7.4;7.4;7.4
+T;298.15;303.15;310.15
+n;
+K;
+Ka;
+Kb;2400.0;8900.0;14000.0
+ΔH;
+ΔS;-112.23;-112.23;-112.23
+ΔG;-42.31;-42.31;-42.31
+Kd;-99.75;-99.41;-99.11
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

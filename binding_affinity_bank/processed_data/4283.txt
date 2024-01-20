@@ -1,0 +1,69 @@
+Title:Thermodynamic study of indoxylsulfate interaction with human serum albumin and competitive binding with p-cresylsulfate
+DOI:10.1007/s10973-013-3067-6
+ligand name:indoxylsulfate
+ligand smiles:C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;288.0;293.0;298.0;310.0
+n;1.1;1.01;0.98;0.97
+K;
+Ka;
+Kb;3030.0;2550.0;1750.0;1220.0
+ΔH;-24.5;-33.1;-36.2;-60.2
+ΔS;-18.0;-47.0;-65.0;-135.0
+ΔG;-19.2;-19.2;-18.5;-18.2
+Cp;-1600.0;-1600.0;-1600.0;-1600.0
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

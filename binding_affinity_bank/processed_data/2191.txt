@@ -1,0 +1,69 @@
+Title:Studies on the Interaction of Tricyclazole with β-cyclodextrin and human Serum Albumin by Spectroscopy
+DOI:10.1007/s10895-006-0087-7
+ligand name:β-CD-TCZ
+ligand smiles:CC1=CC=CC2=C1SC1=NN=CN21
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;298.0;306.0;314.0
+KSV;3038.0;2796.0;2218.0;2085.0
+kq;303800000000.0;279600000000.0;221800000000.0;208500000000.0
+n;
+K;
+Ka;
+Kb;13040.0;13320.0;15770.0;17310.0
+ΔH;9.071;9.071;9.071;9.071
+ΔS;110.1;109.1;110.0;110.0
+ΔG;-22.85;-23.53;-24.59;-25.48
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

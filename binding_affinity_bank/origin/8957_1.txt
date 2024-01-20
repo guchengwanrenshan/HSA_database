@@ -1,0 +1,90 @@
+Title:Interaction of amphiphilic drugs with human and bovine serum albumins
+DOI:10.1016/j.saa.2012.05.060
+ligand name:promazine hydrochloride
+ligand smiles:CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;280nm;295nm;
+pH;
+T;310;310;
+KSV;3.61*10^4;3.92*10^4;
+kq;3.61*10^12;3.92*10^12;
+n;1.012;0.906;
+K;
+Ka;
+Kb;6.16*10^4;1.18*10^4;
+ΔH;
+ΔS;
+ΔG;-26.49;-23.35;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

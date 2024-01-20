@@ -1,0 +1,90 @@
+Title:Spectroscopic study on flavonoid-drug interactions: Competitive binding for human serum albumin between three flavonoid compounds and ticagrelor, a new antiplatelet drug
+DOI:10.1016/j.jlumin.2015.07.037
+ligand name:ticagrelor
+ligand smiles:CCCSC1=NC(=C2C(=N1)N(N=N2)[C@@H]3C[C@@H]([C@H]([C@H]3O)O)OCCO)N[C@@H]4C[C@H]4C5=CC(=C(C=C5)F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;5.552*10^4;5.217*10^4;4.924*10^4;
+kq;9.253*10^12;8.695*10^12;8.207*10^12;
+n;1.16;1.12;1.09;
+K;
+Ka;
+Kb;2.911*10^5;2.004*10^5;1.454*10^5;
+ΔH;-23.35;-23.35;-23.35;
+ΔS;23.39;23.39;23.39;
+ΔG;-30.09;-30.32;-30.60;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.752*10^-15;
+E;0.303;
+R0;2.895;
+r;3.325;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)

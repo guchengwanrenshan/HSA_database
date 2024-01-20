@@ -1,0 +1,95 @@
+Title:Insights into the interaction of potent antimicrobial chalcone triazole analogs with human serum albumin: spectroscopy and molecular docking approaches
+DOI:10.1039/c9ra04192c
+ligand name:CT2
+ligand smiles:COC1=CC(O)=C(C(=O)\C=C\C2=CC=C(OC)C(OCC3=CN(N=N3)C3=CC=C(F)C=C3F)=C2)C(OC)=C1
+key residue(hbond):SER232;ASP324;LEU481;SER480 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;2.17*10^4;1.78*10^4;1.16*10^4;
+kq;2.17*10^12;1.78*10^12;1.16*10^12;
+n;
+K;
+Ka;
+Kb;1.059*10^6;0.632*10^6;0.437*10^6;
+ΔH;-32.659;;;
+ΔS;1.80749;;;
+ΔG;-33.197;;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

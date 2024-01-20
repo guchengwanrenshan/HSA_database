@@ -1,0 +1,93 @@
+Title:Binding affinity of p-PD-based schiff-bases towards human serum albumin; in-vitro and in-silico assessment
+DOI:10.1016/j.molstruc.2022.132399
+ligand name:L3
+ligand smiles:COC1=C(O)C(\C=N\C2=CC=C(C=C2)\N=C\C2=CC=CC(OC)=C2O)=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IA d
+
+#Binding and thermodynamic parameters#
+parameter;295;
+pH;
+T;
+KSV;2.52*10^4;
+kq;2.52*10^12;
+n;1.17;
+K;
+Ka;
+Kb;7.09*10^8;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

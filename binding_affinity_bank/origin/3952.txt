@@ -1,0 +1,95 @@
+Title:A fluorescence and molecular docking study on the interaction of 4′-hydroxychalcone with bovine serum albumin and human serum albumin
+DOI:10.14233/ajchem.2022.23663
+ligand name:4′-hydroxychalcone
+ligand smiles:C1=CC=C(C=C1)/C=C/C(=O)C2=CC=C(C=C2)O
+key residue(hbond):LEU481 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;2.30*10^5;2.37*10^5;2.76*10^5;2.85*10^5;
+kq;2.30*10^13;2.37*10^13;2.76*10^13;2.85*10^13;
+n;1.08;1.11;1.24;1.40;
+K;
+Ka;
+Kb;2.34*10^5;2.33*10^5;2.19*10^5;1.85*10^5;
+ΔH;-14.37;-14.37;-14.37;-14.37;
+ΔS;55.12;55.12;55.12;55.12;
+ΔG;-30.79;-31.07;-31.34;-31.62;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.268*10^-14;
+E;0.80;
+R0;2.81;
+r;2.21;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

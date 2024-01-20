@@ -1,0 +1,69 @@
+Title:Structural analysis and binding domain of albumin complexes with natural dietary supplement humic acid
+DOI:10.1016/j.jlumin.2011.06.005
+ligand name:humic acid
+ligand smiles:C1C2C=CC1C(C2C(=O)O)(C(=O)O)[N+](=O)[O-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;61920.0;57020.0;50650.0;45150.0
+kq;6192000000000.0;5702000000000.0;5065000000000.0;4515000000000.0
+n;0.88;0.85;0.82;0.81
+K;30550.0;21330.0;11750.0;10190.0
+Ka;13890.0;10940.0;6045.0;4278.0
+Kb;15310.0;10120.0;6531.0;5070.0
+ΔH;-58.2862;-58.2862;-58.2862;-58.2862
+ΔS;-115.6661;-115.6661;-115.6661;-115.6661
+ΔG;-23.8178;-23.2394;-22.6611;-22.0828
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

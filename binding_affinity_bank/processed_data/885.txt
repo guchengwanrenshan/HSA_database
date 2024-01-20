@@ -1,0 +1,69 @@
+Title:Exploring The Interactions of a Natural Gamma-Oryzanol with Human Serum Albumin: Surface Plasmon Resonance, Fluorescence, and Molecular Modeling Studies
+DOI:10.1055/a-1533-2941
+ligand name:Gamma-Oryzanol
+ligand smiles:C[C@H](CCC=C(C)C)[C@H]1CC[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)CC[C@@H](C5(C)C)OC(=O)/C=C/C6=CC(=C(C=C6)O)OC)C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;346900.0
+kq;34690000000000.0
+n;0.51
+K;
+Ka;811.0
+Kb;217.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

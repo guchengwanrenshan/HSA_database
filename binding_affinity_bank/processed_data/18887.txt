@@ -1,0 +1,69 @@
+Title:Experimental and computational investigation on the interaction of anticancer drug gemcitabine with human plasma protein: effect of copresence of ibuprofen on the binding
+DOI:10.3390/molecules27051635
+ligand name:gemcitabine
+ligand smiles:C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F  
+key residue(hbond):ARG209;GLY328 d
+key residue(hydrophobic):ALA213;LYS212;VAL216 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;280nm;295nm;295nm;295nm;295nm;
+pH;
+T;293.0;293.0;303.0;313.0;323.0
+KSV;470.0;430.0;450.0;580.0;590.0
+kq;80000000000.0;72000000000.0;76000000000.0;98000000000.0;99000000000.0
+n;1.1;1.1;1.1;1.1
+K;
+Ka;
+Kb;820.0;960.0;1010.0;1120.0
+ΔH;7.8;7.8;7.8;7.8
+ΔS;82.6;82.6;82.6;82.6
+ΔG;-16.4;-17.2;-18.1;-18.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

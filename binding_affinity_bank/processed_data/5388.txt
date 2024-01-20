@@ -1,0 +1,69 @@
+Title:Investigation of the mechanism of binding of thiacloprid to human serum albumin using spectroscopic techniques and molecular modeling methods
+DOI:10.1155/2011/195489
+ligand name:thiacloprid
+ligand smiles:C1CSC(=NC#N)N1CC2=CN=C(C=C2)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;33040.0;26720.0;19110.0
+kq;
+n;0.9936;1.0036;0.9667
+K;
+Ka;
+Kb;30700.0;27400.0;13500.0
+ΔH;-20.378;-20.378;-20.378
+ΔS;16.328;16.328;16.328
+ΔG;-25.113;-25.276;-25.439
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

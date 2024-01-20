@@ -1,0 +1,69 @@
+Title:Multi-spectroscopic investigation, molecular docking and molecular dynamic simulation of competitive interactions between flavonoids (quercetin and rutin) and sorafenib for binding to human serum albumin
+DOI:10.1016/j.ijbiomac.2020.10.098
+ligand name:Sorafenib
+ligand smiles:CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;307.0
+KSV;255000.0;208000.0;189000.0
+kq;25500000000000.0;20800000000000.0;18900000000000.0
+n;0.9617;0.9156;0.7932
+K;
+Ka;
+Kb;160000.0;70300.0;14700.0
+ΔH;-153.86;-153.86;-153.86
+ΔS;-416.08;-416.08;-416.08
+ΔG;-29.93;-29.93;-29.93
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

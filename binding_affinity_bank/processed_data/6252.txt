@@ -1,0 +1,69 @@
+Title:Study of Interaction between Hypochlorousfluorescent Probe and Human Serum Albumin
+DOI:None
+ligand name:ZZY-19
+ligand smiles:OC1=CC=C(OC2=CC=C3C(=O)N(CCN4CCOCC4)C(=O)C4=CC=CC2=C34)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;308.0
+KSV;158600.0;110720.0;110790.0
+kq;15860000000000.0;11072000000000.0;11079000000000.0
+n;1.0433;1.1203;1.1792
+K;
+Ka;
+Kb;241000.0;437000.0;777000.0
+ΔH;56.66;56.66;56.66
+ΔS;298.11;298.11;298.11
+ΔG;-30.39;-31.88;-34.85
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

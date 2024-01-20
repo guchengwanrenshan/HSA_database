@@ -1,0 +1,69 @@
+Title:Vitamin D prevents glycation of proteins: an in vitro study
+DOI:10.1002/1873-3468.12278
+ligand name:cholecalciferol
+ligand smiles:C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C
+key residue(hbond):Thr355 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0
+KSV;13500000.0
+kq;1900000000000000.0
+n;0.46
+K;
+Ka;
+Kb;831.0
+ΔH;
+ΔS;
+ΔG;-16.3763
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

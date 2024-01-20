@@ -1,0 +1,95 @@
+Title:Interaction of anti MERS-CoV ribavirin with human serum albumin in disease mimetic conditions of diabetes and uremia an in vitro study
+DOI:10.5281/zenodo.2559216
+ligand name:ribavirin
+ligand smiles:C1=NC(=NN1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;14.92*10^3;10.64*10^3;8.84*10^3;
+kq;14.92*10^12;10.64*10^12;8.84*10^12;
+n;0.96;0.98;0.98;
+K;
+Ka;
+Kb;10.28*10^3;9.69*10^3;7.65*10^3;
+ΔH;-19.62296;-19.62296;-19.62296;
+ΔS;11.12944;11.12944;11.12944;
+ΔG;-22.88648;-22.71912;-22.50992;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

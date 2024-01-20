@@ -1,0 +1,69 @@
+Title:The specific binding of chlorogenic acid to human serum albumin
+DOI:10.1007/s11033-011-1036-3
+ligand name:chlorogenic acid
+ligand smiles:C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292.0;298.0;304.0;310.0
+KSV;40030.0;38250.0;36370.0;34390.0
+kq;
+n;
+K;
+Ka;34600.0;30040.0;27030.0;19480.0
+Kb;
+ΔH;-22.0;-22.0;-22.0;-22.0
+ΔS;12.0;12.0;12.0;12.0
+ΔG;-25.4;-25.5;-25.6;-25.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

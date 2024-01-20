@@ -1,0 +1,95 @@
+Title:Investigation of binding properties of dicationic styrylimidazo[1,2-a]pyridinium dyes to human serum albumin by spectroscopic techniques
+DOI:10.1002/bio.3153
+ligand name:2b
+ligand smiles:CC[N+](C)(CC)C1=CC=C(\C=C\C2=CC3=[N+](C)C(=CN3C=C2)C2=CC=C(OC)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;16.9*10^4;8.67*10^4;
+kq;16.9*10^12;8.67*10^12;
+n;1.47;1.35;
+K;
+Ka;
+Kb;26.1*10^6;4.28*10^6;
+ΔH;-115.8;-115.8;
+ΔS;-246.4;-246.4;
+ΔG;-42.31;-39.36;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.623*10^-14;
+E;0.552;
+R0;3.32;
+r;3.21;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

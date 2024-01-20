@@ -1,0 +1,113 @@
+Title:Insight into interaction between malachite green oxalate with human serum albumin: Molecular dynamic simulation and spectroscopic approaches
+DOI:10.1016/j.jhazmat.2020.124878
+ligand name:Malachite Green Oxalate
+ligand smiles:CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;374.9;
+kq;3.749*10^12;
+n;1.3;
+K;
+Ka;
+Kb;4.35*10^6;
+ΔH;
+ΔS;
+ΔG;-37.9;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Trp214;0.594;0.563;-0.031;
+Tyr30;0.659;0.644;-0.015;
+Tyr84;0.597;0.592;-0.005;
+Tyr138;0.565;0.576;+0.011;
+Tyr140;0.51;0.497;-0.013;
+Tyr148;0.595;0.748;+0.153;
+Tyr150;0.655;0.709;+0.054;
+Tyr161;0.559;0.551;-0.008;
+Tyr263;0.616;0.642;+0.026;
+Tyr319;0.458;0.46;+0.002;
+Tyr332;0.458;0.431;-0.027;
+Tyr334;0.587;0.591;+0.004;
+Tyr341;0.688;0.697;+0.009;
+Tyr353;0.586;0.543;-0.043;
+Tyr370;0.593;0.624;+0.031;
+Tyr401;0.645;0.655;+0.01;
+Tyr411;0.545;0.569;+0.024;
+Tyr452;0.636;0.72;+0.084;
+Tyr497;0.714;0.739;+0.025;
+
+
+
+

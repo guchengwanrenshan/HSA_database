@@ -1,0 +1,69 @@
+Title:Human Serum Albumin Interactions with Bioactive 3H-Imidazo[4,5-A]Acridin-11(6H)-Ones Studied by Fluorescence Spectroscopy
+DOI:10.1007/s11094-016-1356-7
+ligand name:4e
+ligand smiles:CCCN1C=NC2=C1C=CC1=C2C(=O)C2=C(C=C(Cl)C=C2)N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;107000.0
+kq;10700000000000.0
+n;1.16
+K;
+Ka;74100.0
+Kb;
+ΔH;
+ΔS;
+ΔG;-27.78
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

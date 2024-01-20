@@ -1,0 +1,95 @@
+Title:Interaction of the Emerging Mycotoxins Beauvericin;Cyclopiazonic Acid;and Sterigmatocystin with Human Serum Albumin
+DOI:10.3390/biom12081106
+ligand name:CPA
+ligand smiles:[H][C@@]12CC3=C4C(NC=C4[C@]1([H])[C@]1([H])C(C(=O)C(C(C)=O)=C1O)C2(C)C)=CC=C3
+key residue(hbond):
+key residue(hydrophobic):Leu219;Leu238;Arg257;Leu152;Ala158 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;23442.28815;
+kq;
+n;
+K;
+Ka;23988.32919;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,90 @@
+Title:α-mangostin extraction from the native mangosteen (Garcinia mangostana L.) and the binding mechanisms of α-mangostin to HSA or TRF
+DOI:10.1371/journal.pone.0161566
+ligand name:α-mangostin
+ligand smiles:COC1=C(CC=C(C)C)C2=C(OC3=C(C(O)=C(CC=C(C)C)C(O)=C3)C2=O)C=C1O
+key residue(hbond):Ser202 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;1.5962*10^5;1.2165*10^5;
+kq;1.5962*10^13;1.2165*10^13;
+n;1.1517;1.1934;
+K;
+Ka;
+Kb;10^5.8118;10^5.8955;
+ΔH;12.3;12.3;
+ΔS;153;153;
+ΔG;-33.2;-35.0;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.07*10^-14;
+E;0.54;
+R0;2.78;
+r;2.71;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

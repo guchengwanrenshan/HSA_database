@@ -1,0 +1,95 @@
+Title:Binding of plant alkaloids berberine and palmatine to serum albumins: a thermodynamic investigation
+DOI:10.1007/s11033-012-2092-z
+ligand name:Palmatine
+ligand smiles:COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.15;298.15;308.15;
+KSV;8.40*10^4;7.00*10^4;5.60*10^4;
+kq;
+n;0.99;1.00;0.98;
+K;
+Ka;7.20*10^4;6.60*10^4;5.00*10^4;
+Kb;7.70*10^4;6.90*10^4;5.60*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;1.17;1.17;1.49;
+K;
+Ka;
+Kb;8.04*10^4;7.11*10^4;5.38*10^4;
+ΔH;-27.0705;-27.6981;-27.9491;
+ΔS;21.9255;13.6122;-9.3687;
+ΔG;-20.7108;-23.6396;-30.8361;
+Cp;-502.08;-502.08;-502.08;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

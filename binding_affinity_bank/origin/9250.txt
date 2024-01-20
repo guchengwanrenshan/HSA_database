@@ -1,0 +1,90 @@
+Title:Albumin-binding difference caused by hydroxy and bromo on position-2 of benzothiazole
+DOI:10.1016/j.molliq.2021.116570
+ligand name:2-hydroxybenzothiazole
+ligand smiles:C1=CC=C2C(=C1)NC(=O)S2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;299;310;
+KSV;
+kq;
+n;1.144;1.472;1.537;
+K;
+Ka;
+Kb;1.835*10^5;2.665*10^5;4.752*10^5;
+ΔH;32.01;32.01;32.01;
+ΔS;211.6;211.6;211.6;
+ΔG;-28.93;-31.26;-33.59;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

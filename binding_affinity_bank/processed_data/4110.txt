@@ -1,0 +1,69 @@
+Title:The binding of C.I. Acid Red 2 to human serum albumin: Determination of binding mechanism and binding site using fluorescence spectroscopy
+DOI:10.1016/j.dyepig.2009.05.003
+ligand name:C.I. Acid Red 2
+ligand smiles:CN(C)C1=CC=C(C=C1)N=NC2=CC=CC=C2C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;16310.0;15160.0;13950.0
+kq;1631000000000.0;1516000000000.0;1395000000000.0
+n;1.19
+K;
+Ka;255700.0;246100.0;238300.0
+Kb;256400.0
+ΔH;-4.512;-4.512;-4.512
+ΔS;88.38;88.38;88.38
+ΔG;-30.85;-31.37;-31.91
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

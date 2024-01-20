@@ -1,0 +1,69 @@
+Title:Study of interactions between amlodipine and quercetin on human serum albumin: spectroscopic and modeling approaches
+DOI:10.3390/molecules24030487
+ligand name:amlodipine
+ligand smiles:CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's Site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.15
+KSV;5350.0
+kq;535000000000.0
+n;
+K;
+Ka;5440.0
+Kb;
+ΔH;
+ΔS;
+ΔG;-22.181
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Separation and Identification of Anthocyanin Extracted from Mulberry Fruit and the Pigment Binding Properties toward Human Serum Albumin
+DOI:10.1021/jf500705s
+ligand name:keracyanin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC4=C(C=C(C=C4[O+]=C3C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;7.23*10^4;5.18*10^4;3.44*10^4;
+kq;7.23*10^12;5.18*10^12;3.44*10^12;
+n;1.03;0.936;0.855;
+K;
+Ka;
+Kb;1.06*10^5;2.49*10^5;6.44*10^5;
+ΔH;-21.0;-21.0;-21.0;
+ΔS;-621;-622;-621;
+ΔG;-28.2;-25.1;-22.1;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.43*10^-15;
+E;0.0967;
+R0;1.94;
+r;2.82;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

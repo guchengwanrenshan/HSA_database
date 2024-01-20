@@ -1,0 +1,95 @@
+Title:A spectroscopic and molecular docking approach on the binding of tinzaparin sodium with human serum albumin
+DOI:10.1016/j.molstruc.2016.07.108
+ligand name:tinzaparin
+ligand smiles:OC1OC(COS(O)(=O)=O)C(OC2OC(C(O)C(O)C2OS(O)(=O)=O)C(O)=O)C(O)C1NS(O)(=O)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;2.23*10^4;1.74*10^4;1.38*10^4;
+kq;3.85*10^12;3.01*10^12;2.38*10^12;
+n;1.03;1.13;1.18;
+K;
+Ka;
+Kb;4.73*10^4;6.71*10^4;9.59*10^4;
+ΔH;44.8943;44.8943;44.8943;
+ΔS;240.3694;240.4074;240.3775;
+ΔG;-26.7358;-27.9491;-29.6227;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.4*10^-15;
+E;0.35;
+R0;2.01;
+r;2.21;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

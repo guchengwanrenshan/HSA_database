@@ -1,0 +1,90 @@
+Title:Investigations on the interactions of DiAmsar with serum albumins: Insights from spectroscopic and molecular docking techniques
+DOI:10.1002/bio.2773
+ligand name:DiAmsar
+ligand smiles:NC12CNCCNCC(N)(CNCCNC1)CNCCNC2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;0.372*10^3;0.348*10^3;0.330*10^3;
+kq;0.372*10^11;0.348*10^11;0.330*10^11;0.280*10^11;
+n;1.093;1.214;1.328;1.439;
+K;
+Ka;
+Kb;0.695*10^3;1.542*10^3;3.311*10^3;6.324*10^3;
+ΔH;11.466;11.466;11.466;11.466;
+ΔS;439.312;439.312;439.312;
+ΔG;-11.945;-12.164;-12.384;-12.604;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.415*10^-16;
+E;0.49;
+R0;1.241;
+r;1.250;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

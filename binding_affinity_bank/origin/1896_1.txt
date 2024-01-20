@@ -1,0 +1,95 @@
+Title:A comparative study of binding properties of different coumarin-based compounds with human serum albumin
+DOI:10.1016/j.molstruc.2018.05.060
+ligand name:CM
+ligand smiles:ClC1=CC2=C(OC(=O)C(=C2)C2=CC=CO2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;
+KSV;14.50*10^4;11.15*10^4;10.29*10^4;
+kq;14.50*10^12;11.15*10^12;10.29*10^12;
+n;1.12;1.28;1.32;
+K;6.375*10^5;4.804*10^4;3.705*10^4;
+Ka;
+Kb;
+ΔH;20.35;20.35;20.35;
+ΔS;161.29;161.29;161.29;
+ΔG;-26.26;-27.39;-28.521;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

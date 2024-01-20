@@ -1,0 +1,95 @@
+Title:Experimental and computational studies on the binding of diazinon to human serum albumin
+DOI:10.1080/07391102.2017.1329096
+ligand name:diazinon
+ligand smiles:CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C
+key residue(hbond):Ser480;Leu481 d
+key residue(hydrophobic): Ala 210;Leu347;Lys351;Thr478;Glu497;Phe206;Asn483;Ser480;Glu479 d
+PDB ID:
+Binding Area: subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;280;290;300;310;
+KSV;6412;8575;11575;15603;
+kq;
+n;0.756;0.749;0.738;0.731;
+K;
+Ka;
+Kb;876.6;1152.3;1410.9;1770.9;
+ΔH;16.695;16.695;16.695;16.695;
+ΔS;116;116;116;116;
+ΔG;-15.78;-16.94;-18.10;-19.26;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

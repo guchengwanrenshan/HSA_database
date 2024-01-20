@@ -1,0 +1,69 @@
+Title:Molecular modeling and spectroscopic studies on characterization of two xanthones binding on human serum albumin
+DOI:None
+ligand name:1-hydroxy-7-methoxyxanthone
+ligand smiles:COC1=CC2=C(C=C1)OC3=CC=CC(=C3C2=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;37200.0;29800.0;21200.0
+kq;
+n;0.997;0.857;0.629
+K;
+Ka;38400.0;58100.0;122100.0
+Kb;39400.0;50900.0;88300.0
+ΔH;-30.59;-30.59;-30.59
+ΔS;-15.66;-15.66;-15.66
+ΔG;-25.95;-25.84;-25.74
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

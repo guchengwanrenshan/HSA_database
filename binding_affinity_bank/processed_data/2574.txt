@@ -1,0 +1,69 @@
+Title:Interaction between alizarin and human serum albumin by fluorescence spectroscopy
+DOI:10.2116/analsci.27.79
+ligand name:alizarin
+ligand smiles:C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;323.0
+KSV;134000.0;111000.0;96700.0
+kq;1340000000000.0;1110000000000.0;967000000000.0
+n;1.17;1.16;1.15
+K;
+Ka;
+Kb;813000.0;661000.0;513000.0
+ΔH;-15.08;-15.08;-15.08
+ΔS;62.68;62.68;62.68
+ΔG;-33.76;-34.51;-35.33
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

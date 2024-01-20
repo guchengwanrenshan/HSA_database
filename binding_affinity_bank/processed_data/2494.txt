@@ -1,0 +1,69 @@
+Title:Synthetic (E)-3-phenyl-5-(phenylamino)-2-styryl-1,3,4-thiadiazol-3-ium chloride derivatives as promising chemotherapy agents on cell lines infected with HTLV-1
+DOI:10.3390/molecules25112537
+ligand name:5a
+ligand smiles:CC1=CC=C(NC2=N[N+](=C(S2)\C=C\C2=CC=CC=C2)C2=CC=CC=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;119000.0;120000.0;121000.0
+kq;21500000000000.0;21600000000000.0;21800000000000.0
+n;
+K;
+Ka;
+Kb;76800.0;75100.0;73200.0
+ΔH;-2.64;-2.64;-2.64
+ΔS;84.6;84.6;84.6
+ΔG;-27.7;-28.3;-28.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

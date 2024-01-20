@@ -1,0 +1,69 @@
+Title:Supramolecular interaction of 6-shogaol, a therapeutic agent of Zingiber officinale with human serum albumin as elucidated by spectroscopic, calorimetric and molecular docking methods
+DOI:10.1016/j.phymed.2015.03.016
+ligand name:6-shogaol
+ligand smiles:CCCCC/C=C/C(=O)CCC1=CC(=C(C=C1)O)OC  
+key residue(hbond):Tyr150;Gln196;Arg257(site I);Lys414(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I,site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0;318.0
+KSV;64700.0;57100.0;52500.0;44700.0
+kq;
+n;
+K;
+Ka;75100.0;62900.0;55600.0;46800.0
+Kb;
+ΔH;-11.76;-11.76;-11.76;-11.76
+ΔS;52.52;52.52;52.52;52.52
+ΔG;-26.88;-27.41;-27.93;-28.46
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

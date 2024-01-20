@@ -1,0 +1,69 @@
+Title:Analysis of the interactions of multicomponents in Cornus officinalis Sieb. et Zucc. with human serum albumin using on-line dialysis coupled with HPLC
+DOI:10.1016/j.jchromb.2011.01.022
+ligand name:Loganin
+ligand smiles:C[C@H]1[C@H](C[C@H]2[C@@H]1[C@@H](OC=C2C(=O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;296.0;310.0
+n;0.83;0.88
+K;
+Ka;
+Kb;1660.0;2340.0
+ΔH;18.68;18.68
+ΔS;124.74;124.74
+ΔG;-18.243;-19.9894
+Kd;
+
+

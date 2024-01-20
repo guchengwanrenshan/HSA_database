@@ -1,0 +1,69 @@
+Title:Metal Ions Enhance the Affinities of Flavonoids for Human Serum Albumin in Vitro
+DOI:10.1007/s10953-012-9846-z
+ligand name:Quercetin
+ligand smiles:C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.15
+KSV;135000.0
+kq;
+n;1.13
+K;
+Ka;
+Kb;588843.66
+ΔH;
+ΔS;
+ΔG;-33.1543
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

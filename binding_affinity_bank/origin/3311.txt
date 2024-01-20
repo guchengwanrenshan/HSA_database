@@ -1,0 +1,95 @@
+Title:Binding of human serum albumin to N-(p-ethoxy-phenyl)-N'-(1-naphthyl)thiourea and synchronous fluorescence determination of human serum albumin
+DOI:10.2116/analsci.23.719
+ligand name:EPNT
+ligand smiles:CCOC1=CC=C(C=C1)C2=C(C3=CC=CC=C3C=C2)NC(=S)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;310;320;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1.529*10^5;1.406*10^5;1.306*10^5;
+ΔH;-6.292;-6.292;-6.292;
+ΔS;78.2702;78.2702;78.2702;
+ΔG;-29.7745;-30.5510;-31.3402;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.45477*10^-14;
+E;0.4276
+R0;2.61;
+r;2.74;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

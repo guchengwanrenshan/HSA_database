@@ -1,0 +1,69 @@
+Title:Exploration of binding studies of β-oxalyldiamino propionic acid (β-ODAP), a non-protein amino acid with human serum albumin-biophysical and computational approach
+DOI:10.1080/07391102.2018.1528181
+ligand name:β-oxalyldiamino propionic acid (β-ODAP)
+ligand smiles:CC(=O)C(=O)N[C@H](N)C(O)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0
+KSV;
+kq;54300000000000.0
+n;
+K;50900.0
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-123.587
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

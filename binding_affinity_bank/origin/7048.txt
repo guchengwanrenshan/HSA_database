@@ -1,0 +1,94 @@
+Title:Discovery of novel nitroimidazole enols as Pseudomonas aeruginosa DNA cleavage agents
+DOI:10.1016/j.bmc.2017.10.028
+ligand name:3i
+ligand smiles:COC1=C(O)C=CC(\C=C(/C(C)O)N2C(C)=NC=C2[N+]([O-])=O)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;313;
+KSV;7.54*10^4;6.12*10^4;4.99*10^4;
+kq;1.18*10^13;9.56*10^13;7.79*10^13;
+n;0.980;0.997;1.03;
+K;
+Ka;8.22*10^4;6.18*10^4;4.74*10^4;
+Kb;4.77*10^4;4.77*10^4;4.83*10^4;
+ΔH;-33.530;-33.530;-33.530;
+ΔS;17.542;17.542;17.542;
+ΔG;-38.617;-38.793;-39.021;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

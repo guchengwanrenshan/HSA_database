@@ -1,0 +1,95 @@
+Title:Interaction between Z-ligustilide from Radix Angelica sinensis and human serum albumin
+DOI:10.1016/j.foodchem.2014.11.041
+ligand name:Z-ligustilide
+ligand smiles:CCC/C=C\1/C2=C(C=CCC2)C(=O)O1 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;3.36*10^4;3.99*10^4;
+kq;3.36*10^12;3.99*10^12;
+n;0.93;0.89;
+K;
+Ka;
+Kb;1.59*10^4;1.16*10^4;
+ΔH;-20.11;-20.11;
+ΔS;12.96;12.96;
+ΔG;-23.97;-24.13;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.20*10^-14;
+E;0.085;
+R0;2.53;
+r;3.75;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

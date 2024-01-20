@@ -1,0 +1,69 @@
+Title:Elucidation of the binding mechanism of coumarin derivatives with human serum albumin
+DOI:10.1371/journal.pone.0063805
+ligand name:CD enamide
+ligand smiles:CC1=CC(=O)OC2=C1C=CC(O)=C2\C=C(/C#N)C(=O)NCCO
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;1.1
+K;
+Ka;
+Kb;195700.0
+ΔH;
+ΔS;
+ΔG;-30.0202
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

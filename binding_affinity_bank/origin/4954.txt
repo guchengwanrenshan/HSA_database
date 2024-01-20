@@ -1,0 +1,95 @@
+Title:Synthesis of 4-thio-5-iodouridine and the interaction between it and human serum albumin
+DOI:10.3788/fgxb20133403.0361
+ligand name:4-thio-5-iodouridine
+ligand smiles:OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=C(I)C(=S)NC1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;2.46*10^4;2.14*10^4;1.90*10^4;
+kq;2.46*10^12;2.14*10^12;1.90*10^12;
+n;
+K;
+Ka;
+Kb;1.89*10^4;1.69*10^4;1.56*10^4;
+ΔH;-6.85;-6.85;-6.85;
+ΔS;58.03;58.03;58.03;
+ΔG;-16.72;-17.30;-17.88;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.66*10^-14;
+E;0.1116;
+R0;2.13;
+r;3.01;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

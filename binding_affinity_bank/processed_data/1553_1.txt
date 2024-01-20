@@ -1,0 +1,69 @@
+Title:A combined computational/experimental study on HSA binding of two water-soluble Schiff base ligands derived from pyridine derivative and ethylendiamine
+DOI:10.1080/07391102.2018.1436091
+ligand name:MePE
+ligand smiles:C\C(=N/CC\N=C(/C)C1=CC=NC=C1)C1=CC=NC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IB in site III d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;47000.0;51000.0;52000.0
+kq;4700000000000.0;5100000000000.0;5200000000000.0
+n;0.93;1.0;0.9
+K;
+Ka;
+Kb;54000.0;54800.0;57000.0
+ΔH;2.6;2.6;2.6
+ΔS;99.0;99.0;99.0
+ΔG;-27.1;-27.9;-28.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

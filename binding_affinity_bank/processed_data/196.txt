@@ -1,0 +1,69 @@
+Title:Study of conformational and functional changes caused by binding of environmental pollutant tonalide to human serum albumin
+DOI:10.1016/j.chemosphere.2020.129431
+ligand name:tonalide
+ligand smiles:CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C  
+key residue(hbond):
+key residue(hydrophobic):Trp214;Arg218;Leu238;Ser287;Ile264;Ile290;Ala261;Leu260;Arg257;Ala291;Lys199;His242d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;40900.0;38100.0;35500.0
+kq;4090000000000.0;3810000000000.0;3550000000000.0
+n;0.84;0.9;0.94
+K;
+Ka;6800.0;12300.0;17900.0
+Kb;
+ΔH;62.02;62.02;62.02
+ΔS;281.74;281.74;281.74
+ΔG;-21.86;-21.86;-21.86
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Photophysical properties and dynamics simulation of the interaction between human serum albumin and hydroxy polybrominated diphenyl ether
+DOI:10.1080/00387010.2022.2029492
+ligand name:3-OH-BDE-47
+ligand smiles:OC1=C(Br)C(OC2=C(Br)C=C(Br)C=C2)CC=C1Br
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0
+KSV;3290000.0;5020000.0;6800000.0
+kq;3290000.0;5020000.0;6800000.0
+n;1.08;1.08;1.17
+K;
+Ka;14700000.0;222000000.0;1890000000.0
+Kb;12900000.0;18600000.0;127000000.0
+ΔH;170.12;170.12;170.12
+ΔS;714.43;714.43;714.43
+ΔG;-39.89;41.47;47.01
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Insights into the fatty acid ester norethisterone enanthate binding to human albumin: fluorescence, circular dichroism, and docking investigations
+DOI:10.1039/c5ra06844d
+ligand name:NET-EN
+ligand smiles:[H][C@@]12CC[C@@](OCCCCCC)(C#C)[C@@]1([H])CC[C@]1([H])[C@@]3([H])CCC(=C)CC3CC[C@@]21[H]
+key residue(hbond):Lys199;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;315;
+KSV;1.015*10^4;6.581*10^3;5.826*10^3;
+kq;
+n;1.002;1.004;1.007;
+K;
+Ka;
+Kb;1.053*10^4;7.061*10^3;6.394*10^3;
+ΔH;-23.43;-23.43;-23.43;
+ΔS;-1.667;-1.667;-1.667;
+ΔG;-22.93;-22.91;-22.90;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

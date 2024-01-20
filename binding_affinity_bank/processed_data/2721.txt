@@ -1,0 +1,69 @@
+Title:Studies of the interaction between palmatine hydrochloride and human serum albumin by fluorescence quenching method
+DOI:10.1016/j.jpba.2006.01.028
+ligand name:palmatine hydrochloride
+ligand smiles:COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;310.0
+KSV;88360.0;78760.0
+kq;8836000000000.0;7876000000000.0
+n;1.288;1.129
+K;
+Ka;
+Kb;98950.0;85900.0
+ΔH;-10.935;-10.935
+ΔS;59.18;59.18
+ΔG;-28.689;-29.281
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

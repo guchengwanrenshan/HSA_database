@@ -1,0 +1,69 @@
+Title:One-pot synthesis via 1,3-dipolar cycloaddition reaction to piperazinyl-quinolinyl dispiro heterocyclic derivatives and spectrofluorometric and molecular docking studies on their binding with human serum albumin
+DOI:10.1016/j.molstruc.2017.08.017
+ligand name:15l
+ligand smiles:CN1CCN(CC1)C1=NC2=CC=CC=C2C=C1C1C2CCCN2C2(C(=O)C3=C4C2=CC=CC4=CC=C3)C11SC(=S)NC1=O
+key residue(hbond):TYR263;ASN267 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;12100.0
+kq;1210000000000.0
+n;1.04
+K;
+Ka;
+Kb;18100.0
+ΔH;
+ΔS;
+ΔG;-24.2893
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

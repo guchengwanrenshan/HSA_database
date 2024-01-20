@@ -1,0 +1,95 @@
+Title:Drug-protein binding mechanism of juglone for early pharmacokinetic profiling: Insights from ultrafiltration;multi-spectroscopic and molecular docking methods
+DOI:10.1016/j.jpba.2017.03.036
+ligand name:Juglone
+ligand smiles:C1=CC2=C(C(=O)C=CC2=O)C(=C1)O
+key residue(hbond):Ala261 d
+key residue(hydrophobic):Leu238;Arg257;Leu260;Ser287;Ala291 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;4.91*10^4;4.16*10^4;3.29*10^4;
+kq;4.91*10^12;4.16*10^12;3.29*10^12;
+n;1.03;0.99;0.96;
+K;
+Ka;
+Kb;4.63*10^4;3.84*10^4;2.85*10^4;
+ΔH;-16.34;-16.34;-16.34;
+ΔS;32.69;32.69;32.69;
+ΔG;-25.75;-26.08;-26.47;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.056*10^-15;
+E;0.140;
+R0;2.109;
+r;2.854;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Binding mechanism of phloretin and human serum albumin
+DOI:10.11653/syfj2013150178
+ligand name:phloretin
+ligand smiles:C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;313;
+KSV;1.1402*10^5;1.0671*10^5;0.82800*10^5;
+kq;1.1402*10^13;1.0671*10^13;0.82800*10^13;
+n;1.0255;0.9910;0.9795;
+K;
+Ka;1.0902*10^5;1.0089*10^5;0.48910*10^5;
+Kb;1.5181*10^5;0.94412*10^5;0.54178*10^5;
+ΔH;53.28;53.28;53.28;
+ΔS;277.99;277.99;277.99;
+ΔG;-29.56;-28.39;-27.01;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.0348*10^-14;
+E;0.154;
+R0;3.21;
+r;4.27;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

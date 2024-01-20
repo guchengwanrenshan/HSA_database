@@ -1,0 +1,69 @@
+Title:Study on the molecular recognition action of lamivudine by human serum albumin
+DOI:10.1002/jmr.2705
+ligand name:Lamivudine
+ligand smiles:C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N  
+key residue(hbond):
+key residue(hydrophobic):LEU219;PHE223;VAL241;LEU238;LEU260;ALA261;ALA291;ILE264;ILE290;and VAL293
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292.0;298.0;304.0;310.0
+KSV;
+kq;
+n;1.164;1.103;1.054;1.021
+K;
+Ka;
+Kb;22300.0;13160.0;82290.0;67900.0
+ΔH;-50.0;-50.0;-50.0;-50.0
+ΔS;-88.0;-88.0;-88.0;-88.0
+ΔG;-24.0;-24.0;-23.0;-23.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

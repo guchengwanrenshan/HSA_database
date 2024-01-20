@@ -1,0 +1,95 @@
+Title:Analysis on the interaction and binding properties of daphnoretin and human serum albumin in the presence of cisplatin: multi-spectroscopic methods and docking simulation
+DOI:10.1016/j.ejps.2021.105723
+ligand name:daphnoretin
+ligand smiles:COC1=C(C=C2C(=C1)C=C(C(=O)O2)OC3=CC4=C(C=C3)C=CC(=O)O4)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;310;
+KSV;7.63*10^4;6.41*10^4;6.23*10^4;
+kq;1.27*10^13;1.07*10^13;1.04*10^13;
+n;1.02;0.97;0.94;
+K;
+Ka;9.45*10^4;4.01*10^4;2.98*10^4;
+Kb;
+ΔH;-43.61;-43.61;-43.61;
+ΔS;-55.71;-55.71;-55.71;
+ΔG;-27.40;-27.01;-26.34;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.963*10^-14;
+E;0.296;
+R0;3.202;
+r;3.699;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

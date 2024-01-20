@@ -1,0 +1,94 @@
+Title:Binding interaction of byakangelicin and human serum albumin with spectroscopic methodologies
+DOI:None
+ligand name:byakangelicin
+ligand smiles:CC(C)([C@@H](COC1=C2C(=C(C3=C1OC(=O)C=C3)OC)C=CO2)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;287;29;310;323;
+KSV;4.60*10^4;4.35*10^4;4.22*10^4;3.90*10^4;
+kq;4.60*10^12;4.35*10^12;4.22*10^12;3.90*10^12;
+n;0.8419;0.9257;0.9179;0.8953;
+K;
+Ka;
+Kb;1.64*10^4;1.79*10^4;1.85*10^4;2.13*10^4;
+ΔH;1.94;1.94;1.94;
+ΔS;75.54;75.54;75.54;
+ΔG;-19.74;-20.57;-21.47;-22.46;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;298;310;
+J;5.91*10^-15;5.65*10^-15;
+E;0.11;1.12;
+R0;2.25;2.23;
+r;3.20;3.10;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

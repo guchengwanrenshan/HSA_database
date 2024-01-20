@@ -1,0 +1,95 @@
+Title:The investigation of the interaction between 5-Iodouracil and human serum albumin by spectroscopic and modeling methods and determination of protein by synchronous fluorescence technique
+DOI:10.1016/j.pestbp.2007.11.002
+ligand name:5-Iodouracil
+ligand smiles:C1=C(C(=O)NC(=O)N1)I  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;305;315;
+KSV;
+kq;1.5274*10^12;1.3551*10^12;1.2275*10^12;
+n;1.265;1.332;1.361;
+K;
+Ka;1.6601*10^4;1.3402*10^4;1.2133*10^4;
+Kb;1.961*10^4;1.499*10^4;1.169*10^4;
+ΔH;-12.03;-12.03;-12.03;
+ΔS;40.0;40.0;40.0;
+ΔG;-23.83;-24.10;-24.63;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.6955*10^-14;
+E;0.1368;
+R0;2.31;
+r;3.14;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

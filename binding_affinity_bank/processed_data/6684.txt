@@ -1,0 +1,69 @@
+Title:Synthesis and biological evaluation of a new class of quinazolinone azoles as potential antimicrobial agents and their interactions with calf thymus DNA and human serum albumin
+DOI:10.1039/c4md00281d
+ligand name:3a
+ligand smiles:CC1=NC=C(N1CCN1C=NC2=C(C=CC(F)=C2)C1=O)[N+]([O-])=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;81500.0;72600.0;62500.0
+kq;12700000000000.0;11300000000000.0;9770000000000.0
+n;1.27;1.38;1.45
+K;
+Ka;45600.0;36600.0;29700.0
+Kb;46000.0;36400.0;30300.0
+ΔH;-27.351;-27.351;-27.351
+ΔS;-1.729;-1.729;-1.729
+ΔG;-26.836;-26.827;-26.815
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

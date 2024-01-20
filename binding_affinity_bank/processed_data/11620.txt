@@ -1,0 +1,69 @@
+Title:Water-Soluble BODIPY-Based fluorescent probe for BSA and HSA detection
+DOI:10.1016/j.molliq.2021.117031
+ligand name:
+ligand smiles:CC1=C2C=C3C(C)=C(S(=O)(=O)[O-])C(C)=[N+]3[B-](F)(F)N2C(C)=C1S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;128000.0;112000.0;93600.0
+kq;27400000000000.0;24000000000000.0;20000000000000.0
+n;0.96;0.95;0.93
+K;
+Ka;
+Kb;78000.0;49000.0;20000.0
+ΔH;-105.0;-105.0;-105.0
+ΔS;-258.0;-258.0;-258.0
+ΔG;-28.0;-27.0;-25.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

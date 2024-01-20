@@ -1,0 +1,93 @@
+Title:Studies on the binding of rhaponticin with human serum albumin by molecular spectroscopy, modeling and equilibrium dialysis
+DOI:10.1016/j.saa.2011.11.033
+ligand name:rhaponticin
+ligand smiles:COC1=C(C=C(C=C1)/C=C/C2=CC(=CC(=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;2.33*10^5;2.27*10^5;2.21*10^5;2.15*10^5;
+kq;2.33*10^13;2.27*10^13;2.21*10^13;2.15*10^13;
+n;0.96;0.95;0.94;0.93;
+K;
+Ka;
+Kb;1.39*10^5;1.24*10^5;1.09*10^5;0.97*10^5;
+ΔH;-2.75;-2.75;-2.75;-2.75;
+ΔS;1.58;1.58;1.58;1.58;
+ΔG;-3.2208;-3.2272;-3.2335;-3.2398;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

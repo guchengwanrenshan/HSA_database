@@ -1,0 +1,69 @@
+Title:Study on the interaction of luteolin with human serum albumin by fluorescence quenching method
+DOI:None
+ligand name:luteolin
+ligand smiles:C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;310.0;320.0
+KSV;111000.0;106000.0;100000.0
+kq;11100000000000.0;10600000000000.0;10000000000000.0
+n;1.21;1.31;1.38
+K;
+Ka;
+Kb;1020000.0;3050000.0;5130000.0
+ΔH;64.46;64.46;64.46
+ΔS;337.57;347.27;329.91
+ΔG;-36.81;-39.72;-41.11
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

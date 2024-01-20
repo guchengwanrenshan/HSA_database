@@ -1,0 +1,69 @@
+Title:Interplay of Multiple Interaction Forces: Binding of Norfloxacin to Human Serum Albumin
+DOI:10.1021/acs.jpcb.5b08147
+ligand name:norfloxacin
+ligand smiles:CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;288.0;298.0;308.0
+n;0.48;0.47;0.48;0.46
+K;
+Ka;
+Kb;60000.0;36700.0;29800.0
+ΔH;-15.0;-17.72;-20.0
+ΔS;39.548;29.4966;20.0
+ΔG;-26.39;-26.01;-26.16
+Cp;-253.0;-253.0;-253.0
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

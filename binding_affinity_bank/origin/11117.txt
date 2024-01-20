@@ -1,0 +1,90 @@
+Title:Spectrophotometric study on interaction of light green SF (yellowish) with protein and its analytical application
+DOI:None
+ligand name:light green SF (yellowish)
+ligand smiles:CCN(CC1=CC=CC(S(=O)(=O)[O-])=C1)C1=CC=C(C(C2=CC=C(S(=O)(=O)[O-])C=C2)=C2C=CC(=[N+](CC)CC3=CC=CC(S(=O)(=O)[O-])=C3)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;Absorption Photometry
+parameter;
+pH;
+T;
+n;32.2;
+K;
+Ka;
+Kb;3.22*10^5;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

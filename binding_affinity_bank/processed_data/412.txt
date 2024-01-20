@@ -1,0 +1,69 @@
+Title:Multispectral and computational probing of the interactions between sitagliptin and serum albumin
+DOI:10.1016/j.saa.2019.117286
+ligand name:sitagliptin
+ligand smiles:C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N  
+key residue(hbond):ASN109;ARG428;LYS190d
+key residue(hydrophobic):ILE523;PRO421;LEU463;GLU425d
+PDB ID:
+Binding Area:subdomain II and subdomain III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;51500.0;42600.0;38800.0
+kq;5150000000000.0;4260000000000.0;3880000000000.0
+n;
+K;
+Ka;39000.0;9600.0;7000.0
+Kb;70970.0;53900.0;41880.0
+ΔH;-33.45;-33.45;-33.45
+ΔS;-19.53;-19.53;-19.53
+ΔG;-27.63;-27.53;-27.39
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

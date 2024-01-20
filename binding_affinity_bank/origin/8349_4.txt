@@ -1,0 +1,90 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Thiofanox
+ligand smiles:CC(C)(C)C(=NOC(=O)NC)CSC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;3.871*10^4;4.728*10^4;5.876*10^4;
+kq;3.871*10^12;4.728*10^12;5.876*10^12;
+n;0.714;0.725;0.730;
+K;
+Ka;
+Kb;1.454*10^3;2.016*10^3;2.567*10^3;
+ΔH;31.025;31.025;31.025;
+ΔS;165.452;165.452;165.452;
+ΔG;-17.949;-19.107;-20.265;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;1.883;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

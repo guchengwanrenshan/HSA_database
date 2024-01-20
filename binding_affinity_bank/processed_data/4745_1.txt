@@ -1,0 +1,69 @@
+Title:Specific and Quantitative Detection of Albumin in Biological Fluids by Tetrazolate-Functionalized Water-Soluble AIEgens
+DOI:10.1021/acsami.9b10359
+ligand name:(E)TPE-2TA
+ligand smiles:[N-]1N=NN=C1C1=CC=C(C=C1)C(=C(/C1=CC=CC=C1)C1=CC=C(C=C1)C1=NN=N[N-]1)\C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;
+ΔH;-103.345
+ΔS;18.2524
+ΔG;-97.9056
+Cp;
+Kd;0.29
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Interactions between Antimalarial Indolone-N-oxide Derivatives and Human Serum Albumin
+DOI:10.1021/bm100814n
+ligand name:INOD-3
+ligand smiles:COC1=CC2=C(C=C1)[N+]([O-])=C(C2=O)C1=CC=C(C=C1)N(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;5.418*10^4;4.621*10^4;3.9044*10^4;
+kq;8.46563*10^12;7.22031*10^12;6.10063*10^12;
+n;
+K;
+Ka;
+Kb;2.39*10^4;2.50*10^4;3.09*10^4;
+ΔH;11.00;11.00;11.00;
+ΔS;121.34;121.34;121.34;
+ΔG;-23.94;-25.16;-26.61;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

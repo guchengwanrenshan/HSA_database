@@ -1,0 +1,95 @@
+Title:Elucidation of the interaction of human serum albumin with anti-cancer sipholane triterpenoid from the Red Sea sponge
+DOI:10.1002/bio.3172
+ligand name:sipholenone A
+ligand smiles:CC1=CCC2C(CC[C@@]2(C)O)C(C1CC[C@@H]3[C@]4(CCC(=O)C(O[C@@H]4CC[C@]3(C)O)(C)C)C)(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;1.83*10^4;1.51*10^4;1.29*10^4;
+kq;3.21*10^12;2.64*10^12;2.26*10^12;
+n;0.88;0.89;0.88
+K;
+Ka;
+Kb;5.34*10^3;4.92*10^3;3.76*10^3;
+ΔH;-13.82;-13.82;-13.82;
+ΔS;35.20;35.20;35.20;
+ΔG;-24.31;-24.66;-25.01;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.4*10^-15;
+E;0.111;
+R0;1.76;
+r;2.49;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

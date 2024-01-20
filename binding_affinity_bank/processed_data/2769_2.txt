@@ -1,0 +1,69 @@
+Title:Thermodynamics of the binding of phenothiazines to human plasma, human serum albumin and α1-acid glycoprotein: a calorimetric study
+DOI:10.1111/j.2042-7158.1989.tb06339.x
+ligand name:FPRZ
+ligand smiles:CN1CCN(CCCN2C3=C(SC4=C2C=C(C=C4)C(F)(F)F)C=CC=C3)CC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0
+KSV;
+kq;
+n;6.1
+K;
+Ka;
+Kb;48700.0
+ΔH;-20.0
+ΔS;-25.0
+ΔG;-27.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

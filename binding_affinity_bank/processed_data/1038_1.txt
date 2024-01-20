@@ -1,0 +1,69 @@
+Title:Interaction of conazole pesticides epoxiconazole and prothioconazole with human and bovine serum albumin studied using spectroscopic methods and molecular modeling
+DOI:10.3390/ijms22041925
+ligand name:prothioconazole (PTC)
+ligand smiles:C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;
+kq;
+n;1.11;1.07;0.98
+K;
+Ka;575000.0;380000.0;208000.0
+Kb;
+ΔH;-64.39;-64.39;-64.39
+ΔS;-105.5;-105.5;-105.5
+ΔG;-32.95;-32.42;-31.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

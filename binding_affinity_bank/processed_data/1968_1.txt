@@ -1,0 +1,69 @@
+Title:Insights into the binding of thiosemicarbazone derivatives with human serum albumin: spectroscopy and molecular modelling studies
+DOI:10.1080/07391102.2015.1075905
+ligand name:Pro semi
+ligand smiles:CCC(=O)OC1=CC=C(C=C1)C(\C)=N/NC(N)=S
+key residue(hbond):Leu185 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0
+KSV;
+kq;86000000000.0;56400000000.0
+n;1.06;1.03
+K;
+Ka;
+Kb;677000.0;553000.0
+ΔH;-17.96;-17.96
+ΔS;72.95;72.95
+ΔG;-21.757;-22.121
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Understanding the mode of binding mechanism of doripenem to human serum albumin: Spectroscopic and molecular docking approaches
+DOI:10.1002/jmr.2710
+ligand name:doripenem
+ligand smiles:C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)CNS(=O)(=O)N)C(=O)O)[C@@H](C)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB or IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;21000.0;18000.0;17000.0
+kq;3670000000000.0;3150000000000.0;2970000000000.0
+n;0.801;0.871;0.749
+K;
+Ka;2640.0;1850.0;1250.0
+Kb;
+ΔH;-57.05;-57.05;-57.05
+ΔS;-125.87;-125.87;-125.87
+ΔG;-19.52;-18.948;-18.26
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

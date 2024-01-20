@@ -1,0 +1,95 @@
+Title:Investigation of the interaction between endocrine disruptor bisphenol A and human serum albumin
+DOI:10.1016/j.chemosphere.2010.04.076
+ligand name:BPA
+ligand smiles:CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;318;
+KSV;
+kq;
+n;1.48;1.38;1.33;1.30;
+K;
+Ka;
+Kb;2.09*10^3;2.45*10^3;2.86*10^3;3.36*10^3;
+ΔH;11.97;11.97;11.97;11.97;
+ΔS;105.10;105.10;105.10;105.10;
+ΔG;-18.30;-19.35;-20.40;-21.45;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.777*10^-19;
+E;0.19;
+R0;1.42;
+r;1.82;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

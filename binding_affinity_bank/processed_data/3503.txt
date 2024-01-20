@@ -1,0 +1,69 @@
+Title:Studies on the binding of vinpocetine to human serum albumin by molecular spectroscopy and modeling
+DOI:10.1016/j.cclet.2012.02.003
+ligand name:vinpocetine
+ligand smiles:CC[C@@]12CCCN3[C@@H]1C4=C(CC3)C5=CC=CC=C5N4C(=C2)C(=O)OCC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;318.0
+KSV;82860.0;77150.0;67730.0
+kq;8286000000000.0;7715000000000.0;6773000000000.0
+n;1.11;1.027;0.9675
+K;
+Ka;
+Kb;86930.0;85410.0;83470.0
+ΔH;-1.5972;-1.5972;-1.5972
+ΔS;89.2033;89.2033;89.2033
+ΔG;-28.1797;-29.0718;-29.9638
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:Binding of Mammea A/AA (MA) to Plasma Proteins: UV-visible Spectroscopy and Molecular Dynamics Simulations Study
+DOI:10.1021/acsomega.8b03385
+ligand name:Mammea A/AA
+ligand smiles:CC(C)=CCC1=C2OC(=O)C=C(C3=CC=CC=C3)C2=C(O)C(C(=O)CC(C)C)=C1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;295;298;
+KSV;25424;25250;24445;
+kq;25424*10^8;25250*10^8;24445*10^8;
+n;
+K;
+Ka;
+Kb;19.5*10^4;11.01*10^4;4.0*10^4;
+ΔH;-191.7109;-191.7109;-191.7109;
+ΔS;-2317.9360;-2317.9360;-2317.9360;
+ΔG;-30.4177;-28.4930;-26.2755;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.379*10^-14;
+E;0.384;
+R0;2.79;
+r;3.02;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Characterization of the interaction between nitrofurazone and human serum albumin by spectroscopic and molecular modeling methods
+DOI:10.1039/c2mb05467a
+ligand name:nitrofurazone
+ligand smiles:C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N  
+key residue(hbond):Leu283;Ser287 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;2800.0;2530.0
+kq;
+n;1.02;0.96
+K;
+Ka;
+Kb;2880.0;1740.0
+ΔH;-31.98;-31.98
+ΔS;-41.11;-41.11
+ΔG;-19.73;-19.23
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

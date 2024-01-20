@@ -1,0 +1,95 @@
+Title:Structure and binding thermodynamics of viologen-phosphorous dendrimers to human serum albumin: A combined computational/experimental investigation
+DOI:10.1016/j.fluid.2016.02.014
+ligand name:4
+ligand smiles:CCOP(=O)(CC[N+]1=CC=C(C=C1)C1=CC=[N+](CC2=CC=C(C=NN(C)P3(=NP(=NP(=N3)(N(C)N=CC3=CC=C(C[N+]4=CC=C(C=C4)C4=CC=[N+](CCP(=O)(OCC)OCC)C=C4)C=C3)N(C)N=CC3=CC=C(C[N+]4=CC=C(C=C4)C4=CC=[N+](CCP(=O)(OCC)OCC)C=C4)C=C3)(N(C)N=CC3=CC=C(C[N+]4=CC=C(C=C4)C4=CC=[N+](CCP(=O)(OCC)OCC)C=C4)C=C3)N(C)N=CC3=CC=C(C[N+]4=CC=C(C=C4)C4=CC=[N+](CCP(=O)(OCC)OCC)C=C4)C=C3)N(C)N=CC3=CC=C(C[N+]4=CC=C(C=C4)C4=CC=[N+](CCP(=O)(OCC)OCC)C=C4)C=C3)C=C2)C=C1)OCC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;7.392*10^5;5.5776*10^5;4.4744*10^5;
+kq;1.32*10^13;9.96*10^12;7.99*10^12;
+n;1.203;1.234;1.199;
+K;
+Ka;
+Kb;2.02*10^7;1.14*10^7;0.746*10^7;
+ΔH;-63.7642;-63.7642;-63.7642;
+ΔS;74.1326;77.4661;79.0911;
+ΔG;-41.6726;-40.2919;-39.2459;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;1.185;
+K;
+Ka;
+Kb;13.5*10^6;
+ΔH;-61.8814;
+ΔS;71.0438;
+ΔG;-40.7103;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

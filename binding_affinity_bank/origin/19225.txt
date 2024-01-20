@@ -1,0 +1,90 @@
+Title:Spectroscopic Investigation of the Effect of Salt on Binding of Tartrazine with Two Homologous Serum Albumins: Quantification by Use of the Debye-Hueckel Limiting Law and Observation of Enthalpy-Entropy Compensation
+DOI:10.1021/jp304537m
+ligand name:Tartrazine
+ligand smiles:C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;5.7;5.7;5.7;
+T;290;300;310;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;10.1*10^4;7.9*10^4;6.86*10^4;
+ΔH;;-14.49;;
+ΔS;;45.59;;
+ΔG;;-28.10;;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

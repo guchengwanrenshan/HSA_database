@@ -1,0 +1,95 @@
+Title:Molecular mechanism investigation on the interaction of Clothianidin with human serum albumin
+DOI:10.1080/00387010.2019.1615952
+ligand name:Clothianidin
+ligand smiles:CN/C(=N\[N+](=O)[O-])/NCC1=CN=C(S1)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;305;
+KSV;3.543*10^4;2.995*10^4;2.490*10^4;
+kq;3.543*10^12;2.995*10^12;2.490*10^12;
+n;0.86038;0.81194;0.79334;
+K;
+Ka;
+Kb;8.477*10^4;4.178*10^4;2.795*10^4;
+ΔH;-53.885;-53.885;-53.885;
+ΔS;-110.534713;-110.534713;-110.534713;
+ΔG;-21.830;-20.724;-20.172;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

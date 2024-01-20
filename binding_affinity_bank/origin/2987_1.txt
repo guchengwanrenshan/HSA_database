@@ -1,0 +1,95 @@
+Title:An investigation into the altered binding mode of green tea polyphenols with human serum albumin on complexation with copper
+DOI:10.1080/07391102.2012.729158
+ligand name:EGCG
+ligand smiles:C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;308;313;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;-22.59;-22.59;-22.59;-22.59;
+ΔS;16.23;16.23;16.23;16.23;
+ΔG;-27.22;-27.42;-27.53;-27.63;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.32*10^-15;
+E;0.19;
+R0;2.13;
+r;2.71;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Interaction between baicalein and various isomers of human serum albumin
+DOI:https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e75TZJapvoLK3YH1PY46OzJZKG7g49G6ogmOMWAU3EeC5ZnJ0X3ssxPkcnCKOBANhx&uniplatform=NZKPT
+ligand name:baicalein
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;114000.0
+kq;22800000000000.0
+n;1.25
+K;
+Ka;
+Kb;120800.0
+ΔH;
+ΔS;
+ΔG;-28.9923
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

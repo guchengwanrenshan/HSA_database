@@ -1,0 +1,69 @@
+Title:Spectroscopy study of the interaction between endocrine disruptor 4-OH-2,2',3,4'-BDE and human serum albumin
+DOI:10.1039/c7ay00419b
+ligand name:4-OH-BDE42
+ligand smiles:OC1=CC=C(OC2=CC=C(Br)C=C2Br)C(Br)=C1Br
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;313.0
+KSV;254000.0;192000.0;125000.0
+kq;
+n;1.05;0.98;0.85
+K;
+Ka;
+Kb;468000.0;22000.0
+ΔH;-175.93;-175.93;-175.93
+ΔS;-481.81;-481.82;-478.95
+ΔG;-32.35;-29.94;-26.02
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

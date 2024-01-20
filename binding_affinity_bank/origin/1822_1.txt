@@ -1,0 +1,97 @@
+Title:Investigation on detoxication effects of 2-hydroxypropyl-β-cyclodextrin over two halogenated aromatic DBPs 2,4,6-trichlorophenol and 2,4,6-tribromophenol binding with human serum albumin
+DOI:10.1016/j.foodchem.2022.132349
+ligand name:2,4,6-tribromophenol
+ligand smiles:C1=C(C=C(C(=C1Br)O)Br)Br  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;318;
+KSV;2.849*10^6;2.565*10^6;2.073*10^6;0.964*10^6;
+kq;5.052*10^14;4.548*10^14;3.677*10^14;1.709*10^14;
+n;
+K;
+Ka;9.091*10^7;3.226*10^7;2.016*10^7;1.099*10^7;
+Kb;
+ΔH;-72.97;-72.97;-72.97;-72.97;
+ΔS;-95.36;-95.36;-95.36;-95.36;
+ΔG;-44.74;-44.08;-43.41;-42.65;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;310;
+n;0.935;
+K;1.550*10^5;
+Ka;
+Kb;
+ΔH;-60.92;
+ΔS;-97.07;
+ΔG;-30.83;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;0.566666667;727;0.112883333;0.000779459;
+1:5;;0.95;1303;0.18845;0.000729087;
+1:10;;1.2;1855;0.239116667;0.0006469;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

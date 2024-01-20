@@ -1,0 +1,69 @@
+Title:Biophysical characterization of interactions between falcarinol-type polyacetylenes and human serum albumin via multispectroscopy and molecular docking techniques
+DOI:10.1016/j.jlumin.2018.03.082
+ligand name:Falcarindiol
+ligand smiles: CCCCCCC/C=C\[C@@H](C#CC#C[C@@H](C=C)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II(subdomain IIIA) d 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;113000.0;119900.0;97200.0
+kq;22600000000000.0;23980000000000.0;19440000000000.0
+n;0.9966;0.9953;0.9864
+K;
+Ka;
+Kb;193200.0;204300.0;171100.0
+ΔH;-5.28;-5.28;-5.28
+ΔS;118.92;118.92;118.92
+ΔG;-40.73;-41.79;-42.91
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

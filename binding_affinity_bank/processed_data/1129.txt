@@ -1,0 +1,69 @@
+Title:Unique dynamic mode between Artepillin C and human serum albumin implies the characteristics of Brazilian green propolis representative bioactive component
+DOI:10.1038/s41598-020-74197-4
+ligand name:Artepillin C
+ligand smiles:CC(=CCC1=CC(=CC(=C1O)CC=C(C)C)/C=C/C(=O)O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I(subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;295.0;300.0;305.0
+KSV;842000.0;985000.0;1261000.0;1321000.0
+kq;84200000000000.0;98500000000000.0;126100000000000.0;132100000000000.0
+n;0.9667;0.843;0.9541;0.9493
+K;
+Ka;821000.0;908000.0;1246000.0;1378000.0
+Kb;
+ΔH;-27.507;-27.507;-27.507;-27.507
+ΔS;207.877;207.877;207.877;207.877
+ΔG;-32.836;-33.65;-35.008;-35.849
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

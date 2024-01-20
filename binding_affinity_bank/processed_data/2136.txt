@@ -1,0 +1,69 @@
+Title:Interaction of acrylodan with human serum albumin. A fluorescence spectroscopic study
+DOI:10.1111/j.1751-1097.1999.tb08272.x
+ligand name:acrylodan
+ligand smiles:CN(C)C1=CC2=C(C=C1)C=C(C=C2)C(=O)C=C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.0;288.0;293.0;298.0;303.0;310.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;157.4;158.6;159.5;159.1;158.7;158.4
+ΔG;-33.21;-34.38;-35.47;-36.16;-36.83;-37.78
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

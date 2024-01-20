@@ -1,0 +1,95 @@
+Title:Interaction between a novel intramolecular charge transfer fluorescent probe PFEP and human serum albumin
+DOI:10.1016/j.cclet.2009.11.042
+ligand name:PFEP
+ligand smiles:CCN1C2=C(C=CC=C2)C2=C1C=CC(=C2)[C@H]1CC(=NN1C1=CC=CC=C1)C1=CC2=C(C=C1)C1=C(C=CC=C1)C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.206*10^5;
+kq;1.206*10^13;
+n;1.14;
+K;
+Ka;
+Kb;4.31*10^5;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.66*10^-15;
+E;0.24;
+R0;2.2;
+r;2.67;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

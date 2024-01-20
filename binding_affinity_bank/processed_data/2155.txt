@@ -1,0 +1,69 @@
+Title:Studies on interaction between Vitamin B12 and human serum albumin
+DOI:10.1016/j.jpba.2007.12.029
+ligand name:Vitamin B12
+ligand smiles:CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H]([C@@H]5[C@]6([C@@]([C@@H](/C(=C(/C7=N/C(=C\C8=N/C(=C(\C4=N5)/C)/[C@H](C8(C)C)CCC(=O)N)/[C@H]([C@]7(C)CC(=O)N)CCC(=O)N)\C)/[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292.0;298.0;304.0;310.0
+KSV;39910.0;43310.0;47550.0;51620.0
+kq;
+n;1.35;1.343;1.332;1.047
+K;
+Ka;
+Kb;740000.0;693000.0;622000.0;527000.0
+ΔH;-13.38;-13.38;-13.38;-13.38
+ΔS;66.73;66.73;66.73;66.73
+ΔG;-32.87;-33.27;-33.67;-34.07
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Magnetic Field Effect Corroborated with Docking Study to Explore Photoinduced Electron Transfer in Drug-Protein Interaction
+DOI:10.1021/jp109604a
+ligand name:proflavin
+ligand smiles:C1=CC(=CC2=NC3=C(C=CC(=C3)N)C=C21)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;313.0;318.0
+KSV;
+kq;
+n;1.41;1.38;1.38;1.39
+K;
+Ka;
+Kb;3290000.0;2130000.0;1530000.0;1140000.0
+ΔH;-41.63;-41.63;-41.63;-41.63
+ΔS;-14.54;-14.54;-14.54;-14.54
+ΔG;-37.29;-37.15;-37.08;-37.01
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

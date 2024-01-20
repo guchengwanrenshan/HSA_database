@@ -1,0 +1,90 @@
+Title:Comparing the interaction of four structurally similar coumarins from Fraxinus Chinensis Roxb. with HSA through multi-spectroscopic and docking studies
+DOI:10.1016/j.molliq.2021.117234
+ligand name:esculetin
+ligand smiles:C1=CC(=O)OC2=CC(=C(C=C21)O)O  
+key residue(hbond):Arg257;Lys199;Ile290;Arg222;Arg218 d
+key residue(hydrophobic):Val241;Leu 260;Leu238;Ala291;Arg222;Lue219;Ile290;Lys199 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;300;305;310;
+KSV;0.709*10^5;0.618*10^5;0.595*10^5;0.573*10^5;
+kq;1.18*10^12;1.03*10^12;0.999*10^12;0.96*10^12;
+n;1.037;0.946;0.998;0.980;
+K;
+Ka;
+Kb;3.152*10^5;2.652*10^5;2.263*10^5;1.652*10^5;
+ΔH;-23.05;-23.05;-23.05;-23.05;
+ΔS;14.83;14.83;14.83;14.83;
+ΔG;-27.43;-27.50;-27.57;-27.65;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.143*10^-14;
+E;0.488;
+R0;2.870;
+r;2.938;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

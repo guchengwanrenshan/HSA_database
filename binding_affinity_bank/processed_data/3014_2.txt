@@ -1,0 +1,69 @@
+Title:Probing the Molecular Interaction of Triazole Fungicides with Human Serum Albumin by Multispectroscopic Techniques and Molecular Modeling
+DOI:10.1021/jf401095n
+ligand name:myclobutanil
+ligand smiles: CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;8690.0;7520.0;6850.0
+kq;869000000000.0;752000000000.0;685000000000.0
+n;1.0009;1.0051;1.0057
+K;
+Ka;8790.0;7970.0;6900.0
+Kb;8510.0;7760.0;6920.0
+ΔH;-13.28;-13.28;-13.28
+ΔS;30.71;30.71;30.71
+ΔG;-22.35;-22.63;-22.78
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

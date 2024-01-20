@@ -1,0 +1,95 @@
+Title:Probing the interaction of 2,4-dichlorophenoxyacetic acid with human serum albumin as studied by experimental and computational approaches
+DOI:10.1016/j.saa.2018.09.033
+ligand name:2,4-dichlorophenoxyacetic acid
+ligand smiles:C1=CC(=C(C=C1Cl)Cl)OCC(=O)O  
+key residue(hbond): Lys199;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;6.50*103;5.36*10^3;4.43*10^3;
+kq;
+n;
+K;
+Ka;6.70*10^3;5.08*10^3;3.64*10^3;
+Kb;
+ΔH;-24.31;-24.31;-24.31;
+ΔS;10.98;10.98;10.98;
+ΔG;-27.47;-27.58;-27.69;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

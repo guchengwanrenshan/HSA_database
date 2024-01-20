@@ -1,0 +1,90 @@
+Title:Analysis of the interaction of Dp44mT with human serum albumin and calf thymus DNA using molecular docking and spectroscopic techniques
+DOI:10.3390/ijms17071042
+ligand name:Dp44mT
+ligand smiles:CN(C)C(=S)N/N=C(/C1=CC=CC=N1)C1=NC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB d
+
+#Binding and thermodynamic parameters#
+parameter;295nm;295nm;295nm;
+pH;
+T;290;300;310;
+KSV;3.39*10^4;3.92*10^4;4.26*10^4;
+kq;3.39*10^12;3.92*10^12;4.26*10^12;
+n;1.112;1.027;1.019;
+K;
+Ka;4.52*10^4;2.81*10^4;1.82*10^4;
+Kb;2.82*10^4;9.68*10^4;17.46*10^4;
+ΔH;-70.34;-70.34;-70.34;
+ΔS;-145.41;-145.41;-145.41;
+ΔG;-27.01;-26.28;-25.26;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.38*10^-15;
+E;0.7482;
+R0;2.47;
+r;2.06;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

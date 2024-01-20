@@ -1,0 +1,97 @@
+Title:Effects of Human Serum Albumin on the Fluorescence Intensity and Tumor Imaging Properties of IR-780 Dye
+DOI:10.1111/php.13547
+ligand name:IR-780
+ligand smiles:CCCN1C2=CC=CC=C2C(C1=C/C=C/3\CCCC(=C3Cl)/C=C/C4=[N+](C5=CC=CC=C5C4(C)C)CCC)(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;310;
+KSV;1.14*10^6;1.11*10^6;1.17*10^6;1.08*10^6;
+kq;1.97*10^14;1.92*10^14;2.02*10^14;1.87*10^14;
+n;1.13;1.17;1.16;1.03;
+K;
+Ka;
+Kb;7.08*10^6;9.55*10^6;9.33*10^6;1.66*10^6;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;0.041166667;310;29.4;0.09483871;
+1:5;;0.038;690;27.6;0.04;
+1:10;;0.041166667;1130;29.4;0.026017699;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

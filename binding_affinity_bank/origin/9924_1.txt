@@ -1,0 +1,90 @@
+Title:Comparing the interaction of four structurally similar coumarins from Fraxinus Chinensis Roxb. with HSA through multi-spectroscopic and docking studies
+DOI:10.1016/j.molliq.2021.117234
+ligand name:fraxetin
+ligand smiles:COC1=C(C(=C2C(=C1)C=CC(=O)O2)O)O
+key residue(hbond):Tyr150;Arg257 d
+key residue(hydrophobic):Ala291;Arg222;Ala261;Ser287;Ile290 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;300;305;310;
+KSV;0.876*10^5;0.830*10^5;0.825*10^5;0.779*10^5;
+kq;1.46*10^12;1.38*10^12;1.37*10^12;1.30*10^12;
+n;0.852;0.829;0.808;0.857;
+K;
+Ka;
+Kb;0.858*10^5;0.760*10^5;0.577*10^5;0.464*10^5;
+ΔH;-32.18;-32.18;-32.18;-32.18;
+ΔS;11.59;11.59;11.59;11.59;
+ΔG;-35.59;-35.65;-35.71;-35.77;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.814*10^-14;
+E;0.461;
+R0;2.044;
+r;2.092;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

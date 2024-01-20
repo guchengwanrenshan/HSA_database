@@ -1,0 +1,107 @@
+Title:Interaction of virstatin with human serum albumin: spectroscopic analysis and molecular modeling
+DOI:10.1371/journal.pone.0037468
+ligand name:virstatin
+ligand smiles:C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCC(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.13*10^5;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;303;
+n;0.29;
+K;
+Ka;
+Kb;6.09*10^5;
+ΔH;-107.9472;
+ΔS;-245.9774;
+ΔG;-33.4302;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.58953*10^-14;
+E;0.3;
+R0;2.648;
+r;3.05;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Tyr150;;;15.72;
+Glu153;;;10.69;
+Ser192;;;14.9;
+Lys195;;;17.34;
+Lys199;;;21.69;
+Leu219;;;12.49;
+Arg222;;;13.39;
+Leu238;;;29.68;
+Arg257;;;13.08;
+Leu260;;;11.11;
+lle264;;;10.07;
+lle290;;;13.54;
+Ala291;;;34.68;
+Glu292;;;13.57;
+
+
+

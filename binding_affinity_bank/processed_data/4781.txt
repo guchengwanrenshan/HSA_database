@@ -1,0 +1,69 @@
+Title:Binding of warfarin influences the acid-base equilibrium of H242 in sudlow site I of human serum albumin
+DOI:10.1562/2006-02-23-ra-811
+ligand name:warfarin(Buffer:Tris)
+ligand smiles:CC(=O)CC(C1=CC=CC=C1)C1=C([O-])C2=CC=CC=C2OC1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.97
+K;
+Ka;
+Kb;163000.0
+ΔH;-12.8
+ΔS;
+ΔG;-29.7346
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

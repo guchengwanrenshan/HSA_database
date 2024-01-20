@@ -1,0 +1,69 @@
+Title:Study on the Interaction Between Trimethoprim and Human Serum Albumin by Spectroscopic and Molecular Modeling Methods
+DOI:10.1080/00387010.2012.657332
+ligand name:Trimethoprim
+ligand smiles:COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;8120.0;5870.0
+kq;812000000000.0;587000000000.0
+n;1.1;0.91
+K;
+Ka;
+Kb;19100.0;2750.0
+ΔH;-124.0;-124.0
+ΔS;-334.3;-334.3
+ΔG;-24.42;-20.41
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

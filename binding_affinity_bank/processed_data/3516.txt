@@ -1,0 +1,69 @@
+Title:Direct interactions in the recognition between the environmental estrogen bisphenol AF and human serum albumin
+DOI:10.1002/jmr.2463
+ligand name:Bisphenol AF
+ligand smiles:C1=CC(=CC=C1C(C2=CC=C(C=C2)O)(C(F)(F)F)C(F)(F)F)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;11180.0;9370.0;7770.0
+kq;
+n;1.062;1.067;1.032
+K;
+Ka;
+Kb;22780.0;19570.0;10440.0
+ΔH;-28.874;-28.874;-28.874
+ΔS;-16.112;-16.112;-16.112
+ΔG;-24.03;-24.48;-23.69
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

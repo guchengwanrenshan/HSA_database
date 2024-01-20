@@ -1,0 +1,95 @@
+Title:Unravelling the interaction of a phosphodiesterase inhibitor, aminophylline with human serum albumin: implication of photoilluminated riboflavin upon binding
+DOI:10.1080/07391102.2019.1671223
+ligand name:aminophylline
+ligand smiles:CN1C2=C(C(=O)N(C1=O)C)NC=N2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.1*10^4;
+kq;1.92*10^12;
+n;1.19;
+K;
+Ka;
+Kb;6.3*10^4;
+ΔH;
+ΔS;
+ΔG;-27.3634;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.86*10^11;
+E;0.65;
+R0;0.8;
+r;7;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

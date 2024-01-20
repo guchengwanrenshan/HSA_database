@@ -1,0 +1,69 @@
+Title:Insights into the binding interaction of Reactive Yellow 145 with human serum albumin from a biophysics point of view
+DOI:10.1016/j.molliq.2022.120800
+ligand name:Reactive Yellow 145
+ligand smiles:C1=CC(=CC(=C1)S(=O)(=O)CCOS(=O)(=O)[O-])NC2=NC(=NC(=N2)Cl)NC3=CC(=C(C=C3)N=NC4=CC5=C(C=C(C=C5C=C4S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])NC(=O)N.[Na+].[Na+].[Na+].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0
+KSV;343500.0;271600.0
+kq;34350000000000.0;27160000000000.0
+n;1.09;1.05
+K;
+Ka;
+Kb;114150.0;52550.0
+ΔH;-63.47;-63.47
+ΔS;-96.99;-96.99
+ΔG;-34.48;-33.59
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Potential toxic effects of sulfonamides antibiotics: Molecular modeling, multiple-spectroscopy techniques and density functional theory calculations
+DOI:10.1016/j.ecoenv.2022.113979
+ligand name:sulfamerazine
+ligand smiles:CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;88800.0;76500.0;68400.0
+kq;8880000000000.0;7650000000000.0;6840000000000.0
+n;
+K;
+Ka;51100.0;49600.0;48600.0
+Kb;
+ΔH;-2.11;-2.11;-2.11
+ΔS;83.06;83.06;83.06
+ΔG;-26.86;-27.61;-28.36
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

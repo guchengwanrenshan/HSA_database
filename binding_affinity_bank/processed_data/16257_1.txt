@@ -1,0 +1,69 @@
+Title:Biological activity of natural flavonoids as impacted by protein flexibility: an example of flavanones
+DOI:10.1039/c4mb00662c
+ligand name:hesperetin
+ligand smiles:COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;6650.0
+kq;1112000000000.0
+n;1.16
+K;
+Ka;
+Kb;59429.22
+ΔH;
+ΔS;
+ΔG;-27.2348
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

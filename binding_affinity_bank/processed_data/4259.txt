@@ -1,0 +1,69 @@
+Title:Experimental and theoretical investigation on the interaction between cyclovirobuxine D and human serum albumin
+DOI:10.1016/j.saa.2014.03.007
+ligand name:Cyclovirobuxine D
+ligand smiles:C[C@@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)CC[C@@H](C5(C)C)NC)C)C)O)NC 
+key residue(hbond):Lys195;Arg222;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0
+KSV;78200.0;69100.0;64500.0;59500.0
+kq;78200.0;69100.0;64500.0;59500.0
+n;
+K;
+Ka;
+Kb;48800.0;31700.0;18200.0;11800.0
+ΔH;-51.2;-51.2;-51.2;-51.2
+ΔS;-87.21;-87.21;-87.21;-87.21
+ΔG;-25.99;-25.39;-24.78;-24.17
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

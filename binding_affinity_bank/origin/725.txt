@@ -1,0 +1,95 @@
+Title:Investigation of the interaction mechanism of perfluoroalkyl carboxylic acids with human serum albumin by spectroscopic methods
+DOI:10.3390/ijerph17041319
+ligand name:perfluorooctanoic acid (PFOA)
+ligand smiles:C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(sub-domain IIA)d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;1.328*10^4;1.203*10^4;1.076*10^4;
+kq;1.328*10^12;1.203*10^12;1.076*10^12;
+n;
+K;
+Ka;0.6153*10^4;0.5332*10^4;0.4463*10^4;
+Kb;
+ΔH;-17.48;-17.48;-17.48;
+ΔS;13.53;13.53;13.53;
+ΔG;-21.49;-21.58;-21.67;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

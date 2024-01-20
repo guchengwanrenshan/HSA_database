@@ -1,0 +1,69 @@
+Title:Capillary electrophoresis with end-column electrochemiluminescence for the analysis of chloroquine phosphate and the study on its interaction with human serum albumin
+DOI:10.1016/j.chroma.2007.02.029
+ligand name:chloroquine phosphate
+ligand smiles:CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl.OP(=O)(O)O.OP(=O)(O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;310.0
+n;32.6
+K;
+Ka;
+Kb;7700.0
+ΔH;
+ΔS;
+ΔG;-23.0646
+Kd;
+
+

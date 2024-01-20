@@ -1,0 +1,95 @@
+Title:Binding studies of AICAR and human serum albumin by spectroscopic, theoretical, and computational methodologies
+DOI:10.3390/molecules25225410
+ligand name:AICAR
+ligand smiles:C1=NC(=C(N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N)C(=O)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: sites I and II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;318;
+KSV;9.359*10^3;8.653*10^4;8.223*10^3;
+kq;9.359*10^11;8.653*10^11;8.223*10^11;
+n;1.161;1.181;1.292;
+K;
+Ka;
+Kb;3.8301*10^4;4.8031*10^3;13.9064*10^4
+ΔH;
+ΔS;
+ΔG;-26.15;-27.78;-31.31;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.42*10^12;
+E;0.06
+R0;1.72;
+r;2.72
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

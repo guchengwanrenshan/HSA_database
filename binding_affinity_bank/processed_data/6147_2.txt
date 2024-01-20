@@ -1,0 +1,69 @@
+Title:Study on the interaction and structure-activity relationship between three chalcones and human serum albumin
+DOI:None
+ligand name:4'-chlorochalcone
+ligand smiles:C1=CC=C(C=C1)C(=O)/C=C/C2=CC=C(C=C2)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;7.4
+T;298.0;303.0;308.0
+KSV;154000.0;119000.0;61500.0
+kq;15400000000000.0;11900000000000.0;6150000000000.0
+n;1.03;1.03;1.02
+K;
+Ka;
+Kb;16600.0;8580.0;2770.0
+ΔH;-98.8;-98.8;-98.8
+ΔS;-251.0;-251.0;-251.0
+ΔG;-24.1;-22.8;-20.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;7.4
+T;
+n;
+K;
+Ka;
+Kb;8500.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

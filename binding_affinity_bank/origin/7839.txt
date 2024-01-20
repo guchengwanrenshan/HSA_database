@@ -1,0 +1,90 @@
+Title:Crystal structure, Hirshfeld analysis and HSA interaction studies of N'-[(E)-(5-bromothiophen-2-yl)methylidene]-3-hydroxynaphthalene-2-carbohydrazide
+DOI:10.1016/j.molstruc.2019.03.070
+ligand name:HTp
+ligand smiles:O=C(N/N=C/C1=CC=C(Br)S1)C1=CC2=C(C=CC=C2)C=C1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;2.8355*10^4;2.7021*10^4;2.5801*10^4;
+kq;2.8355*10^12;2.7021*10^12;2.5801*10^12;
+n;1.0461;1.0320;1.1621;
+K;
+Ka;
+Kb;44.452*10^5;37.132*10^5;13.135*10^5;
+ΔH;-78.314;-78.314;-78.314;
+ΔS;-361.304;-361.304;-361.304;
+ΔG;-33.518;-32.414;-29.186;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.67*10^-14;
+E;0.17;
+R0;2.49;
+r;4.26;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

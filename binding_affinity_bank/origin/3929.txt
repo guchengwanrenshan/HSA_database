@@ -1,0 +1,95 @@
+Title:Probing the molecular mechanism of C.I. Acid Red 73 binding to human serum albumin
+DOI:10.1016/j.etap.2010.03.013
+ligand name:C.I. Acid red 73
+ligand smiles:C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N=NC3=C(C=CC4=CC(=CC(=C43)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB;subdomain IIA;subdomain IIIA;subdomian IIIB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;5.34*10^5;4.62*10^5;3.80*10^5;
+kq;5.34*10^13;4.62*10^13;3.80*10^13;
+n;1.42;1.71;1.96;
+K;
+Ka;
+Kb;1.19*10^8;4.49*10^9;1.14*10^11;
+ΔH;253.4;253.4;253.4;
+ΔS;1030;1030;1030;
+ΔG;-44.6;-54.7;-65.3;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.49*10^-14;
+E;0.206;
+R0;2.62;
+r;3.28;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

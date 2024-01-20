@@ -1,0 +1,69 @@
+Title:Comparative study of the binding between chlorogenic acid and four proteins by isothermal titration calorimetry, spectroscopy and docking methods
+DOI:10.1007/s43440-022-00369-w
+ligand name:chlorogenic acid
+ligand smiles:C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;301.0;309.0
+KSV;71800.0;65100.0;61300.0
+kq;7180000000000.0;6510000000000.0;6130000000000.0
+n;1.3;1.3;1.31
+K;
+Ka;2060000.0;3840000.0;1520000.0
+Kb;
+ΔH;-12.41;-12.41;-12.41
+ΔS;78.24;78.24;78.24
+ΔG;-35.44;-36.15;-36.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;166000.0
+Ka;
+Kb;
+ΔH;-1.6707
+ΔS;94.14
+ΔG;-29.7064
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

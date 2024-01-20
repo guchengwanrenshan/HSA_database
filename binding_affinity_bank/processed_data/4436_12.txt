@@ -1,0 +1,69 @@
+Title:Using Human Serum Albumin Binding Affinities as a Proactive Strategy to Affect the Pharmacodynamics and Pharmacokinetics of Preclinical Drug Candidates
+DOI:10.1021/acsptsci.2c00115
+ligand name:4-bromodiphenyl ether
+ligand smiles:C1=CC=C(C=C1)OC2=CC=C(C=C2)Br
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297.0
+KSV;113000.0
+kq;
+n;1.04
+K;
+Ka;
+Kb;810000.0
+ΔH;
+ΔS;
+ΔG;-33.5937
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

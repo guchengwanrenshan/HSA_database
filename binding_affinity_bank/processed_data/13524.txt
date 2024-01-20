@@ -1,0 +1,69 @@
+Title:Optical, Structural and Thermodynamic Studies of the Association of an Anti-leucamic Drug Imatinib Mesylate with Transport Protein
+DOI:10.1007/s10895-011-0986-0
+ligand name:imatinib mesylate
+ligand smiles:CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;69000.0;67000.0;62700.0
+kq;
+n;1.03;1.02;1.04
+K;
+Ka;
+Kb;189000.0;131000.0;103000.0
+ΔH;-24.57;-24.57;-24.57
+ΔS;19.166;19.166;19.166
+ΔG;-29.29;-29.39;-29.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

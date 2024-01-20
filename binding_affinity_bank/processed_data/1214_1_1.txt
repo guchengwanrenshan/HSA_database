@@ -1,0 +1,69 @@
+Title:Thermodynamic and computational analyses reveal the functional roles of the galloyl group of tea catechins in molecular recognition
+DOI:10.1371/journal.pone.0204856
+ligand name:EGCg(Temperature dependence of binding parameters)
+ligand smiles:OC1=CC2=C(C[C@@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)[C@H](O2)C2=CC(O)=C(O)C(O)=C2)C(O)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;288.0;293.0;298.0;303.0
+n;1.1;1.1;1.1;1.1
+K;
+Ka;
+Kb;
+ΔH;-16.3176;-19.6648;-23.8488;-25.5224
+ΔS;-48.33;-40.0449;-28.998;-24.8555
+ΔG;-30.9616;-31.7984;-32.6352;-33.0536
+Cp;
+Kd;2100.0;2000.0;2100.0
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

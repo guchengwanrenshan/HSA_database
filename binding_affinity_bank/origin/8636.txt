@@ -1,0 +1,90 @@
+Title:Exploring the binding interactions of janus green blue with serum albumins from spectroscopic and calorimetric studies aided by in silico calculations
+DOI:10.1080/07391102.2020.1870156
+ligand name:janus green blue
+ligand smiles:CCN(CC)C1=CC=C2NC3=C(C=C(/N=N/C4=CC=C(N(C)C)C=C4)C=C3)[NH+](C3=CC=CC=C3)C2=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomian IIIA; subdomain IIIB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;4.16*10^4;
+kq;7.28*10^12;
+n;
+K;
+Ka;
+Kb;4.33*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;1.46;
+K;
+Ka;
+Kb;13.8*10^4;
+ΔH;0.9686;
+ΔS;101.6712;
+ΔG;-29.2043;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;7.5*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.17*10^-14;
+E;0.285;
+R0;2.79;
+r;3.25;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

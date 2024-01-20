@@ -1,0 +1,69 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Butoxycarboxim
+ligand smiles:CC(/C(=N/OC(=O)NC)/C)S(=O)(=O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;28880.0;47980.0;62640.0
+kq;2888000000000.0;4798000000000.0;6264000000000.0
+n;0.658;0.679;0.725
+K;
+Ka;
+Kb;582.7;1202.0;2617.0
+ΔH;81.824;81.824;81.824
+ΔS;329.251;329.251;329.251
+ΔG;-15.634;-17.939;-20.244
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

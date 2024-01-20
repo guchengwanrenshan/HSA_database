@@ -1,0 +1,69 @@
+Title:A thermodynamic investigation of aspirin interaction with human serum albumin at 298 and 310 K
+DOI:10.4172/2157-7544.1000107
+ligand name:aspirin
+ligand smiles:CC(=O)OC1=CC=CC=C1C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0;310.0
+n;
+K;
+Ka;
+Kb;2760993.6;547198.1
+ΔH;-19.9;-10.57
+ΔS;56.0;56.0
+ΔG;-36.71;-34.02
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

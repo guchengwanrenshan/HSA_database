@@ -1,0 +1,95 @@
+Title:Novel perspective into the interaction behavior study of the cyanidin with human serum albumin-holo transferrin complex: Spectroscopic, calorimetric and molecular modeling approaches
+DOI:10.1016/j.molliq.2022.119042
+ligand name:cyanidin
+ligand smiles:C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;8.81*10^4;3.35*10^4;0.954*10^4;
+kq;8.81*10^12;3.35*10^12;0.954*10^12;
+n;
+K;
+Ka;
+Kb;8.37*10^4;3.06*10^4;0.819*10^4;
+ΔH;-22.32;-22.32;-22.32;
+ΔS;11.32;11.32;11.32;
+ΔG;-28.08;-26.02;-23.07;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.73*10^-15;
+E;0.18;
+R0;3.4;
+r;1.85;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

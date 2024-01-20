@@ -1,0 +1,69 @@
+Title:Spectroscopic and molecular modeling approaches to investigate the binding of proton pump inhibitors to human serum albumin
+DOI:10.1080/07391102.2016.1251337
+ligand name: omeprazole
+ligand smiles:CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286.0;293.0;300.0;303.0
+KSV;40900.0;47100.0;54500.0;63400.0
+kq;4090000000000.0;4710000000000.0;5450000000000.0;6340000000000.0
+n;0.98;0.98;0.99;1.02
+K;22300.0;40500.0;80100.0;112000.0
+Ka;
+Kb;
+ΔH;82.5;82.5;82.5;82.5
+ΔS;369.7;369.7;369.7;369.7
+ΔG;-25.7;-30.1;-33.8;-38.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

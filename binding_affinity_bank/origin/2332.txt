@@ -1,0 +1,95 @@
+Title:Fluorescence and docking studies of the interaction between human serum albumin and pheophytin
+DOI:10.3390/molecules201019526
+ligand name:18-FP Pheophytin
+ligand smiles:CCC1=C(C)\C2=C\C3=C(C=C)C(C)=C(N3)\C=C3/N=C(C(CCC(=O)OC\C=C(/C)CCCC(C)CCCC(C)CCCC(C)C)C3C)C3=C4N\C(C=C4C(=O)OC3=O)=C/C1=N2
+key residue(hbond):Lys194;Lys198;Arg221;Lys443 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;1.75*10^5;1.82*10^5;2.03*10^5;
+kq;1.75*10^13;1.82*10^13;2.03*10^13;
+n;
+K;
+Ka;4.48*10^4;5.43*10^4;5.95*10^4;
+Kb;
+ΔH;15.5;15.5;15.5;
+ΔS;145;145;145;
+ΔG;-26.4;-27.4;-28.4;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

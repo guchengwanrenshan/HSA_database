@@ -1,0 +1,69 @@
+Title:Analysis on the interaction and binding properties of daphnoretin and human serum albumin in the presence of cisplatin: multi-spectroscopic methods and docking simulation
+DOI:10.1016/j.ejps.2021.105723
+ligand name:daphnoretin
+ligand smiles:COC1=C(C=C2C(=C1)C=C(C(=O)O2)OC3=CC4=C(C=C3)C=CC(=O)O4)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;298.0;310.0
+KSV;76300.0;64100.0;62300.0
+kq;12700000000000.0;10700000000000.0;10400000000000.0
+n;1.02;0.97;0.94
+K;
+Ka;94500.0;40100.0;29800.0
+Kb;
+ΔH;-43.61;-43.61;-43.61
+ΔS;-55.71;-55.71;-55.71
+ΔG;-27.4;-27.01;-26.34
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

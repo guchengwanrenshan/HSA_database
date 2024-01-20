@@ -1,0 +1,69 @@
+Title:Interaction of human serum albumin with charge transfer probe ethyl ester of N,N-dimethylamino naphthyl acrylic acid: An extrinsic fluorescence probe for studying protein micro-environment
+DOI:10.1039/b814050b
+ligand name:EDMANA
+ligand smiles:CCOC(=O)\C=C\C1=CC=C(N(C)C)C2=C1C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.03
+T;
+KSV;1.02
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-21.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Molecular interaction of PCB180 to human serum albumin: insights from spectroscopic and molecular modelling studies
+DOI:10.1007/s00894-014-2098-7
+ligand name:PCB180
+ligand smiles:FC1=CC(F)=C(C=C1F)C1=C(F)C(F)=C(F)C(F)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;20926600.0;28966000.0;97720000.0
+ΔH;116.837;116.837;116.837
+ΔS;416.124;416.124;416.124
+ΔG;-7.168;-9.2486;-11.3292
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

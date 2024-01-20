@@ -1,0 +1,95 @@
+Title:Deciphering the binding of carbendazim (fungicide) with human serum albumin: A multi-spectroscopic and molecular modelling studies
+DOI:10.1080/07391102.2018.1481768
+ligand name:carbendazim
+ligand smiles:COC(=O)NC1=NC2=CC=CC=C2N1  
+key residue(hbond):His67;Glu252 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I as the primary binding site and Sudlow's site II as the secondary binding site
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;2.188*10^4;1.96*10^4;1.59*10^4;
+kq;
+n;1.1;;;
+K;
+Ka;
+Kb;1.258*10^4;;;
+ΔH;
+ΔS;
+ΔG;-29.079;;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

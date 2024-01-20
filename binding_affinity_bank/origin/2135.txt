@@ -1,0 +1,95 @@
+Title:DNA binding, photonuclease activity and human serum albumin interaction of awater-soluble freebase carboxyl corrole
+DOI:10.3390/molecules21010054
+ligand name:TCPC
+ligand smiles:OC(=O)C1=CC=C(C=C1)C1=C2/N\C(\C=C2)=C(/C2=N/C(/C=C2)=C(\C2=CC=C(N2)C2=CC=C\1N2)C1=CC=C(C=C1)C(O)=O)C1=CC=C(C=C1)C(O)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.75*10^5;
+kq;1.75*10^13;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.96*10^-14;
+E;0.46;
+R0;2.00;
+r;2.06;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

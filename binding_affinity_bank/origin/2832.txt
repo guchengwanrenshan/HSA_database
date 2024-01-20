@@ -1,0 +1,95 @@
+Title:Evaluation of pendimethalin binding to human serum albumin: Insights from spectroscopic and molecular modeling approach
+DOI:10.1002/jbt.21839
+ligand name:pendimethalin
+ligand smiles:CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]  
+key residue(hbond):Tyr150;Lys190;Arg222;Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;318;
+KSV;1.8*10^5;1.50*10^5;1.23*10^5;0.95*10^5;
+kq;3.68*10^13;3.28*10^13;2.18*10^13;1.57*10^13;
+n;
+K;
+Ka;
+Kb;2.35*10^5;2.09*10^5;1.39*10^5;1.00*10^5;
+ΔH;-22.41;-22.41;-22.41;-22.41;
+ΔS;25.67;25.67;25.67;25.67;
+ΔG;-29.80;-30.06;-30.31;-30.57;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

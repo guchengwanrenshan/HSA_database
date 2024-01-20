@@ -1,0 +1,69 @@
+Title:Investigation of the interaction between adenosine and human serum albumin by fluorescent spectroscopy and molecular modeling
+DOI:10.1002/cjoc.200890125
+ligand name:adenosine
+ligand smiles:C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N
+key residue(hbond):ASP451;ALA291;LYS199;HIS242;HIS288 d
+key residue(hydrophobic):ALA291;HIS242;LYS195 d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;318.0
+KSV;2738.0;2641.0;2401.0
+kq;273800000000.0;264100000000.0;240100000000.0
+n;1.1336;1.0183;0.9902
+K;
+Ka;
+Kb;47980.0;42520.0;32190.0
+ΔH;-15.72;-15.72;-15.72
+ΔS;36.85;36.85;36.85
+ΔG;-26.7;-27.29;-27.44
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

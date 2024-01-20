@@ -1,0 +1,69 @@
+Title:Interactions of the Rad51 inhibitor DIDS with human and bovine serum albumins: Optical spectroscopy and isothermal calorimetry approaches
+DOI:10.1016/j.biochi.2019.09.016
+ligand name:DIDS(low affinity)
+ligand smiles:C1=CC(=C(C=C1N=C=S)S(=O)(=O)O)/C=C/C2=C(C=C(C=C2)N=C=S)S(=O)(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;295.0
+n;0.93
+K;
+Ka;3370000.0
+Kb;
+ΔH;18.033
+ΔS;175.728
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

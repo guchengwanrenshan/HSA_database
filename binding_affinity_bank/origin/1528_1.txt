@@ -1,0 +1,95 @@
+Title:N-ethyl-2-pyrrolidinone substitution enhances binding affinity between tea flavoalkaloids and human serum albumin: Greatly influenced by esterization
+DOI:10.1016/j.saa.2021.120097
+ligand name:14
+ligand smiles:[H][C@@]1(CCC(=O)N1CC)C1=C(O)C2=C(O[C@@H]([C@@H](C2)OC(=O)\C=C\C2=CC=CC=C2)C2=CC=C(O)C(O)=C2)C=C1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;300;310;
+KSV;4.72*10^4;4.56*10^4;4.45*10^4;
+kq;4.72*10^12;4.56*10^12;4.45*10^12;
+n;1.16;1.17;1.18;
+K;3.91*10^4;3.70*10^4;3.55*10^4;
+Ka;
+Kb;
+ΔH;-4.39;-4.39;-4.39;
+ΔS;72.91;72.91;72.91;
+ΔG;-25.76;-26.24;-27.00;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

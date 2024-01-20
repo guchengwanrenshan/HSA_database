@@ -1,0 +1,69 @@
+Title:Association of iminium and alkanolamine forms of the benzo[c]phenanthridine alkaloid chelerythrine with human serum albumin: photophysical, thermodynamic and theoretical approach
+DOI:10.1039/c7nj02972a
+ligand name:Chelerythrine(I)
+ligand smiles:C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.0;293.0;298.0;303.0
+KSV;63800.0;56400.0;47900.0
+kq;10900000000000.0;9600000000000.0;8200000000000.0
+n;
+K;
+Ka;
+Kb;187000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.98
+K;
+Ka;
+Kb;185000.0
+ΔH;-80.6257
+ΔS;-169.7468
+ΔG;-30.0411
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Stereoselective interactions of lactic acid enantiomers with HSA: Spectroscopy and docking application
+DOI:10.1016/j.foodchem.2018.07.135
+ligand name:D-lactic acid
+ligand smiles:C[C@H](C(=O)O)O   
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;301.0;310.0
+KSV;574000.0;494000.0;391000.0
+kq;57400000000000.0;49400000000000.0;39100000000000.0
+n;0.979;0.975;0.912
+K;
+Ka;140000.0;114000.0;33400.0
+Kb;
+ΔH;-64.0;-64.0;-64.0
+ΔS;-120.0;-116.0;-120.0
+ΔG;-28.9;-29.1;-26.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Investigation of the molecular interactions of triclocarban with human serum albumin using multispectroscopies and molecular modeling
+DOI:10.1080/07391102.2018.1520149
+ligand name:Triclocarban
+ligand smiles:C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;60000.0;73800.0;103500.0
+kq;6000000000000.0;7380000000000.0;10350000000000.0
+n;0.98;0.86;0.89
+K;
+Ka;
+Kb;66000.0;84000.0;123000.0
+ΔH;39.94;39.94;39.94
+ΔS;226.05;226.05;226.05
+ΔG;-27.45;-28.81;-30.16
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

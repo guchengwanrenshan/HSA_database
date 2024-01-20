@@ -1,0 +1,93 @@
+Title:Intermolecular Interactions of Saxagliptin and Vildagliptin with Human Serum Albumin
+DOI:10.1007/s10812-022-01308-6
+ligand name:Saxagliptin
+ligand smiles:C1[C@@H]2C[C@@H]2N([C@@H]1C#N)C(=O)[C@H](C34CC5CC(C3)CC(C5)(C4)O)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;7.4;
+T;298;301;318;
+KSV;2.57*10^4;2.05*10^4;1.45*10^4;
+kq;2.57*10^12;2.05*10^12;1.45*10^12;
+n;1.034;1.016;1.039;
+K;
+Ka;
+Kb;4.003*10^4;2.49*10^4;2.42*10^4;
+ΔH;25.02;25.02;25.02;
+ΔS;216.1;216.1;216.1;
+ΔG;-26.256;-26.091;-26.688;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

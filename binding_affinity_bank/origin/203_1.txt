@@ -1,0 +1,95 @@
+Title:Spectroscopic methodologies and molecular docking studies on the interaction of antimalarial drug piperaquine and its metabolites with human serum albumin
+DOI:10.1016/j.saa.2019.117158
+ligand name:M1
+ligand smiles:O=n6ccc(N4CCN(CCCN3CCN(c1ccnc2cc(Cl)ccc12)CC3)CC4)c5ccc(Cl)cc56
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;293;303;
+KSV;5.79*10^4;3.61*10^4;3.2*10^4;
+kq;5.79*10^12;3.61*10^12;3.2*10^12;
+n;0.77;0.76;0.75;
+K;
+Ka;
+Kb;4667.351;2630.268;1737.801;
+ΔH;;-35.34;;
+ΔS;;-54.81;;
+ΔG;;-19.29;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.45*10^-13
+E;39.02
+R0;4.52
+r;4.86
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

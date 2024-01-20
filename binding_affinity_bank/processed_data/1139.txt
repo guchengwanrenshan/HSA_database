@@ -1,0 +1,69 @@
+Title:Investigation on the binding of cyanobacterial metabolite calothrixin A with human serum albumin for evaluating its potential toxicology
+DOI:10.1016/j.fct.2021.112396
+ligand name:Calothrixin A 
+ligand smiles:C1=CC=C2C(=C1)C3=C(N2)C(=O)C4=C(C3=O)C=[N+](C5=CC=CC=C54)[O-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (Subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;273.0;296.0;310.0
+KSV;
+kq;
+n;0.94;0.92;0.96
+K;
+Ka;9382.8;5715.5;4499.0
+Kb;2065.4;1313.7;1287.8
+ΔH;-14.08;-14.08;-14.08
+ΔS;24.45;24.45;24.45
+ΔG;-20.75;-21.32;-21.66
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

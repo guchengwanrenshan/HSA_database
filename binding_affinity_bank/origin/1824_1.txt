@@ -1,0 +1,95 @@
+Title:Binding of the B-Raf Inhibitors Dabrafenib and Vemurafenib to Human Serum Albumin: A Biophysical and Molecular Simulation Study
+DOI:10.1021/acs.molpharmaceut.2c00100
+ligand name:vemurafenib
+ligand smiles:CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;2.63*10^5;2.99*10^5;3.42*10^5;
+kq;4.70*10^13;5.34*10^13;6.11*10^13;
+n;0.968;1.02;1.03;
+K;
+Ka;1.72*10^5;1.85*10^13;2.03*10^13;
+Kb;
+ΔH;10.50;10.50;10.50
+ΔS;135.4;135.4;135.4;
+ΔG;-29.87;-30.67;-31.46;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;1.2;
+K;
+Ka;1.86*10^5;
+Kb;
+ΔH;21.42;
+ΔS;172.8;
+ΔG;-30.08;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.905*10^-15;
+E;0.156;
+R0;1.71;
+r;2.27;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:In vitro and in silico Determination of the Interaction of Artemisinin with Human Serum Albumin
+DOI:10.1134/s0026893320040056
+ligand name:Dexamethasone
+ligand smiles:C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;2.44*10^4;1.83*10^4;1.46*10^4;
+kq;2.44*10^12;1.83*10^12;1.46*10^12;
+n;1.004;0.996;1.059;
+K;
+Ka;
+Kb;3.80*10^4;1.70*10^4;0.71*10^4;
+ΔH;-61.7;-61.7;-61.7;
+ΔS;-126.4;-126.4;-126.4;
+ΔG;-25.2968;-24.0328;-22.7688;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;10.4*10^-15;
+E;0.32;
+R0;2.53;
+r;2.87;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

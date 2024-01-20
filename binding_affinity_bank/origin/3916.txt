@@ -1,0 +1,95 @@
+Title:Effect of hydroxypropyl-β-cyclodextrin on the bounding of salazosulfapyridine to human serum albumin
+DOI:10.1016/j.ijbiomac.2016.07.033
+ligand name:Salazosulfapyridine
+ligand smiles:C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;7.28*10^5;7.18*10^5;6.72*10^5;
+kq;
+n;1.16;1.12;1.09;
+K;
+Ka;
+Kb;2.207*10^6;1.838*10^6;1.512*10^6;
+ΔH;-48.69;-48.69;-48.69;
+ΔS;-40.24;-40.24;-40.24;
+ΔG;-36.19;-36.46;-36.67;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.8554*10^-15;
+E;0.45;
+R0;1.9231;
+r;1.9885;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

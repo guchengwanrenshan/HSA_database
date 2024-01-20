@@ -1,0 +1,93 @@
+Title:Study on the Mechanism of Interaction Between Tubeimoside I and Human Serum Albumin at Different Temperatures by Three-Dimensional Fluorescence Spectrum
+DOI:10.1007/s10765-014-1657-6
+ligand name:Tubeimoside A
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2OC(=O)C)OCCC3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OC(=O)/C=C/C5=CC(=C(C=C5)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;293;303;313;323;333;343;353;
+KSV;1.980*10^4;1.949*10^4;1.768*10^4;1.671*10^4;1.492*10^4;1.410*10^4;1.370*10^4;1.201*10^4;
+kq;1.980*10^12;1.949*10^12;1.768*10^12;1.671*10^12;1.492*10^12;1.410*10^12;1.370*10^12;1.201*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

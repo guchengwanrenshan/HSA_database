@@ -1,0 +1,69 @@
+Title:Spectroscopic cyclic voltammetry;and molecular docking study on the molecular interaction between synthesized blue emitting nitrogen-doped carbon dots and human serum albumin
+DOI:10.1002/nano.202100148
+ligand name:nitrogen-doped carbon dots
+ligand smiles:NC1C(C(O)=O)C2=C3C4=C5C6=C(C=C14)C(N)C(=O)C1=C6C4=C6C(=C1)C(N)=C(C(O)=O)C1=C6C6=C7C4=C5C4=C3C3=C(C2=O)C(C(O)=O)=C(N)C2=CC5=C8C9=C(C=C%10C(N)=C(C(O)=O)C(C1=O)=C6C%10=C9C7=C4C8=C32)C(=O)C5N
+key residue(hbond):Asn295;Glu188;Cys448 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;32500.0;26800.0;24500.0
+kq;
+n;1.32;1.26;1.25
+K;
+Ka;
+Kb;644000.0;353000.0;298000.0
+ΔH;-49.4;-49.4;-49.4
+ΔS;-55.1;-55.1;-55.1
+ΔG;-33.0;-32.6;-32.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

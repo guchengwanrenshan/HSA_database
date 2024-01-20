@@ -1,0 +1,69 @@
+Title:Probing the Molecular Interaction of Triazole Fungicides with Human Serum Albumin by Multispectroscopic Techniques and Molecular Modeling
+DOI:10.1021/jf401095n
+ligand name:triadimefon
+ligand smiles:CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;3920.0;2760.0;1940.0
+kq;392000000000.0;276000000000.0;194000000000.0
+n;1.033;1.0093;0.9932
+K;
+Ka;
+Kb;3990.0;2850.0;1770.0
+ΔH;-43.27;-43.27;-43.27
+ΔS;-77.13;-77.13;-77.13
+ΔG;-20.38;-20.01;-29.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

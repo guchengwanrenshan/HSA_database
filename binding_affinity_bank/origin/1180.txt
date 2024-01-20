@@ -1,0 +1,95 @@
+Title:Study on the molecular recognition action of lamivudine by human serum albumin
+DOI:10.1002/jmr.2705
+ligand name:Lamivudine
+ligand smiles:C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N  
+key residue(hbond):
+key residue(hydrophobic):LEU219;PHE223;VAL241;LEU238;LEU260;ALA261;ALA291;ILE264;ILE290;VAL293 d
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;
+kq;
+n;1.164;1.103;1.054;1.021;
+K;
+Ka;
+Kb;2.230*10^4;1.316*10^4;8.229*10^4;6.790*10^4;
+ΔH;-50;-50;-50;-50;
+ΔS;-88;-88;-88;-88;
+ΔG;-24;-24;-23;-23;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.167*10^14;
+E;0.051;
+R0;0.94;
+r;1.53;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

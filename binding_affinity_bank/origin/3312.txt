@@ -1,0 +1,95 @@
+Title:An insight to the binding of ellagic acid with human serum albumin using spectroscopic and isothermal calorimetry studies.
+DOI:10.1016/j.bbrep.2017.03.001
+ligand name:ellagic acid
+ligand smiles:C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O 
+key residue(hbond):Tyr150;Lys199;Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;14.9*10^4;
+kq;14.9*10^12;
+n;1.23;
+K;
+Ka;
+Kb;8.13*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;1.39;
+K;
+Ka;
+Kb;15.5*10^4;
+ΔH;-486.1808;
+ΔS;-1531.344;
+ΔG;-29.8319;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

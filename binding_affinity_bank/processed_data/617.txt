@@ -1,0 +1,69 @@
+Title:Spectroscopic technique-based comparative investigation on the interaction of theaflavins with native and glycated human serum albumin
+DOI:10.3390/molecules24173171
+ligand name:theaflavin
+ligand smiles:C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC4=C(C(=C(C=C4[C@@H]5[C@@H](CC6=C(C=C(C=C6O5)O)O)O)O)O)C(=O)C(=C3)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site II(subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;95680.0;116470.0;136310.0
+kq;9568000000000.0;11647000000000.0;13631000000000.0
+n;1.0218;1.1464;1.0554
+K;
+Ka;121910.0;684310.0;264910.0
+Kb;
+ΔH;123.0949;123.0949;123.0949
+ΔS;500.8975;500.8975;500.8975
+ΔG;-21.1639;-26.1728;-32.1836
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Investigations with spectroscopy, zeta potential and molecular modeling of the non-cooperative behaviour between cyclophosphamide hydrochloride and aspirin upon interaction with human serum albumin: binary and ternary systems from the view point of multi-drug therapy
+DOI:10.1080/07391102.2011.10507382
+ligand name:AYA
+ligand smiles:CC(=O)OC1=C(C(=O)O)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;280nm;280nm;280nm;295nm;
+pH;
+T;298.0;305.0;310.0;298.0
+KSV;125000000.0;56000000.0
+kq;1.25e+16;5600000000000000.0
+n;0.73;0.84
+K;
+Ka;999000000.0;125000000.0
+Kb;
+ΔH;-8.13;-8.13;-8.13
+ΔS;10.17;10.17;10.17
+ΔG;-11.15;-10.69;-10.03
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

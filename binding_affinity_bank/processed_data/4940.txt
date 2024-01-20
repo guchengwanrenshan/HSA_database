@@ -1,0 +1,69 @@
+Title:Insight into the binding of alpha-linolenic acid (ALA) on human serum albumin using spectroscopic and molecular dynamics (MD) studies
+DOI:10.1016/j.procbio.2022.09.022
+ligand name:alpha-linolenic acid
+ligand smiles:CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O
+key residue(hbond):Arg114;Leu115 d
+key residue(hydrophobic):ARG186;ARG117;PHE134;LEU135;PHE165;LEU182;MET123;VAL116 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;63110.0;39943.0;31060.0
+kq;6311000000000.0;3994300000000.0;3106000000000.0
+n;1.07;1.007;0.912
+K;
+Ka;
+Kb;161959.0;44863.0;10283.0
+ΔH;-175.745;-175.745;-175.745
+ΔS;-490.414;-490.414;-490.414
+ΔG;-29.7;-26.981;-23.792
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

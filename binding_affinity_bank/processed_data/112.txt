@@ -1,0 +1,69 @@
+Title:Interactions between tetrahydroisoindoline-1,3-dione derivatives and human serum albumin via multiple spectroscopy techniques
+DOI:10.1007/s11356-018-1955-9
+ligand name:tetrahydroisoindoline-1,3-dione derivative III-1g
+ligand smiles:C1C2=C(CCC1)C(=O)N(C2=O)C3=CC=C4C(=C3F)OC(=O)N4C(C(=O)OC)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;39600.0;35600.0;31400.0
+kq;8480000000000.0;7620000000000.0;6720000000000.0
+n;0.8837;0.8322;0.8396;0.8157
+K;
+Ka;27400.0;27200.0;24900.0;32800.0
+Kb;
+ΔH;-9.23;-9.23;-9.23
+ΔS;45.23;45.23;45.23
+ΔG;-22.71;-23.11;-23.52
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

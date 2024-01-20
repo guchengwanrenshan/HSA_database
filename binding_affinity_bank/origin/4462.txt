@@ -1,0 +1,95 @@
+Title:Investigation into the interaction of methylparaben and erythromycin with human serum albumin using multispectroscopic methods
+DOI:10.1002/bio.2979
+ligand name:methylparaben
+ligand smiles:COC(=O)C1=CC=C(C=C1)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;308;
+KSV;1.07*10^5;0.92*10^5;0.82*10^5;0.69*10^5;0.64*10^5;
+kq;1.07*10^13;0.92*10^13;0.82*10^13;0.69*10^13;0.64*10^13;
+n;0.97;0.99;1.05;1.13;1.24;
+K;
+Ka;
+Kb;0.73*10^5;0.99*10^5;1.05*10^5;1.13*10^5;1.24*10^5;
+ΔH;85;85;85;85;85;
+ΔS;386;386;386;386;386;
+ΔG;-26.3;-28.3;-30.2;-32.1;-34.0;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.1902*10^-14;
+E;0.2702;
+R0;3.2419;
+r;3.8708;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

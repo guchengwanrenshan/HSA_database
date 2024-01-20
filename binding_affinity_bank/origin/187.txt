@@ -1,0 +1,95 @@
+Title:Multi-spectroscopic and molecular docking studies for binding interaction between fluvoxamine and human serum albumin
+DOI:10.1016/j.saa.2021.119495
+ligand name: fluvoxamine
+ligand smiles: COCCCC/C(=N\OCCN)/C1=CC=C(C=C1)C(F)(F)F  
+key residue(hbond):
+key residue(hydrophobic):Asp451;Lys199;Leu481;Ser454 d
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;318;
+KSV;7.9*10^3;4.1*10^3;2.6*10^3;
+kq;7.9*10^11;4.1*10^11;2.6*10^11;
+n;0.9067;1.149;1.3319;
+K;2998;13234;82737
+Ka;
+Kb;
+ΔH;129.38;129.38;129.38;
+ΔS;0.50;0.50;0.50;
+ΔG;-19.62;-25.62;-29.62;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.2371
+R0;1.22
+r;1.48
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

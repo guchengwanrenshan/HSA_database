@@ -1,0 +1,101 @@
+Title:Mitigation of ribose and glyoxal induced glycation, AGEs formation and aggregation of human serum albumin by citrus fruit phytochemicals naringin and naringenin: An insight into their mechanism of action
+DOI:10.1016/j.foodres.2022.111358
+ligand name:Naringenin
+ligand smiles:C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIIA(preferable);subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;12000;10830;7780;
+kq;2.131*10^13;1.923*10^13;1.382*10^13;
+n;0.881;0.852;0.866;
+K;
+Ka;
+Kb;15700;13200;8860;
+ΔH;20.023;20.023;20.023;
+ΔS;30.516;30.516;30.516;
+ΔG;-28.873;-29.178;-29.483;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.179*10^-15;
+E;0.294;
+R0;2.516;
+r;2.910;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+#subdomain IIIA
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+LEU453;;;19.85;
+ASN391;;;18.37;
+VAL433;;;12.85;
+TYR411;;;12.4;
+LEU407;;;7.58;
+LEU430;;;7.34;
+ILE388;;;7.25;
+LEU387;;;5.54;
+ARG485;;;5.49;
+ARG410;;;5.48;

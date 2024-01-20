@@ -1,0 +1,95 @@
+Title:Study on interaction between phlorizin and human serum albumin by spectroscopic method
+DOI:10.3969/j.issn.1004-4957.2013.02.017
+ligand name:phlorizin
+ligand smiles:C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;313;
+KSV;13.357*10^4;8.6609*10^4;7.2830*10^4;
+kq;13.357*10^12;8.6609*10^12;7.2830*10^12;
+n;1.0965;1.0636;1.0451;
+K;
+Ka;9.6123*10^4;8.1974*10^4;6.4049*10^4;
+Kb;31.635*10^4;17.748*10^4;11.935*10^4;
+ΔH;-37.22;-37.22;-37.22;
+ΔS;-21.95;-21.95;-21.95;
+ΔG;-30.79;-30.57;-30.35;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.54*10^-15;
+E;0.04;
+R0;2.34;
+r;3.97;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

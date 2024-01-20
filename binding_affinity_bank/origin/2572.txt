@@ -1,0 +1,95 @@
+Title:Unusual Binding of a Potential Biomarker with Human Serum Albumin
+DOI:10.1002/asia.201201060
+ligand name:BP(OH)2
+ligand smiles:C1=CC(=C(N=C1)C2=C(C=CC=N2)O)O 
+key residue(hbond):Arg348;Arg-485 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow′s sites I;Sudlow′s sites II 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;3.8*10^4;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-25.9826;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Binding mechanism of Orange G to human serum albumin: Saturation transfer difference-NMR, spectroscopic and computational techniques
+DOI:10.1016/j.dyepig.2013.01.023
+ligand name:Orange G
+ligand smiles:C1=CC=C(C=C1)N=NC2=C(C=CC3=CC(=CC(=C32)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;304;310;
+KSV;
+kq;
+n;1.04;1.02;0.98;0.99;
+K;
+Ka;1.02*10^5;1.08*10^5;1.17*10^5;1.24*10^5;
+Kb;1.03*10^5;1.08*10^5;1.18*10^5;1.24*10^5;
+ΔH;8.50;8.50;8.50;8.50;
+ΔS;124.98;124.98;124.98;124.98;
+ΔG;-28.11;-28.74;-29.49;-30.24;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.296848*10^-14;
+E;0.30;
+R0;2.56;
+r;2.94;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

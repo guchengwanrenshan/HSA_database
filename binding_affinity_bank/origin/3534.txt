@@ -1,0 +1,95 @@
+Title:Study of interaction between syringin and human serum albumin by multi-spectroscopic method and atomic force microscopy
+DOI:10.1016/j.molstruc.2010.08.042
+ligand name:syringin
+ligand smiles:COC1=CC(=CC(=C1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO  
+key residue(hbond):Ala291;Arg222;Lys199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;310;320
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;3.53*10^4;3.29*10^4;2.97*10^4;
+ΔH;5.23;5.23;5.23;
+ΔS;103.34;103.34;103.34;
+ΔG;-27.84;-26.81;-25.26;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.61*10^-15;
+E;0.0942;
+R0;2.16;
+r;3.15;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

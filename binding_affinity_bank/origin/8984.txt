@@ -1,0 +1,90 @@
+Title:Studies on the interaction between scopoletin and two serum albumins by spectroscopic methods
+DOI:10.1016/j.jlumin.2012.05.032
+ligand name:scopoletin
+ligand smiles:COC1=C(C=C2C(=C1)C=CC(=O)O2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;304;310;
+KSV;2.296*10^5;2.130*10^5;1.828*10^5;1.526*10^5;
+kq;2.296*10^13;2.130*10^13;1.828*10^13;1.526*10^13;
+n;1.02;1.02;1.02;1.02
+K;
+Ka;
+Kb;2.84*10^5;2.59*10^5;2.22*10^5;1.83*10^5;
+ΔH;-19.61;-19.61;-19.61;-19.61;
+ΔS;37.67;37.67;37.67;37.67;
+ΔG;-30.642;-30.831;-31.057;-31.283;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.06*10^-14;
+E;0.6206;
+R0;2.54;
+r;2.34;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Studies on interaction between pentafluoropropionic acid and human serum albumin by spectroscopy and computational simulation
+DOI:10.3969/j.issn.1004-4957.2015.07.004
+ligand name:IPC-PFFA-3
+ligand smiles:O=C(O)C(F)(F)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;298.0;310.0
+KSV;747000.0;691000.0;416000.0
+kq;74700000000000.0;69100000000000.0;41600000000000.0
+n;1.1057;1.0174;0.9768
+K;
+Ka;3890000.0;891000.0;309000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

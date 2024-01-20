@@ -1,0 +1,69 @@
+Title:Comprehensive Insights into the Interactions of Two Emerging Bromophenolic DBPs with Human Serum Albumin by Multispectroscopy and Molecular Docking
+DOI:10.1021/acsomega.8b03116
+ligand name:2,4-DiBrPh
+ligand smiles:OC1=C(Br)C=C(Br)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;35400.0;25200.0;19400.0
+kq;3540000000000.0;2520000000000.0;1940000000000.0
+n;1.0;1.0;0.99
+K;
+Ka;
+Kb;37200.0;25700.0;18300.0
+ΔH;-26.58;-26.58;-26.58
+ΔS;-4.21;-4.21;-4.21
+ΔG;-25.36;-25.32;-25.27
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

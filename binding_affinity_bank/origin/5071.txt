@@ -1,0 +1,95 @@
+Title:Chiral Recognition of Metalaxyl Enantiomers by Human Serum Albumin: Evidence from Molecular Modeling and Photophysical Approach
+DOI:10.1002/chir.22024
+ligand name:(R)-metalaxyl
+ligand smiles:CC1=C(C(=CC=C1)C)N([C@H](C)C(=O)OC)C(=O)COC
+key residue(hbond):Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomains IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;6.93*10^3;
+kq;1.129*10^12;
+n;
+K;
+Ka;
+Kb;2.415*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

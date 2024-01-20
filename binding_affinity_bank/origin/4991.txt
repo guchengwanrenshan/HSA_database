@@ -1,0 +1,95 @@
+Title:Interaction between congo red and human serum albumin by fluorescence quenching method
+DOI:None
+ligand name:congo red
+ligand smiles:C1=CC=C2C(=C1)C(=CC(=C2N)N=NC3=CC=C(C=C3)C4=CC=C(C=C4)N=NC5=C(C6=CC=CC=C6C(=C5)S(=O)(=O)[O-])N)S(=O)(=O)[O-].[Na+].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;300;303;311;
+KSV;4.583*10^5;3.339*10^5;3.082*10^5;2.838*10^5;
+kq;4.583*10^13;3.339*10^13;3.082*10^13;2.838*10^13;
+n;1.2076;1.1938;1.1879;1.1399;
+K;
+Ka;4.460*10^5;3.528*10^5;2.882*10^5;2.257*10^5;
+Kb;
+ΔH;-29.27;-29.27;-29.27;-29.27;
+ΔS;8.26;8.63;7.92;8.36;
+ΔG;-31.69;-31.86;-31.67;-31.87;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.40*10^-14;
+E;0.4137;
+R0;3.01;
+r;3.19;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

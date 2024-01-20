@@ -1,0 +1,69 @@
+Title:Interactions of cucurbit[6,7]urils with human serum albumin and their effects on zaltoprofen transportation
+DOI:10.1039/c6ra17508b
+ligand name:ZPF
+ligand smiles:CC(C(O)=O)C1=CC2=C(SC3=C(C=CC=C3)C(=O)C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;298.0;310.0
+KSV;20600.0;19500.0;17300.0
+kq;
+n;
+K;
+Ka;644000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;-33.14
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

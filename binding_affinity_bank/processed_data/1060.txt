@@ -1,0 +1,69 @@
+Title:Novel piperonal 1,3,4-thiadiazolium-2-phenylamines mesoionic derivatives: Synthesis, tyrosinase inhibition evaluation and HSA binding study
+DOI:10.1016/j.ijbiomac.2018.02.050
+ligand name:PMI-5
+ligand smiles:ClC1=CC=C(NC2=N[N+](=C(S2)C2=CC=C3OCOC3=C2)C2=CC=CC=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;61400.0;54900.0;43500.0
+kq;6140000000000.0;5490000000000.0;4350000000000.0
+n;
+K;
+Ka;78000.0;74900.0;71300.0
+Kb;
+ΔH;-4.93;-4.93;-4.93
+ΔS;77.0;77.0;77.0
+ΔG;-27.7;-28.3;-28.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

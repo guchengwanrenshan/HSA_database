@@ -1,0 +1,69 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Trimethacarb
+ligand smiles:CC1=CC(=CC(=C1C)C)OC(=O)NC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;30430.0;42040.0;47780.0
+kq;3043000000000.0;4204000000000.0;4778000000000.0
+n;0.694;0.696;0.713
+K;
+Ka;
+Kb;954.6;1268.0;1782.0
+ΔH;33.988;33.988;33.988
+ΔS;171.775;171.775;171.775
+ΔG;-16.857;-18.059;-19.262
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

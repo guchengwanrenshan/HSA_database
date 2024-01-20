@@ -1,0 +1,69 @@
+Title:Interactions between Antimalarial Indolone-N-oxide Derivatives and Human Serum Albumin
+DOI:10.1021/bm100814n
+ligand name:INOD-3
+ligand smiles:COC1=CC2=C(C=C1)[N+]([O-])=C(C2=O)C1=CC=C(C=C1)N(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;54180.0;46210.0;39044.0
+kq;8465630000000.0;7220310000000.0;6100630000000.0
+n;
+K;
+Ka;
+Kb;23900.0;25000.0;30900.0
+ΔH;11.0;11.0;11.0
+ΔS;121.34;121.34;121.34
+ΔG;-23.94;-25.16;-26.61
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

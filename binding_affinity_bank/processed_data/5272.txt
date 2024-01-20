@@ -1,0 +1,69 @@
+Title:Study on the interaction between amfebutamone and human serum albumin by fluorescence spectrum
+DOI:10.13748/j.cnki.issn1007-7693.2015.09.008
+ligand name:amfebutamone
+ligand smiles:CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;310.0
+KSV;96905.0;81901.0
+kq;9690500000000.0;8190100000000.0
+n;1.1317;0.9189
+K;
+Ka;65000.0;116000.0
+Kb;5714.8;3126.1
+ΔH;-22.567;-22.567
+ΔS;-5.7674;-5.8543
+ΔG;-20.8936;-20.7513
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:β-Carotene and astaxanthin with human and bovine serum albumins
+DOI:10.1016/j.foodchem.2015.01.133
+ligand name:β-Carotene
+ligand smiles:CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)CCCC2(C)C)C(C)(C)CCC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;310;
+KSV;4.313*10^5;4.167*10^5;4.094*10^5;4.023*10^5;
+kq;4.313*10^13;4.167*10^13;4.094*10^13;4.023*10^13;
+n;
+K;
+Ka;
+Kb;2.815*10^5;2.781*10^5;2.743*10^5;2.717*10^5;
+ΔH;-1.630;-1.630;-1.630;-1.630;
+ΔS;98.75;98.75;98.75;98.75;
+ΔG;-30.56;-31.06;-31.55;-32.24;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

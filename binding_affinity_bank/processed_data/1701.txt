@@ -1,0 +1,69 @@
+Title:Spectroscopic and computational investigation of the interaction between the new anticancer agent enasidenib and human serum albumin
+DOI:10.1016/j.saa.2021.120790
+ligand name:enasidenib
+ligand smiles:CC(C)(CNC1=NC(=NC(=N1)C2=NC(=CC=C2)C(F)(F)F)NC3=CC(=NC=C3)C(F)(F)F)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(sub-domain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;98500.0;97100.0;95900.0
+kq;36500000000000.0;36000000000000.0;35600000000000.0
+n;1.04;1.03;1.03
+K;97600.0;96600.0;95300.0
+Ka;
+Kb;
+ΔH;-1.52;-1.52;-1.52
+ΔS;90.37;90.37;90.37
+ΔG;-28.48;-28.92;-29.55
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

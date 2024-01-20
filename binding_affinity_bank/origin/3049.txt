@@ -1,0 +1,95 @@
+Title:Determining the binding affinity and binding site of bensulfuron-methyl to human serum albumin by quenching of the intrinsic tryptophan fluorescence
+DOI:10.1016/j.jlumin.2010.05.019
+ligand name:BM
+ligand smiles:COC(=O)C1=CC=CC=C1CS(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;297;303;309;
+KSV;1.187*10^4;1.016*10^4;0.902*10^4;0.805*10^4;
+kq;1.187*10^12;1.016*10^12;0.902*10^12;0.805*10^12;
+n;1.04;1.04;1.03;1.03;
+K;
+Ka;
+Kb;1.663*10^4;1.486*10^4;1.104*10^4;1.062*10^4;
+ΔH;-20.50;-20.50;-20.50;-20.50;
+ΔS;10.40;10.40;10.40;10.40;
+ΔG;-23.51;-23.72;-23.45;-23.82;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

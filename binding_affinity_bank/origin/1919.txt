@@ -1,0 +1,95 @@
+Title:Interaction of haloperidol with human serum albumin and effect of metal ions on the binding
+DOI:10.1007/s00706-018-2310-z
+ligand name:haloperidol
+ligand smiles:C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;2.05*10^3;3.50*10^3;3.61*10^3;
+kq;2.05*10^11;3.50*10^11;3.61*10^11;
+n;1.12;1.02;0.93;
+K;7.94*10^3;4.07*10^3;1.95*10^3;
+Ka;
+Kb;
+ΔH;-89.56;-89.56;-89.56;
+ΔS;225.94;225.94;225.94;
+ΔG;-15.69;-15.81;-15.96;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.76*10^5;
+E;0.149;
+R0;3.55;
+r;5.31;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

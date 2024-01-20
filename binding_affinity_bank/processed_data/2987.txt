@@ -1,0 +1,69 @@
+Title:An investigation into the altered binding mode of green tea polyphenols with human serum albumin on complexation with copper
+DOI:10.1080/07391102.2012.729158
+ligand name:ECG
+ligand smiles:C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;308.0;313.0
+KSV;14100.0;13600.0;12600.0;12300.0
+kq;2820000000000.0;2720000000000.0;2520000000000.0;2460000000000.0
+n;0.5;0.45;0.59;0.91
+K;
+Ka;65600.0;48100.0;40100.0;32500.0
+Kb;58600.0;40500.0;35100.0;27900.0
+ΔH;-21.7;-21.7;-21.7;-21.7
+ΔS;17.34;17.34;17.34;17.34
+ΔG;-26.78;-26.95;-27.04;-27.13
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Comparing the Interaction of Cyclophosphamide Monohydrate to Human Serum Albumin as Opposed to Holo-Transferrin by Spectroscopic and Molecular Modeling Methods: Evidence for Allocating the Binding Sitemolecular docking study
+DOI:10.2174/0929866511009011524
+ligand name:Cyclophosphamide
+ligand smiles:C1CNP(=O)(OC1)N(CCCl)CCCl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;863000000.0
+kq;
+n;0.7
+K;
+Ka;
+Kb;844000000.0
+ΔH;
+ΔS;
+ΔG;-50.9232
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

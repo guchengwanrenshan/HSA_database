@@ -1,0 +1,94 @@
+Title:Spectroscopic and Molecular Modeling Studies on the Interaction Between a Fluorine-Containing Triazole Derivative and Human Serum Albumin
+DOI:10.1007/s12011-010-8835-6
+ligand name:FBTZ
+ligand smiles:CCCC1=NN=C(S)N1\N=C\C1=CC=C(F)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;295;295;295;
+pH;
+T;298;304;310;
+KSV;9.017*10^5;7.613*10^5;6.505*10^5;
+kq;
+n;
+K;
+Ka;
+Kb;1.394*10^6;1.092*10^6;0.787*10^6;
+ΔH;-36.55;-36.55;-36.55;
+ΔS;-4.90;-4.90;-4.90;
+ΔG;-35.09;-35.06;-35.03;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;3.116*10^-14;
+E;0.56;
+R0;5.9;
+r;6.0;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

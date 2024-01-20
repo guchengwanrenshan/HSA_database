@@ -1,0 +1,69 @@
+Title:Interaction of cromolyn sodium with human serum albumin: A fluorescence quenching study
+DOI:10.1016/j.bmc.2005.07.039
+ligand name:cromolyn sodium
+ligand smiles:O=C([O-])C1=CC(=O)C2=C(OCC(O)COC3=C4C(=O)C=C(C(=O)[O-])OC4=CC=C3)C=CC=C2O1.[Na+].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;20340.0;19380.0;18210.0
+kq;
+n;
+K;
+Ka;
+Kb;11900.0;11540.0;11190.0
+ΔH;-3.932;-3.932;-3.932
+ΔS;64.818;64.818;64.818
+ΔG;-23.249;-23.638;-24.027
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

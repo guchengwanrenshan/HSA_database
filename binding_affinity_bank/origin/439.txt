@@ -1,0 +1,95 @@
+Title:A Comprehensive Investigation of Interactions between Antipsychotic Drug Quetiapine and Human Serum Albumin Using Multi-Spectroscopic, Biochemical, and Molecular Modeling Approaches
+DOI:10.3390/molecules27082589
+ligand name:Quetiapine
+ligand smiles:C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;305;310;
+KSV;0.7*10^4;0.5*10^4;0.3*10^4;
+kq;0.7*10^12;0.5*10^12;0.3*10^12;
+n;1.28;1.31;1.35;
+K;
+Ka;
+Kb;1.326*10^4;1.236*10^4;1.200*10^4;
+ΔH;5.087;5.087;5.087;
+ΔS;81;81;81;
+ΔG;-18.8;-19.61;-20.11;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;295
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

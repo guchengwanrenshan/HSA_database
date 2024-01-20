@@ -1,0 +1,69 @@
+Title:Study on the interaction of antiviral drug 'Tenofovir' with human serum albumin by spectral and molecular modeling methods
+DOI:10.1016/j.saa.2014.10.070
+ligand name:Tenofovir
+ligand smiles:C[C@H](CN1C=NC2=C(N=CN=C21)N)OCP(=O)(O)O
+key residue(hbond):
+key residue(hydrophobic):Trp214;Ala215;Leu219;Leu238;Ile290;Ala291;Val293 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;2780.0;2830.0;3090.0
+kq;278000000000.0;283000000000.0;309000000000.0
+n;0.842;1.143;1.305
+K;
+Ka;
+Kb;656.0;10300.0;57000.0
+ΔH;149.85;149.85;149.85
+ΔS;576.0;576.0;576.0
+ΔG;-16.07;-21.83;-28.75
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Interaction between aspirin and vitamin C with human serum albumin as binary and ternary systems
+DOI:10.1016/j.saa.2020.118356
+ligand name:Aspirin
+ligand smiles:CC(=O)OC1=CC=CC=C1C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;301.0;304.0
+KSV;26000.0;18400.0;15400.0
+kq;
+n;0.9458;0.9696;0.9908
+K;
+Ka;
+Kb;15300.0;13700.0;11600.0
+ΔH;-35.13;-35.13;-35.13
+ΔS;-37.63;-37.63;-37.63
+ΔG;-23.89;-23.85;-23.65
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

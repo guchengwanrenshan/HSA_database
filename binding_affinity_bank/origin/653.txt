@@ -1,0 +1,95 @@
+Title:Probing the binding of two 19-nortestosterone derivatives to human serum albumin: insights into the interactions of steroid hormone drugs with functional biomacromolecule
+DOI:10.1002/jmr.2540
+ligand name:Norethindrone acetate
+ligand smiles:CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C#C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;315;
+KSV;6.859*10^3;6.284*10^3;6.046*10^3;
+kq;1.203*10^12;1.102*10^12;1.061*10^12;
+n;1.006;0.973;0.938;
+K;7.521*10^3;4.616*10^3;3.420*10^3;
+Ka;
+Kb;
+ΔH;-35.22;-35.22;-35.22;
+ΔS;-43.86;-43.86;-43.86;
+ΔG;-22.11;-21.33;-20.97;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

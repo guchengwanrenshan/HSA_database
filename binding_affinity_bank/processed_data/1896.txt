@@ -1,0 +1,69 @@
+Title:A comparative study of binding properties of different coumarin-based compounds with human serum albumin
+DOI:10.1016/j.molstruc.2018.05.060
+ligand name:FM
+ligand smiles:CC1=CC2=C(OC(=O)C(=C2)C2=CC=CO2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0
+KSV;62390.0;58600.0;51870.0
+kq;6239000000000.0;5860000000000.0;5187000000000.0
+n;1.18;0.94;0.87
+K;128900.0;12350.0;11060.0
+Ka;
+Kb;
+ΔH;7.936;7.936;7.936
+ΔS;70.46;70.46;70.46
+ΔG;-12.42;-12.92;-13.41
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

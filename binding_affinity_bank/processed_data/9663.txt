@@ -1,0 +1,69 @@
+Title:Protein Binding Study of Perillyl Alcohol Enantiomers by High Performance Frontal Analysis
+DOI:10.1081/jlc-120025049
+ligand name:S‐POH
+ligand smiles:C=C(C)[C@@H]1CC=C(CO)CC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;5200000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

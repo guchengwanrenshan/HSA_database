@@ -1,0 +1,69 @@
+Title:Elucidation of the interaction of human serum albumin with anti-cancer sipholane triterpenoid from the Red Sea sponge
+DOI:10.1002/bio.3172
+ligand name:sipholenone A
+ligand smiles:CC1=CCC2C(CC[C@@]2(C)O)C(C1CC[C@@H]3[C@]4(CCC(=O)C(O[C@@H]4CC[C@]3(C)O)(C)C)C)(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;318.0
+KSV;18300.0;15100.0;12900.0
+kq;3210000000000.0;2640000000000.0;2260000000000.0
+n;0.88;0.89;0.88
+K;
+Ka;
+Kb;5340.0;4920.0;3760.0
+ΔH;-13.82;-13.82;-13.82
+ΔS;35.2;35.2;35.2
+ΔG;-24.31;-24.66;-25.01
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Investigation of the binding and simultaneous quantifications of propanil and bromoxynil herbicide concentrations in human serum albumin
+DOI:10.1080/03601234.2017.1303323
+ligand name:Bromoxynil
+ligand smiles:C1=C(C=C(C(=C1Br)O)Br)C#N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0
+KSV;
+kq;
+n;1.0
+K;
+Ka;
+Kb;488000000.0
+ΔH;-214.3
+ΔS;-563.0
+ΔG;-39.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

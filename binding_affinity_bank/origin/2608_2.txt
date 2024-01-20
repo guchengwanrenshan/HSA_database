@@ -1,0 +1,104 @@
+Title:Stereo-selectivity of human serum albumin to enantiomeric and isoelectronic pollutants dissected by spectroscopy, calorimetry and bioinformatics
+DOI:10.1371/journal.pone.0026186
+ligand name:8-quinolinol
+ligand smiles:C1=CC2=C(C(=C1)O)N=CC=C2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I;site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;318;
+n;1.102;1.047;1.010;
+KSV;1.16*10^4;0.85*10^4;0.70*10^4;
+K;
+Ka;
+Kb;2.68*10^4;1.75*10^4;1.32*10^4;
+kq;2.69*10^12;1.98*10^12;1.64*10^12;
+ΔH;-27.8236;-27.8236;-27.8236;
+ΔS;-8.61904;-8.61904;-8.61904;
+ΔG;-25.22952;-25.14584;-25.06216;
+Kd;
+
+
+#ITC#
+parameter;site I;site I;site I;site I;site II;site II;site II;site II;
+pH;
+T;288;298;310;318;288;298;310;318;
+n;
+K;
+Ka;
+Kb;2.95*10^4;2.91*10^4;0.907*10^4;2.33*10^4;2.17*10^3;1.95*10^3;0.545*10^3;0.308*10^3;
+ΔH;1.58992;2.38488;12.7612;18.49328;35.43848;-42.00736;-55.77272;-60.83536;
+ΔS;90.94388889;93.36778523;116.8820645;122.4938365;-59.27333333;-78.06389262;-127.5445161;-143.6769811;
+ΔG;-24.60192;-25.43872;-23.47224;-20.45976;-18.36776;-18.74432;-16.23392;-15.14608;
+Cp;599.1488;599.1488;599.1488;599.1488;-887.8448;-887.8448;-887.8448;-887.8448;
+Kd; 
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;19.03*10^-14;
+E;0.100669;
+R0;4.00;
+r;5.37;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+#site I#
+A291;;;18.18;
+L219;;;10.76;
+L234;;;4.38;
+L238;;;29.78;
+L260;;;9.56;
+A261;;;6.44;
+I264;;;5.83;
+I290;;;21.7;
+#site II#
+Y411;;;16.14;
+R485;;;16.72;
+F488;;;41.52;
+
+

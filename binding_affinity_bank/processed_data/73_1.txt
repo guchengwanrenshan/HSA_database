@@ -1,0 +1,69 @@
+Title:Investigation of the Interaction Between Human Serum Albumin and Two Drugs as Binary and Ternary Systems
+DOI:10.1007/s13318-015-0297-y
+ligand name:Amlodipine
+ligand smiles: CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN  
+key residue(hbond):
+key residue(hydrophobic):
+binding free energy:
+PDB ID:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0;318.0
+KSV;20700000.0;18800000.0;16300000.0
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;-21.34;-21.34;-21.34
+ΔS;221.04;221.04;221.04
+ΔG;-41.74;-42.89;-43.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.98
+K;23300000.0
+Ka;
+Kb;
+ΔH;-21.11
+ΔS;68.02
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

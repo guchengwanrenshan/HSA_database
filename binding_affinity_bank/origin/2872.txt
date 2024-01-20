@@ -1,0 +1,95 @@
+Title:Steady State and Time-resolved Fluorescence Investigation of the Specific Binding of Two Chlorin Derivatives with Human Serum Albumin
+DOI:10.1021/jp072544u
+ligand name:Chlorin p6
+ligand smiles:CCC1=C(C2=CC3=C(C(=C(N3)C=C4[C@H]([C@@H](C(=N4)C(=C5C(=C(C(=N5)C=C1N2)C)C(=O)O)C(=O)O)CCC(=O)O)C)C)C=C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.3*10^5;
+kq;
+n;1.4;
+K;
+Ka;
+Kb;2.1*10^7;
+ΔH;
+ΔS;
+ΔG;-41.8;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.9149;
+R0;3.12;
+r;2.1;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

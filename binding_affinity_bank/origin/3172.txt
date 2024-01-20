@@ -1,0 +1,95 @@
+Title:Chloramphenicol binding to human serum albumin: Determination of binding constants and binding sites by steady-state fluorescence
+DOI:10.1016/j.molstruc.2009.04.018
+ligand name:chloramphenicol
+ligand smiles:C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;287;295;303;311;
+KSV;2.929*10^4;2.832*10^4;2.769*10^4;2.709*10^4;
+kq;2.929*10^4;2.832*10^4;2.769*10^4;2.709*10^4;
+n;
+K;
+Ka;
+Kb;2.852*10^4;2.765*10^4;2.638*10^4;2.542*10^4;
+ΔH;-3.634;-3.634;-3.634;-3.634;
+ΔS;72.66;72.66;72.66;72.66;
+ΔG;-24.48;-25.08;-25.65;-26.23;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.383*10^-14;
+E;0.1168;
+R0;2.59;
+r;3.63;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

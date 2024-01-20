@@ -1,0 +1,69 @@
+Title:Exploring the binding mechanism of dihydropyrimidinones to human serum albumin: Spectroscopic and molecular modeling techniques
+DOI:10.1016/j.colsurfb.2011.01.016
+ligand name:EMPD
+ligand smiles:CCOC(=O)C1=C(C)NC(=O)NC1C1=CC=CC=C1
+key residue(hbond):Lys195;Arg222;Arg218;Ala29 d
+key residue(hydrophobic):Leu238;Leu219;Phe211;Ala215;Ala291;Val241;Ile290;Trp214 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;298.0;310.0
+KSV;26800.0;24500.0;21500.0
+kq;2680000000000.0;2450000000000.0;2150000000000.0
+n;
+K;
+Ka;
+Kb;145000.0;116000.0;87000.0
+ΔH;-19.61;-19.61;-19.61
+ΔS;31.4;31.4;31.4
+ΔG;-28.75;-28.97;-29.35
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

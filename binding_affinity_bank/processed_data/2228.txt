@@ -1,0 +1,69 @@
+Title:Spectroscopy features of the binding of polyene antibiotics to human serum albumin
+DOI:10.1016/s0009-2797(98)00075-1
+ligand name:nystatin
+ligand smiles:C[C@@H]1OC(=O)CC(O)CC(O)CC(O)CC[C@@H](O)C(O)C[C@]2(O)C[C@H](O)C(C(=O)O)[C@H](CC(O[C@@H]3O[C@H](C)[C@@H](O)[C@H](N)[C@@H]3O)/C=C/C=C/C=C/C=C/CC/C=C/C=C/[C@H](C)[C@@H](O)[C@H]1C)O2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;323.0
+KSV;
+kq;
+n;1.5;3.2
+K;
+Ka;
+Kb;110000.0;23000.0
+ΔH;
+ΔS;
+ΔG;-28.2777;-26.9704
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

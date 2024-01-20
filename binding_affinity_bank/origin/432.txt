@@ -1,0 +1,95 @@
+Title:Interactions between Human Serum Albumin and Sulfadimethoxine Determined Using Spectroscopy and Molecular Docking
+DOI:10.3390/molecules27051526
+ligand name:Sulfadimethoxine
+ligand smiles:COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;
+kq;
+n;0.9654;0.9167;0.8924;
+K;
+Ka;2.31*10^4;1.25*10^4;0.83*10^4;
+Kb;
+ΔH;-52.33;-52.33;-52.33;
+ΔS;-90.91;-90.91;-90.91;
+ΔG;-24.89;-24.16;-23.47;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,92 @@
+Title:Study on the interaction and structure-activity relationship between three chalcones and human serum albumin
+DOI:None
+ligand name:4'-chlorochalcone
+ligand smiles:C1=CC=C(C=C1)C(=O)/C=C/C2=CC=C(C=C2)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;7.4;
+T;298;303;308;
+KSV;1.54*10^5;1.19*10^5;0.615*10^5;
+kq;1.54*10^13;1.19*10^13;0.615*10^13;
+n;1.03;1.03;1.02;
+K;
+Ka;
+Kb;1.66*10^4;0.858*10^4;0.277*10^4;
+ΔH;-98.8;-98.8;-98.8;
+ΔS;-251;-251;-251;
+ΔG;-24.1;-22.8;-20.3;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;7.4;
+T;
+n;
+K;
+Ka;
+Kb;0.850*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;2.46*10^-14;
+E;0.0331;
+R0;2.85;
+r;4.25;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

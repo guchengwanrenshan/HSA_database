@@ -1,0 +1,69 @@
+Title:Protein stability, conformational change and binding mechanism of human serum albumin upon binding of embelin and its role in disease control
+DOI:10.1016/j.jphotobiol.2016.04.012
+ligand name:embelin
+ligand smiles:CCCCCCCCCCCC1=C(C(=O)C=C(C1=O)O)O
+key residue(hbond):Leu115;Arg114;Arg186 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;224000.0
+kq;40000000000000.0
+n;0.6
+K;
+Ka;
+Kb;59000.0;15000.0
+ΔH;
+ΔS;
+ΔG;-21.3884;-20.92
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

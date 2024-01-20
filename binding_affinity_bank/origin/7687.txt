@@ -1,0 +1,90 @@
+Title:Potential charge transfer probe induced conformational changes of model plasma protein human serum albumin: Spectroscopic;molecular docking;and molecular dynamics simulation study
+DOI:10.1002/bip.22057
+ligand name:DMAPPDN
+ligand smiles:CN(C)C1=CC=C(\C=C\C=C\C#N)C=C1
+key residue(hbond):Glu196 d
+key residue(hydrophobic):Leu238;Leu260;Ile290;Ala291;Tyr150;Arg222;Arg257 d
+PDB ID:
+Binding Area:subdomian IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;0.745*10^4;
+ΔH;
+ΔS;
+ΔG;-21.966;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;295nm;
+pH;
+T;
+J;3.531*10^-14;
+E;0.568;
+R0;2.83;
+r;2.70;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,90 @@
+Title:Study on the synergistic effects between sulfamethoxazole and levofloxacin by spectroscopic and molecular modeling techniques
+DOI:10.13526/j.issn.1006-6144.2017.03.005
+ligand name:sulfamethoxazole
+ligand smiles:CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N
+key residue(hbond):Ser202 d
+key residue(hydrophobic):Leu198;Phe206;Phe211;Trp214;Leu481 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;1.89*10^4;1.67*10^4;1.49*10^4;
+kq;
+n;1.03;1.06;1.05;
+K;
+Ka;
+Kb;2.68*10^4;2.25*10^4;1.90*10^4;
+ΔH;-21.88;-21.88;-21.88;
+ΔS;11.37;11.37;11.37;
+ΔG;-25.26;-25.33;-25.40;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

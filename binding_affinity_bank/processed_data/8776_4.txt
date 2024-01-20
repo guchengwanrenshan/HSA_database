@@ -1,0 +1,69 @@
+Title:Study on the mechanism of the interaction of pyrazolo [3, 4-b]pyridine derivatives and human serum albumin by spectroscopy and molecular modeling
+DOI:None
+ligand name:e
+ligand smiles:CC1=CC=CC(C2=C(C#N)C(N)=NC3=C2C(C)=NN3C2=CC=CC=C2)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;310.0;318.0
+KSV;11400.0;6960.0;3100.0
+kq;1140000000000.0;696000000000.0;310000000000.0
+n;0.73;0.648;0.67
+K;
+Ka;
+Kb;644.0;211.0;200.0
+ΔH;-27.6;-27.6;-27.6
+ΔS;-4.27;-4.27;-4.27
+ΔG;-15.6;-13.8;-14.0
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

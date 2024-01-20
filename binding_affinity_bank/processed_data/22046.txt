@@ -1,0 +1,69 @@
+Title:Elucidating the binding interaction of andrographolide with the plasma proteins: biophysical and computational approach
+DOI:10.1039/c6ra25671f
+ligand name:andrographolide
+ligand smiles:C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2C/C=C/3\[C@@H](COC3=O)O)(C)CO)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;527000.0;500000.0
+kq;52700000000000.0;50000000000000.0
+n;
+K;
+Ka;
+Kb;18500.0;12200.0
+ΔH;
+ΔS;
+ΔG;-21.3384;-23.012
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;1500.0;1390.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

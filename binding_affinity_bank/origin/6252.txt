@@ -1,0 +1,94 @@
+Title:Study of Interaction between Hypochlorousfluorescent Probe and Human Serum Albumin
+DOI:None
+ligand name:ZZY-19
+ligand smiles:OC1=CC=C(OC2=CC=C3C(=O)N(CCN4CCOCC4)C(=O)C4=CC=CC2=C34)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;308;
+KSV;1.586*10^5;1.1072*10^5;1.1079*10^5;
+kq;1.586*10^13;1.1072*10^13;1.1079*10^13;
+n;1.0433;1.1203;1.1792;
+K;
+Ka;
+Kb;2.41*10^5;4.37*10^5;7.77*10^5;
+ΔH;56.66;56.66;56.66;
+ΔS;298.11;298.11;298.11;
+ΔG;-30.39;-31.88;-34.85;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+T;298;
+J;2.128*10^-15;
+E;0.1720;
+R0;1.97;
+r;2.56;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

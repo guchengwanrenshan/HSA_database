@@ -1,0 +1,69 @@
+Title:Synthesis of two new naphthalene-containing compounds and their bindings to human serum albumin
+DOI:10.1080/07391102.2020.1764867
+ligand name:compound A
+ligand smiles:COC1=CC2=C(C=C1OC)C(C1=CC=C(C=C1)C(F)(F)F)=C(C=C2O)C(O)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;465100.0;655700.0;776900.0
+kq;46510000000000.0;65570000000000.0;77690000000000.0
+n;0.631;0.846;1.066
+K;
+Ka;1935.0;63020.0;2157000.0
+Kb;
+ΔH;262.101;262.101;262.101
+ΔS;966.335;966.335;966.335
+ΔG;-18.136;-27.8;-37.463
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

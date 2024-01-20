@@ -1,0 +1,69 @@
+Title:Fluorescent investigation of the interactions between N-(p-chlorophenyl)-N'-(1-naphthyl) thiourea and serum albumin: Synchronous fluorescence determination of serum albumin
+DOI:10.1016/j.aca.2006.05.002
+ligand name:N-(p-chlorophenyl)-N′-(1-naphthyl) thiourea
+ligand smiles: C1=CC=C2C(=C1)C=CC(=C2NC(=S)N)C3=CC=C(C=C3)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;20.0;30.0;40.0;20.0;30.0;40.0
+KSV;194000.0;170000.0;159000.0
+kq;19400000000000.0;17000000000000.0;15900000000000.0
+n;
+K;
+Ka;
+Kb;218000.0;165000.0;139000.0
+ΔH;-18.29;-18.29;-18.29
+ΔS;39.83;39.83;39.83
+ΔG;-29.96;-30.36;-30.77
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Study on the interaction between theasinesin and human serum albumin by fluorescence spectroscopy
+DOI:10.1016/j.jlumin.2009.08.003
+ligand name:theasinesin
+ligand smiles:OC1=CC2=C(C[C@@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)C(O2)C2=CC(O)=C(O)C(O)=C2C2=C(C=C(O)C(O)=C2O)[C@H]2OC3=C(C[C@H]2OC(=O)C2=CC(O)=C(O)C(O)=C2)C(O)=CC(O)=C3)C(O)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;323;
+KSV;6.97*10^4;7.70*10^4;8.40*10^4;
+kq;6.97*10^12;7.70*10^12;8.40*10^12;
+n;0.96;0.98;0.96;
+K;
+Ka;
+Kb;2.55*10^3;2.16*10^3;1.75*10^3;
+ΔH;-12.29;-12.29;-12.29;
+ΔS;24.09;24.09;24.09;
+ΔG;-19.47;-19.76;-20.07;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.68*10^-15;
+E;0.0757;
+R0;3.06;
+r;4.64;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

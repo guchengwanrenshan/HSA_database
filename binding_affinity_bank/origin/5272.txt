@@ -1,0 +1,95 @@
+Title:Study on the interaction between amfebutamone and human serum albumin by fluorescence spectrum
+DOI:10.13748/j.cnki.issn1007-7693.2015.09.008
+ligand name:amfebutamone
+ligand smiles:CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;310;
+KSV;96905;81901;
+kq;96905*10^8;81901*10^8;
+n;1.1317;0.9189;
+K;
+Ka;65000;116000;
+Kb;5714.8;3126.1;
+ΔH;-22.567;-22.567;
+ΔS;-5.7674;-5.8543;
+ΔG;-20.8936;-20.7513;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

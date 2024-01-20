@@ -1,0 +1,69 @@
+Title:Exploring the binding interaction of potent anticancer drug topotecan with human serum albumin: spectroscopic, calorimetric and fibrillation study
+DOI:10.1080/07391102.2017.1359671
+ligand name:topotecan
+ligand smiles:CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;283.15;293.15;303.15
+n;1.02;1.0;1.09
+K;283000.0;156000.0;114000.0
+Ka;
+Kb;
+ΔH;-64.685;-68.283;-77.32
+ΔS;-124.124;-133.448;-158.03
+ΔG;-29.539;-29.162;-29.414
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

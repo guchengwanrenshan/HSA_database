@@ -1,0 +1,95 @@
+Title:Characterization of the interactions between α-arbutin and human serum albumin with spectroscopic method and molecular docking
+DOI:10.3964/j.issn.1000-0593(2018)11-3489-06
+ligand name:α-arbutin
+ligand smiles:C1=CC(=CC=C1O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O  
+key residue(hbond):LYS436;SER435 d
+key residue(hydrophobic):CYS514;GLU565;CYS558 d
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1.67*10^6;1.43*10^6;0.500*10^6;
+ΔH;-23.29;-23.29;-23.29;
+ΔS;40.97;40.96;40.96;
+ΔG;-35.50;-35.70;-33.60;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

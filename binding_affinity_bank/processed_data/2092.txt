@@ -1,0 +1,69 @@
+Title:Spectroscopic studies on binding of shikonin to human serum albumin
+DOI:10.1016/j.jphotochem.2005.03.016
+ligand name:shikonin
+ligand smiles:CC(C)=CC[C@@H](O)C1=CC(=O)C2=C(C1=O)C(O)=CC=C2O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;313.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;130700.0;113600.0;106700.0
+ΔH;-13.86;-13.86;-13.86
+ΔS;51.16;51.16;51.16
+ΔG;-29.0;-29.36;-29.72
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

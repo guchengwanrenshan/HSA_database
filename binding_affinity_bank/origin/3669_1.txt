@@ -1,0 +1,95 @@
+Title:Thermodynamic investigations of ligand-protein interactions: Binding of the phenazinium dyes phenosafranin and safranin O with human serum albumin
+DOI:10.1016/j.jct.2012.07.010
+ligand name:safranin O
+ligand smiles:CC1=CC2=C(C=C1N)[N+](=C3C=C(C(=CC3=N2)C)N)C4=CC=CC=C4.[Cl-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.15;293.15;303.15;
+KSV;1.30*10^5;0.88*10^5;0.65*10^5;
+kq;
+n;1.16;1.17;1.19;
+K;
+Ka;1.21*10^5;0.82*10^5;0.63*10^5;
+Kb;1.26*10^5;0.92*10^5;0.61*10^5;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;283.15;293.15;303.15;
+n;1.12;1.23;1.25;
+K;
+Ka;
+Kb;1.40*10^5;0.97*10^5;0.62*10^5;
+ΔH;-5.38;-10.84;-18.98;
+ΔS;79.7810;58.7413;27.2802;
+ΔG;-27.97;-28.06;-27.26;
+Cp;-674;-674;-674;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.62*10^-14;
+E;0.091;
+R0;2.77;
+r;4.07;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

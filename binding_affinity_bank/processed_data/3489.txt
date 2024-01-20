@@ -1,0 +1,69 @@
+Title:Insights into the fatty acid ester norethisterone enanthate binding to human albumin: fluorescence, circular dichroism, and docking investigations
+DOI:10.1039/c5ra06844d
+ligand name:NET-EN
+ligand smiles:[H][C@@]12CC[C@@](OCCCCCC)(C#C)[C@@]1([H])CC[C@]1([H])[C@@]3([H])CCC(=C)CC3CC[C@@]21[H]
+key residue(hbond):Lys199;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;315.0
+KSV;10150.0;6581.0;5826.0
+kq;
+n;1.002;1.004;1.007
+K;
+Ka;
+Kb;10530.0;7061.0;6394.0
+ΔH;-23.43;-23.43;-23.43
+ΔS;-1.667;-1.667;-1.667
+ΔG;-22.93;-22.91;-22.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

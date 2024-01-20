@@ -1,0 +1,95 @@
+Title:Insights into the molecular interaction between two polyoxygenated cinnamoylcoumarin derivatives and human serum albumin
+DOI:10.1039/c7cp00681k
+ligand name: BAC
+ligand smiles:C1=C(C=CC2=C1C=C(C(=O)O2)C(C=CC3=CC=C4C(=C3)OCO4)=O)O
+key residue(hbond):His242;Arg222;Arg257;Ser192 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;2.02*10^6;1.33*10^6;
+kq;4.4*10^14;2.66*10^14
+n;1.23;1.08;
+K;
+Ka;
+Kb;39.0*10^6;4.10*10^6;
+ΔH;-144.48;-144.48;
+ΔS;-339.33;-339.33;
+ΔG;-43.31;-39.23;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;0.927;
+K;
+Ka;
+Kb;3.39*10^4;
+ΔH;127.654;
+ΔS;513.2163;
+ΔG;-25.2845;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.05*10^-14;
+E;0.68;
+R0;3.38;
+r;2.96;
+EFRET;
+F0;939.13;
+F;292.35;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

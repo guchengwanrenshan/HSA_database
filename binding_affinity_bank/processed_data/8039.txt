@@ -1,0 +1,69 @@
+Title:Investigation of Atorvastatin interaction with human serum albumin: evaluation of pH effect and competitive binding with warfarin
+DOI:10.29228/jrp.232
+ligand name:Atorvastatin
+ligand smiles:CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;305.0;310.0;315.0
+KSV;22600.0;23400.0;27200.0;28200.0
+kq;2257000000000.0;2341000000000.0;2716000000000.0;2823000000000.0
+n;0.73;0.77;0.85;0.86
+K;
+Ka;60000.0;70000.0;65000.0;65000.0
+Kb;1585.0;2512.0;5012.0;6310.0
+ΔH;67.169;67.169;67.169;67.169
+ΔS;286.5;286.5;286.5;286.5
+ΔG;-18.224;-20.229;-21.662;-23.095
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

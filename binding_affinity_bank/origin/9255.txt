@@ -1,0 +1,90 @@
+Title:Thermodynamic and spectroscopic study of the interaction of Cu(II), Ni(II), Zn(II) and Ca(II) ions with 2-amino-N-(2-oxo-2-(2-(pyridin-2-yl)ethyl amino)ethyl)acetamide, a pseudo-mimic of human serum albumin
+DOI:10.1016/j.poly.2006.11.053
+ligand name:Chlorpyrifos
+ligand smiles:CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;5.177*10^4;4.709*10^4;4.263*10^4;
+kq;
+n;
+K;
+Ka;
+Kb;3.039*10^5;2.038*10^5;1.363*10^5;
+ΔH;-51.31;-51.31;-51.31;
+ΔS;-67.20;-67.20;-67.20;
+ΔG;-31.28;-30.88;-30.48;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.004*10^-14;
+E;0.1216;
+R0;2.28;
+r;3.17;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

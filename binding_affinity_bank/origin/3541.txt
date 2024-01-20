@@ -1,0 +1,95 @@
+Title:Synthesis of L-histidine amide derivatives and the interaction mechanism with human serum albumin
+DOI:10.11944/j.issn.1000-0518.2017.10.160473
+ligand name:derivate I
+ligand smiles:OC(=O)[C@H](CC1=CNC=N1)NC(=O)\C=C\C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;305;310;
+KSV;1.042*10^4;0.985*10^4;0.859*10^4;
+kq;1.042*10^12;0.985*10^12;0.859*10^12;
+n;1.0595;0.9445;0.7776;
+K;
+Ka;
+Kb;1.773*10^4;0.6354*10^4;0.1260*10^4;
+ΔH;-73.13;-73.13;-73.13;
+ΔS;-173.36;-173.36;-173.36;
+ΔG;-21.44;-20.58;-19.57;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.749*10^-16;
+E;0.1106;
+R0;1.639;
+r;2.32;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

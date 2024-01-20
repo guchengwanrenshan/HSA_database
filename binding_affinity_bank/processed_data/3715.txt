@@ -1,0 +1,69 @@
+Title:Studies on the Antagonistic Behavior Between Cyclophosphamide Hydrochloride and Aspirin with Human Serum Albumin: Time-Resolved Fluorescence Spectroscopy and Isothermal Titration Calorimetry
+DOI:10.1007/s10953-013-0009-7
+ligand name:cyclophosphamide hydrochloride 
+ligand smiles:C1CNP(=O)(OC1)N(CCCl)CCCl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;423000000.0
+ΔH;
+ΔS;
+ΔG;-49.2117
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;482600000.0
+ΔH;-7.591
+ΔS;10.593
+ΔG;-49.5383
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

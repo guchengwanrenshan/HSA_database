@@ -1,0 +1,95 @@
+Title:Spectroscopic investigation of the interaction between buflomedil and human serum albumin
+DOI:None
+ligand name:buflomedil
+ligand smiles:COC1=CC(=C(C(=C1)OC)C(=O)CCCN2CCCC2)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;5.26*10^4;4.51*10^4;3.98*10^4;
+kq;
+n;0.79;0.68;0.62;
+K;
+Ka;2.60*10^6;4.30*10^6;5.06*10^6;
+Kb;4.78*10^4;1.81*10^4;7.43*10^2;
+ΔH;-18.76;-18.76;-18.76;
+ΔS;-5.93;-5.94;-5.76;
+ΔG;-16.99;-16.93;-16.85;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.08*10^-13;
+E;0.17;
+R0;2.01;
+r;2.64;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

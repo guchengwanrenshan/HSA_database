@@ -1,0 +1,69 @@
+Title:The influence of glycosylation of natural and synthetic prenylated flavonoids on binding to human serum albumin and inhibition of cyclooxygenases COX-1 and COX-2
+DOI:10.3390/molecules22071230
+ligand name: 4
+ligand smiles: COc2cc(O[C@@H]1OC(CO)[C@H](O)C(O)C1O)c(CC=C(C)C)c(O)c2C(=O)C=Cc3ccc(O)cc3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;305.0;310.0;315.0
+KSV;74880.0;71800.0;68970.0;63260.0
+kq;14976000000000.0;14360000000000.0;13794000000000.0;12652000000000.0
+n;0.931;0.899;0.898;0.906
+K;
+Ka;
+Kb;32710.0;22070.0;20820.0;17760.0
+ΔH;-12.536;-12.536;-12.536;-12.536
+ΔS;-4.583;-4.583;-4.583;-4.583
+ΔG;-11.24;-11.014;-11.125;-11.111
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

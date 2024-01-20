@@ -1,0 +1,95 @@
+Title:Multispectral and computational probing of the interactions between sitagliptin and serum albumin
+DOI:10.1016/j.saa.2019.117286
+ligand name:sitagliptin
+ligand smiles:C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N  
+key residue(hbond):ASN109;ARG428;LYS190 d
+key residue(hydrophobic):ILE523;PRO421;LEU463;GLU425 d
+PDB ID:
+Binding Area:subdomain II and subdomain III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;5.15*10^4;4.26*10^4;3.88*10^4;
+kq;5.15*10^12;4.26*10^12;3.88*10^12;
+n;
+K;
+Ka;3.90*10^4;0.96*10^4;0.70*10^4;
+Kb;7.097*10^4;5.39*10^4;4.188*10^4;
+ΔH;-33.45;-33.45;-33.45;
+ΔS;-19.53;-19.53;-19.53;
+ΔG;-27.63;-27.53;-27.39;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

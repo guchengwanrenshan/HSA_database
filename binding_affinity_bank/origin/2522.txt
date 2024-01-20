@@ -1,0 +1,95 @@
+Title:Study on the interaction between methyl blue and human serum albumin by fluorescence spectrometry
+DOI:10.1016/j.jlumin.2008.09.008
+ligand name:methyl blue
+ligand smiles:C1=CC(=NC2=CC=C(C=C2)S(=O)(=O)[O-])C=CC1=C(C3=CC=C(C=C3)NC4=CC=C(C=C4)S(=O)(=O)O)C5=CC=C(C=C5)NC6=CC=C(C=C6)S(=O)(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;6.5*10^4;5.9*10^4;5.0*10^4;
+kq;6.5*10^12;5.9*10^12;5.0*10^12;
+n;1.128;1.159;1.253;
+K;
+Ka;
+Kb;2.576*10^5;3.266*10^5;7.464*10^5;
+ΔH;39.78;39.78;39.78;
+ΔS;239.67;239.67;239.67;
+ΔG;-29.72;-32.12;-34.52;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.3458*10^-15;
+E;0.60;
+R0;2.21;
+r;2.06;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

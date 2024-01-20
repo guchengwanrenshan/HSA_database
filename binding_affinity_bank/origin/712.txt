@@ -1,0 +1,95 @@
+Title:Interaction between Saikosaponin D, paeoniflorin, and human serum albumin
+DOI:10.3390/molecules23020249
+ligand name:saikosaponin D
+ligand smiles: C[C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2CC[C@]3([C@H]([C@]2(C)CO)CC[C@@]4([C@@H]3C=C[C@@]56[C@]4(C[C@H]([C@@]7([C@H]5CC(CC7)(C)C)CO6)O)C)C)C)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I and site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;296;300;303;
+KSV;
+kq;1.6*10^15;;;1.1*10^15;
+n;0.525;;;0.464;
+K;
+Ka;6.54*10^3;;;8.28*10^2;
+Kb;
+ΔH;-111.60;-111.60;-111.60;-111.60;
+ΔS;-314.92;-314.92;-314.92;-314.92;
+ΔG;-19.33;-17.44;-16.45;-16.18;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.03*10^-14;
+E;0.24
+R0;2.50
+r;3.00
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

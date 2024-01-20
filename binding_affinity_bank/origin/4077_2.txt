@@ -1,0 +1,95 @@
+Title:Investigation of interaction between human plasmatic albumin and potential fluorinated anti-trypanosomal drugs
+DOI:10.1016/j.jfluchem.2017.05.001
+ligand name:TFTS
+ligand smiles:NC(=S)N\N=C\C1=C(F)C(F)=C(F)C=C1
+key residue(hbond):Phe210;Trp214;Ser453 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;6.94*10^4;6.55*10^4;5.41*10^4;
+kq;13.2*10^12;12.5*10^12;10.3*10^12;
+n;
+K;
+Ka;
+Kb;4.55*10^4;4.32*10^4;4.15*10^4;
+ΔH;-4.93;-4.93;-4.93;
+ΔS;72.5;72.5;72.5;
+ΔG;-26.4;-26.9;-27.4;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.55*10^-14;
+E;0.3837;
+R0;3.65;
+r;3.95;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

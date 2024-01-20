@@ -1,0 +1,69 @@
+Title:Probing the serum albumin binding site of fenamates and photochemical protein labeling with a fluorescent dye
+DOI:10.1039/d2ob00717g
+ligand name:TTPy
+ligand smiles:CCC[N+]1=CC=C(\C=C\C2=CC=C(S2)C2=CC=C(C=C2)N(C2=CC=CC=C2)C2=CC=CC=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;303.0;310.0
+KSV;
+kq;
+n;
+K;1950000.0;1230000.0
+Ka;
+Kb;
+ΔH;-51.38;-51.38
+ΔS;-49.14;-49.14
+ΔG;-36.49;-36.14
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

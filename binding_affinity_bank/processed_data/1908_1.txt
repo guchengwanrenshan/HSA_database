@@ -1,0 +1,69 @@
+Title:Imaging human serum albumin behavior in process of PVOCs transportation in vivo: Spectroscopy analysis insight
+DOI:10.1016/j.foodchem.2022.133692
+ligand name:linalyl acetate
+ligand smiles:CC(=CCCC(C)(C=C)OC(=O)C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;13400.0
+kq;1340000000000.0
+n;1.07
+K;
+Ka;83100.0
+Kb;
+ΔH;-30.75;-30.75
+ΔS;9.0;9.0
+ΔG;-28.07;-27.96
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

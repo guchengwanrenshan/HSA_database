@@ -1,0 +1,95 @@
+Title:Novel piperonal 1,3,4-thiadiazolium-2-phenylamines mesoionic derivatives: Synthesis, tyrosinase inhibition evaluation and HSA binding study
+DOI:10.1016/j.ijbiomac.2018.02.050
+ligand name:PMI-6
+ligand smiles:BrC1=CC=C(NC2=N[N+](=C(S2)C2=CC=C3OCOC3=C2)C2=CC=CC=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;4.26*10^4;4.05*10^4;2.81*10^4;
+kq;4.26*10^12;4.05*10^12;2.81*10^12;
+n;
+K;
+Ka;8.08*10^4;7.22*10^4;5.96*10^4;
+Kb;
+ΔH;-16.5;-16.5;-16.5;
+ΔS;38.2;38.2;38.2;
+ΔG;-27.8;-28.1;-28.3;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.20*10^-14;
+E;
+R0;2.53;
+r;2.82;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

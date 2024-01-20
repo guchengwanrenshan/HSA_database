@@ -1,0 +1,69 @@
+Title:Novel Naphthalimide Aminothiazoles as Potential Multitargeting Antimicrobial Agents
+DOI:10.1021/acsmedchemlett.7b00452
+ligand name:4d
+ligand smiles:O=C1N(NC2=NC=CS2)C(=O)C2=C3C1=CC=CC3=C(C=C2)N1CCNCC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286.0;298.0;310.0
+KSV;58300.0;52000.0;38600.0
+kq;9110000000000.0;8130000000000.0;6030000000000.0
+n;1.03;1.04;0.99
+K;
+Ka;45700.0;41200.0;38300.0
+Kb;57800.0;49900.0;37600.0
+ΔH;-13.173;-13.173;-13.173
+ΔS;70.25;70.25;70.25
+ΔG;-33.26;-34.11;-34.95
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

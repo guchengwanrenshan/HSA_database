@@ -1,0 +1,95 @@
+Title:Study on the interaction between aristolochic acid and human serum albumin by spectrofluorimetry
+DOI:None
+ligand name:aristolochic acid
+ligand smiles:COC1=CC=CC2=C3C(=C(C=C21)[N+](=O)[O-])C(=CC4=C3OCO4)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;301;310;318;
+KSV;
+kq;
+n;0.95;0.95;0.95;0.94;
+K;
+Ka;1.31*10^6;1.21*10^6;1.06*10^6;1.01*10^6;
+Kb;1.36*10^6;1.27*10^6;1.10*10^6;1.05*10^6;
+ΔH;-8.46;-8.46;-8.46;-8.46;
+ΔS;88.23;88.23;88.23;88.23;
+ΔG;-34.31;-35.02;-35.81;-36.52;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;2.5;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Study of the interaction of broad-spectrum antimicrobial drug sitafloxacin with human serum albumin using spectroscopic methods;molecular docking;and molecular dynamics simulation
+DOI:10.1016/j.jpba.2018.07.053
+ligand name:sitafloxacin
+ligand smiles:C1CC12CN(C[C@H]2N)C3=C(C=C4C(=C3Cl)N(C=C(C4=O)C(=O)O)[C@@H]5C[C@@H]5F)F  
+key residue(hbond):
+key residue(hydrophobic):GLU153;SER192;LYS195;GLU292;TYR452 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;6.506*10^4;6.254*10^4;5.778*10^4;
+kq;
+n;1.082;1.064;1.058;
+K;
+Ka;1.578*10^5;1.233*10^5;1.086*10^5;
+Kb;
+ΔH;-24.01;-24.01;-24.01;
+ΔS;18.73;18.73;18.73;
+ΔG;-29.67;-29.63;-29.89;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

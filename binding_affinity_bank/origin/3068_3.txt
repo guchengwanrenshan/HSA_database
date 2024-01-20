@@ -1,0 +1,95 @@
+Title:Study on the Binding of Methylphenanthrene Isomers with Different Methylated Positions to Human Serum Albumin Employing Spectroscopic Techniques Combined with Molecular Docking
+DOI:10.1080/10406638.2020.1852280
+ligand name:9-MP
+ligand smiles:CC1=C2C=CC3=CC=CC=C3C2=CC=C1 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA); site III(subdomain IB)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;6.47*10^5;4.95*10^5;4.35*10^5;
+kq;10.11*10^13;7.73*10^13;6.80*10^13;
+n;0.86;0.80;0.79;
+K;
+Ka;
+Kb;10.1*10^4;3.57*10^4;2.45*10^4;
+ΔH;-56.04;-56.04;-56.04;
+ΔS;-93.08;-93.08;-93.08;
+ΔG;-28.55;-26.85;-26.72;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

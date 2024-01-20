@@ -1,0 +1,95 @@
+Title:Study on the interaction between levofloxacin and human serum albumin by fluorescence spectroscopy
+DOI:None
+ligand name:levofloxacin
+ligand smiles:C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;
+kq;5.35*10^12;5.16*10^12;4.77*10^12;
+n;5.35*10^4;5.16*10^4;4.77*10^4;
+K;
+Ka;
+Kb;2.48*10^6;2.23*10^6;1.76*10^6;
+ΔH;-8.11;-8.11;-8.11;
+ΔS;-168.7;-168.7;-168.7;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.58*10^-14;3.06*10^-14;3.40*10^-14;
+E;0.10;0.11;0.093;
+R0;2.75;3.07;3.12;
+r;3.97;4.35;4.58;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Fluorescence modulation of excited state intramolecular proton transfer (ESIPT) probe 3-formyl-4-hydroxy benzoic acid encapsulated in the protein binding domain of serum albumins: a combined spectroscopic and molecular docking study
+DOI:10.1080/07391102.2018.1559764
+ligand name:3-formyl-4-hydroxy benzoic acid
+ligand smiles:C1=CC(=C(C=C1C(=O)O)C=O)O  
+key residue(hbond):
+key residue(hydrophobic):Leu219;Leu238;Trp214;Val241;Ala261;Leu260;Ile264 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0;318.0
+KSV;21400.0;21000.0;20900.0;20600.0;19600.0
+kq;
+n;0.97;1.0;1.01;1.09;1.15
+K;
+Ka;
+Kb;17378.01;22908.68;23988.33;54954.09;87096.36
+ΔH;-58.48;-58.48;-58.48;-58.48;-58.48
+ΔS;0.28;0.28;0.28;0.28;0.28
+ΔG;-25.0;-26.4;-27.8;-29.2;-30.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

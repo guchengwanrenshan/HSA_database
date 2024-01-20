@@ -1,0 +1,69 @@
+Title:Investigations on the interaction of the phototoxic alkaloid coralyne with serum albumins
+DOI:10.1016/j.chemosphere.2011.12.079
+ligand name:Coralyne
+ligand smiles: CC1=C2C=C(C(=CC2=CC3=[N+]1C=CC4=CC(=C(C=C43)OC)OC)OC)OC.[Cl-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;101000.0;90000.0;67000.0
+kq;
+n;1.02;1.01;1.0
+K;
+Ka;
+Kb;139000.0;83000.0;68000.0
+ΔH;-26.4844;-26.4844;-26.4844
+ΔS;6.1054;6.1054;6.1054
+ΔG;-28.2427;-28.3038;-28.3648
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;288.0;298.0;308.0
+n;1.13;0.976;0.972
+K;
+Ka;
+Kb;165000.0;89400.0;7140.0
+ΔH;-6.8408;-15.0038;-22.3426
+ΔS;76.1401;44.3392;20.8657
+ΔG;-28.7692;-28.2169;-28.7692
+Cp;-185.3;-185.3;-185.3
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

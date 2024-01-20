@@ -1,0 +1,95 @@
+Title:Interaction between 2,2',4,4',5-pentabromodiphenyl ether and human serum albumin based on multi-spectroscopic and computational simulations
+DOI:10.13671/j.hjkxxb.2015.0415
+ligand name:2,2',4,4',5-pentabromodiphenyl ether
+ligand smiles:C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;310;
+KSV;
+kq;
+n;1.11;1.11;1.08;
+K;
+Ka;
+Kb;2.57*10^7;1.98*10^7;0.83*10^7;
+ΔH;-16.89;-16.89;-16.89;
+ΔS;108.38;108.38;108.38;
+ΔG;-47.67;-49.31;-50.96;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

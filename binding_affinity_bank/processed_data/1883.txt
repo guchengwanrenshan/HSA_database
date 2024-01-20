@@ -1,0 +1,69 @@
+Title:Unravelling the binding mechanism of benproperine with human serum albumin: A docking, fluorometric, and thermodynamic approach
+DOI:10.1016/j.ejmech.2018.01.064
+ligand name:benproperine
+ligand smiles:CC(COC1=CC=CC=C1CC2=CC=CC=C2)N3CCCCC3 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;27400.0;19900.0
+kq;
+n;1.0;1.0
+K;
+Ka;20100.0;11000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;19700.0
+Ka;
+Kb;
+ΔH;-4.19
+ΔS;68.15
+ΔG;-24.5
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

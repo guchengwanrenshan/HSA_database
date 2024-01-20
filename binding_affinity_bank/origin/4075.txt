@@ -1,0 +1,95 @@
+Title:Investigation on the interaction of prulifloxacin with human serum albumin: A spectroscopic analysis
+DOI:10.1248/cpb.58.582
+ligand name:Prulifloxacin
+ligand smiles:CC1N2C3=CC(=C(C=C3C(=O)C(=C2S1)C(=O)O)F)N4CCN(CC4)CC5=C(OC(=O)O5)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.44*10^5;1.80*10^5;1.91*10^5;
+kq;1.44*10^13;1.80*10^13;1.91*10^13;
+n;1.70;1.71;1.76;
+K;
+Ka;
+Kb;2.08*10^8;2.74*10^8;4.98*10^8;
+ΔH;-45.5;-45.5;-45.5;
+ΔS;314;314;314;
+ΔG;-45.9;-48.2;-51.3;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.439*10^-17;
+E;0.423;
+R0;1.13;
+r;1.19;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

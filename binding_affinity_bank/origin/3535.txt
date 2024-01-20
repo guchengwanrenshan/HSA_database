@@ -1,0 +1,95 @@
+Title:Insight into the interaction of antitubercular and anticancer compound clofazimine with human serum albumin: spectroscopy and molecular modelling
+DOI:10.1080/07391102.2015.1132258
+ligand name:clofazimine
+ligand smiles:CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;4.70*10^4;3.44*10^4;2.66*10^4;
+kq;4.70*10^13;3.44*10^13;2.65*10^13;
+n;1.07;1.08;1.02;
+K;
+Ka;
+Kb;9.87*10^4;8.36*10^4;3.57*10^4;
+ΔH;-66.4419;-66.4419;-66.4419;
+ΔS;-126.9007;-126.9007;-126.9007;
+ΔG;-28.3675;-28.4094;-26.9031;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.46*10^-15;
+E;0.118;
+R0;2.05;
+r;2.87;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

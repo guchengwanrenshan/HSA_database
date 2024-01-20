@@ -1,0 +1,69 @@
+Title:Investigations of the molecular interactions between nisoldipine and human serum albumin in vitro using multi-spectroscopy, electrochemistry and docking studies
+DOI:10.1016/j.molliq.2018.03.010
+ligand name:Nisoldipine
+ligand smiles:CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;162000.0;146000.0;138000.0
+kq;
+n;1.27;1.28;1.34
+K;
+Ka;
+Kb;73000.0;66000.0;56000.0
+ΔH;-17.15;-17.15;-17.15
+ΔS;35.5;35.5;35.5
+ΔG;-27.73;-27.94;-28.16
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

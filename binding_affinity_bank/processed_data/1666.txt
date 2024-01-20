@@ -1,0 +1,69 @@
+Title:Exploring the binding mechanism and adverse toxic effects of chiral phenothrin to human serum albumin: Based on multi-spectroscopy, biochemical and computational approach
+DOI:10.1016/j.saa.2022.121659
+ligand name:phenothrin
+ligand smiles:CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;56023.0;46093.0;45246.0
+kq;5603000000000.0;4609300000000.0;4534600000000.0
+n;0.8618;1.0698;0.8428
+K;11839.0;103820.0;6714.3
+Ka;
+Kb;
+ΔH;-40.4442;-40.4442;-40.4442
+ΔS;37.1842;37.1842;37.1842
+ΔG;-23.2374;-29.1933;-22.7115
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

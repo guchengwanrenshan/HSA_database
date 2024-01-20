@@ -1,0 +1,69 @@
+Title:Analysis of the Binding of Aripiprazole to Human Serum Albumin: The Importance of a Chloro-Group in the Chemical Structure
+DOI:10.1021/acsomega.8b02057
+ligand name:dehydro-Aripiprazole
+ligand smiles:C1CN(CCN1CCCCOC2=CC3=C(C=C2)C=CC(=O)N3)C4=C(C(=CC=C4)Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;0.98
+K;
+Ka;
+Kb;3190000.0
+ΔH;
+ΔS;
+ΔG;-37.103
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

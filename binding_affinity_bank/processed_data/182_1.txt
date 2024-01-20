@@ -1,0 +1,69 @@
+Title:Multi-spectroscopic and molecular docking studies of human serum albumin interactions with sulfametoxydiazine and sulfamonomethoxine
+DOI:10.1016/j.saa.2020.119000
+ligand name:sulfamonomethoxine
+ligand smiles: COC1=NC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N  
+key residue(hbond):Arg222d
+key residue(hydrophobic):Arg222;Ala291;Ala215;Leu219;Leu238;His242;Phe211;Trp214d
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;30590.0;42230.0;33430.0;31260.0
+kq;5159000000000.0;4585000000000.0;4157000000000.0;2054000000000.0
+n;0.943;0.917;0.91;0.905
+K;
+Ka;
+Kb;11780.0;7450.0;6450.0;4860.0
+ΔH;-43.517;-43.517;-43.517;-43.517
+ΔS;-68.6013;-68.6013;-68.6013;-68.6013
+ΔG;-23.074;-22.731;-22.388;-22.045
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

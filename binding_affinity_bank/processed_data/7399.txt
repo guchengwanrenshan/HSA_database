@@ -1,0 +1,69 @@
+Title:Graphene oxide enriched with oxygen-containing groups: on the way to an increase of antioxidant activity and biocompatibility
+DOI:10.1016/j.colsurfb.2021.112232
+ligand name:graphene oxide
+ligand smiles:O=C(O)C1=CC2=C3C(=O)OC4(O)C3=C3C5=C2C2C1=CC(O)C1=C6C=CC7=CC(C(=O)O)=C8C(=O)C9C(O)=C%10C%11=C%12C%13C%14C%15C%16%17OC%16%18C%16=C%19C(=C(C(=O)O)C(O)C%20C(=O)C%21=C(C(=O)O)C4C4%22OC34C3C4=C%23C%22C%21(O)C(C%19%20)C%18(O)C%23C%15%18OC%18%15C4C4=C%18C3(O)C5=C(C12O)C12OC%181C(=C9C4=C%10C%13%15O)C8C7C62)CC(O)=C%16C1=CC(C(=O)O)=C2CC(O)C3(OC%143C2(O)C1%17)C%12(O)OC%11=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;C_GO=0.025-0.040g/l;C_GO=0.005-0.025g/l;
+pH;
+T;298.15;298.15
+KSV;
+kq;
+n;1.39;1.12
+K;
+Ka;
+Kb;263.0268;58.8844
+ΔH;
+ΔS;
+ΔG;-13.8126;-10.1026
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

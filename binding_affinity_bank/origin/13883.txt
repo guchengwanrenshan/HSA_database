@@ -1,0 +1,90 @@
+Title:Fluorescence modulation of excited state intramolecular proton transfer (ESIPT) probe 3-formyl-4-hydroxy benzoic acid encapsulated in the protein binding domain of serum albumins: a combined spectroscopic and molecular docking study
+DOI:10.1080/07391102.2018.1559764
+ligand name:3-formyl-4-hydroxy benzoic acid
+ligand smiles:C1=CC(=C(C=C1C(=O)O)C=O)O  
+key residue(hbond):
+key residue(hydrophobic):Leu219;Leu238;Trp214;Val241;Ala261;Leu260;Ile264 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;318;
+KSV;2.14*10^4;2.10*10^4;2.09*10^4;2.06*10^4;1.96*10^4;
+kq;
+n;0.97;1.00;1.01;1.09;1.15;
+K;
+Ka;
+Kb;17378.01;22908.68;23988.33;54954.09;87096.36;
+ΔH;-58.48;-58.48;-58.48;-58.48;-58.48;
+ΔS;0.28;0.28;0.28;0.28;0.28;
+ΔG;-25.0;-26.4;-27.8;-29.2;-30.7;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;0.168;
+R0;
+r;1.30;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

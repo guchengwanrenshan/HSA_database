@@ -1,0 +1,95 @@
+Title:Exploring the interaction between tyrphostin 9 and human serum albumin using biophysical and computational methods
+DOI:10.1080/07391102.2019.1673210
+ligand name:Tyrphostin 9
+ligand smiles:CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)C=C(C#N)C#N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's Site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;2.24*10^5;1.96*10^5;1.28*10^5;
+kq;
+n;
+K;
+Ka;3.48*10^5;2.54*10^5;1.69*10^5;
+Kb;
+ΔH;-26.60;-26.60;-26.60;
+ΔS;13.9;13.9;13.9;
+ΔG;-30.60;-30.74;-30.88;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

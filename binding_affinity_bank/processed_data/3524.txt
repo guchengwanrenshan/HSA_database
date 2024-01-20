@@ -1,0 +1,69 @@
+Title:Probing the binding of bicyclol and human serum albumin by multispectral technologies and molecular docking method
+DOI:10.1007/s10953-019-00927-6
+ligand name:Bicyclol
+ligand smiles:COC1=C2C(=C(C(=C1)CO)C3=C4C(=C(C=C3C(=O)OC)OC)OCO4)OCO2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomian IIIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;18800.0;16800.0;15700.0
+kq;1880000000000.0;1680000000000.0;1570000000000.0
+n;1.118;1.2;1.21
+K;
+Ka;
+Kb;91100.0;100700.0;99200.0
+ΔH;-19.07;-19.07;-19.07
+ΔS;27.17;27.17;27.17
+ΔG;-22.76;-22.82;-22.91
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Interaction between HSA and a thiosemicarbazide derivative: Analysis of the effect of a methyl group in the binding ability
+DOI:10.13171/mjc71/01803120918-ferreira
+ligand name: ETS2
+ligand smiles:[H]N(C)C(=S)N([H])N([H])C(=O)\C=C(\C)NCCC1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;12900.0;11200.0;10000.0
+kq;2240000000000.0;1940000000000.0;1790000000000.0
+n;
+K;
+Ka;7600.0;11000.0;14000.0
+Kb;
+ΔH;33.4;33.4;33.4
+ΔS;0.187;0.187;0.187
+ΔG;-22.0;-23.3;-24.6
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Studies on the interaction between alpinetin and human serum albumin by fluorescence spectroscopy
+DOI:https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7VSL-HJEdEx34_vk_rRIlP8w5nK_5z_7JOvhQCVhSM3-0GP8gp5pb9RrCEvuDjgan&uniplatform=NZKPT
+ligand name:alpinetin
+ligand smiles:COC1=CC(=CC2=C1C(=O)C[C@H](O2)C3=CC=CC=C3)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297;305;313;
+KSV;4.460*10^4;5.456*10^4;6.544*10^4;
+kq;4.460*10^12;5.456*10^12;6.544*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;18.50;18.50;18.50;
+ΔS;151.2;151.3;151.2;
+ΔG;-26.42;-27.64;-28.84;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.466*10^-15;
+E;0.0559
+R0;2.53;
+r;4.05;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

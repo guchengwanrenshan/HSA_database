@@ -1,0 +1,95 @@
+Title:Comprehensive insights into the interactions of dicyclohexyl phthalate and its metabolite to human serum albumin
+DOI:10.1016/j.fct.2021.112407
+ligand name:MCHP
+ligand smiles:C1CCC(CC1)OC(=O)C2=CC=CC=C2C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;308;
+KSV;
+kq;
+n;1.04;0.99;0.96;1.04;1.04;
+K;
+Ka;
+Kb;1.72*10^4;1.37*10^4;1.04*10^4;0.70*10^4;0.56*10^4;
+ΔH;-43.18;-43.18;-43.18;-43.18;-43.18;
+ΔS;-68.34;-68.34;-68.34;-68.34;-68.34;
+ΔG;-23.35;-23.20;-22.92;-22.30;-21.69;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

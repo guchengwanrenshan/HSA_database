@@ -1,0 +1,95 @@
+Title:ACTIVITY OF BLACKCURRANT AND CHOKEBERRY EXTRACTS AND TWO MAJOR CYANIDIN GLYCOSIDES AGAINST LIPID MEMBRANE OXIDATION AND THEIR BINDING PROPERTIES TO ALBUMIN.
+DOI:
+ligand name:Cyanidin-3-O-glucoside
+ligand smiles:C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;305;310;315;
+KSV;16.018*10^4;15.756*10^4;15.171*10^4;14.200
+kq;
+n;1.354;1.342;1.282;1.285;
+K;
+Ka;
+Kb;739.095*10^4;620.869*10^4;317.541*10^4;306.478*10^4;
+ΔH;-21.947;-21.947;-21.947;-21.947;
+ΔS;-15.979;-15.979;-15.979;-15.979;
+ΔG;-17.132;-17.226;-16.757;-16.987;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

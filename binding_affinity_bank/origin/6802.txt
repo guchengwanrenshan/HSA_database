@@ -1,0 +1,94 @@
+Title:Antibacterial activity of 2-amino-1,4-naphthoquinone derivatives against gram-positive and gram-negative bacterial strains and their interaction with human serum albumin
+DOI:10.21577/0103-5053.20200070
+ligand name:NQA
+ligand smiles:O=C1C=C(NCC2=CC=CC=C2)C(=O)C2=C1C=CC=C2
+key residue(hbond):Lys194;Trp214 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;8.11*10^4;7.86*10^4;6.81*10^4;
+kq;1.37*10^13;1.33*10^13;1.15*10^13;
+n;
+K;
+Ka;
+Kb;8.98*10^4;4.54*10^4;2.76*10^4;
+ΔH;-47.8;-47.8;-47.8;
+ΔS;89.9;89.9;89.9;
+ΔG;-74.4;-75.0;-75.7;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

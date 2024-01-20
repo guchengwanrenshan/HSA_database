@@ -1,0 +1,69 @@
+Title:Mitigation of ribose and glyoxal induced glycation, AGEs formation and aggregation of human serum albumin by citrus fruit phytochemicals naringin and naringenin: An insight into their mechanism of action
+DOI:10.1016/j.foodres.2022.111358
+ligand name:Naringin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;10200.0;25500.0;27300.0
+kq;1810000000000.0;4530000000000.0;4840000000000.0
+n;1.242;1.054;1.061
+K;
+Ka;
+Kb;19700.0;30400.0;32900.0
+ΔH;19.417;19.417;19.417
+ΔS;149.634;149.634;149.634
+ΔG;-23.976;-25.473;-26.969
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

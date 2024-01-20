@@ -1,0 +1,98 @@
+Title:Characterization of the interaction between acotiamide hydrochloride and human serum albumin: 1H STD NMR spectroscopy, electrochemical measurement, and docking investigations
+DOI:10.1039/c6ra08310b
+ligand name:Z-338
+ligand smiles:CC(C)N(CCNC(=O)C1=CSC(=N1)NC(=O)C2=CC(=C(C=C2O)OC)OC)C(C)C
+key residue(hbond):Leu430;Tyr411 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;305;310;
+KSV;
+kq;
+n;0.991;0.987;0.954;
+K;
+Ka;
+Kb;2.985*10^4;1.888*10^4;1.125*10^4;
+ΔH;
+ΔS;
+ΔG;-25.61;-24.76;-24.16;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;;58.27;0.0092;157.89*10^-6;
+1:0.25;;;75.69;0.0094;124.19*10^-6;
+1:0.50;;;92.32;0.0096;103.99*10^-6;
+1:0.75;;;105.85;0.0097;91.64*10^-6;
+1:1;;;127.31;0.0101;79.33*10^-6;
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

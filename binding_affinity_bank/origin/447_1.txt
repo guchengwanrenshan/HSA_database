@@ -1,0 +1,95 @@
+Title:Probing the intermolecular interactions into serum albumin and anthraquinone systems: a spectroscopic and docking approach
+DOI:10.1080/07391102.2017.1388284
+ligand name:Quinizarin
+ligand smiles: C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)O)O  
+key residue(hbond):ARG222;ARG257 d
+key residue(hydrophobic):LEU238;LEU260;ALA291 d
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;
+KSV;9.55*10^4;7.40*10^4;
+kq;9.55*10^12;7.40*10^12;
+n;0.85;0.96;
+K;
+Ka;1.90*10^4;5.42*10^4;
+Kb;
+ΔH;79.9;79.9;
+ΔS;350.0;350.0;
+ΔG;-24.4;-27.9;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

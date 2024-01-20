@@ -1,0 +1,69 @@
+Title:Investigation of the interaction between isomeric derivatives and human serum albumin by fluorescence spectroscopy and molecular modeling
+DOI:10.1016/j.jlumin.2014.04.001
+ligand name:1h
+ligand smiles:FC1=CC=C(C=C1)C1=CC2=C(N1)C(=O)C1=C2C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;322.0
+KSV;10400.0;9100.0
+kq;1040000000000.0;910000000000.0
+n;0.8648;0.6964
+K;
+Ka;
+Kb;2100.0;476.0
+ΔH;-55.09;-55.09
+ΔS;-119.85;-119.85
+ΔG;-19.13;-16.4983
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

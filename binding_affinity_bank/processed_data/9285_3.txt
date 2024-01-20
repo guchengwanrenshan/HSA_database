@@ -1,0 +1,69 @@
+Title:Studies on the non-covalent binding between tropane alkaloids and human serum albumin by electrospray ion trap mass spectrometry
+DOI:None
+ligand name:Anisodamini Hydrobromidum
+ligand smiles:CN1C2CC(CC1C(C2)O)OC(=O)C(CO)C3=CC=CC=C3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;443.0;463.0
+n;
+K;
+Ka;
+Kb;23800.0;21300.0
+ΔH;-9.466;-9.466
+ΔS;62.385;62.385
+ΔG;-37.1162;-38.3647
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Probing the binding mechanism of capecitabine to human serum albumin using spectrometric methods, molecular modeling, and chemometrics approach
+DOI:10.1016/j.bioorg.2019.103037
+ligand name:capecitabine (CAP)
+ligand smiles:CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@H]2[C@@H]([C@@H]([C@H](O2)C)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;305;310;
+KSV;1.971*10^4;1.908*10^4;1.606*10^4;
+kq;1.971*10^12;1.908*10^12;1.606*10^12;
+n;0.998;0.899;0.865;
+K;
+Ka;
+Kb;1.820*10^4;6.109*10^3;3.801*10^3;
+ΔH;-80.475;-80.475;-80.475;
+ΔS;-189;-189;-189;
+ΔG;-24.301;-24.882;-25.283;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.16*10^-13;
+E;0.41;
+R0;3.92;
+r;4.135
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Interactions of diclazuril enantiomers with serum albumins: Multi-spectroscopic and molecular docking approaches
+DOI:10.1002/jmr.2948
+ligand name:s-diclazuril
+ligand smiles:C1=CC(=CC=C1[C@H](C#N)C2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C=N3)Cl)Cl  
+key residue(hbond):HIS146;ARG186;LYS190 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;306;313;
+KSV;2.37*10^5;1.99*10^5;1.75*10^5;
+kq;2.37*10^13;1.99*10^13;1.75*10^13;
+n;1.14;1.17;1.09;
+K;
+Ka;33.58*10^5;9.73*10^5;5.29*10^5;
+Kb;
+ΔH;-96.26;-96.26;-96.26;
+ΔS;-200;-200;-200;
+ΔG;-36.66;-35.06;-33.66;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;0.75*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

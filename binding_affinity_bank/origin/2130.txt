@@ -1,0 +1,95 @@
+Title:Elucidating the binding propensity of naphthyl hydroxamic acid to human serum albumin (HSA): Multi-spectroscopic and molecular modeling approach
+DOI:10.1016/j.molstruc.2019.01.067
+ligand name:compound 1
+ligand smiles:CCCCCCCCCCCC(=O)N(O)C1=CC=CC2=CC=CC=C12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;1.22*10^4;4.29*10^3;3.53*10^3;
+kq;2.17*10^12;7.67*10^12;6.31*10^12;
+n;0.74;0.72;0.61;
+K;
+Ka;
+Kb;1.20*10^3;1.15*10^3;1.02*10^3;
+ΔH;-12.28;-12.28;-12.28;
+ΔS;17.87;17.87;17.87;
+ΔG;-6.95;-6.87;-6.78;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.47*10^-17;
+E;0.11;
+R0;0.70;
+r;0.97;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

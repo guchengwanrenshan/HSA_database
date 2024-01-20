@@ -1,0 +1,69 @@
+Title:Molecular spectroscopic studies examining the interactions between phenobarbital and human serum albumin in alcohol consumption.
+DOI:10.1080/00952990.2017.1387265
+ligand name:phenobarbital
+ligand smiles:CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;13600.0;10800.0;10300.0
+kq;2130000000000.0;1690000000000.0;1610000000000.0
+n;1.08;1.14;1.12
+K;
+Ka;45000.0;34700.0;17200.0
+Kb;42100.0;28000.0;16500.0
+ΔH;-59.8984;-59.8984;-59.8984
+ΔS;-112.5023;-112.5023;-112.5023
+ΔG;-26.3727;-25.8102;-25.0226
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Binding and conformational changes of human serum albumin upon interaction with 4-aminoantipyrine studied by spectroscopic methods and cyclic voltammetry
+DOI:10.1016/j.saa.2014.01.028
+ligand name:4-aminoantipyrine
+ligand smiles:CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;4.0736*10^4;4.7323*10^4;5.7762*10^4;
+kq;
+n;1.15;1.16;0.89;
+K;
+Ka;
+Kb;3.1959*10^5;1.9896*10^5;0.9908*10^5;
+ΔH;;-43.082;;
+ΔS;;-43.82;;
+ΔG;;-30.01;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

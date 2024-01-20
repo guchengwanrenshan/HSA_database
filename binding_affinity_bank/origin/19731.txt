@@ -1,0 +1,90 @@
+Title:Multi-Spectroscopic and Theoretical Analyses of Human Serum Albumin Binding to a Water-Soluble Zinc(II) Complex including β-Amino Alcohol
+DOI:10.1002/slct.202200645
+ligand name:
+ligand smiles:OCCNCC[N+]1=CC2=CC=CC=C2O[Zn]1(Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;284;289;294;299;309;
+KSV;498914;401119;377815;326707;301551;
+kq;498914*10^8;401119*10^8;377815*10^8;326707*10^8;301551*10^8;
+n;1.50;1.41;1.37;1.33;1.77;
+K;
+Ka;
+Kb;17194913;6915124;4555121;2039858;378616
+ΔH;-108.7117;-108.7117;-108.7117;-108.7117;-108.7117;
+ΔS;-243.9217;-243.9217;-243.9217;-243.9217;-243.9217;
+ΔG;-39.3397;-37.8435;-37.4778;-36.1180;-32.991;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

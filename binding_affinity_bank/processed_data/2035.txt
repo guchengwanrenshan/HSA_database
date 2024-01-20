@@ -1,0 +1,69 @@
+Title:Interaction of inosine with human serum albumin as determined by NMR relaxation data and fluorescence methodology
+DOI:10.1016/j.molliq.2016.03.067
+ligand name:inosine
+ligand smiles:C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;315.0
+KSV;3417.0;2978.0;2501.0
+kq;
+n;0.983;0.962;0.89
+K;
+Ka;
+Kb;2844.0;1213.0;826.0
+ΔH;-80.06;-80.06;-80.06
+ΔS;-202.78;-202.78;-202.78
+ΔG;-19.86;-17.44;-16.43
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

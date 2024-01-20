@@ -1,0 +1,69 @@
+Title:Influence of antioxidant flavonoids quercetin and rutin on the in-vitro binding of neratinib to human serum albumin
+DOI:10.1016/j.saa.2020.118977
+ligand name: neratinib
+ligand smiles: CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)/C=C/CN(C)C
+key residue(hbond): Ala291;Arg222;Agr257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;307.0
+KSV;191000.0;188000.0;176000.0
+kq;19100000000000.0;18800000000000.0;17600000000000.0
+n;1.12;1.09;1.04
+K;
+Ka;
+Kb;712000.0;437000.0;253000.0
+ΔH;-86.68;-86.68;-86.68
+ΔS;-178.62;-178.62;-178.62
+ΔG;-33.45;-32.56;-31.84
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

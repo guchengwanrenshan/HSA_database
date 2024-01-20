@@ -1,0 +1,95 @@
+Title:Targeting Proteins with Toxic Azo Dyes: A Microcalorimetric Characterization of the Interaction of the Food Colorant Amaranth with Serum Proteins
+DOI:10.1021/jf5025278
+ligand name:amaranth
+ligand smiles:C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;283.15;293.15;298.15;303.15;
+n;0.96;0.98;0.91;1.24;
+K;
+Ka;
+Kb;3.03*10^5;2.28*10^5;1.76*10^5;1.29*10^5;
+ΔH;-14.73;-19.82;-22.59;-27.19;
+ΔS;52.9048;34.9650;24.6520;8.1478;
+ΔG;-29.71;-30.27;-29.94;-29.66;
+Cp;-600;-600;-600;-600;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

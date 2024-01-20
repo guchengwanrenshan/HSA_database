@@ -1,0 +1,69 @@
+Title:Spectroscopic and Molecular Modeling Studies on the Interaction Between a Fluorine-Containing Triazole Derivative and Human Serum Albumin
+DOI:10.1007/s12011-010-8835-6
+ligand name:FBTZ
+ligand smiles:CCCC1=NN=C(S)N1\N=C\C1=CC=C(F)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;295;295;295;
+pH;
+T;298.0;304.0;310.0
+KSV;901700.0;761300.0;650500.0
+kq;
+n;
+K;
+Ka;
+Kb;1394000.0;1092000.0;787000.0
+ΔH;-36.55;-36.55;-36.55
+ΔS;-4.9;-4.9;-4.9
+ΔG;-35.09;-35.06;-35.03
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

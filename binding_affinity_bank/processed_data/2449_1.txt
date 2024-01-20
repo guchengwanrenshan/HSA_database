@@ -1,0 +1,69 @@
+Title:Molecular structure-affinity relationship of flavonoids in lotus leaf (Nelumbo nucifera Gaertn.) on binding to human serum albumin and bovine serum albumin by spectroscopic method
+DOI:10.3390/molecules22071036
+ligand name:Naringenin
+ligand smiles:C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.15
+KSV;1922000.0
+kq;310000000000000.0
+n;0.974
+K;
+Ka;
+Kb;3111716.337
+ΔH;
+ΔS;
+ΔG;-37.3086
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

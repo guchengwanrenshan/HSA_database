@@ -1,0 +1,69 @@
+Title:Isorenieratene interaction with human serum albumin: Multi-spectroscopic analyses and docking.
+DOI:10.1016/j.foodchem.2018.02.105
+ligand name:Isorenieratene
+ligand smiles:CC1=C(C(=C(C=C1)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C=CC(=C2C)C)C)\C)\C)/C)/C)C    
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:sites I and II(II may be the primary binding site)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;397200.0;347300.0
+kq;39720000000000.0;34730000000000.0
+n;
+K;
+Ka;226100.0;213500.0
+Kb;
+ΔH;-3.674;-3.674
+ΔS;90.18;90.18
+ΔG;-30.6;-31.64
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Cyclometalated ruthenium(II) complexes with 3-acetyl-2[H]-chromene-2-one derived CNS chelating ligand systems: synthesis, x-ray characterization and biological evaluation
+DOI:10.1039/c7nj02877f
+ligand name:H2L1
+ligand smiles:C\C(=N/NC(N)=S)C1=CC2=C(OC1=O)C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;290;
+pH;7.2
+T;293.0
+KSV;9550.0
+kq;955000000000.0
+n;0.9213
+K;
+Ka;
+Kb;4130.0
+ΔH;
+ΔS;
+ΔG;-20.2822
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Interaction of hyperoside with human serum albumin and effect of glucose on the binding
+DOI:10.1155/2014/386586
+ligand name:Hyperoside
+ligand smiles:C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;173000.0;97500.0
+kq;
+n;1.09;1.28
+K;
+Ka;
+Kb;247000.0;4270000.0
+ΔH;36.7;36.7;36.7
+ΔS;226.37;227.39;227.61
+ΔG;-30.76;-29.75;-29.28
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

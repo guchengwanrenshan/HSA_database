@@ -1,0 +1,90 @@
+Title:Indole-nitroimidazole conjugates as efficient manipulators to decrease the genes expression of methicillin-resistant Staphylococcus aureus
+DOI:10.1016/j.ejmech.2019.06.093
+ligand name:4b
+ligand smiles:CC(=O)/C(=C/C1=CN(CC(=O)N2CCCCC2)C2=C1C=CC=C2)N1C=C([N+](=O)[O-])N=C1C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;313;
+KSV;8.14*10^4;7.63*10^4;6.35*10^4;
+kq;1.27*10^13;1.19*10^13;0.99*10^13;
+n;1.007;1.174;1.221;
+K;
+Ka;13.15*10^4;7.98*10^4;5.69*10^4;
+Kb;5.88*10^4;5.73*10^4;4.95*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

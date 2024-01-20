@@ -1,0 +1,69 @@
+Title:Molecular spectroscopic insight into the binding of batatasin V isomers to human serum albumin
+DOI:10.1080/00387010.2017.1320765
+ligand name:isoamoenylin
+ligand smiles:COC1=CC(CCC2=CC=CC(O)=C2)=CC(OC)=C1OC
+key residue(hbond):Arg257 d
+key residue(hydrophobic):Glu153;Ala291;His288;Lys199;Arg257;Arg218 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;299.0;303.0
+KSV;3170.0;3030.0;2620.0
+kq;547000000000.0;522000000000.0;452000000000.0
+n;1.02;0.93;0.89
+K;
+Ka;
+Kb;3550.0;1550.0;1050.0
+ΔH;-90.7;-90.7;-90.7
+ΔS;-241.77;-241.77;-241.77
+ΔG;-19.86;-18.41;-17.44
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

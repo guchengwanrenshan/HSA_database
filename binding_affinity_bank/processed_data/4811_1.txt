@@ -1,0 +1,69 @@
+Title:Study on interaction of cefoperazone and ciprofloxacin lactate with human serum albumin by fluorescence spectrum
+DOI:10.6039/j.issn.1001-0408.2013.33.05
+ligand name:ciprofloxacin
+ligand smiles:C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;310.0
+KSV;26700.0;17500.0
+kq;2670000000000.0;1750000000000.0
+n;0.63;0.57
+K;
+Ka;
+Kb;1790.0;1420.0
+ΔH;-60.3
+ΔS;144.0
+ΔG;-104.94
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

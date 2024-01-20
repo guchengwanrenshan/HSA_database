@@ -1,0 +1,95 @@
+Title:Molecular interaction study of flavonoid derivative 3d with human serum albumin using multispectroscopic and molecular modeling approach
+DOI:10.1016/j.talanta.2014.03.046
+ligand name:3d
+ligand smiles:CCC1=CC2=C(OC(=CC2=O)C2=C(Cl)C=C(NC(=O)NC3=CC=C(Cl)C=C3)C=C2)C=C1
+key residue(hbond):Arg222;Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;5*10^4;4.26*10^4;3.57*10^4;
+kq;5*10^12;4.26*10^12;3.57*10^12;
+n;
+K;
+Ka;
+Kb;6.8*10^4;5.26*10^4;3.81*10^4;
+ΔH;-19.5684;-19.5684;-19.5684;
+ΔS;24.6232;24.6232;24.6232;
+ΔG;-26.6599;-26.9061;-27.2016;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

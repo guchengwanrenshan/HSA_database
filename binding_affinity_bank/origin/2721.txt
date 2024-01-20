@@ -1,0 +1,95 @@
+Title:Studies of the interaction between palmatine hydrochloride and human serum albumin by fluorescence quenching method
+DOI:10.1016/j.jpba.2006.01.028
+ligand name:palmatine hydrochloride
+ligand smiles:COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;310;
+KSV;8.836*10^4;7.876*10^4;
+kq;8.836*10^12;7.876*10^12;
+n;1.288;1.129;
+K;
+Ka;
+Kb;9.895*10^4;8.590*10^4;
+ΔH;-10.935;-10.935;
+ΔS;59.180;59.180;
+ΔG;-28.689;-29.281;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.553*10^-14;
+E;0.38;
+R0;2.194;
+r;2.693;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Interactions between stipuol enantiomers and human serum albumin
+DOI:10.1016/j.foodchem.2022.132686
+ligand name: (S)-stipuol
+ligand smiles:CCCCCCCC\C=C\CC#CC#C[C@@H](O)C=C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;54300.0
+kq;10800000000000.0
+n;0.72
+K;
+Ka;2780.0
+Kb;
+ΔH;
+ΔS;
+ΔG;-19.65
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

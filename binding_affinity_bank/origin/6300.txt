@@ -1,0 +1,93 @@
+Title:Study of microheterogeneous environment of protein Human Serum Albumin by an extrinsic fluorescent reporter: A spectroscopic study in combination with Molecular Docking and Molecular Dynamics Simulation
+DOI:10.1016/j.jphotobiol.2012.04.007
+ligand name:DMAPPDA
+ligand smiles:CN(C)C1=CC=C(\C=C\C=C/C(O)=O)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;
+T;298;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;0.851*10^4;
+ΔH;
+ΔS;
+ΔG;-20.4598;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;1.1249*10^-14;
+E;0.805;
+R0;2.34;
+r;1.85;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

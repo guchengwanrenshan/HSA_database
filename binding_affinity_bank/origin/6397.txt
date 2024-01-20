@@ -1,0 +1,95 @@
+Title:Spectroscopic study on interaction between bisphenol A or its degraded solution under microwave irradiation in the presence of activated carbon and human serum albumin
+DOI:10.1016/j.jlumin.2011.03.013
+ligand name:bisphenol A
+ligand smiles:CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;3.16*10^4;2.70*10^4;2.58*10^4;
+kq;3.01*10^12;2.66*10^12;2.54*10^12;
+n;1.0322;1.0002;0.9962;
+K;
+Ka;
+Kb;4.248*10^4;2.658*10^4;2.432*10^4;
+ΔH;-30.06;-30.06;-30.06;
+ΔS;-12.26;-12.28;-12.30;
+ΔG;-26.406;-26.260;-26.150;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;7.36;7.36;7.36;
+T;298;310;315;
+J;9.54*10^-16;9.49*10^-16;9.46*10^-16;
+E;0.2254;0.2052;0.1973;
+R0;1.6674;1.6559;1.6554;
+r;2.036;2.075;2.091;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

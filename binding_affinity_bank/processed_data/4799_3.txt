@@ -1,0 +1,69 @@
+Title:Interaction between Human Serum Albumin and antidiabetic compounds and its influence on the O2(1Δg)-mediated degradation of the protein
+DOI:10.1016/j.jphotobiol.2014.10.019
+ligand name:Glipizide
+ligand smiles:CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;285.0;292.0;299.0;308.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;28300.0;28000.0;24600.0;23200.0
+ΔH;-6.6944
+ΔS;61.0864
+ΔG;-24.6856
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Spectroscopic, zeta potential and molecular docking analysis on the interaction between human serum albumin and halogenated thienyl chalcones
+DOI:10.1016/j.molliq.2017.07.091
+ligand name:T02
+ligand smiles:[H]C1=CC=C(N1)C(=O)\C=C\C1=CC=C(Cl)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;16900.0;17000.0;17100.0
+kq;3220000000000.0;3240000000000.0;3260000000000.0
+n;
+K;
+Ka;
+Kb;22500.0;31100.0;48700.0
+ΔH;41.9;41.9;41.9
+ΔS;225.0;225.0;225.0
+ΔG;-24.7;-26.3;-27.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

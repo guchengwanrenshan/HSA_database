@@ -1,0 +1,69 @@
+Title:Insights into protein recognition for γ-lactone essences and the effect of side chains on interaction via microscopic, spectroscopic, and simulative technologies
+DOI:10.1016/j.foodchem.2018.11.037
+ligand name:γ-Hepanolactone
+ligand smiles:CCCC1CCC(=O)O1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;
+kq;
+n;
+K;1378.29;1558.57;2071.85
+Ka;
+Kb;
+ΔH;26.16;26.16;26.16
+ΔS;147.64;147.64;147.64
+ΔG;-17.91;-18.58;-19.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

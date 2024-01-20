@@ -1,0 +1,110 @@
+Title:Magnetic Field Effect Corroborated with Docking Study to Explore Photoinduced Electron Transfer in Drug-Protein Interaction
+DOI:10.1021/jp109604a
+ligand name:proflavin
+ligand smiles:C1=CC(=CC2=NC3=C(C=CC(=C3)N)C=C21)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;313;318;
+KSV;
+kq;
+n;1.41;1.38;1.38;1.39;
+K;
+Ka;
+Kb;3.29*10^6;2.13*10^6;1.53*10^6;1.14*10^6;
+ΔH;-41.63;-41.63;-41.63;-41.63;
+ΔS;-14.54;-14.54;-14.54;-14.54;
+ΔG;-37.29;-37.15;-37.08;-37.01;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.03*10^-14;
+E;0.324;
+R0;24.62;
+r;27.83;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+residues;domain;ASAHSA;ASAHSA−PF+;ΔASA
+Arg209;129.8;110.72;19.08;
+Ala210;25.81;25.6;0.21;
+Lys212;71.13;40.84;30.29;
+Ala213;35.05;14.53;20.52;
+Val216;15.02;0.2;14.82;
+Phe228;39.75;29.81;9.94;
+Ser232;37.04;14.08;22.96;
+Val235;4.93;0;4.93;
+Thr236;75.7;65.62;10.08;
+Asp324;76.96;46.71;30.25;
+Val325;84.55;74.41;10.14;
+Leu327;19.04;11.02;8.02;
+Gly328;13.71;0;13.71;
+Leu331;5.85;3.21;2.64;
+
+
+
+
+

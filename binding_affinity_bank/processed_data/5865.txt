@@ -1,0 +1,69 @@
+Title:Methyl-triclosan binding to human serum albumin: Multi-spectroscopic study and visualized molecular simulation
+DOI:10.1016/j.chemosphere.2013.06.035
+ligand name:methyl-triclosan 
+ligand smiles:COC1=C(OC2=C(Cl)C=C(Cl)C=C2)C=CC(Cl)=C1
+key residue(hbond):Pro447 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;7.4;7.4;7.4
+T;291.0;298.0;305.0
+n;
+K;
+Ka;
+Kb;5040.0;6320.0;7720.0
+ΔH;22.48;22.48;22.48
+ΔS;148.16;148.16;148.16
+ΔG;-20.64;-21.68;-22.71
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

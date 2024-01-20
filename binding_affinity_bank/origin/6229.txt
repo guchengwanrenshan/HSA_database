@@ -1,0 +1,93 @@
+Title:Determination of Thermodynamics Constant of Interaction among of Atenolol and Metoprolol with Human Serum Albumin: Spectroscopic and Molecular Modeling Approaches
+DOI:10.1134/s0036024421140181
+ligand name:Atenolol
+ligand smiles:CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;7.4;7.4;7.4;
+T;298.15;303.15;310.15;
+n;
+K;
+Ka;
+Kb;3.1*10^3;6.5*10^3;9.5*10^3;
+kq;
+ΔH;-72.74;-72.74;-72.74;
+ΔS;-29.18;-29.18;-29.18;
+ΔG;-64.05;-63.91;-63.69;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

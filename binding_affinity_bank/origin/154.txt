@@ -1,0 +1,95 @@
+Title:Molecular interactions between warfarin and human (HSA) or bovine (BSA) serum albumin evaluated
+DOI:10.1016/j.jpba.2017.12.008
+ligand name:warfarin
+ligand smiles:CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;8.46*10^4;8.39*10^4;8.29*10^4;
+kq;
+n;0.92;;;
+K;
+Ka;
+Kb;4.21*10^4;;;
+ΔH;-5.6;;;
+ΔS;69.7339;;;
+ΔG;-26.3807;;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;1.21;
+K;
+Ka;
+Kb;7.08*10^4
+ΔH;-5.4;
+ΔS;74.7267;
+ΔG;-27.6686;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

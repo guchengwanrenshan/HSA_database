@@ -1,0 +1,69 @@
+Title:Exploring the binding interactions of janus green blue with serum albumins from spectroscopic and calorimetric studies aided by in silico calculations
+DOI:10.1080/07391102.2020.1870156
+ligand name:janus green blue
+ligand smiles:CCN(CC)C1=CC=C2NC3=C(C=C(/N=N/C4=CC=C(N(C)C)C=C4)C=C3)[NH+](C3=CC=CC=C3)C2=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomian IIIA; subdomain IIIB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;41600.0
+kq;7280000000000.0
+n;
+K;
+Ka;
+Kb;43300.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.46
+K;
+Ka;
+Kb;138000.0
+ΔH;0.9686
+ΔS;101.6712
+ΔG;-29.2043
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;75000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Cytotoxicity and comparative binding mechanism of piperine with human serum albumin and α-1-acid glycoprotein
+DOI:10.1080/07391102.2014.947326
+ligand name:Piperine
+ligand smiles:C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;386400.0
+kq;69000000000000.0
+n;1.2
+K;
+Ka;
+Kb;570000.0
+ΔH;
+ΔS;
+ΔG;-32.6352
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:An Investigation on intermolecular interaction between Bis(indolyl)methane and HSA and BSA using multi technique methods
+DOI:10.1080/07391102.2016.1264890
+ligand name:Bis(indolyl)methane
+ligand smiles:COC1=C(O)C=CC(=C1)C(=C1\C(C)=NC2=C1C=CC=C2)\C1=C(C)NC2=C1C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;310;
+KSV;1.73*10^5;1.48*10^5;1.46*10^5;1.26*10^5;
+kq;1.73*10^13;1.48*10^13;1.46*10^13;1.26*10^13;
+n;1.03;0.88;0.87;0.95;
+K;
+Ka;
+Kb;3.73*10^5;3.03*10^5;2.85*10^5;2.20*10^5;
+ΔH;22.36;22.36;22.36;22.36;
+ΔS;182.9771;179.9686;178.2212;174.4027;
+ΔG;-31.25;-31.27;-31.64;-31.70;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

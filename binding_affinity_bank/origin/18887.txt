@@ -1,0 +1,90 @@
+Title:Experimental and computational investigation on the interaction of anticancer drug gemcitabine with human plasma protein: effect of copresence of ibuprofen on the binding
+DOI:10.3390/molecules27051635
+ligand name:gemcitabine
+ligand smiles:C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F  
+key residue(hbond):ARG209;GLY328 d
+key residue(hydrophobic):ALA213;LYS212;VAL216 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;280nm;295nm;295nm;295nm;295nm;
+pH;
+T;293;293;303;313;323;
+KSV;4.7*10^2;4.3*10^2;4.5*10^2;5.8*10^2;5.9*10^2;
+kq;8.0*10^10;7.2*10^10;7.6*10^10;9.8*10^10;9.9*10^10;
+n;;1.1;1.1;1.1;1.1;
+K;
+Ka;
+Kb;;8.2*10^2;9.6*10^2;10.1*10^2;11.2*10^2;
+ΔH;;7.8;7.8;7.8;7.8;
+ΔS;;82.6;82.6;82.6;82.6;
+ΔG;;-16.4;-17.2;-18.1;-18.9;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

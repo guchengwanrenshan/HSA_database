@@ -1,0 +1,95 @@
+Title:Spectroscopic study on interaction of chlorogenic acid and human serum albumin
+DOI:None
+ligand name:chlorogenic acid
+ligand smiles:C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;320;
+KSV;4.89*10^4;4.86*10^4;4.77*10^4;4.46*10^4;
+kq;4.89*10^12;4.86*10^12;4.77*10^12;4.46*10^12;
+n;1.59;1.36;1.08;1.02;
+K;
+Ka;
+Kb;23.0*10^6;1.94*10^6;1.19*10^5;0.601*10^5;
+ΔH;-179.0;-216.0;-56.4;-153.1;
+ΔS;-476.1;-599.4;-84.7;-386.7;
+ΔG;-40.9;-36.1;-30.1;-29.3;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.26343*10^-13;
+E;0.1069;
+R0;4.76;
+r;6.78;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

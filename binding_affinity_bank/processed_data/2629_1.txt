@@ -1,0 +1,69 @@
+Title:Acridine Based N-Acylhydrazone Derivatives as Potential Anticancer Agents: Synthesis, Characterization and ctDNA/HSA Spectroscopic Binding Properties
+DOI:10.3390/molecules27092883
+ligand name:3b
+ligand smiles:FC1=CC=C(C=C1)C(=O)N\N=C\C1=CC=CC2=CC3=C(C=CC=C3)N=C12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;151000.0;157000.0;137000.0
+kq;15100000000000.0;15700000000000.0;13700000000000.0
+n;1.079;1.061;1.039
+K;
+Ka;
+Kb;397000.0;328000.0;220000.0
+ΔH;-44.94;-44.94;-44.94
+ΔS;-43.24;-43.24;-43.24
+ΔG;-32.05;-31.84;-31.62
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

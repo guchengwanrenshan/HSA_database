@@ -1,0 +1,95 @@
+Title:Interaction of inosine with human serum albumin as determined by NMR relaxation data and fluorescence methodology
+DOI:10.1016/j.molliq.2016.03.067
+ligand name:inosine
+ligand smiles:C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;315;
+KSV;3417;2978;2501;
+kq;
+n;0.983;0.962;0.890;
+K;
+Ka;
+Kb;2844;1213;826;
+ΔH;-80.06;-80.06;-80.06;
+ΔS;-202.78;-202.78;-202.78;
+ΔG;-19.86;-17.44;-16.43;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

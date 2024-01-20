@@ -1,0 +1,95 @@
+Title:Effects of human serum albumin glycation on the interaction with the tyrosine kinase inhibitor pazopanib unveiled by multi-spectroscopic and bioinformatic tools
+DOI:10.1016/j.molliq.2021.116843
+ligand name:Pazopanib
+ligand smiles:CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;6.37*10^5;5.27*10^5;3.79*10^5;
+kq;6.37*10^13;5.27*10^13;3.79*10^13;
+n;
+K;
+Ka;
+Kb;6.76*10^5;5.50*10^5;3.80*10^5;
+ΔH;-24.58;-24.58;-24.58;
+ΔS;28.65;28.65;28.65;
+ΔG;-33.06;-33.26;-33.46;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.03*10^-13;
+E;0.58;
+R0;4.73;
+r;4.47;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

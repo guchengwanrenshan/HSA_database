@@ -1,0 +1,69 @@
+Title:DFT/B3LYP calculations, in vitro cytotoxicity and antioxidant activities of steroidal pyrimidines and their interaction with HSA using molecular docking and multispectroscopic techniques
+DOI:10.1016/j.bioorg.2017.06.001
+ligand name:6
+ligand smiles:CC(C)CCC[C@@H](C)[C@H]1CCC2C3C(CC[C@]12C)[C@@]1(C)CCCCC1C1=C3C(=NC(O)=N1)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;51800.0
+kq;9250000000000.0
+n;1.1
+K;
+Ka;
+Kb;168000.0
+ΔH;
+ΔS;
+ΔG;-29.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

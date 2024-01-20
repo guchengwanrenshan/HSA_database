@@ -1,0 +1,95 @@
+Title:Application of molecular modelling and spectroscopic approaches for investigating the binding of tanshinone IIA to human serum albumin
+DOI:10.1016/j.jct.2012.11.009
+ligand name:tanshinone IIA
+ligand smiles:CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;1.91*10^4;21.1*10^4;21.5*10^4;
+kq;1.91*10^12;21.1*10^12;21.5*10^12;
+n;
+K;
+Ka;
+Kb;6.42*10^4;15.4*10^4;43.5*10^4;
+ΔH;105.5;105.5;105.5;
+ΔS;448.12;448.12;448.12;
+ΔG;-27.11;-30.24;-33.28;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Interaction of nobiletin with human serum albumin studied using optical spectroscopy and molecular modeling methods
+DOI:10.1016/j.jlumin.2007.09.029
+ligand name:nobiletin
+ligand smiles:COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;
+kq;
+n;1.36;1.33;1.25;1.28;
+K;
+Ka;
+Kb;4.054*10^4;4.769*10^4;5.646*10^4;7.044*10^4;
+ΔH;1.938;1.938;1.938;1.938;
+ΔS;155.195;155.195;155.195;155.195;
+ΔG;-42.913;-43.999;-45.086;-46.172;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.5155*10^-15;
+E;0.17;
+R0;1.79;
+r;2.33;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

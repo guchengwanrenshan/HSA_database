@@ -1,0 +1,94 @@
+Title:Study of interaction of some benzodiazepines with human serum albumin by fluorescent method
+DOI:10.17721/moca.2018.18-28
+ligand name:Cinazepam
+ligand smiles:C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Br)OC(=O)CCC(=O)O)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;313;
+KSV;1.72*10^4;1.34*10^4;
+kq;1.72*10^12;1.34*10^12;
+n;0.89;0.70;
+K;
+Ka;
+Kb;7.10*10^3;0.94*10^3;
+ΔH;-104.37;-104.37;
+ΔS;-276.51;-276.51;
+ΔG;-21.97;-17.82;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

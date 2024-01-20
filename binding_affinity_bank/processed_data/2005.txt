@@ -1,0 +1,69 @@
+Title:Interaction of human serum albumin with sulfadiazine
+DOI:10.1016/j.molliq.2014.04.029
+ligand name:sulfadiazine
+ligand smiles:C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;310.0
+KSV;39000.0;31900.0;26400.0
+kq;3900000000000.0;3190000000000.0;2640000000000.0
+n;0.77;0.75;0.74
+K;
+Ka;
+Kb;3260.0;2280.0;1930.0
+ΔH;-23.39;-23.39;-23.39
+ΔS;-12.67;-12.67;-12.67
+ΔG;-19.67;-19.55;-19.45
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,94 @@
+Title:Multi-spectroscopic analysis and molecular modeling on the interaction of curcumin and its derivatives with human serum albumin: A comparative study
+DOI:10.1016/j.saa.2014.01.009
+ligand name:curcumin
+ligand smiles:COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;295;295;295;
+pH;
+T;298;304;310;
+KSV;1.53*10^5;1.32*10^5;1.08*10^5;
+kq;1.53*10^13;1.32*10^13;1.08*10^13;
+n;0.86;0.80;0.72;
+K;
+Ka;8.59*10^4;10.26*10^4;11.99*10^4;
+Kb;5.46*10^4;6.14*10^4;7.62*10^4;
+ΔH;21.311;21.311;21.311;
+ΔS;166.00;166.00;166.00;
+ΔG;-28.15;-29.16;-30.14;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;3.24*10^-14;
+E;0.58;
+R0;6.7;
+r;6.3;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

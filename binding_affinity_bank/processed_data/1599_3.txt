@@ -1,0 +1,69 @@
+Title:A simple method for obtaining human albumin and its use for in vitro interaction assays with indole-thiazole and indole-thiazolidinone derivatives
+DOI:10.1016/j.ijbiomac.2021.09.109
+ligand name:JF-252
+ligand smiles:N1C=C(\C=N\N=C2\SC=C(N2C2=CC=CC3=C2C=CC=C3)C2=CC=CC=C2)C2=C1C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;18600.0;18200.0;17900.0
+kq;3650000000000.0;3570000000000.0;3510000000000.0
+n;
+K;
+Ka;
+Kb;329000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

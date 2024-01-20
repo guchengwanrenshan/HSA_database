@@ -1,0 +1,94 @@
+Title:Biophysical and in silico studies of the interaction between the anti-viral agents acyclovir and penciclovir, and human serum albumin
+DOI:10.3390/molecules22111906
+ligand name:Acyclovir
+ligand smiles:C1=NC2=C(N1COCCO)N=C(NC2=O)N 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: Site I and II(subdomains IIA and IIIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;309;
+KSV;2.96*10^4;2.84*10^4;2.75*10^4;
+kq;1.10*10^13;1.05*10^13;1.02*10^13;
+n;1.00;1.00;1.00;
+K;
+Ka;
+Kb;2.97*10^4;2.89*10^4;2.82*10^4;
+ΔH;-1.79;-1.79;-1.79;
+ΔS;79.40;79.40;79.40;
+ΔG;-24.66;-25.45;-26.33;
+Kd;
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

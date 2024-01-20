@@ -1,0 +1,69 @@
+Title:Spectroscopic studies on the interaction between tilorone and human serum albumin
+DOI:10.17721/fujcv5i1p48-59
+ligand name:Tilorone
+ligand smiles:CCN(CC)CCOC1=CC2=C(C=C1)C3=C(C2=O)C=C(C=C3)OCCN(CC)CC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;313.0
+KSV;32300.0;20700.0
+kq;3230000000000.0;2070000000000.0
+n;1.08;1.05
+K;
+Ka;
+Kb;71900.0;37500.0
+ΔH;-33.64;-33.64
+ΔS;-19.91;-19.91
+ΔG;-27.71;-27.41
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

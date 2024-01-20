@@ -1,0 +1,69 @@
+Title:Interaction between 2, 4, 6-Trichlorophenol and human serum albumin
+DOI:10.13526/j.issn.1006-6144.2018.03.012
+ligand name:2,4,6-Trichlorophenol
+ligand smiles:C1=C(C=C(C(=C1Cl)O)Cl)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;305.0;310.0;315.0
+KSV;
+kq;28210000000000.0;40900000000000.0;45320000000000.0;46130000000000.0
+n;0.9647;1.159;0.9218;0.8999
+K;
+Ka;
+Kb;170200.0;3681000.0;152000.0;133500.0
+ΔH;-59.8588;-59.8588;-59.8588;-59.8588
+ΔS;-88.9378;-88.9378;-88.9378;-88.9378
+ΔG;-33.1774;-32.7327;-32.2881;-31.8434
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

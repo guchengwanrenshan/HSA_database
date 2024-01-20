@@ -1,0 +1,69 @@
+Title:Delivery Mechanism of the Pharmaceutical Complex of Genistein-Adenine Based on Spectroscopic and Molecular Modelling at Atomic Scale
+DOI:10.1002/cbdv.202000944
+ligand name:Genistein
+ligand smiles:C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's Site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;11800.0;6800.0
+kq;1180000000000.0;680000000000.0
+n;
+K;219000.0;457000.0
+Ka;
+Kb;
+ΔH;194.0;194.0
+ΔS;753.0;753.0
+ΔG;-30.5;-39.5
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Comparative interactions of dihydroquinazolin derivatives with human serum albumin observed via multiple spectroscopy
+DOI:10.3390/app7020200
+ligand name:3f
+ligand smiles:CC(C)C1=CC=C(\C=N\N2C(N(C(=O)CC(C)(C)C)C3=C(C=C(Cl)C=C3)C2=O)C2=CC=C(C=C2)C(C)C)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;43260.0;44230.0;45930.0
+kq;4326000000000.0;4423000000000.0;4593000000000.0
+n;1.0581;1.063;1.0671
+K;
+Ka;
+Kb;51679.0;53130.4;54687.9
+ΔH;2.4161;2.4161;2.4161
+ΔS;98.4869;98.4869;98.4869
+ΔG;-26.933;-27.8194;-28.7058
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

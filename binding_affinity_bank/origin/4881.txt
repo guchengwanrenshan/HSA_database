@@ -1,0 +1,95 @@
+Title:Binding of Dioxopromethazine Hydrochloride with Human Serum Albumin and Its Effect on the Conformation of the Protein
+DOI:10.1007/s10953-012-9905-5
+ligand name:Dioxopromethazine hydrochloride
+ligand smiles:CC(CN1C2=CC=CC=C2S(=O)(=O)C3=CC=CC=C31)N(C)C.Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;300;305;310;
+KSV;6.768*10^3;6.230*10^3;5.751*10^3;5.357*10^3;
+kq;1.128*10^12;1.038*10^12;0.9585*10^12;0.8928*10^12;
+n;
+K;
+Ka;
+Kb;1.331*10^4;1.284*10^4;1.246*10^4;1.212*10^4;
+ΔH;-4.73;-4.73;-4.73;-4.73;
+ΔS;62.9;62.9;62.9;62.9;
+ΔG;-23.29;-23.60;-23.91;-24.23;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.279*10^-15;
+E;0.1393;
+R0;2.13;
+r;2.88;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

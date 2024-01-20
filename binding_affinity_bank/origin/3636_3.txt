@@ -1,0 +1,95 @@
+Title:Molecular interactions of benzophenone UV filters with human serum albumin revealed by spectroscopic techniques and molecular modeling
+DOI:10.1016/j.jhazmat.2013.10.024
+ligand name:BP-8
+ligand smiles:COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;8.26*10^4;7.96*10^4;7.07*10^4;
+kq;8.26*10^12;7.96*10^12;7.07*10^12;
+n;0.99;0.95;1.06;
+K;
+Ka;12.96*10^4;8.66*10^4;6.34*10^4;
+Kb;12.01*10^4;8.02*10^4;7.01*10^4;
+ΔH;-38.99;-38.99;-38.99;
+ΔS;-33.96;-33.96;-33.96;
+ΔG;-28.79;-28.64;-28.50;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

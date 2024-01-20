@@ -1,0 +1,69 @@
+Title:Bovine and Human Serum Albumin interactions with 3-carboxyphenoxathiin studied by fluorescence and circular dichroism spectroscopy
+DOI:10.3390/molecules15063905
+ligand name:3-carboxyphenoxathiin
+ligand smiles:C1=CC=C2C(=C1)OC3=CC=CC(=C3S2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;330000.0
+kq;
+n;0.8
+K;
+Ka;
+Kb;810000.0
+ΔH;
+ΔS;
+ΔG;-33.7068
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Probing the interaction of anti-cancer agent dihydromyricetin with human serum albumin: a typical method study
+DOI:10.2174/187152012802650002
+ligand name:Dihydromyricetin
+ligand smiles:C1=C(C=C(C(=C1O)O)O)[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;303;
+KSV;4.61*10^4;4.49*10^4;
+kq;4.61*10^12;4.49*10^12;
+n;1.262;1.230;
+K;
+Ka;
+Kb;1.02*10^6;0.699*10^6;
+ΔH;-19.59;-19.59;
+ΔS;47.23;47.23;
+ΔG;-33.24;-33.90;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.76*10^-15;
+E;0.1034;
+R0;2.35;
+r;3.37;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

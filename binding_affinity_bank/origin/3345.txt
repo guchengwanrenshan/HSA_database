@@ -1,0 +1,95 @@
+Title:Probing the binding of 8-Acetyl-7-hydroxycoumarin to human serum albumin by spectroscopic methods and molecular modeling
+DOI:10.1016/j.saa.2009.01.023
+ligand name:8-Acetyl-7-hydroxycoumarin
+ligand smiles:CC(=O)C1=C(C=CC2=C1OC(=O)C=C2)O  
+key residue(hbond):His242;Arg222;Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;298;301;310;
+KSV;9.206*10^4;;8.695*10^4;8.395*10^4;
+kq;1.841*10^14;;1.739*10^14;1.679*10^14;
+n;;1.07;;;
+K;
+Ka;12.91*10^4;;9.977*10^4;4.882*10^4;
+Kb;;4.52*10^4;;;
+ΔH;-3.66;;-3.66;-3.66;
+ΔS;82.45;;82.45;82.45;
+ΔG;-27.65;;-28.47;-29.22;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

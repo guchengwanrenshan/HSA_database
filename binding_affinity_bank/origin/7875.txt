@@ -1,0 +1,90 @@
+Title:Evaluation of the biointeraction of colorant flavazin with human serum albumin: insights from multiple spectroscopic studies;in silico docking and molecular dynamics simulation
+DOI:10.1039/c3fo60712g
+ligand name:flavazin
+ligand smiles:CC1=C(C(=O)N(N1)C2=CC=C(C=C2)S(=O)(=O)O)N=NC3=CC=CC=C3.[Na+]  
+key residue(hbond):Trp214;Arg222;Lys436 d
+key residue(hydrophobic):Lys195;Leu198;Trp214;Arg222;Val343;Lys436;Tyr452;Leu481 d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;5.039*10^4;4.787*10^4;4.481*10^4;4.205*10^4;
+kq;8.315*10^12;7.899*10^12;7.394*10^12;6.939*10^12;
+n;1.00;0.97;0.95;0.92;
+K;
+Ka;
+Kb;5.082*10^4;3.192*10^4;2.143*10^4;1.321*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

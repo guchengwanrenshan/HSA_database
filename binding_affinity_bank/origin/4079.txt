@@ -1,0 +1,95 @@
+Title:Studies on the interaction between tubeimoside II and human serum albumin by spectroscopic methods
+DOI:None
+ligand name: tubeimoside II
+ligand smiles:CC1C2C(C(C(O1)OC3C(C(COC3OC(=O)C45CCC(CC4C6=CCC7C(C6(CC5O)C)(CCC8C7(CC(C(C8(C)CO)OC9C(C(C(C(O9)CO)O)O)OC1C(C(C(CO1)OC(=O)CC(CC(=O)O2)(C)O)O)O)O)C)C)(C)C)O)O)O)OC1C(C(C(CO1)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;4.524*10^4;4.243*10^4;3.988*10^4;3.764*10^4;
+kq;4.524*10^12;4.243*10^12;3.988*10^12;3.764*10^12;
+n;1.069;1.043;1.021;1.007;
+K;
+Ka;
+Kb;10.02*10^4;7.01*10^4;4.14*10^4;4.11*10^4;
+ΔH;-44.829;-44.829;-44.829;-44.829;
+ΔS;-57.497;-57.497;-57.497;
+ΔG;-27.982;-27.695;-27.120;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.45*10^-11;
+E;0.9637;
+R0;8.55;
+r;4.95;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

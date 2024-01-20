@@ -1,0 +1,69 @@
+Title:Anticancer activity, calf thymus DNA and human serum albumin binding properties of Farnesiferol C from Ferula pseudalliacea
+DOI:10.1080/07391102.2018.1497543
+ligand name:Farnesiferol C
+ligand smiles:C/C(=C\COC1=CC2=C(C=C1)C=CC(=O)O2)/CC[C@H]3[C@@]4(CC[C@H](C3(C)C)O4)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II(Sub-domain ΙIB)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;787900.0
+kq;78790000000000.0
+n;0.31
+K;
+Ka;1405000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

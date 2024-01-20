@@ -1,0 +1,95 @@
+Title:Identification of binding sites on human serum albumin for somapacitan, a long-acting growth hormone derivative
+DOI:10.1021/acs.biochem.0c00019
+ligand name:Somapacitan
+ligand smiles:C(CCCCCCCC1=NNN=N1)CCCCCCCC(=O)NS(=O)(=O)CCCC(=O)NCCOCCOCC(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)NCCOCCOCC(=O)N[C@@H](CCCCNC(=O)CSC[C@@H](C(=O)O)N)C(=O)N)C(=O)O)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:domain III at FA4 or FA5
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;286;292;298;304;310;
+n;1.0;1.0;1.0;1.0;1.0;
+K;
+Ka;
+Kb;
+ΔH;-26.0;-23.2;-32.4;-39.6;-80.7;
+ΔS;46.503;65.068;39.262;18.750;-128.387;
+ΔG;-40.3;-42.2;-44.1;-45.6;-40.9;
+Cp;
+Kd;0.045;0.028;0.019;0.015;0.013;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

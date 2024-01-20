@@ -1,0 +1,95 @@
+Title:Comparison between loureirin A and cochinchinenin C on the interaction with human serum albumin
+DOI:10.1016/j.ejmech.2015.02.025
+ligand name:cochinchinenin C
+ligand smiles:COC1=CC=C(C=C1)C(CCC2=C(C=C(C=C2)O)OC)C3=C(C=C(C(=C3)CCC(=O)C4=CC=C(C=C4)O)OC)O
+key residue(hbond):Lys323 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA;subdomain IIB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;305;310;
+KSV;17.69*10^4;14.95*10^4;12.15*10^4;
+kq;17.69*10^12;14.95*10^12;12.15*10^12;
+n;0.78;0.83;0.97;
+K;
+Ka;
+Kb;25.32*10^4;18.62*10^4;12.32*10^4;
+ΔH;-55.94;-55.94;-55.94;
+ΔS;-82.86;-82.86;-82.86;
+ΔG;-31.09;-30.67;-20.26;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.404*10^-15;
+E;0.1212;
+R0;2.14;
+r;2.975;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

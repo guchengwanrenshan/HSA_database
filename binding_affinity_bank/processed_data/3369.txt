@@ -1,0 +1,69 @@
+Title:A ""traffic jam"" of (+)-catechin caused by hyperglycemia - The interaction between (+)-catechin and human serum albumin (HSA) in high glucose environment
+DOI:10.1016/j.molliq.2022.118975
+ligand name:(+)-catechin
+ligand smiles:C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O
+key residue(hbond):Leu491;Glu383;Ser489 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;3113.0;2765.0;1778.0
+kq;
+n;1.2332;1.0474;0.9051
+K;
+Ka;
+Kb;495600.0;44660.0;6331.0
+ΔH;-33.6;-33.6;-33.6
+ΔS;99.68;99.68;99.68
+ΔG;-63.3;-63.9;-64.5
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

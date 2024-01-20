@@ -1,0 +1,69 @@
+Title:Study on the interaction between bilirubin and human serum albumin by fluorescence spectroscopy
+DOI:None
+ligand name:bilirubin
+ligand smiles:CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)/C=C\4/C(=C(C(=O)N4)C=C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;301.0;311.0
+KSV;230000.0;53800.0
+kq;23000000000000.0;5380000000000.0
+n;
+K;
+Ka;
+Kb;1280000.0;1520000.0
+ΔH;-113.0;-113.0
+ΔS;-273.0;-273.0
+ΔG;-30.827;-28.097
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,106 @@
+Title:Mitigation of ribose and glyoxal induced glycation, AGEs formation and aggregation of human serum albumin by citrus fruit phytochemicals naringin and naringenin: An insight into their mechanism of action
+DOI:10.1016/j.foodres.2022.111358
+ligand name:Naringin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;10200;25500;27300;
+kq;0.181*10^13;0.453*10^13;0.484*10^13;
+n;1.242;1.054;1.061;
+K;
+Ka;
+Kb;19700;30400;32900;
+ΔH;19.417;19.417;19.417;
+ΔS;149.634;149.634;149.634;
+ΔG;-23.976;-25.473;-26.969;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.470*10^-15;
+E;0.153;
+R0;2.141;
+r;2.846；
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+LYS195;;;65.94;
+GLU292;;;37.13;
+ARG218;;;36.97;
+ARG222;;;32.5;
+ALA291;;;29.36;
+LYS199;;;24.7;
+TRP214;;;22.16;
+SER192;;;22.14;
+TYR150;;;13.94;
+GLU153;;;11.35;
+VAL293;;;11.22;
+
+
+
+
+

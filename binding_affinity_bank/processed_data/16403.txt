@@ -1,0 +1,69 @@
+Title:Study to explore host guest inclusion complexes of vitamin B1 with CD molecules for enhancing stability and innovative application in biological system
+DOI:10.1016/j.molliq.2019.111952
+ligand name:thiamine hydrochloride
+ligand smiles:CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.Cl.[Cl-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;298.15
+n;
+K;
+Ka;
+Kb;4210.0
+ΔH;
+ΔS;
+ΔG;-20.24
+Kd;
+
+

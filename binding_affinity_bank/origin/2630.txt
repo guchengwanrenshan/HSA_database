@@ -1,0 +1,95 @@
+Title:Human serum albumin unfolding pathway upon drug binding: A thermodynamic and spectroscopic description
+DOI:10.1016/j.jct.2008.11.011
+ligand name:Promazine
+ligand smiles:CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;
+KSV;
+kq;1.8*10^12;
+n;1.1
+K;
+Ka;
+Kb;3.3*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;293;
+n;1.8
+K;
+Ka;
+Kb;2.6*10^4
+ΔH;-6.3;
+ΔS;64.5051;
+ΔG;-25.2
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

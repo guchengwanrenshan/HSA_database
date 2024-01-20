@@ -1,0 +1,69 @@
+Title:Biological assays of BF2-naphthyridine compounds: Tyrosinase and acetylcholinesterase activity, CT-DNA and HSA binding property evaluations
+DOI:10.1016/j.ijbiomac.2020.05.162
+ligand name:1g
+ligand smiles:F[B-]1(F)OC(=NC2=[N+]1C1=C(C=C2)C(=CC(=N1)C1=CC=CS1)C(F)(F)F)C1=CC=CC=C1
+key residue(hbond):Lys198;Arg221 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;33600.0;33200.0;33000.0
+kq;5740000000000.0;5680000000000.0;5640000000000.0
+n;
+K;
+Ka;
+Kb;84400.0;95000.0;102000.0
+ΔH;10.31;10.31;10.31
+ΔS;129.0;129.0;129.0
+ΔG;-27.9;-28.8;-29.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

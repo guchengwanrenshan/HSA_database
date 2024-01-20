@@ -1,0 +1,69 @@
+Title:Study on Interaction between 5-Bromo-4-thio-2'-deoxyuridine and human serum albumin by spectroscopy and molecular docking
+DOI:10.1016/j.saa.2014.10.081
+ligand name:5-Bromo-4-thio-2′-deoxyuridine
+ligand smiles:C1[C@@H]([C@H](O[C@H]1N2C=C(C(=S)NC2=O)Br)CO)O  
+key residue(hbond):
+key residue(hydrophobic):Trp214;Lys199;Ser202;Phe211d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;45000.0;47000.0;57000.0
+kq;4500000000000.0;4700000000000.0;5700000000000.0
+n;
+K;40300.0;39700.0;36400.0
+Ka;
+Kb;
+ΔH;-3.773;-3.773;-3.773
+ΔS;75.25;75.25;75.25
+ΔG;-25.595;-26.348;-27.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

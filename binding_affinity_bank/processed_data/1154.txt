@@ -1,0 +1,69 @@
+Title:Bioactivity in vitro of quercetin glycoside obtained in Beauveria bassiana culture and its interaction with liposome membranes
+DOI:10.3390/molecules22091520
+ligand name:quercetin
+ligand smiles:C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;305.0;310.0;315.0
+KSV;175100.0;167190.0;156320.0;137180.0
+kq;
+n;1.048;1.014;0.801;0.645
+K;
+Ka;
+Kb;883690.0;690720.0;24860.0;3450.0
+ΔH;-132.616;-132.616;-132.616;-132.616
+ΔS;-390.267;-390.267;-390.267;-390.267
+ΔG;-15.5359;-13.5846;-11.6332;-9.6819
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

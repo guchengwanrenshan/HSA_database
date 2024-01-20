@@ -1,0 +1,95 @@
+Title:Exploring the binding mechanism and adverse toxic effects of chiral phenothrin to human serum albumin: Based on multi-spectroscopy, biochemical and computational approach
+DOI:10.1016/j.saa.2022.121659
+ligand name:phenothrin
+ligand smiles:CC(=CC1C(C1(C)C)C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;56023;46093;45246;
+kq;5.603*10^12;4.6093*10^12;4.5346*10^12;
+n;0.8618;1.0698;0.8428;
+K;1.1839*10^4;10.382*10^4;0.67143*10^4;
+Ka;
+Kb;
+ΔH;-40.4442;-40.4442;-40.4442;
+ΔS;37.1842;37.1842;37.1842;
+ΔG;-23.2374;-29.1933;-22.7115;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Shedding light on the molecular interaction between the Hepatitis B virus inhibitor, clevudine, and human serum albumin: Thermodynamic, spectroscopic, microscopic, and in silico analyses
+DOI:10.1016/j.molliq.2022.120737
+ligand name:clevudine
+ligand smiles:CC1=CN(C(=O)NC1=O)[C@@H]2[C@@H]([C@H]([C@@H](O2)CO)O)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;315;
+KSV;10.83*10^3;9.70*10^3;8.47*10^3;7.30*10^3;
+kq;1.70*10^12;1.52*10^12;1.33*10^12;1.14*10^12;
+n;1.04;1.08;1.12;1.16;
+K;
+Ka;
+Kb;11.20*10^3;10.40*10^3;9.12*10^3;8.65*10^3;
+ΔH;-7.89;-7.89;-7.89;-7.89;
+ΔS;51.89;51.89;51.89;51.89;
+ΔG;-22.50;-23.04;-23.55;-23.81;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Binding of the Promen fluorescent probe to human serum albumin. A fluorescence spectroscopic study
+DOI:10.1016/s0009-2797(99)00111-8
+ligand name:Promen
+ligand smiles:CCC(=O)C1=CC2=C(C=C1)C=C(C=C2)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.0;288.0;293.0;298.0;303.0;310.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;194000.0;198000.0;199000.0;201000.0;206000.0;212000.0
+ΔH;2.57;2.57;2.57;2.57;2.57;2.57
+ΔS;110.3;110.06;109.96;109.86;108.05;110.03
+ΔG;-30.65;-29.2;-29.72;-30.24;-30.82;-31.61
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

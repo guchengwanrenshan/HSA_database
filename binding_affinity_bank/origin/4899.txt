@@ -1,0 +1,95 @@
+Title:In Vitro Characterization for Human Serum Albumin Binding Sorafenib, A Multi Kinase Inhibitor: Spectroscopic Study
+DOI:10.1007/s10953-014-0256-2
+ligand name:sorafenib
+ligand smiles:CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;305;315;
+KSV;1.11*10^4;0.86*10^4;0.64*10^4;
+kq;1.11*10^12;0.86*10^12;0.64*10^12;
+n;1.13;1.12;1.11;
+K;
+Ka;
+Kb;3.85*10^4;2.64*10^4;1.92*10^4;
+ΔH;-28.2;-28.2;-28.2;
+ΔS;-7.80;-7.87;-8.89;
+ΔG;-25.9;-25.8;-25.4;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.14*10^-13;
+E;0.16;
+R0;2.89;
+r;3.61;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

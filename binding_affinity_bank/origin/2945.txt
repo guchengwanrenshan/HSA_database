@@ -1,0 +1,107 @@
+Title:Interaction between tigecycline and human serum albumin in aqueous solution
+DOI:10.1007/s00706-014-1330-6
+ligand name:tigecycline
+ligand smiles:CC(C)(C)NCC(=O)NC1=CC(=C2C[C@H]3C[C@H]4[C@@H](C(=O)C(=C([C@]4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I;site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;5.0*10^4;4.9*10^4;4.7*10^4;
+kq;5.0*10^12;4.9*10^12;4.7*10^12;
+n;0.9;1.2;1.4;
+K;
+Ka;
+Kb;1.8*10^4;4.0*10^4;4.5*10^4;
+ΔH;423.2;423.2;423.2;
+ΔS;1502.3;1502.3;1502.3;
+ΔG;-24.5;-32.0;-39.5;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.15*10^-14;
+E;0.098;
+R0;2.52;
+r;3.63;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Lys195;59.858;17.704;42.154;
+Leu198;14.867;0.794;14.073;
+Lys199;37.889;12.816;25.073;
+Trp214;38.377;0.165;25.561;
+Arg218;41.72;8.421;33.299;
+Leu219;25.308;1.816;23.492;
+Arg222;59.512;26.448;33.064;
+Leu238;34.841;15.208;19.633;
+Ile290;17.334;5.448;11.886;
+Ala291;66.304;17.024;49.28;
+Glu292;121.232;90.455;30.777;
+Val455;19.711;12.107;7.61;
+
+
+
+
+

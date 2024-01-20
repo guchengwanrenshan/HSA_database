@@ -1,0 +1,95 @@
+Title:Molecular interaction of 2,4-diacetylphloroglucinol (DAPG) with human serum albumin (HSA): The spectroscopic;calorimetric and computational investigation
+DOI:10.1016/j.saa.2017.04.012
+ligand name:2,4-diacetylphloroglucinol (DAPG)
+ligand smiles:CC(=O)C1=C(C(=C(C=C1O)O)C(=O)C)O  
+key residue(hbond):Arg222;Tyr150;Arg257(site I);Tyr411;Leu430(site II) d
+key residue(hydrophobic):Trp214;Leu219;Phe223;Leu234;Leu238;His242;Leu260;Ala261;Ile264;Ser287,Ile290;Ala291(site I);Leu387;Ile388;Asn391;Phe403;Leu407;Arg410;Tyr411;Lys414;Gly431;Val433;Ala449;Leu453;Arg485;Ser489(site II) d
+PDB ID:
+Binding Area: Site I,Site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;318;
+KSV;3.22*10^4;3.31 *10^4;3.34*10^4;3.36*10^4;
+kq;3.22*10^13;3.31*10^13;3.34*10^13;3.36*10^4;
+n;0.86;0.86;0.87;0.88;
+K;
+Ka;
+Kb;1.17*10^4;1.25*10^4;1.27*10^4;1.37*10^4;
+ΔH;10.17;1.72;3.99;;
+ΔS;112.13;84.52;91.63;;
+ΔG;-23.35;-23.91;-24.52;-25.35;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;303;
+n;1.714
+K;
+Ka;2.931*10^5;
+Kb;
+ΔH;-20.64;
+ΔS;35.43;
+ΔG;-31.37;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,94 @@
+Title:Probing the binding of thioTEPA to human serum albumin using spectroscopic and molecular simulation approaches
+DOI:10.1139/cjc-2013-0571
+ligand name:thioTEPA
+ligand smiles:C1CN1P(=S)(N2CC2)N3CC3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;306;310;
+KSV;2.8482*10^3;1.4669*10^3;1.4283*10^3;
+kq;2.8482*10^11;1.4669*10^11;1.4283*10^11;
+n;0.8058;0.9392;0.9083;
+K;
+Ka;
+Kb;1.0565*10^3;1.0358*10^3;1.0272*10^3;
+ΔH;-1.8105;-1.8105;-1.8105;
+ΔS;-0.0056;-0.0056;-0.0056;
+ΔG;-0.1362;-0.0894;-0.0692;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Comparative studies of interactions between fluorodihydroquinazolin derivatives and human serum albumin with fluorescence spectroscopy
+DOI:10.3390/molecules21101373
+ligand name:3d
+ligand smiles:CC(C)(C)CC(=O)N1C(N(\N=C\C2=CC=CC=C2F)C(=O)C2=C1C=CC(Cl)=C2)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;33000.0;33600.0;34000.0
+kq;3300000000000.0;3360000000000.0;3400000000000.0
+n;0.9491;0.9721;0.9809
+K;
+Ka;
+Kb;24600.0;25800.0;27200.0
+ΔH;4.5;4.5;4.5
+ΔS;99.13;99.13;99.13
+ΔG;-25.04;-25.93;-26.83
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Interaction of anticancer drug resveratrol and human serum albumin by fluorescence spectroscopy
+DOI:None
+ligand name:resveratrol
+ligand smiles:C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;181000.0;176000.0;167000.0
+kq;18100000000000.0;17600000000000.0;16700000000000.0
+n;1.05;1.15;1.14
+K;
+Ka;
+Kb;1021000.0;743000.0;581000.0
+ΔH;-20.69;-20.69;-20.69
+ΔS;23.37;23.37;23.37
+ΔG;-27.42;-27.65;-27.89
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Probing the binding of morin to human serum albumin by optical spectroscopy
+DOI:10.1016/j.jpba.2007.10.016
+ligand name:morin
+ligand smiles:C1=CC(=C(C=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;9.468*10^4;9.053*10^4;8.325*10^4;7.880*10^4;
+kq;
+n;
+K;
+Ka;
+Kb;1.394*10^5;1.489*10^5;1.609*10^5;1.717*10^5;
+ΔH;8.97;8.97;8.97;8.97;
+ΔS;129.15;129.15;129.15;129.15;
+ΔG;-28.74;-29.52;-30.29;-31.07
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.4502*10^-25;
+E;0.1812;
+R0;3.5;
+r;4.25;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Insights into the interaction of methotrexate and human serum albumin: A spectroscopic and molecular modeling approach
+DOI:10.1002/bio.3267
+ligand name:methotrexate
+ligand smiles:CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  
+key residue(hbond):ARG222;ILE290;HIS242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0
+KSV;48100.0;42700.0;39700.0
+kq;
+n;
+K;
+Ka;59200.0;42500.0;31300.0
+Kb;52900.0;42500.0;32700.0
+ΔH;-45.46;-45.46;-45.46
+ΔS;-62.05;-62.05;-62.05
+ΔG;-26.97;-26.72;-26.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Phenotypic Characterization of the Binding of Tetracycline to Human Serum Albumin
+DOI:10.1021/bm1011568
+ligand name:tetracycline
+ligand smiles:C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;308;
+KSV;0.5543*10^4;0.4249*10^4;
+kq;0.5543*10^12;0.4249*10^12;
+n;0.99101;0.96796;
+K;
+Ka;
+Kb;
+ΔH;-16.582;-16.582;
+ΔS;13.02;13.02;
+ΔG;-20.3317;-20.5920;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.552*10^-14;
+E;0.0127
+R0;2.41;
+r;4.98;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

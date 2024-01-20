@@ -1,0 +1,69 @@
+Title:Biophysical characterization of interactions between falcarinol-type polyacetylenes and human serum albumin via multispectroscopy and molecular docking techniques
+DOI:10.1016/j.jlumin.2018.03.082
+ligand name:Panaxydol
+ligand smiles:CCCCCCC[C@H]1[C@H](O1)CC#CC#C[C@@H](C=C)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II(subdomain IIIA) d 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;72500.0;50600.0;55600.0
+kq;14500000000000.0;10120000000000.0;11120000000000.0
+n;0.9644;0.9932;0.9941
+K;
+Ka;
+Kb;83500.0;95600.0;193200.0
+ΔH;-9.23;-9.23;-9.23
+ΔS;128.08;128.08;128.08
+ΔG;-47.39;-48.55;-49.71
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

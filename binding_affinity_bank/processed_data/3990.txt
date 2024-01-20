@@ -1,0 +1,69 @@
+Title:Binding studies of lincosamide antibiotic drug clindamycin phosphate to human serum albumin by fluorescence, 3D, and circular dichroism spectroscopy
+DOI:10.1007/s00706-014-1207-8
+ligand name:clindamycin phosphate
+ligand smiles:CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)OP(=O)(O)O)O)O)[C@H](C)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;5640.0;6200.0;8520.0
+kq;
+n;1.15;1.18;1.22
+K;
+Ka;
+Kb;21200.0;37400.0;69500.0
+ΔH;43.7
+ΔS;215.5
+ΔG;-20.4
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

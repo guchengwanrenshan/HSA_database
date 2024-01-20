@@ -1,0 +1,98 @@
+Title:Investigation on the Interaction of Dabrafenib with Human Serum Albumin Using Combined Experiment and Molecular Dynamics Simulation: Exploring the Binding Mechanism, Esterase-like Activity, and Antioxidant Activity
+DOI:10.1021/acs.molpharmaceut.8b00806
+ligand name:Dabrafenib
+ligand smiles:CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;
+kq;
+n;0.980;1.015;1.072;
+K;0.976*10^5;1.273*10^5;2.103*10^5;
+Ka;
+Kb;
+ΔH;-40.414;-40.414;-40.414;
+ΔS;230.920;230.920;230.920;
+ΔG;-28.400;-29.786;-31.171;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;100;0.120;355.54;;;
+1:5;88;0.130;674.04;;;
+1:10;82;0.132;929.71;;;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

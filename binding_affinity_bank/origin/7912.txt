@@ -1,0 +1,90 @@
+Title:Studies on interaction of perfluorononanoic acid with human serum albumin by multi-spectroscopy, molecular docking and isothermal titration calorimetry techniques
+DOI:10.3964/j.issn.1000-0593(2016)12-4141-07
+ligand name:Perfluorononanoic Acid
+ligand smiles:C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O  
+key residue(hbond):
+key residue(hydrophobic):Arg218;Leu219;Phe223;Leu260;Ala261;Ile264;Ser287;Val291 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;8.07*10^4;8.43*10^4;10.17*10^4;
+kq;8.07*10^12;8.43*10^12;10.17*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;3.33;
+K;
+Ka;
+Kb;22.71*10^4;
+ΔH;-93.56;
+ΔS;-211.30;
+ΔG;-30.59;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

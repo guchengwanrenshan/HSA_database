@@ -1,0 +1,95 @@
+Title:Protein binding of 4-hydroxybenzoic acid and 4-hydroxy-3-methoxybenzoic acid to human serum albumin and their anti-proliferation on doxorubicin-sensitive and doxorubicin-resistant leukemia cells
+DOI:10.1016/j.toxrep.2021.07.001
+ligand name:4-hydroxybenzoic acid
+ligand smiles:C1=CC(=CC=C1C(=O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;3.0647*10^3;2.7164*10^3;
+kq;0.6131*10^12;0.5433*10^12;
+n;0.6130;0.7235;
+K;
+Ka;
+Kb;0.1045*10^3;0.0464*10^3;
+ΔH;-51.96;-51.96;
+ΔS;-135.72;-135.72;
+ΔG;-11.52;-9.89;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

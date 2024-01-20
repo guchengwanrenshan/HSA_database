@@ -1,0 +1,95 @@
+Title:Probing the binding of vitexin to human serum albumin by multispectroscopic techniques
+DOI:10.1016/j.jlumin.2010.12.018
+ligand name:vitexin
+ligand smiles:C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;5.797*10^4;4.720*10^4;4.344*10^4;
+kq;5.797*10^12;4.720*10^12;4.344*10^12;
+n;
+K;
+Ka;
+Kb;7.400*10^4;4.683*10^4;3.017*10^4;
+ΔH;-57.29;-57.29;-57.29;
+ΔS;-99.01;-99.01;-99.01;
+ΔG;-27.78;-27.19;-26.59;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.29*10^-14;
+E;0.096;
+R0;2.82;
+r;4.16;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

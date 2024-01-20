@@ -1,0 +1,69 @@
+Title:Unusual human serum albumin fibrillation inhibition by ketoprofen and fenoprofen: Mechanistic insights
+DOI:10.1002/jmr.2937
+ligand name:Fenoprofen
+ligand smiles:CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15
+KSV;152000.0
+kq;
+n;0.91
+K;
+Ka;53900.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.15;303.15;308.15
+n;
+K;57000.0;61000.0;67000.0
+Ka;
+Kb;
+ΔH;-112.1;-117.6;-125.8
+ΔS;-284.9;-296.3;-315.9
+ΔG;-27.2;-27.8;-28.5
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

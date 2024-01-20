@@ -1,0 +1,69 @@
+Title:Study on the interaction between nimodipine and five proteinases and the effects of naringin and vitamin C on these interactions by spectroscopic and molecular docking methods
+DOI:10.1016/j.saa.2022.120982
+ligand name:Nimodipine
+ligand smiles:CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;52800.0;64300.0;72000.0
+kq;5280000000000.0;6430000000000.0;7200000000000.0
+n;0.88;0.97;1.03
+K;
+Ka;
+Kb;13727.77;41247.72;98423.77
+ΔH;124.45;124.45;124.45
+ΔS;497.66;497.66;497.66
+ΔG;-23.85;-26.34;-29.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

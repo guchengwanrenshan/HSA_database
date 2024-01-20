@@ -1,0 +1,94 @@
+Title:Spectroscopic, molecular docking and dynamic simulation studies of binding between the new anticancer agent olmutinib and human serum albumin
+DOI:10.1080/07391102.2021.2001380
+ligand name:olmutinib
+ligand smiles:CN1CCN(CC1)C2=CC=C(C=C2)NC3=NC4=C(C(=N3)OC5=CC=CC(=C5)NC(=O)C=C)SC=C4 
+key residue(hbond):Ser192;Glu188;Lys199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;310;
+KSV;7.02*10^4;6.80*10^4;6.67*10^4;
+kq;2.60*10^13;2.52*10^13;2.47*10^13;
+n;1.0068;1.0070;1.0074;
+K;
+Ka;
+Kb;7.39*10^4;7.10*10^4;6.94*10^4;
+ΔH;-39.99;-39.99;-39.99;
+ΔS;79.75;79.75;79.75;
+ΔG;-24.20;-24.76;-23.81;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;8.57*10^-15;
+E;0.91;
+R0;2.49;
+r;3.65;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

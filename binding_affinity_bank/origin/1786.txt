@@ -1,0 +1,97 @@
+Title:An insight into the interaction between Indisulam and human serum albumin: Spectroscopic method, computer simulation and in vitro cytotoxicity assay
+DOI:10.1016/j.bioorg.2022.106017
+ligand name:Indisulam
+ligand smiles:C1=CC2=C(C(=C1)NS(=O)(=O)C3=CC=C(C=C3)S(=O)(=O)N)NC=C2Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;310;
+KSV;1.73*10^5;1.56*10^5;1.53*10^5;1.35*10^5;
+kq;2.75*10^13;2.47*10^13;2.43*10^13;2.14*10^13;
+n;1.03;1.01;1.00;0.98;
+K;
+Ka;2.43*10^5;1.78*10^5;1.52*10^5;1.09*10^5;
+Kb;
+ΔH;-33.59;-33.59;-33.59;-33.59;
+ΔS;-12.16;-12.16;-12.16;-12.16;
+ΔG;-30.03;-29.97;-29.91;-29.82;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;10.33;522.04;1.73;3.26;
+1:5;;10.46;760.56;1.74;2.25;
+1:10;;10.23;905.56;1.70;1.88;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

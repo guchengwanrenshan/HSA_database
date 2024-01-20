@@ -1,0 +1,69 @@
+Title:Fluorescence spectroscopy and molecular simulation on the interaction of caffeic acid with human serum albumin
+DOI:10.1002/bio.3135
+ligand name:caffeic acid
+ligand smiles:C1=CC(=C(C=C1/C=C/C(=O)O)O)O
+key residue(hbond):GLU188;LYS195;LYS199;GLN196;GLU292 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;49400.0;58700.0;70100.0
+kq;4940000000000.0;5870000000000.0;7010000000000.0
+n;
+K;
+Ka;
+Kb;30300.0;89900.0;109000.0
+ΔH;15.48;15.48;15.48
+ΔS;110.15;110.15;110.15
+ΔG;-24.87;-28.45;-29.91
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

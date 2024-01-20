@@ -1,0 +1,90 @@
+Title:New transition metal complexes of 9,10-phenanthrenequinone p-toluyl hydrazone Schiff base: Synthesis, spectroscopy, DNA and HSA interactions, antimicrobial, DFT and docking studies
+DOI:10.1002/aoc.4893
+ligand name:HL
+ligand smiles:CC1=CC=C(C(=O)N/N=C2/C(=O)C3=C(C=CC=C3)C3=C2C=CC=C3)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.2;7.2;7.2;7.2;
+T;292;295;298;301;
+KSV;0.77*10^5;0.80*10^5;0.98*10^5;1.08*10^5;
+kq;
+n;1.03;1.05;1.05;1.08;
+K;
+Ka;
+Kb;1.12*10^5;1.54*10^5;2.04*10^5;3.09*10^5;
+ΔH;80.714;80.714;80.714;80.714;
+ΔS;372.94;372.94;372.94;372.94;
+ΔG;-28.22;-29.31;-30.29;-31.63;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;280nm;
+pH;
+T;298;
+J;1.48*10^-14;
+E;0.17;
+R0;2.61;
+r;3.38;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

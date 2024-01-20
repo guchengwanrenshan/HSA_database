@@ -1,0 +1,95 @@
+Title:Insight into the Binding Mechanism of Imipenem to Human Serum Albumin by Spectroscopic and Computational Approaches
+DOI:10.1021/mp500116c
+ligand name:Imipenem
+ligand smiles:C[C@H]([C@@H]1[C@H]2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O
+key residue(hbond):Ser489 d
+key residue(hydrophobic):Leu387;Ile388;Cys392;Phe403;Leu407;Val433;Gly434;Cys438;Ala449;Leu453 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;8.83*10^4;7.63*10^4;6.33*10^4;
+kq;1.55*10^13;1.34*10^13;1.16*10^13;
+n;1.01;1.01;1.02;
+K;
+Ka;
+Kb;9.43*10^4;8.85*10^4;7.73*10^4;
+ΔH;-15.16;-15.16;-15.16;
+ΔS;44.40;44.40;44.40;
+ΔG;-28.39;-28.62;-28.84;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;10.1*10^4;
+ΔH;-26.75;
+ΔS;18.6577;
+ΔG;-32.31;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.47*10^-14;
+E;0.15;
+R0;3.23;
+r;4.32;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

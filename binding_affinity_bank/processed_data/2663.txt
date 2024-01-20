@@ -1,0 +1,69 @@
+Title:Fibrillogenesis of human serum albumin in the presence of levodopa - spectroscopic, calorimetric and microscopic studies
+DOI:10.1016/j.ijbiomac.2016.10.025
+ligand name:levodopa 
+ligand smiles:C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;3600.0
+ΔH;-31.1828
+ΔS;-36.4845
+ΔG;-20.2975
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

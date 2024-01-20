@@ -1,0 +1,94 @@
+Title:Binding of esketamine to human serum albumin for clinical implications
+DOI:10.1007/s10847-021-01090-6
+ligand name:esketamine
+ligand smiles:CN[C@@]1(CCCCC1=O)C2=CC=CC=C2Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;278;278;278;
+pH;
+T;318;298;278;
+KSV;3.86*10^3;2.84*10^3;1.87*10^3;
+kq;3.86*10^11;2.84*10^11;1.87*10^11;
+n;0.89;0.84;1.01;
+K;
+Ka;
+Kb;1.05*10^4;4.37*10^4;1.92*10^4;
+ΔH;-12.0;-12.0;-12.0;
+ΔS;29.5;29.5;29.5;
+ΔG;-24.5;-20.8;-22.8;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;4.31;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,94 @@
+Title:The interaction mechanism between anionic or cationic surfactant with HSA by using spectroscopy, calorimetry and molecular docking methods
+DOI:10.1016/j.molliq.2016.10.060
+ligand name:Sodium dodecyl sulfate
+ligand smiles:CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+key residue(hbond):Arg410;Tyr411 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomian IIIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;9.70;
+K;
+Ka;
+Kb;2.47*10^4;
+ΔH;-12.9704;
+ΔS;40.5848
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

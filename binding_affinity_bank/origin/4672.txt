@@ -1,0 +1,95 @@
+Title:Studies on interaction between the anticoagulants warfarin and human serum albumin
+DOI:None
+ligand name:warfarin
+ligand smiles:CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;306;310;
+KSV;1.057*10^5;0.7620*10^5;0.4690*10^5;
+kq;1.057*10^13;0.7620*10^13;0.4690*10^13;
+n;1.20;1.10;0.86;
+K;
+Ka;
+Kb;4.456*10^5;0.9934*10^5;0.1492*10^5;
+ΔH;-110.78;-110.78;-110.78;
+ΔS;-242.6;-269.9;-277.5;
+ΔG;-31.69;-28.99;-24.77;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

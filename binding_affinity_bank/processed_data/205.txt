@@ -1,0 +1,69 @@
+Title:Interaction of Chrysin and Its Main Conjugated Metabolites Chrysin-7-Sulfate and Chrysin-7-Glucuronide with Serum Albumin
+DOI:10.3390/ijms19124073
+ligand name:Chrysin
+ligand smiles: C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;177827.941
+kq;
+n;
+K;257039.5783
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

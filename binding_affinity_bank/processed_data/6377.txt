@@ -1,0 +1,69 @@
+Title:Analysis of free drug fractions by ultrafast affinity extraction: Interactions of sulfonylurea drugs with normal or glycated human serum albumin
+DOI:10.1016/j.chroma.2014.10.092
+ligand name:Tolbutamide
+ligand smiles:CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;310
+n;
+K;
+Ka;
+Kb;1.0*10^5
+kq;
+ΔH;
+ΔS;
+ΔG;-29.6727
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Characterization of piperine binding site on human serum albumin
+DOI:None
+ligand name:piperine
+ligand smiles:C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;310;318;
+KSV;5.2*10^4;4.0*10^4;2.8*10^4;
+kq;
+n;0.936;;
+K;
+Ka;
+Kb;6.47*10^4;;;
+ΔH;-33.11;-33.11;-33.11;
+ΔS;-18.90;-18.90;-18.90;
+ΔG;-27.44;-27.25;-27.10;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

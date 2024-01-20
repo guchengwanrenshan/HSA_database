@@ -1,0 +1,69 @@
+Title:Studies on the binding of paeonol and two of its isomers to human serum albumin by using microcalorimetry and circular dichroism
+DOI:10.1016/j.jct.2007.05.003
+ligand name:paeonol
+ligand smiles:CC(=O)C1=C(C=C(C=C1)OC)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.15
+n;3.5
+K;
+Ka;
+Kb;52400.0
+ΔH;-28.5
+ΔS;-5.2323
+ΔG;-26.94
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

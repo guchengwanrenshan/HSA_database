@@ -1,0 +1,69 @@
+Title:An integrated approach with experimental and computational tools outlining the cooperative binding between 2-phenylchromone and human serum albumin
+DOI:10.1016/j.foodchem.2015.10.027
+ligand name:2-phenylchromone 
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;129000.0;131000.0;131000.0
+kq;129000000000000.0;131000000000000.0;131000000000000.0
+n;0.92;0.91;0.93
+K;
+Ka;
+Kb;180000.0;179000.0;177000.0
+ΔH;-0.6;-0.6;-0.6
+ΔS;98.4;98.4;98.4
+ΔG;-28.9;-29.9;-30.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Enhanced transport of nandrolone decanoate drug by human serum albumin in presence of [BMIM]PF6 and [BMIM]BF4
+DOI:10.17344/acsi.2018.4301
+ligand name:[BMIM]PF6
+ligand smiles:CCCCN1C=C[N+](=C1)C.F[P-](F)(F)(F)(F)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;285.15;293.15;303.15;310.15;
+KSV;1.75*10^5;1.51*10^5;1.26*10^5;1.08*10^5;
+kq;
+n;1.35;1.25;1.28;1.11;
+K;
+Ka;
+Kb;7.00*10^5;6.51*10^5;5.44*10^5;3.80*10^5;
+ΔH;-27.14;-27.14;-27.14;-27.14;
+ΔS;16.70;16.70;16.70;16.70;
+ΔG;-31.90;-32.04;-33.20;-32.32;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

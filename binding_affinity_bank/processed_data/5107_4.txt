@@ -1,0 +1,69 @@
+Title:Interactions of benzotriazole UV stabilizers with human serum albumin: Atomic insights revealed by biosensors, spectroscopies and molecular dynamics simulations
+DOI:10.1016/j.chemosphere.2015.09.085
+ligand name:UV-328
+ligand smiles:CCC(C)(C)C1=CC(=C(O)C(=C1)N1N=C2C=CC=CC2=N1)C(C)(C)CC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;11700.0;4500.0
+kq;2900000000000.0;1110000000000.0
+n;0.89;0.93
+K;
+Ka;17100.0;3200.0
+Kb;16000.0;3500.0
+ΔH;-97.28;-97.28
+ΔS;-245.94;-245.94
+ΔG;-23.98;-21.03
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

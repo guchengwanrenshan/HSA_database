@@ -1,0 +1,90 @@
+Title:Interaction of triprolidine hydrochloride with serum albumins: Thermodynamic and binding characteristics, and influence of site probes
+DOI:10.1016/j.jpba.2010.12.012
+ligand name:triprolidine hydrochloride 
+ligand smiles:CC1=CC=C(C=C1)/C(=C\CN2CCCC2)/C3=CC=CC=N3.Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;294;299;
+KSV;
+kq;
+n;1.1535;1.0531;0.9898;
+K;
+Ka;1.26*10^4;1.00*10^4;0.70*10^4;
+Kb;7.17*10^3;2.42*10^3;1.25*10^3;
+ΔH;-48.22;-48.22;-48.22;
+ΔS;-0.095;-0.095;-0.095;
+ΔG;-20.765;-20.29;-19.815;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

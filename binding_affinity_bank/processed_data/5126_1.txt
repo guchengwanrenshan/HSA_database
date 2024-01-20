@@ -1,0 +1,69 @@
+Title:Interaction between ropinirole hydrochloride and aspirin with human serum albumin as binary and ternary systems by multi-spectroscopic, molecular modeling and zeta potential
+DOI:10.1016/j.jlumin.2012.06.051
+ligand name:ropinirole hydrochloride(280 nm)
+ligand smiles:CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;0.93
+K;
+Ka;
+Kb;25000.0
+ΔH;
+ΔS;
+ΔG;-25.0895
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Interaction of diuron to human serum albumin: Insights from spectroscopic and molecular docking studies
+DOI:10.1080/03601234.2015.1108800
+ligand name:diuron
+ligand smiles:CN(C)C(=O)NC1=CC=C(Cl)C(Cl)=C1
+key residue(hbond):
+key residue(hydrophobic): Leu453;Val 344;Leu457;Ser454;Ser342;Leu481 d
+PDB ID:
+Binding Area:site II(subdomain IIIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;12690.0;14230.0;15220.0
+kq;1269000000000.0;1423000000000.0;1522000000000.0
+n;0.99;0.95;0.88
+K;
+Ka;
+Kb;11660.0;13340.0;14780.0
+ΔH;12.94;12.94;12.94
+ΔS;121.61;121.61;121.61
+ΔG;-23.06;-23.91;-24.76
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

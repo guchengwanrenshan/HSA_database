@@ -1,0 +1,95 @@
+Title:The binding of 3-(p-bromophenyl)-5-methyl-thiohydantoin with human serum albumin: Investigation by fluorescence spectroscopy and molecular model
+DOI:10.1016/j.jlumin.2007.01.022
+ligand name:3-(p-bromophenyl)-5-methyl-thiohydantoin
+ligand smiles:CC1NC(=S)N(C1=O)C1=CC=C(Br)C=C1
+key residue(hbond):Arg218;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;306;316;
+KSV;1.807*10^4;1.726*10^4;1.577*10^4;
+kq;1.807*10^12;1.726*10^12;1.577*10^12;
+n;0.725;0.806;0.852
+K;
+Ka;
+Kb;
+ΔH;-18.950;-18.950;-18.950;
+ΔS;22.849;22.849;22.849;
+ΔG;-25.714;-25.942;-26.171;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

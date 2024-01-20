@@ -1,0 +1,69 @@
+Title:In vitro study on the binding of herbicide glyphosate to human serum albumin by optical spectroscopy and molecular modeling
+DOI:10.1016/j.jphotobiol.2007.10.003
+ligand name:glyphosate
+ligand smiles:C(C(=O)O)NCP(=O)(O)O  
+key residue(hbond):Arg291;Asp451;Arg218;Arg222 d
+key residue(hydrophobic):Leu219;Val216;Ala215;Trp214 d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;
+kq;
+n;0.67;0.76;0.87
+K;
+Ka;
+Kb;2230.0;1810.0;1420.0
+ΔH;-21.78;-21.78;-21.78
+ΔS;6.38;6.38;6.38
+ΔG;-23.67;-23.71;-23.76
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Spectroscopic and molecular docking investigation of the binding of a bioactive mercaptobenzimidazole-functionalized Schiff base to human serum albumin
+DOI:10.1007/s11696-021-01585-z
+ligand name: (E)-5-(((2-hydroxynaphthalen-1-yl)methylene)amino)-1 H-benzo[d]imidazole-2(3 H)-thione
+ligand smiles:OC1=CC=C2C=CC=CC2=C1\C=N\C1=CC2=C(NC(=S)N2)C=C1
+key residue(hbond):Asp451 d
+key residue(hydrophobic):Trp214;Leu198;Phe211;Ala210;Leu203;Val344;Leu481;Val482;Leu347;Phe206 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;305;
+KSV;2.11*10^4;1.64*10^4;1.04*10^4;
+kq;2.11*10^12;1.64*10^12;1.04*10^12;
+n;0.78;0.69;0.89;
+K;
+Ka;
+Kb;2.71*10^4;2.31*10^4;2.08*10^4;
+ΔH;-19.92;-19.92;-19.92;
+ΔS;58.60;58.60;58.60;
+ΔG;-24.85;-24.95;-25.21;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.32*10^-15;
+E;0.059;
+R0;2.11;
+r;3.35;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

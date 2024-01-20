@@ -1,0 +1,69 @@
+Title:Spectroscopic and molecular modeling approaches to investigate the binding of proton pump inhibitors to human serum albumin
+DOI:10.1080/07391102.2016.1251337
+ligand name: esomeprazole
+ligand smiles:CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C(N2)C=C(C=C3)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286.0;293.0;300.0;307.0
+KSV;24800.0;34900.0;49700.0;54400.0
+kq;2480000000000.0;3490000000000.0;4970000000000.0;5440000000000.0
+n;0.98;1.0;1.0;0.97
+K;16500.0;50100.0;79700.0;105000.0
+Ka;
+Kb;
+ΔH;170.76;170.76;170.76;170.76
+ΔS;710.42;710.42;710.42;710.42
+ΔG;-33.5;-37.6;-41.0;-45.2
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

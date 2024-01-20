@@ -1,0 +1,69 @@
+Title:Elucidating the interaction of letrozole with human serum albumin by combination of spectroscopic and molecular modeling techniques.
+DOI:10.4103/1735-5362.235157
+ligand name:letrozole
+ligand smiles:C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;674700.0;545600.0;451800.0;358400.0
+kq;67470000000000.0;54560000000000.0;45180000000000.0;35840000000000.0
+n;
+K;
+Ka;
+Kb;316200.0;202300.0;191400.0;146200.0
+ΔH;-35.53;-35.53;-35.53;-35.53
+ΔS;-13.85;-13.85;-13.85;-13.85
+ΔG;-31.2;-31.13;-31.06;-30.99
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

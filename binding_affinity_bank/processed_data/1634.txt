@@ -1,0 +1,69 @@
+Title:Molecular Insight into the Binding of Astilbin with Human Serum Albumin and Its Effect on Antioxidant Characteristics of Astilbin
+DOI:10.3390/molecules27144487
+ligand name:Astilbin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;64400.0;57000.0;47000.0
+kq;6440000000000.0;5700000000000.0;4700000000000.0
+n;1.02;1.0;0.99
+K;
+Ka;67700.0;57700.0;44600.0
+Kb;
+ΔH;-14.12;-14.12;-14.12
+ΔS;43.57;43.57;43.57
+ΔG;-26.67;-27.11;-27.63
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

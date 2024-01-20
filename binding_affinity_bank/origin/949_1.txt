@@ -1,0 +1,95 @@
+Title:The noncovalent conjugations of human serum albumin (HSA) with MS/AK and the effect on anti-oxidant capacity as well as anti-glycation activity of Monascus yellow pigments
+DOI:10.1039/d0fo03025b
+ligand name:ankaflavin
+ligand smiles:CCCCCCCC(=O)[C@@H]1[C@H]2CC3=C(COC(=C3)/C=C/C)C(=O)[C@@]2(OC1=O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;2.94*10^5;2.86*10^5;2.75*10^5;
+kq;2.94*10^13;2.86*10^13;2.75*10^13;
+n;0.71;0.81;0.85;
+K;
+Ka;4.56*10^5;4.06*10^5;3.69*10^5;
+Kb;
+ΔH;-13.58;-13.58;-13.58;
+ΔS;62.78;62.78;62.78;
+ΔG;-32.30;-32.67;-33.05;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

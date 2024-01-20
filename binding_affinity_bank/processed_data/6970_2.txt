@@ -1,0 +1,69 @@
+Title:Study of interaction of some benzodiazepines with human serum albumin by fluorescent method
+DOI:10.17721/moca.2018.18-28
+ligand name:7-bromo-5-(2-chlorophenyl)-3-propoxy-1,3-dihydro-1,4-benzodiazepin-2-one  
+ligand smiles:CCCOC1C(=O)NC2=C(C=C(C=C2)Br)C(=N1)C3=CC=CC=C3Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;313.0
+KSV;95110.0;88760.0
+kq;9511000000000.0;8876000000000.0
+n;0.8;0.7
+K;
+Ka;
+Kb;1579.0;569.0
+ΔH;-52.78;-52.78
+ΔS;-115.88;-115.88
+ΔG;-18.25;-16.51
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

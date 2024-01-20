@@ -1,0 +1,90 @@
+Title:Interactions between 4-(2-dimethylaminoethyloxy)-N-octadecyl-1,8-naphthalimide and serum albumins: Investigation by spectroscopic approach
+DOI:10.1016/j.jlumin.2011.11.012
+ligand name:DON
+ligand smiles:CCCCCCCCCCCCCCCCCCN1C(=O)C2=CC=C(OCCN(C)C)C3=CC=CC(=C23)C1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;8.47*10^4;8.16*10^4;7.80*10^4;7.58*10^4;
+kq;
+n;1.00;0.99;0.98;0.98;
+K;
+Ka;
+Kb;8.44*10^4;6.95*10^4;6.25*10^4;5.81*10^4;
+ΔH;-14.83;-14.83;-14.83;-14.83;
+ΔS;23.61;23.61;23.61;23.61;
+ΔG;-21.87;-21.96;-22.05;-22.15;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

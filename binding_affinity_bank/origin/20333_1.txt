@@ -1,0 +1,95 @@
+Title:Potential toxic effects of sulfonamides antibiotics: Molecular modeling, multiple-spectroscopy techniques and density functional theory calculations
+DOI:10.1016/j.ecoenv.2022.113979
+ligand name:sulfamerazine
+ligand smiles:CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;307;316
+KSV;8.88*10^4;7.65*10^4;6.84*10^4;
+kq;8.88*10^12;7.65*10^12;6.84*10^12;
+n;
+K;
+Ka;5.11*10^4;4.96*10^4;4.86*10^4;
+Kb;
+ΔH;-2.11;-2.11;-2.11;
+ΔS;83.06;83.06;83.06;
+ΔG;-26.86;-27.61;-28.36;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.86*10^-15;
+E;0.0391;
+R0;2.17;
+r;3.71;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

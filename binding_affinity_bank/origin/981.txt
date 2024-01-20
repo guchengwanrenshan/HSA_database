@@ -1,0 +1,95 @@
+Title:How hydrophilic group affects drug-protein binding modes: Differences in interaction between sirtuins inhibitors Tenovin-1/Tenovin-6 and human serum albumin
+DOI:10.1016/j.jpba.2021.114121
+ligand name:Tenovin-1
+ligand smiles:CC(=O)NC1=CC=C(C=C1)NC(=S)NC(=O)C2=CC=C(C=C2)C(C)(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;301;304;307;310;
+n;0.909;0.913;0.929;0.904;0.880
+K;
+Ka;1.302*10^4;1.200*10^4;1.159*10^4;1.018*10^4;0.960*10^4;
+Kb;
+ΔH;-19.799;-19.799;-19.799;-19.799;-19.799;
+ΔS;12.379;12.379;12.379;12.379;12.379;
+ΔG;-23.487;-23.525;-23.562;-23.599;-23.636;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;4.930*10^-3;116.153;9.86*10^-4;8.489*10^-6;
+1:1;;4.901*10^-3;119.962;9.802*10^-4;8.171*10^-6;
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

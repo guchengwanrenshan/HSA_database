@@ -1,0 +1,95 @@
+Title:Study on the interaction between benzophenone and human serum albumin
+DOI:None
+ligand name:benzophenone
+ligand smiles:C1=CC=C(C=C1)C(=O)C2=CC=CC=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;5.266*10^4;4.591*10^4;4.371*10^4;4.028*10^4;
+kq;5.266*10^12;4.591*10^12;4.371*10^12;4.028*10^12;
+n;
+K;
+Ka;
+Kb;12.60*10^4;9.234*10^4;5.039*10^4;2.499*10^4;
+ΔH;-68.26;-68.26;-68.26;-68.26;
+ΔS;-135.2;-135.2;-135.2;-135.2;
+ΔG;-28.78;-27.97;-27.16;-26.35;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

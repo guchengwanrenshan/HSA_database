@@ -1,0 +1,69 @@
+Title:Spectroscopic, molecular docking and dynamic simulation studies of binding between the new anticancer agent olmutinib and human serum albumin
+DOI:10.1080/07391102.2021.2001380
+ligand name:olmutinib
+ligand smiles:CN1CCN(CC1)C2=CC=C(C=C2)NC3=NC4=C(C(=N3)OC5=CC=CC(=C5)NC(=O)C=C)SC=C4 
+key residue(hbond):Ser192;Glu188;Lys199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;310.0
+KSV;70200.0;68000.0;66700.0
+kq;26000000000000.0;25200000000000.0;24700000000000.0
+n;1.0068;1.007;1.0074
+K;
+Ka;
+Kb;73900.0;71000.0;69400.0
+ΔH;-39.99;-39.99;-39.99
+ΔS;79.75;79.75;79.75
+ΔG;-24.2;-24.76;-23.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

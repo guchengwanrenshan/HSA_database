@@ -1,0 +1,69 @@
+Title:Study of the interaction between esculetin and human serum albumin by multi-spectroscopic method and molecular modeling
+DOI:10.1016/j.molstruc.2007.11.028
+ligand name:esculetin
+ligand smiles:C1=CC(=O)OC2=CC(=C(C=C21)O)O 
+key residue(hbond):Arg222;Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0
+KSV;
+kq;
+n;0.93;0.96;0.0;1.06
+K;
+Ka;
+Kb;46800.0;41400.0;36300.0;30900.0
+ΔH;-14.62;-14.62;-14.62;-14.62
+ΔS;38.93;38.93;38.93;38.93
+ΔG;-25.67;-26.14;-26.41;-26.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

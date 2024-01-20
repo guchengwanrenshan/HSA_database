@@ -1,0 +1,95 @@
+Title:Elucidating the binding interaction of andrographolide with the plasma proteins: biophysical and computational approach
+DOI:10.1039/c6ra25671f
+ligand name:andrographolide
+ligand smiles:C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2C/C=C/3\[C@@H](COC3=O)O)(C)CO)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;5.27*10^5;5.0*10^5;
+kq;5.27*10^13;5.0*10^13;
+n;
+K;
+Ka;
+Kb;1.85*10^4;1.22*10^4;
+ΔH;
+ΔS;
+ΔG;-21.3384;-23.0120;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;SPR spectroscopy
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;1.5*10^3;1.39*10^3;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

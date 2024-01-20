@@ -1,0 +1,95 @@
+Title:The interactions between Reactive Black 5 and human serum albumin: combined spectroscopic and molecular dynamics simulation approaches
+DOI:10.1007/s11356-022-20736-7
+ligand name:Reactive Black 5
+ligand smiles:C1=CC(=CC=C1N=NC2=C(C3=C(C(=C(C=C3C=C2S(=O)(=O)[O-])S(=O)(=O)[O-])N=NC4=CC=C(C=C4)S(=O)(=O)CCOS(=O)(=O)[O-])N)O)S(=O)(=O)CCOS(=O)(=O)[O-]
+key residue(hbond):Arg410;Lys413;Lys545 d
+key residue(hydrophobic):Leu394;Leu398;Ala406;Val409;Glu542 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;
+KSV;
+kq;
+n;1.02;0.91;
+K;
+Ka;3.78*10^5;1.00*10^5;
+Kb;
+ΔH;-103;-103;
+ΔS;-200;-200;
+ΔG;-32;-29;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

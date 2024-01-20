@@ -1,0 +1,95 @@
+Title:Fluorescence spectroscopy;molecular docking and molecular dynamic simulation studies of HSA-Aflatoxin B1 and G1 interactions
+DOI:10.1016/j.jlumin.2018.05.066
+ligand name:Aflatoxin B1
+ligand smiles:COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4[C@@H]5C=CO[C@@H]5OC4=C1
+key residue(hbond):Arg117 d
+key residue(hydrophobic):Ala158;Leu139;Leu135;Ile142;Tyr138;Phe134;Phe165;Leu182;Met123;Tyr161 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304,310;
+KSV;7.9*10^6;;3.3*10^6;
+kq;7.9*10^14;;3.3*10^6;
+n;0.98;;0.92;
+K;
+Ka;
+Kb;6.733*10^6;;1.03*10^6;
+ΔH;-120.08;-120.08;-120.08;
+ΔS;-271.85;-271.85;-271.85;
+ΔG;-39.07;-37.44;-35.8;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

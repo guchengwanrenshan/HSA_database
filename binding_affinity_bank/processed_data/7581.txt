@@ -1,0 +1,69 @@
+Title:New transition metal complexes of 9,10-phenanthrenequinone p-toluyl hydrazone Schiff base: Synthesis, spectroscopy, DNA and HSA interactions, antimicrobial, DFT and docking studies
+DOI:10.1002/aoc.4893
+ligand name:HL
+ligand smiles:CC1=CC=C(C(=O)N/N=C2/C(=O)C3=C(C=CC=C3)C3=C2C=CC=C3)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.2;7.2;7.2;7.2
+T;292.0;295.0;298.0;301.0
+KSV;77000.0;80000.0;98000.0;108000.0
+kq;
+n;1.03;1.05;1.05;1.08
+K;
+Ka;
+Kb;112000.0;154000.0;204000.0;309000.0
+ΔH;80.714;80.714;80.714;80.714
+ΔS;372.94;372.94;372.94;372.94
+ΔG;-28.22;-29.31;-30.29;-31.63
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

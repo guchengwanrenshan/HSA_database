@@ -1,0 +1,69 @@
+Title:Antidepressant drug-protein interactions studied by spectroscopic methods based on fluorescent carbon quantum dots.
+DOI:10.1016/j.heliyon.2019.e01631
+ligand name:chlorpromazine hydrochloride
+ligand smiles:CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.6
+T;300
+KSV;50800
+kq;
+n;1.193
+K;
+Ka;
+Kb;63100
+ΔH;
+ΔS;
+ΔG;-27.5671
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;7.6;
+T;300;
+n;
+K;
+Ka;
+Kb;10800
+ΔH;
+ΔS;
+ΔG;-23.1644
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

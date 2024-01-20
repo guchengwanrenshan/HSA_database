@@ -1,0 +1,93 @@
+Title:Spectroscopic analysis, docking and molecular dynamics simulation of the interaction of cinnamaldehyde with human serum albumin
+DOI:10.1007/s10847-018-0811-3
+ligand name:cinnamaldehyde
+ligand smiles:C1=CC=C(C=C1)/C=C/C=O
+key residue(hbond):
+key residue(hydrophobic):Val7;Val46;Phe49;Leu66;Leu69;Phe70 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;
+T;298.1;
+KSV;4.5*10^4;
+kq;7.9*10^12;
+n;0.883;
+K;
+Ka;
+Kb;1.14*10^4;
+ΔH;
+ΔS;
+ΔG;-23.15167;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;1.028*10^-14;
+E;0.21;
+R0;2.5;
+r;3.12;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

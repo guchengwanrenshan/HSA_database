@@ -1,0 +1,69 @@
+Title:Interaction of the Emerging Mycotoxins Beauvericin, Cyclopiazonic Acid, and Sterigmatocystin with Human Serum Albumin
+DOI:10.3390/biom12081106
+ligand name:STC
+ligand smiles:[H][C@]12OC=C[C@@]1([H])C1=C(O2)C=C(OC)C2=C1OC1=C(C(O)=CC=C1)C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB(FA1 or the Heme site) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;20892.9613
+kq;
+n;
+K;
+Ka;9549.9259
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Dietary polyphenols inhibit plasma protein arabinosylation: Biomolecular interaction of genistein and ellagic acid with serum albumins
+DOI:10.1016/j.bpc.2021.106651
+ligand name:ellagic acid
+ligand smiles:C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0;318.0;323.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;71700.0;46400.0;56200.0;61800.0;56700.0;845000.0
+ΔH;-12.11;-12.11;-12.11;-12.11;-12.11;-12.11
+ΔS;53.12;53.12;53.12;53.12;53.12;53.12
+ΔG;-27.94;-28.21;-28.47;-28.74;-29.01;-29.27
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

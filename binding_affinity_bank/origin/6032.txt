@@ -1,0 +1,93 @@
+Title:Investigation of the interaction between N,N'-di(4-chlorophenyl)thiourea and human serum albumin by fluorescence spectroscopy: synchronous fluorescence determination of human serum albumin
+DOI:10.1002/jccs.200700075
+ligand name:DCPT
+ligand smiles:ClC1=CC=C(NC(=S)NC2=CC=C(Cl)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;
+T;287;297;
+KSV;3.180*10^5;2.856*10^5;
+kq;3.180*10^13;2.856*10^13;
+n;1.09;0.97;
+K;
+Ka;
+Kb;2.541*10^5;2.033*10^5;
+ΔH;-12.28;-12.28;
+ΔS;59.13;59.13;
+ΔG;-29.68;-30.28;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;6.0*10^-14;
+E;0.8190;
+R0;3.3052;
+r;2.57;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

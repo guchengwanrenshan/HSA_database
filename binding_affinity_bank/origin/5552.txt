@@ -1,0 +1,95 @@
+Title:DFT/B3LYP calculations, in vitro cytotoxicity and antioxidant activities of steroidal pyrimidines and their interaction with HSA using molecular docking and multispectroscopic techniques
+DOI:10.1016/j.bioorg.2017.06.001
+ligand name:4
+ligand smiles:CC(C)CCC[C@@H](C)[C@H]1CCC2C3C(CC[C@]12C)[C@@]1(C)CC[C@@H](CC1C1=C3C(=NC(O)=N1)C1=CC=CC=C1)OC(C)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;2.38*10^4;
+kq;4.25*10^12;
+n;1.08;
+K;
+Ka;
+Kb;6.18*10^4;
+ΔH;
+ΔS;
+ΔG;-27.34;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

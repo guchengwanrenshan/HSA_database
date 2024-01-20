@@ -1,0 +1,95 @@
+Title:Interaction of cucurbitacins with human serum albumin: Thermodynamic characteristics and influence on the binding of site specific ligands
+DOI:10.1016/j.jphotobiol.2009.03.005
+ligand name:cucurbitacins D
+ligand smiles:[H][C@@]12C[C@H](O)C(=O)C(C)(C)C1=CC[C@@]1([H])[C@]3(C)C[C@@H](O)C([C@@](C)(O)C(=C)\C=C\C(C)(C)O)[C@@]3(C)CC(=O)[C@@]21C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;
+KSV;
+kq;
+n;1.31;1.39;1.35;1.11;
+K;
+Ka;
+Kb;1.58*10^6;1.31*10^6;1.0910^6;0.96*10^6;
+ΔH;-24.382;-24.382;-24.382;-24.382;
+ΔS;33.92;33.92;33.92;33.92;
+ΔG;-34.15;-34.32;-34.49;-34.66;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

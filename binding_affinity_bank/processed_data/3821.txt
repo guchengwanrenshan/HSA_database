@@ -1,0 +1,69 @@
+Title:A Fluorescence Quenching Study of the Interaction of Nebivolol Hydrochloride with Bovine and Human Serum Albumin
+DOI:10.1007/s10812-015-0154-4
+ligand name:nebivolol hydrochloride
+ligand smiles:C1CC2=C(C=CC(=C2)F)O[C@H]1[C@H](CNC[C@@H]([C@@H]3CCC4=C(O3)C=CC(=C4)F)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;152000.0
+kq;15200000000000.0
+n;1.616
+K;
+Ka;
+Kb;227000000.0
+ΔH;
+ΔS;
+ΔG;-47.6696
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

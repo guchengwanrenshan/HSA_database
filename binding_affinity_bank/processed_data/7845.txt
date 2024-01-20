@@ -1,0 +1,69 @@
+Title:Analysis of drug-protein binding using on-line immunoextraction and high-performance affinity microcolumns: Studies with normal and glycated human serum albumin
+DOI:10.1016/j.chroma.2015.09.023
+ligand name:gliclazide
+ligand smiles:CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CC3CCCC3C2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;41000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

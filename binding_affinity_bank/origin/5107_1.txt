@@ -1,0 +1,95 @@
+Title:Interactions of benzotriazole UV stabilizers with human serum albumin: Atomic insights revealed by biosensors, spectroscopies and molecular dynamics simulations
+DOI:10.1016/j.chemosphere.2015.09.085
+ligand name:UV-P
+ligand smiles:CC1=CC=C(O)C(=C1)N1N=C2C=CC=CC2=N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;2.42*10^4;1.65*10^4;
+kq;5.99*10^12;4.08*10^12;
+n;0.98;1.09;
+K;
+Ka;2.48*10^4;2.19*10^4;
+Kb;2.28*10^4;2.16*10^4;
+ΔH;-3.46;-3.46;
+ΔS;71.81;71.81;
+ΔG;-24.86;-25.72;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

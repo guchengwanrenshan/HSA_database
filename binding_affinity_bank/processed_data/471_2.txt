@@ -1,0 +1,69 @@
+Title:Effect of (-)-epicatechin-3-gallate and (-)-epigallocatechin-3-gallate on the binding of tegafur to human serum albumin as determined by spectroscopy, isothermal titration calorimetry, and molecular docking
+DOI:10.1080/07391102.2018.1505550
+ligand name:TF
+ligand smiles:FC1=CN(C2CCCO2)C(=O)NC1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain ΙΙA and ΙB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.2;302.2;306.2;310.2
+KSV;4500.0;4400.0;4200.0;3800.0
+kq;450000000000.0;440000000000.0;420000000000.0;380000000000.0
+n;1.22;1.19;1.19;1.18
+K;
+Ka;20500.0;18100.0;16100.0;14500.0
+Kb;
+ΔH;-22.03;-22.03;-22.03;-22.03
+ΔS;8.62;8.62;8.62;8.62
+ΔG;-24.61;-24.63;-24.67;-24.72
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

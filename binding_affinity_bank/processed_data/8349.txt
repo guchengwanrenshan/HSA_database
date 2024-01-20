@@ -1,0 +1,69 @@
+Title:A new method for predicting the acute toxicity of carbamate pesticides based on the perspective of binding information with carrier protein
+DOI:10.1016/j.saa.2021.120188
+ligand name:Thiofanox-sulfone
+ligand smiles:CC(C)(C)C(=NOC(=O)NC)CS(=O)(=O)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;39060.0;41020.0;55740.0
+kq;3906000000000.0;4102000000000.0;5574000000000.0
+n;0.719;0.786;0.848
+K;
+Ka;
+Kb;1559.0;3514.0;9450.0
+ΔH;98.12;98.12;98.12
+ΔS;392.314;392.314;392.314
+ΔG;-18.004;-20.751;-23.497
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

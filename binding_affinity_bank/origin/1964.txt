@@ -1,0 +1,95 @@
+Title:Influence of valoneoyl groups on the interactions between Euphorbia tannins and human serum albumin
+DOI:10.1016/j.jlumin.2017.10.033
+ligand name:Tannin 1
+ligand smiles:O[C@@H]1[C@@H](OC(=O)C2=CC(O)=C(O)C(O)=C2)[C@H](OC(=O)C2=CC(O)=C(O)C(O)=C2)O[C@@H]2COC(=O)C3=C(C(O)=C(O)C(OC4=C(C=C(O)C(O)=C4O)C(O)=O)=C3)C3=C(O)C(O)=C(O)C=C3C(=O)O[C@@H]12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;3.5*10^5;
+kq;7.0*10^13;
+n;1.12;
+K;
+Ka;
+Kb;2.8*10^5;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

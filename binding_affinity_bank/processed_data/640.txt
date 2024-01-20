@@ -1,0 +1,69 @@
+Title:Fungicide tebuconazole influences the structure of human serum albumin molecule
+DOI:10.3390/molecules24173190
+ligand name:Tebuconazole
+ligand smiles:CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;7260.0;4770.0;3150.0
+kq;
+n;1.01;0.98;0.96
+K;
+Ka;8510.0;4850.0;3460.0
+Kb;
+ΔH;-56.96;-56.96;-56.96
+ΔS;-115.98;-115.98;-115.98
+ΔG;-22.68;-22.1;-20.99
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

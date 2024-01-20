@@ -1,0 +1,95 @@
+Title:Exploring the mechanism of interaction between sulindac and human serum albumin: Spectroscopic and molecular modeling methods
+DOI:10.1016/j.jlumin.2012.12.059
+ligand name:sulindac
+ligand smiles:CC\1=C(C2=C(/C1=C\C3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+key residue(hbond):Arg222;Leu219 d
+key residue(hydrophobic):Leu238;Leu219;Leu260;Ile264;Ile290;Val241 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;1.450*10^5;1.363*10^5;1.275*10^5;1.101*10^5;
+kq;1.450*10^13;1.363*10^13;1.275*10^13;1.101*10^13;
+n;
+K;
+Ka;
+Kb;1.852*10^5;1.568*10^5;1.403*10^5;1.179*10^5;
+ΔH;-18.58;-18.58;-18.58;-18.58;
+ΔS;37.26;37.26;37.26;37.26;
+ΔG;-29.46;-29.64;-29.91;-30.13;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

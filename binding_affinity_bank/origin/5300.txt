@@ -1,0 +1,95 @@
+Title:Molecular Interaction of Amino Acid-Based Gemini Surfactant with Human Serum Albumin: Tensiometric;Spectroscopic;and Molecular Docking Study
+DOI:10.1021/acsomega.9b03315
+ligand name:2(C12Cys)GS
+ligand smiles:CCCCCCCCCCCCNCC(CSCC(CNCCCCCCCCCCCC)C(O)=O)C(O)=O
+key residue(hbond):Asn429;Asn458;Val455;Val424;Ser454;Glu425;Tyr411;Lys 205 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;4.41*10^5;
+kq;4.41*10^13;
+n;1.19;
+K;
+Ka;
+Kb;3.11*10^4;
+ΔH;
+ΔS;
+ΔG;-25.63;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

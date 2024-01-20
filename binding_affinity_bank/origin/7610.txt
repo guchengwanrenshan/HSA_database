@@ -1,0 +1,90 @@
+Title:Spectroscopic Studies of Quinobenzothiazine Derivative in Terms of the In Vitro Interaction with Selected Human Plasma Proteins. Part 1
+DOI:10.3390/molecules26164776
+ligand name:5-methyl-12(H)-chino[3,4-b][1,4]benzothiazinium chloride
+ligand smiles:C[N+]1=CC2=C(NC3=C(C=CC=C3)S2)C2=C1C=CC=C2.[Cl-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;275nm;295nm
+pH;
+T;298;298;
+KSV;2.70*10^4;2.84*10^4;
+kq;0.43*10^14;0.46*10^14;
+n;1.62;1.38;
+K;
+Ka;
+Kb;2.45*10^4;2.71*10^14;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

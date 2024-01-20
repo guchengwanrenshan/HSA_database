@@ -1,0 +1,95 @@
+Title:Biomolecular interaction study of Cyclolinopeptide A with Human Serum Albumin
+DOI:10.1155/2010/737289
+ligand name:cyclolinopeptide A
+ligand smiles:CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N2CCCC2C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)C(C)C)CC(C)C)CC4=CC=CC=C4)CC5=CC=CC=C5)CC(C)C)CC(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;310;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;757;1687;7056;50032;
+ΔH;204;204;204;204;
+ΔS;746;746;746;746;
+ΔG;;;;-30;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

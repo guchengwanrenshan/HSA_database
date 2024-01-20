@@ -1,0 +1,93 @@
+Title:Interaction of Indole Derivative with Human Serum Albumin: A Combined Spectroscopic and Molecular Dynamics Study
+DOI:10.1002/slct.201802466
+ligand name:indole derivative
+ligand smiles:CC(C)N1C(\C=C\C=C\C(=O)C2=CC=C(O)C=C2)=C(C2=CC=CC=C12)C1=CC=C(F)C=C1
+key residue(hbond):Ser304;Asp308 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;1.32*10^5;2.89*10^5;4.21*10^5;4.89*10^5;
+kq;1.32*10^13;2.89*10^13;4.21*10^13;4.89*10^13;
+n;0.99;1.02;1.06;1.07;
+K;
+Ka;
+Kb;1.06*10^5;1.86*10^5;2.38*10^5;3.10*10^5;
+ΔH;33.5;33.5;33.5;33.5;
+ΔS;232.5;232.5;232.5;232.5;
+ΔG;-28.1;-35.8;-37.0;-38.3;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;0.78*10^-15;
+E;0.71;
+R0;2.99;
+r;2.81;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

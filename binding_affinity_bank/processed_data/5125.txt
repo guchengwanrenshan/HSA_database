@@ -1,0 +1,69 @@
+Title:Study of the interaction of aglycon of daunorubicin with human serum albumin by spectroscopy and modeling
+DOI:10.1002/mabi.200800105
+ligand name:DNR-A
+ligand smiles:COC1=CC=CC2=C1C(=O)C1=C(C(O)=C3C[C@](O)(C[C@H](O)C3=C1O)C(C)=O)C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;313.0
+KSV;28060.0;27010.0;25430.0
+kq;2806000000000.0;2701000000000.0;2543000000000.0
+n;1.2223;1.3149;1.4922
+K;
+Ka;
+Kb;20600.0;17410.0;13390.0
+ΔH;-20.3;-20.3;-20.3
+ΔS;13.52;13.52;13.52
+ΔG;-24.22;-24.36;-24.49
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Interaction and photo-induced cleavage studies of meropenem drug with human serum albumin using spectroscopic and molecular docking investigations
+DOI:10.1080/07391102.2018.1509731
+ligand name:Meropenem
+ligand smiles:C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)N(C)C)C(=O)O)[C@@H](C)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA; subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;318;
+KSV;
+kq;
+n;0.98;0.90;0.89;
+K;
+Ka;
+Kb;2.46*10^4;2.36*10^4;2.26*10^4;
+ΔH;-5.009;-5.009;-5.009;
+ΔS;127.6;127.6;127.6;
+ΔG;-19.372;-20.486;-22.598;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

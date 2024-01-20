@@ -1,0 +1,95 @@
+Title:Identification of pyrazosulfuron-ethyl binding affinity and binding site subdomain IIA in human serum albumin by spectroscopic methods
+DOI:10.1016/j.saa.2009.12.062
+ligand name:PY
+ligand smiles:CCOC(=O)C1=C(N(C)N=C1)S(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;297;303;309;
+KSV;2.860*10^5;2.693*10^5;2.542*10^5;2.367*10^5;
+kq;2.860*10^13;2.693*10^13;2.542*10^13;2.367*10^13;
+n;0.87;0.86;0.85;0.83;
+K;
+Ka;4.905*10^6;4.407*10^6;3.964*10^6;3.318*10^6;
+Kb;4.426*10^4;3.328*10^4;2.288*10^4;1.854*10^4;
+ΔH;-36.32;-36.32;-36.32;-36.32;
+ΔS;-35.91;-35.91;-35.91;-35.91;
+ΔG;-25.88;-25.64;-25.39;-25.25;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

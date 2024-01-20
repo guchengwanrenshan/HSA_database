@@ -1,0 +1,69 @@
+Title:Characterization of the Interaction of 6-Thioguanine with Human Serum Albumin by Surface-Enhanced Raman Scattering and Molecular Modeling
+DOI:10.1080/00032719.2015.1017766
+ligand name:6-Thioguanine
+ligand smiles:C1=NC2=C(N1)C(=S)N=C(N2)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;306.0;316.0
+KSV;28490.0;25690.0;23170.0
+kq;2849000000000.0;2569000000000.0;2317000000000.0
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

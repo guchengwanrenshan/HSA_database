@@ -1,0 +1,95 @@
+Title:Investigation of the interaction between sophoricoside and human serum albumin by optical spectroscopy and molecular modeling methods
+DOI:10.1016/j.molstruc.2008.02.031
+ligand name:sophoricoside
+ligand smiles:C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):TRP214;ALA215;ALA217;LEU219;VAL246 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;301;310;318;
+KSV;
+kq;
+n;1.19;1.26;1.37;
+K;
+Ka;
+Kb;5.97*10^4;4.71*10^4;3.65*10^4;3.27*10^4;
+ΔH;-19.44;-19.44;-19.44;-19.44;
+ΔS;24.71;24.71;24.71;24.71;
+ΔG;-26.61;-26.88;-27.10;-27.30;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

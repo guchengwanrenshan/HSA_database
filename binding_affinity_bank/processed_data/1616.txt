@@ -1,0 +1,69 @@
+Title:Effects of Human Serum Albumin on the Fluorescence Intensity and Tumor Imaging Properties of IR-780 Dye
+DOI:10.1111/php.13547
+ligand name:IR-780
+ligand smiles:CCCN1C2=CC=CC=C2C(C1=C/C=C/3\CCCC(=C3Cl)/C=C/C4=[N+](C5=CC=CC=C5C4(C)C)CCC)(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;310.0
+KSV;1140000.0;1110000.0;1170000.0;1080000.0
+kq;197000000000000.0;192000000000000.0;202000000000000.0;187000000000000.0
+n;1.13;1.17;1.16;1.03
+K;
+Ka;
+Kb;7080000.0;9550000.0;9330000.0;1660000.0
+ΔH;-63.0949;-63.0949;-63.0949;-63.0949
+ΔS;-80.3929;-80.3929;-80.3929;-80.3929
+ΔG;-39.5398;-39.1378;-38.7358;-38.1731
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

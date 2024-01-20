@@ -1,0 +1,95 @@
+Title:Comparative studies on the interactions of honokiol and magnolol with human serum albumin
+DOI:10.1016/j.jpba.2012.03.010
+ligand name:magnolol
+ligand smiles:C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;304;310;
+KSV;1.855*10^5;1.737*10^5;1.629*10^5;1.280*10^5;
+kq;1.855*10^13;1.737*10^13;1.629*10^13;1.280*10^13;
+n;1.28;1.26;1.25;1.23;
+K;
+Ka;
+Kb;362.160*10^4;263.755*10^4;221.462*10^4;156.027*10^4;
+ΔH;-35.688;-35.688;-35.688;-35.688;
+ΔS;3.612;3.612;3.612;3.612;
+ΔG;-36.746;-36.764;-36.786;-36.807;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.790*10^-16;
+E;0.666;
+R0;1.389;
+r;1.238;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

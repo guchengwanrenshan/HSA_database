@@ -1,0 +1,69 @@
+Title:Copper(I) and silver(I) complexes of anthraldehyde thiosemicarbazone: synthesis, structure elucidation, in vitro anti-tuberculosis/cytotoxic activity and interactions with DNA/HSA
+DOI:10.1039/d0dt03104f
+ligand name:H2L
+ligand smiles:CNC(=S)N/N=C/C1=C2C=CC=CC2=CC2=CC=CC=C21
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;199000.0
+kq;19900000000000.0
+n;1.01
+K;
+Ka;
+Kb;220000.0
+ΔH;
+ΔS;
+ΔG;-30.4776
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

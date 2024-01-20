@@ -1,0 +1,95 @@
+Title:Investigation on the binding of cyanobacterial metabolite calothrixin A with human serum albumin for evaluating its potential toxicology
+DOI:10.1016/j.fct.2021.112396
+ligand name:Calothrixin A 
+ligand smiles:C1=CC=C2C(=C1)C3=C(N2)C(=O)C4=C(C3=O)C=[N+](C5=CC=CC=C54)[O-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (Subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;273;296;310;
+KSV;
+kq;
+n;0.94;0.92;0.96;
+K;
+Ka;9382.8;5715.5;4499.0
+Kb;2065.4;1313.7;1287.8;
+ΔH;-14.08;-14.08;-14.08;
+ΔS;24.45;24.45;24.45;
+ΔG;-20.75;-21.32;-21.66;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.9468*10^-14;
+E;
+R0;3.0258;
+r;5.4113;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

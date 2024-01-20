@@ -1,0 +1,69 @@
+Title:Exploring the combination characteristics of lumefantrine, an antimalarial drug and human serum albumin through spectroscopic and molecular docking studies
+DOI:10.1080/07391102.2020.1713215
+ligand name:lumefantrine
+ligand smiles:CCCCN(CCCC)CC(C1=CC(=CC\2=C1C3=C(/C2=C/C4=CC=C(C=C4)Cl)C=C(C=C3)Cl)Cl)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: Site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;74700.0;63700.0;50500.0
+kq;
+n;1.01;1.0;0.99
+K;
+Ka;72700.0;60600.0;50100.0
+Kb;
+ΔH;-12.3;-12.3;-12.3
+ΔS;50.34;50.34;50.34
+ΔG;-26.8;-27.31;-27.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

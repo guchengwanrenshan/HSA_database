@@ -1,0 +1,95 @@
+Title:Spectroscopic investigation of the anticancer alkaloid piperlongumine binding to human serum albumin from the viewpoint of drug delivery
+DOI:10.1002/bio.3414
+ligand name:Piperlongumine
+ligand smiles:COC1=CC(=CC(=C1OC)OC)/C=C/C(=O)N2CCC=CC2=O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;
+kq;
+n;1.7;3.2;6.8;8.1;
+K;
+Ka;5.25*10^4;5.71*10^4;6.01*10^4;6.64*10^4;
+Kb;
+ΔH;11.31;11.31;11.31;11.31;
+ΔS;128.97;128.97;128.97;128.97;
+ΔG;-26.47;-27.12;-27.12;-28.14;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;7.518*10^-15;
+E;0.297;
+R0;2.772;
+r;3.199;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

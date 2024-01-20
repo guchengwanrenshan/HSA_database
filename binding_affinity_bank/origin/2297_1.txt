@@ -1,0 +1,95 @@
+Title:Investigation of binary and ternary systems of human serum albumin with oxyresveratrol/piceatannol and/or mitoxantrone by multipectroscopy, molecular docking and cytotoxicity evaluation
+DOI:10.1016/j.molliq.2020.113364
+ligand name:piceatannol
+ligand smiles:C1=CC(=C(C=C1/C=C/C2=CC(=CC(=C2)O)O)O)O 
+key residue(hbond):LYS195;GLY207;ALA210 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.2;302.2;306.2;310.2;
+KSV;
+kq;10.16*10^12;9.58*10^12;9.41*10^12;9.34*10^12;
+n;1.11;1.10;1.09;1.07;
+K;
+Ka;
+Kb;4.49*10^5;3.54*10^5;2.91*10^5;2.34*10^5;
+ΔH;-41.31;-41.31;-41.31;-41.31;
+ΔS;-30.46;-30.46;-30.46;-30.46;
+ΔG;-32.25;-32.08;-32.01;-31.86;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

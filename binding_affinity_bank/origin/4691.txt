@@ -1,0 +1,90 @@
+Title:Complexes between C.I. Acid Orange 6 and human serum albumin, a multi-spectroscopic approach to investigate the binding behavior
+DOI:10.1016/j.jlumin.2011.02.009
+ligand name:C.I. Acid Orange 6
+ligand smiles:C1=CC(=CC=C1N=NC2=C(C=C(C=C2)O)O)S(=O)(=O)[O-].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;300;308;317;
+KSV;
+kq;
+n;1.03;1.01;0.98;0.95;
+K;
+Ka;4.79*10^4;5.12*10^4;5.45*10^4;5.83*10^4;
+Kb;4.89*10^4;4.98*10^4;5.03*10^4;5.41*10^4;
+ΔH;-5.77;-5.77;-5.77;-5.77;
+ΔS;109.42;109.42;109.42;109.42;
+ΔG;-26.07;-27.06;-27.93;-28.92;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.42316*10^-14;
+E;0.6964;
+R0;3.25;
+r;2.83;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)

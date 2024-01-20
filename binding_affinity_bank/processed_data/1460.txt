@@ -1,0 +1,69 @@
+Title:Understanding the bioconjugation reaction of phenthoate with human serum albumin: New insights from experimental and computational approaches
+DOI:10.1016/j.toxlet.2019.07.025
+ligand name:phenthoate
+ligand smiles:CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;71760.0;61730.0;64170.0
+kq;13570000000000.0;12690000000000.0;12130000000000.0
+n;1.08;1.07;1.06
+K;72090.0;66350.0;62280.0
+Ka;
+Kb;
+ΔH;-9.369;-9.369;-9.369
+ΔS;61.53;61.53;61.53
+ΔG;-27.71;-28.06;-28.45
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

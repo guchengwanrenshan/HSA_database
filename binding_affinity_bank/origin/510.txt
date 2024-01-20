@@ -1,0 +1,95 @@
+Title:Evaluation of ct-DNA and HSA binding propensity of antibacterial drug chloroxine: Multi-spectroscopic analysis, atomic force microscopy and docking simulation
+DOI:10.1016/j.saa.2020.118042
+ligand name:Chloroxine
+ligand smiles:C1=CC2=C(C(=C(C=C2Cl)Cl)O)N=C1  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: Sudlow's site I (subdomain II A) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.15;298.15;310.15;
+KSV;1.77*10^4;1.80*10^4;2.00*10^4;
+kq;
+n;1.28;1.31;1.38;
+K;
+Ka;
+Kb;7.27*10^4;6.22*10^4;5.55*10^4;
+ΔH;-9.07;-9.07;-9.07;
+ΔS;61.48;61.48;61.48;
+ΔG;-26.79;-27.41;-28.41;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.55*10^-15;
+E;0.42
+R0;1.71;
+r;1.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

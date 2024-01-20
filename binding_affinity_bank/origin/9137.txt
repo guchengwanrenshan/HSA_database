@@ -1,0 +1,90 @@
+Title:Theoretical and experimental studies of the interaction between human serum albumin and Artepillin C, an active principle of the Brazilian green propolis
+DOI:10.21577/1984-6835.20190109
+ligand name:Artepillin C
+ligand smiles:CC(=CCC1=CC(=CC(=C1O)CC=C(C)C)/C=C/C(=O)O)C
+key residue(hbond):Trp214;Ser201;Val343;Ser453;Leu480 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;317;
+KSV;3.15*10^4;2.99*10^4;2.87*10^4;2.71*10^4;2.41*10^4;
+kq;5.51*10^12;5.23*10^12;5.02*10^12;4.74*10^12;4.21*10^12;
+n;
+K;
+Ka;
+Kb;7.97*10^5;6.58*10^5;5.36*10^5;4.45*10^5;3.88*10^5;
+ΔH;-19.9;-19.9;-19.9;-19.9;-19.9;
+ΔS;43.9;43.9;43.9;43.9;43.9;
+ΔG;-32.6;-32.9;-33.2;-33.5;-33.8;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

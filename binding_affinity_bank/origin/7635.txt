@@ -1,0 +1,90 @@
+Title:Non-covalent binding analysis of sulfamethoxazole to human serum albumin: fluorescence spectroscopy, UV-vis, FT-IR, voltammetric and molecular modeling
+DOI:10.1016/j.jpha.2015.01.003
+ligand name:sulfamethoxazole
+ligand smiles:CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+key residue(hbond):
+key residue(hydrophobic):Pro147;Phe149 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.440*10^4;0.910*10^4;0.580*10^4;
+kq;1.440*10^12;0.910*10^12;0.580*10^12;
+n;1.04;1.04;1.02;
+K;
+Ka;
+Kb;2.250*10^4;1.560*10^4;0.850*10^4;
+ΔH;-36.0;-36.0;-36.0;
+ΔS;41.3;41.3;41.3;
+ΔG;-24.1056;-23.6926;-23.2796;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.17*10^-15;
+E;0.1211;
+R0;2.79;
+r;3.885;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

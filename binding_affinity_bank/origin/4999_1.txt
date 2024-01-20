@@ -1,0 +1,95 @@
+Title:Thermodynamic Properties of the Site-selective Binding of a Bromo-hydrazone and Its Unsubstituted Analogue to Human Serum Albumin
+DOI:10.1007/s10953-015-0303-7
+ligand name:BH
+ligand smiles:OC1=C(C=CC=C1)C(=O)N\N=C\C1=CC=CC=C1
+key residue(hbond):Arg222;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;1.53*10^5;1.41*10^5;1.25*10^5;1.11*10^5;
+kq;1.53*10^13;1.41*10^13;1.25*10^13;1.11*10^13;
+n;1.31;1.27;1.20;1.11;
+K;
+Ka;
+Kb;8.0*10^4;7.4*10^4;6.5*10^4;5.6*10^4;
+ΔH;-18.8;-18.8;-18.8;-18.8;
+ΔS;-30.8;-30.8;-30.8;-30.8;
+ΔG;-28.0;-28.2;-28.4;-28.5;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

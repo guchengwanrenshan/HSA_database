@@ -1,0 +1,95 @@
+Title:Study on the interaction between 4-(1H-indol-3-yl)-2-(p-tolyl)quinazoline-3-oxide and human serum albumin
+DOI:10.1016/j.bmc.2020.115720
+ligand name:4-(1H-indol-3-yl)-2-(p-tolyl)quinazoline-3-oxide
+ligand smiles:CC1=CC=C(C=C1)C1=[N+]([O-])C(C2=CNC3=C2C=CC=C3)=C2C=CC=CC2=N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: IIA domain and IIIA domain
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;300;303;
+KSV;1.40*10^4;1.39*10^4;1.33*10^4;
+kq;1.40*10^12;1.39*10^12;1.33*10^12;
+n;0.87;0.95;1.07;
+K;
+Ka;2.47*10^4;1.70*10^4;1.03*10^4;
+Kb;
+ΔH;-139.02;-139.02;-139.02;
+ΔS;435.73;435.73;435.73;
+ΔG;-268.86;-269.74;-271.04;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Spectroscopic studies on the binding of bioactive phenothiazine compounds to human serum albumin
+DOI:10.1016/j.jphotochem.2007.01.021
+ligand name:thioridazine hydrochloride
+ligand smiles:CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;309;
+KSV;5.58*10^4;5.00*10^4;4.50*10^4;
+kq;5.58*10^4;5.00*10^4;4.50*10^4;
+n;1.125;1.063;1.044;
+K;
+Ka;
+Kb;9.14*10^4;4.46*10^4;3.48*10^4;
+ΔH;-20.74;-20.74;-20.74;
+ΔS;19.68;19.68;19.68;
+ΔG;-26.40;-26.60;-26.80;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.17*10^-15;
+E;0.26;
+R0;1.76;
+r;2.13;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

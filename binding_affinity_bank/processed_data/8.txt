@@ -1,0 +1,69 @@
+Title: Biophysical Study on the Interaction between Eperisone Hydrochloride and Human Serum Albumin Using Spectroscopic, Calorimetric, and Molecular Docking Analyses
+DOI: 10.1021/acs.molpharmaceut.6b01124
+ligand name: eperisone hydrochloride
+ligand smiles:CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2
+key residue(Hbond):R257d
+key residue(hydrophobic): Y150;K199;L219;F223;L238;H242;R257;L260;I264;I290;A291d
+PDB ID:
+Binding Area: IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0;315.0
+KSV;97000.0;79000.0;61000.0;48000.0
+kq;16000000000000.0;13000000000000.0;10000000000000.0;8300000000000.0
+n;0.93;1.0;1.0;1.1
+K;
+Ka;
+Kb;49000.0;99000.0;100000.0;170000.0
+ΔH;46.024;46.024;46.024;46.024
+ΔS;245.705;245.793;245.641;245.727
+ΔG;-27.196;-28.4512;-30.1248;-31.38
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;27300.0
+Kb;
+ΔH;-130.5408
+ΔS;-340.4765
+ΔG;-28.0328
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

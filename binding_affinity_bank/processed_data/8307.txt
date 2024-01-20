@@ -1,0 +1,69 @@
+Title:Investigation on interaction between 2,3,3'-trichloro biphenyl and human serum albumin by computer simulation and spectroscopy
+DOI:10.3969/j.issn.1004-4957.2014.02.011
+ligand name:2,3,3'-trichloro biphenyl
+ligand smiles:C1=CC(=CC(=C1)Cl)C2=C(C(=CC=C2)Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;298.0;310.0
+KSV;
+kq;
+n;1.0511;1.1223;0.9632
+K;
+Ka;
+Kb;5010000000.0;929000000.0;234000000.0
+ΔH;22.99;22.99;22.99
+ΔS;243.0;243.0;237.0
+ΔG;-47.92;-47.63;-50.56
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

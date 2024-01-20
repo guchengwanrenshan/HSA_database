@@ -1,0 +1,95 @@
+Title:Specific interaction with human serum albumin reduces ginsenoside cytotoxicity in human umbilical vein endothelial cells
+DOI:10.3389/fphar.2020.00498
+ligand name:G-Rg5
+ligand smiles:[H][C@@]12[C@H](CC[C@@]1(C)[C@]1(C)CC[C@@]3([H])C(C)(C)C(CC[C@]3(C)[C@@]1([H])C[C@H]2O)O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(\C)=C/C=C(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;310;
+n;2.54;
+K;
+Ka;
+Kb;1.89*10^5;
+ΔH;16.6440;
+ΔS;156.9;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

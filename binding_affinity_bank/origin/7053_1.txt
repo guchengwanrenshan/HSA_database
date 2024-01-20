@@ -1,0 +1,94 @@
+Title:Synthesis of two cinnamic oxime ester derivatives and their interaction mechanism with human serum albumin
+DOI:10.3788/fgxb20173803.0402
+ligand name:II
+ligand smiles:COC1=C(\C=C\C(=O)O\N=C\C2=CC=C(C=C2)S(C)(=O)=O)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;4.996*10^4;4.726*10^4;4.570*10^4;
+kq;4.996*10^12;4.726*10^12;4.570*10^12;
+n;1.204;1.102;1.043;
+K;
+Ka;
+Kb;3.629*10^4;1.300*10^4;0.7508*10^4;
+ΔH;-120.50;-120.50;-120.50;
+ΔS;-298.49;-298.49;-298.49;
+ΔG;-31.55;-30.06;-28.56;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;298;
+J;1.011*10^-14;
+E;0.1106;
+R0;2.42;
+r;3.43;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

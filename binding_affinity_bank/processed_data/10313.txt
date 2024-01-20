@@ -1,0 +1,69 @@
+Title:Interaction of 1-cyanoethyl-5-chlorouracil with human and bovine serum albumins
+DOI:10.1007/s10812-008-9092-8
+ligand name:1-cyanoethyl-5-chlorouracil
+ligand smiles:CC(C#N)N1C(=O)C(=CNC1=O)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;301.0;311.0
+KSV;16020.0;15740.0;15550.0
+kq;1602000000000.0;1574000000000.0;1555000000000.0
+n;
+K;
+Ka;
+Kb;87220.0;87130.0;46710.0
+ΔH;-0.176;-0.176;-0.176
+ΔS;94.0;94.0;94.0
+ΔG;-27.53;-28.47;-27.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

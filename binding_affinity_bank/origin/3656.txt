@@ -1,0 +1,95 @@
+Title:Comparative binding character of two general anaesthetics for sites on human serum albumin
+DOI:10.1042/bj20031652
+ligand name:Propofol
+ligand smiles:CC(C)C1=C(C(=CC=C1)C(C)C)O
+key residue(hbond):Leu430 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;293;
+n;1.7;
+K;
+Ka;
+Kb;15280;
+ΔH;-21.7526;
+ΔS;5.8576;
+ΔG;
+Cp;
+Kd;65;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

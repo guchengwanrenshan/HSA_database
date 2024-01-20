@@ -1,0 +1,69 @@
+Title:Study of interaction between syringin and human serum albumin by multi-spectroscopic method and atomic force microscopy
+DOI:10.1016/j.molstruc.2010.08.042
+ligand name:syringin
+ligand smiles:COC1=CC(=CC(=C1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO  
+key residue(hbond):Ala291;Arg222;Lys199 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295.0;310.0;320.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;35300.0;32900.0;29700.0
+ΔH;5.23;5.23;5.23
+ΔS;103.34;103.34;103.34
+ΔG;-27.84;-26.81;-25.26
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

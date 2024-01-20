@@ -1,0 +1,69 @@
+Title:Probing the Binding of the Flavonoid Diosmetin to Human Serum Albumin by Multispectroscopic Techniques
+DOI:10.1021/jf205260g
+ligand name:diosmetin
+ligand smiles:COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA (Sudlow site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;61000.0;45300.0;36600.0
+kq;6100000000000.0;4530000000000.0;3660000000000.0
+n;
+K;
+Ka;118000.0;97000.0;80000.0
+Kb;127000.0;110000.0;81000.0
+ΔH;-24.56;-24.56;-24.56
+ΔS;14.67;14.67;14.67
+ΔG;-28.93;-29.02;-29.11
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

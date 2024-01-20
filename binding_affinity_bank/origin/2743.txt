@@ -1,0 +1,95 @@
+Title:Investigation on the interaction between a heterocyclic aminal derivative;SBDC;and human serum albumin
+DOI:10.1016/j.colsurfb.2007.07.007
+ligand name:SBDC
+ligand smiles:CC1(O[C@@H]2[C@@H](C3(CNC(=CC(=O)C4=CC=CC=C4)NC3)O[C@@H]2O1)OCC5=CC=CC=C5)C
+key residue(hbond):Lys199;Lys195;Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;310;
+KSV;4.62*10^4;3.57*10^4;
+kq;4.62*10^12;3.57*10^12;
+n;
+K;
+Ka;
+Kb;
+ΔH;-8.64;-8.64;
+ΔS;59.28;59.28;
+ΔG;-25.72;-27.02;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.13*10^-14;
+E;0.26;
+R0;2.34;
+r;2.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

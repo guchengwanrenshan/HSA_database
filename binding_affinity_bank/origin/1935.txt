@@ -1,0 +1,95 @@
+Title:Study on the interaction of tussilagone with human serum albumin (HSA) by spectroscopic and molecular docking techniques
+DOI:10.1016/j.molstruc.2017.08.039
+ligand name:tussilagone
+ligand smiles:CC/C(=C/C(=O)O[C@@H]1C[C@H]([C@H]2[C@H](C1=C)CC(=O)[C@@H]2[C@@H](C)OC(=O)C)C(C)C)/C  CC/C(=C/C(=O)O[C@@H]1C[C@H]([C@H]2[C@H](C1=C)CC(=O)[C@@H]2[C@@H](C)OC(=O)C)C(C)C)/C  
+key residue(hbond):K195;R222;R257 d
+key residue(hydrophobic):V455;K199;W214;I290;A291;R218;L219;L238;L260;Y150;S287;H242 d
+PDB ID:
+Binding Area:site I (subdomain IIA) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;291;299;
+KSV;508;489;483;
+kq;0.847*10^11;0.815*10^11;0.803*10^11;
+n;
+K;
+Ka;2662;2182;1942
+Kb;
+ΔH;-13.89;-13.89;-13.89;
+ΔS;16.39;16.39;16.39;
+ΔG;-18.53;-18.61;-18.69;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.156*10^-15;
+E;0.0414;
+R0;1.23;
+r;2.07;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:The investigation of interaction between Thioguanine and human serum albumin by fluorescence and modeling
+DOI:10.1016/j.arabjc.2013.06.031
+ligand name:Thioguanine
+ligand smiles:C1=NC2=C(N1)C(=S)N=C(N2)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297.0;307.0;317.0
+KSV;
+kq;3106000000000.0;2853000000000.0;2698000000000.0
+n;0.8073;0.9799;1.1192
+K;
+Ka;
+Kb;42400.0;31300.0;24700.0
+ΔH;-21.11;-21.11;-21.11
+ΔS;17.5;17.5;17.5
+ΔG;-26.31;-26.42;-26.66
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

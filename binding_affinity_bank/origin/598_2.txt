@@ -1,0 +1,95 @@
+Title:Comparative study of the interactions between bisphenol analogues and serum albumins by electrospray mass spectrometry and fluorescence spectroscopy
+DOI:10.1002/rcm.7633
+ligand name:4,4′-sulfonyldiphenol
+ligand smiles:C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;284;297;310;
+KSV;11.36*10^4;10.69*10^4;10.62*10^4;
+kq;11.36*10^12;10.69*10^12;10.62*10^12;
+n;
+K;
+Ka;5.14*10^4;4.36*10^4;5.14*10^4;
+Kb;
+ΔH;-13.79;-13.79;-13.79;
+ΔS;41.84;41.84;41.84;
+ΔG;-25.61;-26.37;-26.68;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

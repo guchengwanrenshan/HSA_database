@@ -1,0 +1,69 @@
+Title:Binding of hydroxylated polybrominated diphenyl ethers with human serum albumin: Spectroscopic characterization and molecular modeling
+DOI:10.1002/bio.3280
+ligand name:5-OH-BDE-47
+ligand smiles:OC1=C(Br)C=C(Br)C(OC2=CC=C(Br)C=C2Br)=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;298.0;310.0
+KSV;9800000.0;13900000.0;18200000.0
+kq;980000000000000.0;1390000000000000.0;1820000000000000.0
+n;1.14;0.98;0.99
+K;
+Ka;3200000.0;9600000.0;17300000.0
+Kb;
+ΔH;61.2;61.2;61.2
+ΔS;336.87;336.87;336.87
+ΔG;-36.13;-39.84;-42.95
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

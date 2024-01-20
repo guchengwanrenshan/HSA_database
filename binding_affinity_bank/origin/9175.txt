@@ -1,0 +1,90 @@
+Title:Investigation of the interactions between three flavonoids and human serum albumin by isothermal titration calorimetry, spectroscopy, and molecular docking
+DOI:10.1039/d2nj00314g
+ligand name:Liquiritin
+ligand smiles:C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):GLY434;LEU430;LEU453;ALA449;ILE388 d
+PDB ID:
+Binding Area:site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;301;311;
+KSV;1.05*10^5;1.11*10^5;1.23*10^5;
+kq;1.05*10^13;1.11*10^13;1.23*10^13;
+n;1.0748;1.0466;1.0057;
+K;
+Ka;
+Kb;2.40*10^5;1.83*10^5;1.36*10^5;
+ΔH;-10.40;-10.40;-10.40;
+ΔS;66.82;66.82;66.82;
+ΔG;-29.84;-30.51;-31.18;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;1.01;
+K;
+Ka;
+Kb;1.18*10^5;
+ΔH;-1.0782;
+ΔS;93.3032;
+ΔG;-28.8696;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

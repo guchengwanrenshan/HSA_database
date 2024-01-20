@@ -1,0 +1,95 @@
+Title:Spectroscopic study of drug-binding characteristics of unmodified and pNPA-based acetylated human serum albumin: Does esterase activity affect microenvironment of drug binding sites on the protein?
+DOI:10.1016/j.jlumin.2014.11.019
+ligand name:indomethacin
+ligand smiles:CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;18.65*10^4;14.46*10^4;11.15*10^4;8.32*10^4;
+kq;18.65*10^12;14.46*10^12;11.15*10^12;8.32*10^12;
+n;1.5878;1.458;1.13122;1.2376;
+K;
+Ka;
+Kb;30.8318*10^4;36.1409*10^4;48.9778*10^4;48.9778*10^4;
+ΔH;18.14115;18.14115;18.14115;18.14115;
+ΔS;169.024;169.024;169.024;169.024;
+ΔG;-29.6925;-31.3828;-32.2279;-33.073;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

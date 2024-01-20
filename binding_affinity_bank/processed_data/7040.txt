@@ -1,0 +1,69 @@
+Title:Investigation of the binding properties of 3,4-dihydroxybenzaldehyde from Salvia miltiorrhiza (Bunge) with human serum albumin via multi-spectroscopic and molecular docking techniques
+DOI:10.15376/biores.17.2.2680-2695
+ligand name:3,4-dihydroxybenzaldehyde
+ligand smiles:C1=CC(=C(C=C1C=O)O)O
+key residue(hbond):Tyr161;Leu185;Ser193 d
+key residue(hydrophobic):Ile142;Phe149;Leu154;Phe157;Tyr161;Leu185 d
+PDB ID:
+Binding Area:subdomain IB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;52700.0;42200.0;35300.0
+kq;9120000000000.0;7300000000000.0;6110000000000.0
+n;1.26;1.21;1.12
+K;
+Ka;
+Kb;496000.0;266000.0;122000.0
+ΔH;-89.53;-89.53;-89.53
+ΔS;-191.18;-191.18;-191.18
+ΔG;-32.56;-31.41;-30.26
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

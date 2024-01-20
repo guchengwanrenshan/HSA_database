@@ -1,0 +1,95 @@
+Title:Synthesis and interaction studies of benzimidazole derivative with human serum albumin
+DOI:10.1016/j.saa.2011.07.052
+ligand name:PPB
+ligand smiles:C(N1C=[N+](CC2=CC=CC=N2)C2=C1C=CC=C2)C1=NC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;
+kq;
+n;0.57;0.74;1.12;1.55;
+K;
+Ka;
+Kb;4.88*10^4;3.17*10^4;1.82*10^4;1.18*10^4;
+ΔH;-51.20;-51.20;-51.20;-51.20;
+ΔS;-87.24;-87.24;-87.24;-87.24;
+ΔG;-25.98;-25.38;-24.77;-24.16;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.15*10^-14;
+E;0.12;
+R0;2.51;
+r;3.49;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

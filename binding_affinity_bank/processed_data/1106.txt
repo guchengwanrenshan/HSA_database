@@ -1,0 +1,69 @@
+Title:Interaction of remimazolam benzenesulfonate and human serum albumin: a simulated physiological study
+DOI:10.1002/bio.4145
+ligand name:remimazolam
+ligand smiles:CC1=CN=C2N1C3=C(C=C(C=C3)Br)C(=N[C@H]2CCC(=O)OC)C4=CC=CC=N4 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;160000.0;119000.0;82000.0
+kq;160000000000.0;119000000000.0;82000000000.0
+n;1.32;1.27;1.15
+K;
+Ka;
+Kb;6030000.0;2580000.0;4220000.0
+ΔH;-90.76;-90.76;-90.76
+ΔS;-207.0;-207.0;-207.0
+ΔG;-37.6;-36.8;-33.4
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.21
+K;
+Ka;3170000.0
+Kb;
+ΔH;-45.4
+ΔS;-27.0
+ΔG;-37.354
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

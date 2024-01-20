@@ -1,0 +1,69 @@
+Title:Tea polyphenols bind serum albumins:A potential application for polyphenol delivery
+DOI:10.1016/j.foodhyd.2018.11.008
+ligand name:(+)-catechin
+ligand smiles:C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;308.15;318.15
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;290000.0;216000.0;162000.0
+ΔH;-10.14;-10.14;-10.14
+ΔS;11.44;11.44;11.44
+ΔG;-13.55;-13.67;-13.78
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

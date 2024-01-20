@@ -1,0 +1,93 @@
+Title:Molecular simulation study of the specific combination between four kinds of phthalic acid esters and human serum albumin
+DOI:10.1016/j.etap.2015.12.017
+ligand name:DOP
+ligand smiles:CCCCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCCCC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;7.4;
+T;291;298;310;
+KSV;
+kq;
+n;0.871;0.928;0.912;
+K;
+Ka;
+Kb;1.86*10^2;1.27*10^2;0.71*10^2;
+ΔH;-45.90;-45.90;-45.90;
+ΔS;-59.97;-59.97;-59.97;
+ΔG;-27.61;-27.30;-28.90;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+kq;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+J;9.61*10^-15;
+E;0.0328;
+R0;1.180;
+r;2.065;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

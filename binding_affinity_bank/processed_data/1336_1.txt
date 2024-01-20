@@ -1,0 +1,69 @@
+Title:ACTIVITY OF BLACKCURRANT AND CHOKEBERRY EXTRACTS AND TWO MAJOR CYANIDIN GLYCOSIDES AGAINST LIPID MEMBRANE OXIDATION AND THEIR BINDING PROPERTIES TO ALBUMIN.
+DOI:
+ligand name:cyanidin-3-O-ruthinoside
+ligand smiles:C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC=C(O)C(O)=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;305.0;310.0;315.0
+KSV;41330.0;39520.0;37350.0;35670.0
+kq;
+n;1.259;1.164;1.134;1.102
+K;
+Ka;
+Kb;695340.0;234150.0;157180.0;106660.0
+ΔH;-40.044;-40.044;-40.044;-40.044
+ΔS;-85.688;-85.688;-85.688;-85.688
+ΔG;-14.571;-13.616;-13.393;-13.168
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

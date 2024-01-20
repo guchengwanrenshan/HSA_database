@@ -1,0 +1,95 @@
+Title:Chemicobiological deciphering the protein-binding details of aspirin
+DOI:None
+ligand name:aspirin
+ligand smiles:CC(=O)OC1=CC=CC=C1C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;299;305;311;
+KSV;1.096*10^3;1.554*10^3;2.096*10^3;2.400*10^3;
+kq;1.096*10^11;1.554*10^11;2.096*10^11;2.400*10^11;
+n;1.027;0.9251;0.8445;0.7517;
+K;
+Ka;
+Kb;10^3.126;10^2.928;10^2.822;10^2.620;
+ΔH;-46.92;-46.92;-46.92;-46.92;
+ΔS;-100.9;-100.9;-100.9;-100.9;
+ΔG;-17.45;-16.84;-16.24;-15.63;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.976*10^-15;
+E;0.016;
+R0;1.87;
+r;3.71;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

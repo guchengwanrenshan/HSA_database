@@ -1,0 +1,95 @@
+Title:Binding interaction of potent HIV-1 NNRTIs, amino-oxy-diarylquinoline with the transport protein using spectroscopic and molecular docking
+DOI:10.1016/j.saa.2020.118159
+ligand name:4-(4′-cyanophenoxy)-2-(4″-cyanophenyl)-aminoquinoline (1)
+ligand smiles:N#CC1=CC=C(NC2=NC3=C(C=CC=C3)C(OC3=CC=C(C=C3)C#N)=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I (subdomains IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;2.91*10^4;2.52*10^4;2.28*10^4;
+kq;5.19*10^4;4.5*10^4;4.07*10^4;
+n;1.14;1.09;1.06;
+K;
+Ka;
+Kb;1.13*10^5;1.08*10^5;1.05*10^5;
+ΔH;-49.35;-49.35;-49.35;
+ΔS;-58.64;-58.64;-58.64;
+ΔG;-31.09;-30.75;-30.05;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

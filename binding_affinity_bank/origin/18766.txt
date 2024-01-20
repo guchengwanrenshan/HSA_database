@@ -1,0 +1,90 @@
+Title:The computational and experimental studies on a 1;2;3-triazole compound and its special binding to three kinds of blood proteins
+DOI:10.1080/07391102.2019.1598498
+ligand name:EPPC
+ligand smiles:CCOC(=O)C1=NN(C2=CC=C(C)C=C2)N=C1C1=CCCC=C1
+key residue(hbond):
+key residue(hydrophobic):Leu154;Ile142;Leu115,His146;Leu182;Arg186;Phe149;Lys190 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;310;320;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;8.296*10^4;11.967*10^4;14.421*10^4;
+ΔH;22.154;22.154;22.154;
+ΔS;168.176;168.176;168.176;
+ΔG;-28.299;-29.981;-31.662;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

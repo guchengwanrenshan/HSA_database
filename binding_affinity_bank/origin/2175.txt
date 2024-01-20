@@ -1,0 +1,95 @@
+Title:Probing the binding interaction of AKR with human serum albumin by multiple fluorescence spectroscopy and molecular modeling
+DOI:10.1080/07391102.2016.1174622
+ligand name:AKR
+ligand smiles:C[C@@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(O[C@H]4O[C@@H](CO)[C@H](O)[C@H]4O)=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA(Sudlow's  site I）
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;300;310;
+KSV;5.92*10^4;5.81*10^4;5.56*10^4;
+kq;
+n;1.32;1.27;1.21;
+K;
+Ka;
+Kb;11.51*10^5;8.48*10^5;4.68*10^5;
+ΔH;-46.27;-46.27;-46.27;
+ΔS;-40.71;-40.71;-40.71;
+ΔG;-34.42;-34.05;-33.65;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

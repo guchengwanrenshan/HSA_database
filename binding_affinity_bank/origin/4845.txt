@@ -1,0 +1,95 @@
+Title:Spectroscopic studies on the interaction between sulfadiazine and human serum albumin
+DOI:10.4028/www.scientific.net/amr.1044-1045.181
+ligand name:Sulfadiazine
+ligand smiles:C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;1.28*10^4;1.10*10^4;
+kq;
+n;0.9907;0.9828;
+K;
+Ka;
+Kb;
+ΔH;-9.70;-9.70;
+ΔS;46.06;46.06;
+ΔG;-23.43;-23.98;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

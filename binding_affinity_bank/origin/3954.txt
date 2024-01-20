@@ -1,0 +1,95 @@
+Title:Study of the interaction between esculetin and human serum albumin by multi-spectroscopic method and molecular modeling
+DOI:10.1016/j.molstruc.2007.11.028
+ligand name:esculetin
+ligand smiles:C1=CC(=O)OC2=CC(=C(C=C21)O)O 
+key residue(hbond):Arg222;Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;
+kq;
+n;0.93;0.96;0.00;1.06;
+K;
+Ka;
+Kb;4.68*10^4;4.14*10^4;3.63*10^4;3.09*10^4;
+ΔH;-14.62;-14.62;-14.62;-14.62;
+ΔS;38.93;38.93;38.93;38.93;
+ΔG;-25.67;-26.14;-26.41;-26.68;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;9.0271*10^-15;
+E;0.25;
+R0;2.41;
+r;2.89;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

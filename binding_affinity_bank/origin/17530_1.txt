@@ -1,0 +1,90 @@
+Title:Role of the conformational flexibility of evodiamine in its binding to protein hosts: a comparative spectroscopic and molecular modeling evaluation with rutaecarpine
+DOI:10.1039/c4cp02483d
+ligand name:rutaecarpine
+ligand smiles:C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1.2*10^6;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;CD;
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;
+Kb;1.4*10^6;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

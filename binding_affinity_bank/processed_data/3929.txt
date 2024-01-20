@@ -1,0 +1,69 @@
+Title:Probing the molecular mechanism of C.I. Acid Red 73 binding to human serum albumin
+DOI:10.1016/j.etap.2010.03.013
+ligand name:C.I. Acid red 73
+ligand smiles:C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N=NC3=C(C=CC4=CC(=CC(=C43)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB;subdomain IIA;subdomain IIIA;subdomian IIIB d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;534000.0;462000.0;380000.0
+kq;53400000000000.0;46200000000000.0;38000000000000.0
+n;1.42;1.71;1.96
+K;
+Ka;
+Kb;119000000.0;4490000000.0;114000000000.0
+ΔH;253.4;253.4;253.4
+ΔS;1030.0;1030.0;1030.0
+ΔG;-44.6;-54.7;-65.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

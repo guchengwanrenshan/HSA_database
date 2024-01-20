@@ -1,0 +1,95 @@
+Title:Studies on the binding of a carditionic agent to human serum albumin by two-dimensional correlation fluorescence spectroscopy and molecular modeling
+DOI:10.1016/j.molstruc.2008.12.047
+ligand name:ACPB
+ligand smiles:NC1=C(C=CC(Cl)=C1)C(=C)NC1=CC=C(C=C1)C1=NNC(=O)CC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;1.051*10^5;0.988*10^5;0.830*10^5;
+kq;1.051*10^13;0.988*10^13;0.830*10^13;
+n;1.19;1.18;1.17;
+K;
+Ka;5.847*10^4;5.070*10^4;4.421*10^4;
+Kb;8.781*10^5;7.310*10^5;5.358*10^5;
+ΔH;-55.237;-55.237;-55.237;
+ΔS;10.447;10.447;10.447;
+ΔG;-58.266;-58.371;-58.476;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

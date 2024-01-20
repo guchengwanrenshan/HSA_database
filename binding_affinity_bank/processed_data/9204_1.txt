@@ -1,0 +1,69 @@
+Title:Study on the interaction of three classical drugs used in psychiatry in albumin through spectrofluorimetric modeling
+DOI:10.1016/j.saa.2021.119638
+ligand name:BPD
+ligand smiles:C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;290nm;290nm;
+pH;
+T;310.0;298.0
+KSV;201000000.0;125000000.0
+kq;
+n;1.0
+K;
+Ka;
+Kb;155000000.0;114000000.0
+ΔH;
+ΔS;
+ΔG;-48.6059;-45.9632
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

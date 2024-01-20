@@ -1,0 +1,95 @@
+Title:Probing the anticancer-drug-binding-induced microenvironment alterations in subdomain IIA of human serum albumin
+DOI:10.1016/j.jcis.2014.12.033
+ligand name:FU
+ligand smiles:C1=C(C(=O)NC(=O)N1)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;5220;3880;2160;
+kq;5.22*10^11;3.88*10^11;2.16*10^11;
+n;0.74;0.76;0.70;
+K;
+Ka;
+Kb;759;605;321;
+ΔH;-106.8;-106.8;-106.8;
+ΔS;-58.2;-58.2;-58.2;
+ΔG;-89.4;-88.9;-88.3;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.1*10^-16;1.8*10^-16;1.4*10^-16;
+E;0.164;0.136;0.119;
+R0;2.3;2.4;2.5;
+r;3.0;3.3;3.5;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

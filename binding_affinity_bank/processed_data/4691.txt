@@ -1,0 +1,69 @@
+Title:Complexes between C.I. Acid Orange 6 and human serum albumin, a multi-spectroscopic approach to investigate the binding behavior
+DOI:10.1016/j.jlumin.2011.02.009
+ligand name:C.I. Acid Orange 6
+ligand smiles:C1=CC(=CC=C1N=NC2=C(C=C(C=C2)O)O)S(=O)(=O)[O-].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;300.0;308.0;317.0
+KSV;
+kq;
+n;1.03;1.01;0.98;0.95
+K;
+Ka;47900.0;51200.0;54500.0;58300.0
+Kb;48900.0;49800.0;50300.0;54100.0
+ΔH;-5.77;-5.77;-5.77;-5.77
+ΔS;109.42;109.42;109.42;109.42
+ΔG;-26.07;-27.06;-27.93;-28.92
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

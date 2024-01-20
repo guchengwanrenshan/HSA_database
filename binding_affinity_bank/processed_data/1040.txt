@@ -1,0 +1,69 @@
+Title:Molecular recognition patterns between vitamin B12 and human serum albumin explored through STD-NMR and spectroscopic methods
+DOI:10.1016/j.saa.2021.119828
+ligand name:VB12
+ligand smiles:CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H]([C@@H]5[C@]6([C@@]([C@@H](/C(=C(/C7=N/C(=C\C8=N/C(=C(\C4=N5)/C)/[C@H](C8(C)C)CCC(=O)N)/[C@H]([C@]7(C)CC(=O)N)CCC(=O)N)\C)/[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III (subdomain IB)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;301.0;310.0
+KSV;45500.0;41900.0;39600.0
+kq;
+n;1.19;1.17;1.14
+K;24100.0;80200.0;245300.0
+Ka;
+Kb;
+ΔH;136.82;136.82;136.82
+ΔS;545.32;545.32;545.32
+ΔG;-32.23;-27.32;-25.69
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

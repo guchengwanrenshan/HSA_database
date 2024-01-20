@@ -1,0 +1,69 @@
+Title:Studying on interaction between trigonelline and human serum albumin by fluorescence quenching method
+DOI:None
+ligand name:trigonelline
+ligand smiles:C[N+]1=CC=CC(=C1)C(=O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0;320.0
+KSV;684.11;661.15
+kq;68411000000.0;66115000000.0
+n;1.0077;0.7625
+K;
+Ka;
+Kb;749.03;106.29
+ΔH;-16.23;-16.23
+ΔS;55.002;55.002
+ΔG;-17.0588;-12.4143
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Determining the binding site and binding affinity of estradiol to human serum albumin and holo-transferrin: fluorescence spectroscopic, isothermal titration calorimetry and molecular modeling approaches
+DOI:10.1080/07391102.2017.1333460
+ligand name:estradiol
+ligand smiles:C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
+key residue(hbond):Arg117 d
+key residue(hydrophobic):Leu115;Val116;Phe157;Leu182 d
+PDB ID:
+Binding Area:sub-domain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;3.31*10^4;
+kq;3.31*10^12;
+n;0.95;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;
+K;
+Ka;1.817*10^7;
+Kb;
+ΔH;231.902;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA(%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2)ofHSA;ASA(Å2)ofcom;ΔASA(Å2)
+
+
+
+
+

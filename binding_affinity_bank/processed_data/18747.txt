@@ -1,0 +1,69 @@
+Title:A fluorescence-based high throughput assay for the determination of small molecule-human serum albumin protein binding
+DOI:10.1007/s00216-013-7560-3
+ligand name:naproxen
+ligand smiles:C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;-221.0
+ΔS;-660.0
+ΔG;
+Cp;
+Kd;58.2
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,106 @@
+Title:Binding of antioxidant flavone isovitexin to human serum albumin investigated by experimental and computational assays
+DOI:10.1016/j.jpba.2014.05.015
+ligand name:isovitexin
+ligand smiles:C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;7.20*10^4;5.91*10^4;4.67*10^4;
+kq;7.20*10^13;5.91*10^13;4.67*10^13;
+n;1.16;1.09;1.01;
+K;
+Ka;
+Kb;1.05*10^5;0.83*10^5;0.58*10^5;
+ΔH;-22.1;-22.1;-22.1;
+ΔS;19.6;19.6;19.6;
+ΔG;-27.7;-27.9;-28.1;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.982*10^-14;
+E;0.187;
+R0;2.512;
+r;3.209;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Ala191;;;17.92;
+Lys195;;;40.88;
+Trp214;;;15.09;
+Arg218;;;41.88;
+Asn295;;;23.28;
+Lys436;;;16.91;
+Pro447;;;24.53;
+Cys448;;;24.08;
+Asp451;;;25.84;
+Tyr452;;;30.09;
+Val455;;;15.9;
+
+
+
+
+

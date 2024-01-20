@@ -1,0 +1,69 @@
+Title:Interaction of virstatin with human serum albumin: spectroscopic analysis and molecular modeling
+DOI:10.1371/journal.pone.0037468
+ligand name:virstatin
+ligand smiles:C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCC(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;113000.0
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;303.0
+n;0.29
+K;
+Ka;
+Kb;609000.0
+ΔH;-107.9472
+ΔS;-245.9774
+ΔG;-33.4302
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

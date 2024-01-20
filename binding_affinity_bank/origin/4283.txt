@@ -1,0 +1,95 @@
+Title:Thermodynamic study of indoxylsulfate interaction with human serum albumin and competitive binding with p-cresylsulfate
+DOI:10.1007/s10973-013-3067-6
+ligand name:indoxylsulfate
+ligand smiles:C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;288;293;298;310;
+n;1.10;1.01;0.98;0.97;
+K;
+Ka;
+Kb;3030;2550;1750;1220;
+ΔH;-24.5;-33.1;-36.2;-60.2;
+ΔS;-18;-47;-65;-135;
+ΔG;-19.2;-19.2;-18.5;-18.2;
+Cp;-1600;-1600;-1600;-1600;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

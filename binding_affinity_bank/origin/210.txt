@@ -1,0 +1,95 @@
+Title:Quenching of fluorescence by meclizine;a probe study for structural and conformational changes in human serum albumin
+DOI:10.1080/07391102.2016.1245159
+ligand name:meclizine
+ligand smiles:CC1=CC(=CC=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl
+key residue(hbond):Val455 d
+key residue(hydrophobic): Lys195;Leu198;Lys199;Trp214;Arg218;Arg222;Leu238;His248;Ala291;Val343;Val455 d
+PDB ID:
+Binding Area:site I (sub-domain II A)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;308;
+KSV;8.26*10^3;7.32*10^3;5.96*10^3;4.97*10^3;4.22*10^3;
+kq;8.26*10^11;7.32*10^11;5.96*10^11;4.97*10^11;4.22*10^11;
+n;0.96;0.95;0.93;0.93;0.91;
+K;6.09*10^3;4.89*10^3;3.26*10^3;2.54*10^3;1.79*10^3;
+Ka;
+Kb;
+ΔH;-45.78;-45.78;-45.78;-45.78;-45.78;
+ΔS;-86.15;-86.15;-86.15;-86.15;-86.15;
+ΔG;-20.97;-20.54;-20.11;-19.68;-19.24;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.28*10^-14
+E;0.813
+R0;3.39
+r;2.67
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Kinetic and thermodynamic analysis of 9-nitrocamptothecin hydrolysis at physiological pH in the presence and absence of human serum albumin
+DOI:10.1002/kin.20508
+ligand name:9NC-lactone
+ligand smiles:CC[C@@]1(O)C(=O)OCC2=C1C=C1C3=NC4=CC=CC([N+](=O)[O-])=C4C=C3CN1C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.15
+KSV;
+kq;
+n;1.18
+K;
+Ka;
+Kb;39253.8
+ΔH;
+ΔS;
+ΔG;-27.2758
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

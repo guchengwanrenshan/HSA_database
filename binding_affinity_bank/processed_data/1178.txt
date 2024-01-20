@@ -1,0 +1,69 @@
+Title:Investigation of the Interaction between Human Serum Albumin and Branched Short-Chain Perfluoroalkyl Compounds
+DOI:10.1021/acs.chemrestox.2c00211
+ligand name:C6O4
+ligand smiles:OC(=O)C(F)(F)OC1(F)OC(F)(F)OC1(F)OC(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's sites II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0;310.0
+n;1.6;1.5
+K;
+Ka;
+Kb;
+ΔH;-21.4;-25.8
+ΔS;-35.9;5.48
+ΔG;-32.1;-31.7
+Cp;
+Kd;2.4;5.4
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

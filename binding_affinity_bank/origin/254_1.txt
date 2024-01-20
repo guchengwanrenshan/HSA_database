@@ -1,0 +1,95 @@
+Title:Spectroscopic and cytotoxicity studies on the combined interaction of (-)-epigallocatechin-3-gallate and anthracycline drugs with human serum albumin
+DOI:10.1016/j.saa.2019.117213
+ligand name: EPI
+ligand smiles:COC1=CC=CC2=C1C(=O)C1=C(O)C3=C(C[C@](O)(C[C@@H]3O[C@H]3C[C@H](N)[C@H](O)[C@H](C)O3)C(=O)CO)C(O)=C1C2=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.2;302.2;306.2;310.2;
+KSV;1.86*10^4;1.83*10^4;1.72*10^4;1.67*10^4;
+kq;1.86*10^12;1.83*10^12;1.72*10^12;1.67*10^12;
+n;1.04;1.05;1.09;1.10;
+K;
+Ka;9.01*10^4;7.74*10^4;6.77*10^4;5.97*10^4;
+Kb;
+ΔH;37.98;37.98;37.98;37.98;
+ΔS;212.44;212.44;212.44;212.44;
+ΔG;-25.33;-26.17;-27.03;-27.88;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

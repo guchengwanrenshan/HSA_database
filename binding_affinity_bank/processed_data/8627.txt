@@ -1,0 +1,69 @@
+Title:Study of the interaction between graphene quantum dots loaded with curcumin and human serum albumin
+DOI:10.13526/j.issn.1006-6144.2020.04.009
+ligand name:curcumin
+ligand smiles:COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0
+KSV;360000.0;300000.0;252000.0
+kq;
+n;0.7401;0.6689;0.7438
+K;
+Ka;119000.0;104000.0;98000.0
+Kb;
+ΔH;-25.2;-25.2;-25.2
+ΔS;31.75;31.75;31.75
+ΔG;-34.66;-34.79;-35.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

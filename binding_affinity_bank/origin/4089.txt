@@ -1,0 +1,95 @@
+Title:Binding of daunorubicin to human serum albumin using molecular modeling and its analytical application
+DOI:10.1016/j.ijbiomac.2007.10.013
+ligand name:daunorubicin
+ligand smiles:C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O  
+key residue(hbond):Leu219;Ala291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;305;315;
+KSV;1.599*10^4;1.496*10^4;1.447*10^4;
+kq;1.599*10^12;1.496*10^12;1.447*10^12;
+n;0.8674;0.8490;0.9902;
+K;
+Ka;
+Kb;2.02*10^4;1.95*10^4;1.89*10^4;
+ΔH;-16.13;-16.13;-16.13;
+ΔS;27.86;27.86;27.86;
+ΔG;-24.31;-25.05;-25.80;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.811*10^-14;
+E;0.1731;
+R0;2.9128;
+r;3.78;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

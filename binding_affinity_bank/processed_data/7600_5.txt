@@ -1,0 +1,69 @@
+Title:New isoxazole(3,5)substituted thiosemicarbazone: Synthesis, crystal structure and spectroscopic studies of the binding mode to protein and calf thymus DNA
+DOI:10.1016/j.molstruc.2017.08.062
+ligand name:HL6
+ligand smiles:S=C(N/N=C/C1=NOC(C2=CC=C(Cl)C=C2)=C1)NC1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;295nm;
+pH;7.2
+T;
+KSV;33500.0
+kq;3350000000000.0
+n;1.165
+K;
+Ka;
+Kb;268500.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Binding mechanism of trans-N-caffeoyltyramine and human serum albumin: Investigation by multi-spectroscopy and docking simulation
+DOI:10.1016/j.bioorg.2016.04.002
+ligand name:trans-N-caffeoyltyramine
+ligand smiles:C1=CC(=CC=C1CCNC(=O)/C=C/C2=CC(=C(C=C2)O)O)O
+key residue(hbond):Lys199;Ala291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;303.0;310.0
+KSV;78200.0;67000.0;57000.0
+kq;
+n;0.986;0.954;0.905
+K;
+Ka;
+Kb;67800.0;33000.0;19700.0
+ΔH;-48.22;-48.22;-48.22
+ΔS;-73.11;-73.11;-73.11
+ΔG;-26.9;-26.19;-25.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

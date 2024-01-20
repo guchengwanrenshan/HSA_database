@@ -1,0 +1,69 @@
+Title:Characterization of molecular interactions between cannabidiol and human plasma proteins (serum albumin and γ-globulin) by surface plasmon resonance, microcalorimetry, and molecular docking
+DOI:10.1016/j.jpba.2022.114750
+ligand name:CBD
+ligand smiles:CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.3
+K;
+Ka;770000.0
+Kb;
+ΔH;-38.9112
+ΔS;16.8483
+ΔG;-33.8904
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Investigation on detoxication effects of 2-hydroxypropyl-β-cyclodextrin over two halogenated aromatic DBPs 2,4,6-trichlorophenol and 2,4,6-tribromophenol binding with human serum albumin
+DOI:10.1016/j.foodchem.2022.132349
+ligand name:2,4,6-trichlorophenol
+ligand smiles:C1=C(C=C(C(=C1Cl)O)Cl)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0;318.0
+KSV;2290000.0;1568000.0;833000.0;400000.0
+kq;406000000000000.0;278000000000000.0;156500000000000.0;71000000000000.0
+n;
+K;
+Ka;61930000.0;24330000.0;6060000.0;1180000.0
+Kb;
+ΔH;-142.34;-142.34;-142.34;-142.34
+ΔS;-330.18;-330.18;-330.18;-330.18
+ΔG;-44.61;-42.29;-39.98;-37.34
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310.0
+n;0.439
+K;93700.0
+Ka;
+Kb;
+ΔH;-154.35
+ΔS;-402.5
+ΔG;-29.57
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

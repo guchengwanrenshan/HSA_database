@@ -1,0 +1,69 @@
+Title:Spectroscopic and nano-molecular modeling investigation on the binary and ternary bindings of colchicine and lomefloxacin to Human serum albumin with the viewpoint of multi-drug therapy
+DOI:10.1016/j.jlumin.2010.08.016
+ligand name:lomefloxacin(295 nm)
+ligand smiles:CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;16400.0
+kq;
+n;0.98
+K;
+Ka;
+Kb;11700.0
+ΔH;
+ΔS;
+ΔG;-23.2083
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

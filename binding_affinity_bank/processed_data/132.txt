@@ -1,0 +1,69 @@
+Title:Insights into the molecular interaction between two polyoxygenated cinnamoylcoumarin derivatives and human serum albumin
+DOI:10.1039/c7cp00681k
+ligand name: DAC
+ligand smiles:C1=CC(=CC2=C1C=C(C(=O)O2)C(C=CC3=CC=CC(=C3OC)OC)=O)O[H]
+key residue(hbond):His242;Arg222;Arg257;Ser192 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area: Sudlow site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;2270000.0;1760000.0
+kq;450000000000000.0;350000000000000.0
+n;1.1;0.99
+K;
+Ka;8320000.0;1640000.0
+Kb;
+ΔH;-180.64;-180.64
+ΔS;-468.08;-468.08
+ΔG;-41.08;-35.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.15
+K;
+Ka;
+Kb;13200.0
+ΔH;167.36
+ΔS;638.7859
+ΔG;-22.9982
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

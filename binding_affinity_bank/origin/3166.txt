@@ -1,0 +1,95 @@
+Title:Study on the interaction of antiviral drug 'Tenofovir' with human serum albumin by spectral and molecular modeling methods
+DOI:10.1016/j.saa.2014.10.070
+ligand name:Tenofovir
+ligand smiles:C[C@H](CN1C=NC2=C(N=CN=C21)N)OCP(=O)(O)O
+key residue(hbond):
+key residue(hydrophobic):Trp214;Ala215;Leu219;Leu238;Ile290;Ala291;Val293 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;2.78*10^3;2.83*10^3;3.09*10^3;
+kq;2.78*10^11;2.83*10^11;3.09*10^11;
+n;0.842;1.143;1.305;
+K;
+Ka;
+Kb;656;1.03*10^4;5.70*10^4;
+ΔH;149.85;149.85;149.85;
+ΔS;576;576;576;
+ΔG;-16.07;-21.83;-28.75;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

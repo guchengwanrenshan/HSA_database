@@ -1,0 +1,95 @@
+Title:Synthesis of two new naphthalene-containing compounds and their bindings to human serum albumin
+DOI:10.1080/07391102.2020.1764867
+ligand name:compound A
+ligand smiles:COC1=CC2=C(C=C1OC)C(C1=CC=C(C=C1)C(F)(F)F)=C(C=C2O)C(O)=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;4.651*10^5;6.557*10^5;7.769*10^5;
+kq;4.651*10^13;6.557*10^13;7.769*10^13;
+n;0.631;0.846;1.066;
+K;
+Ka;1.935*10^3;6.302*10^4;2.157*10^6;
+Kb;
+ΔH;262.101;262.101;262.101;
+ΔS;966.335;966.335;966.335;
+ΔG;-18.136;-27.800;-37.463;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.02*10^-14;
+E;0.1076;
+R0;2.50;
+r;3.50;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

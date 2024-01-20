@@ -1,0 +1,69 @@
+Title:In vitro cytotoxicity and DNA/HSA interaction study of triamterene using molecular modelling and multi-spectroscopic methods
+DOI:10.1080/07391102.2018.1489305
+ligand name:triamterene
+ligand smiles:C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;480000000.0
+kq;4.8e+16
+n;0.67
+K;
+Ka;
+Kb;145100.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

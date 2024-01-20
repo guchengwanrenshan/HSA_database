@@ -1,0 +1,97 @@
+Title:Biophysical insight into the interaction mechanism of plant derived polyphenolic compound tannic acid with homologous mammalian serum albumins
+DOI:10.1016/j.ijbiomac.2017.10.136
+ligand name:tannic acid(c>=10uM)
+ligand smiles:C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;2.46*10^5;2.12*10^5;1.40*10^5;
+kq;5.72*10^13;4.92*10^13;3.25*10^13;
+n;1.31;1.21;1.17;
+K;
+Ka;
+Kb;7.27*10^6;4.45*10^6;2.62*10^6;
+ΔH;39.459;;;
+ΔS;-0.08717;;;
+ΔG;-39.4551;;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;310;
+n;
+K;
+Ka;
+Kb;2.86*10^4;
+ΔH;-236.814;
+ΔS;-711.28;
+ΔG;-236.103;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;0.711666667;6660;0.5124;2.13333*10^-05
+1:1;;1.067333333;9350;0.768;2.26667*10^-05
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.&*10^-14;
+E;0.141;
+R0;2.78;
+r;3.75;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

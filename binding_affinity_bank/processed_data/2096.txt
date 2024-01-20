@@ -1,0 +1,69 @@
+Title:Underlying the mechanism of 5-fluorouracil and human serum albumin interaction: a biophysical study
+DOI:10.4172/2161-0398.1000214
+ligand name:5-FU
+ligand smiles:C1=C(C(=O)NC(=O)N1)F  
+key residue(hbond):Tyr138;His146 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;200000000.0
+kq;14700000000000.0
+n;0.98
+K;
+Ka;
+Kb;28900.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Modeling techniques and fluorescence imaging investigation of the interactions of an anthraquinone derivative with HSA and ctDNA
+DOI:10.1016/j.saa.2015.09.011
+ligand name:AORha
+ligand smiles:C/C(=N\OC1OC(C)C(O)C(O)C1O)C1=CC(O)=C2C(=O)C3C=CC=CC3C(=O)C2=C1O
+key residue(hbond):His242;Glu153;His288;Arg257 d
+key residue(hydrophobic):Ala213;Trp214;Ala215;Arg218;Leu219;Ala291;Ser287;His288;Ala258;Glu153;Arg257;Asp237;Leu238 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;8561.0;7325.0;6187.0
+kq;
+n;1.046;1.131;1.145
+K;
+Ka;
+Kb;149000.0;362800.0;362500.0
+ΔH;33.61;33.61;33.61
+ΔS;214.98;214.98;214.98
+ΔG;-28.73;-30.88;-33.03
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

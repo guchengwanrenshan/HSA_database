@@ -1,0 +1,69 @@
+Title:Spectrophotometric study on interaction of light green SF (yellowish) with protein and its analytical application
+DOI:None
+ligand name:light green SF (yellowish)
+ligand smiles:CCN(CC1=CC=CC(S(=O)(=O)[O-])=C1)C1=CC=C(C(C2=CC=C(S(=O)(=O)[O-])C=C2)=C2C=CC(=[N+](CC)CC3=CC=CC(S(=O)(=O)[O-])=C3)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;32.2
+K;
+Ka;
+Kb;322000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

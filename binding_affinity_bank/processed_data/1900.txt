@@ -1,0 +1,69 @@
+Title:Probing the Interaction between Human Serum Albumin and 9-Hydroxyphenanthrene: A Spectroscopic and Molecular Docking Study
+DOI:10.1021/acsomega.0c02031
+ligand name:9-Hydroxyphenanthrene
+ligand smiles:C1=CC=C2C(=C1)C=C(C3=CC=CC=C23)O  
+key residue(hbond):Leu135 d
+key residue(hydrophobic):Leu134;Tyr138;Leu139;Ile142;Leu154;Phe157;Ala158;Tyr161 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;303.15;308.15
+KSV;128000.0;136000.0;126000.0
+kq;21000000000000.0;22300000000000.0;20700000000000.0
+n;
+K;
+Ka;
+Kb;119000.0;128000.0;138000.0
+ΔH;11.08;11.08;11.08
+ΔS;134.36;134.35;134.35
+ΔG;-29.98;-29.65;-30.32
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

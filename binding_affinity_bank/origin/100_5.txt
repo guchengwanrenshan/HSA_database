@@ -1,0 +1,95 @@
+Title:Human serum albumin binding of certain antimalarials
+DOI:10.1016/j.saa.2017.10.061
+ligand name:CQ-5
+ligand smiles:C1=CC(=CC2=C1C(=CC=N2)N(CCCN(CC3=CC=C(C=C3)F)[H])[H])Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;310;
+KSV;0.24*10^5;0.34*10^5;0.15*10^5;
+kq;0.34*10^13;0.48*10^13;0.21*10^13;
+n;0.776;0.722;0.654;
+K;
+Ka;3.43*10^5;4.04*10^5;4.53*10^5;
+Kb;1.26*10^3;0.87*10^3;0.15*10^3;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

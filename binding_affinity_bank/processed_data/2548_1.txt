@@ -1,0 +1,69 @@
+Title:Interaction of phenazinium-based photosensitizers with the 'N' and 'B' isoforms of human serum albumin: Effect of methyl substitution
+DOI:10.1016/j.jphotobiol.2017.08.002
+ligand name:safranin-O
+ligand smiles:CC1=CC2=NC3=C(C=C(N)C(C)=C3)[N+](C3=CC=CC=C3)=C2C=C1N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;
+K;
+Ka;1150.0
+Kb;
+ΔH;
+ΔS;
+ΔG;-17.46
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

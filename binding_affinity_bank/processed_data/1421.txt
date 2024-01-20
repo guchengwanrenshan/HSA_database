@@ -1,0 +1,69 @@
+Title:Molecular Basis of Interactions between the Antibiotic Nitrofurantoin and Human Serum Albumin: A Mechanism for the Rapid Drug Blood Transportation
+DOI:10.3390/ijms22168740
+ligand name:Nitrofurantoin
+ligand smiles:C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;304.0;310.0;315.0
+KSV;24800.0;26300.0;27000.0;28600.0;29800.0
+kq;
+n;
+K;41000.0
+Ka;25500.0;24800.0;22800.0;21900.0;21500.0
+Kb;
+ΔH;-3.93;-3.93;-3.93;-3.93;-3.93
+ΔS;27.05;27.05;27.05;27.05;27.05
+ΔG;-11.32;-11.45;-11.62;-11.78;-11.91
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

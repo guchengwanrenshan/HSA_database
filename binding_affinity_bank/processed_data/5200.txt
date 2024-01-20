@@ -1,0 +1,69 @@
+Title:Fluorospectrophotometry study on the interaction between tanshinone I and human serum albumin
+DOI:None
+ligand name:tanshinone I
+ligand smiles:CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.0;313.0
+KSV;69100.0;48900.0
+kq;6910000000000.0;4890000000000.0
+n;1.18;1.12
+K;
+Ka;38000.0;31300.0
+Kb;1500000.0;540000.0
+ΔH;-11.65;-11.65
+ΔS;48.83;48.85
+ΔG;-26.3;-26.94
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

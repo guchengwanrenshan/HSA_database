@@ -1,0 +1,69 @@
+Title:Evaluation of the interaction between naringenin and human serum albumin: Insights from fluorescence spectroscopy;electrochemical measurement and molecular docking
+DOI:10.1016/j.saa.2015.04.087
+ligand name:naringenin
+ligand smiles:C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O
+key residue(hbond):ARG222(site I);ARG348;MET446;GLU450;ARG484;ARG485;SER454(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0;310.0
+KSV;84400.0;78200.0;74600.0;71300.0
+kq;
+n;0.99;0.98;0.98;0.99
+K;
+Ka;87900.0;84600.0;80800.0;74800.0
+Kb;81700.0;77600.0;73500.0;68700.0
+ΔH;-10.19;-10.19;-10.19;-10.19
+ΔS;60.54;60.54;60.54;60.54
+ΔG;-28.2;-20.49;-28.75;-28.32
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

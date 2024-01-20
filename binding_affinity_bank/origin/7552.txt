@@ -1,0 +1,90 @@
+Title:Phycocyanobilin, a bioactive tetrapyrrolic compound of blue-green alga Spirulina, binds with high affinity and competes with bilirubin for binding on human serum albumin
+DOI:10.1039/c5ra05534b
+ligand name:phycocyanobilin
+ligand smiles:CCC1=C(C(=NC1=O)/C=C/2\C(=C(/C(=C/C3=C(C(=C(N3)/C=C\4/C(=C/C)/[C@H](C(=O)N4)C)C)CCC(=O)O)/N2)CCC(=O)O)C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;1.23*10^14;0.92*10^14;0.69*10^14;
+kq;1.23*10^6;0.92*10^6;0.69*10^6;
+n;0.97;0.83;0.85;
+K;
+Ka;
+Kb;2.24*10^6;1.80*10^6;1.23*10^6;
+ΔH;-39.2;-39.2;-39.2;
+ΔS;-9.7;-9.7;-9.7;
+ΔG;-36.3094;-36.2609;-36.1930;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

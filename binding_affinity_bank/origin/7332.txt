@@ -1,0 +1,90 @@
+Title:Site-Selective Interaction of Human Serum Albumin with 4-Chloro-7-nitro-1,2,3-benzoxadiazole Modified Olanzapine Derivative and Effect of β-Cyclodextrin on Binding: In the Light of Spectroscopy and Molecular Docking
+DOI:10.1021/acsabm.9b00429
+ligand name:OLA-NBD
+ligand smiles:CN1CCN(CC1)C1=NC2=C(C=CC=C2)N(C2=C1C=C(C)S2)C1=CC=C(C2=NON=C12)[N+]([O-])=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283;293;303;
+KSV;11.12*10^4;8.39*10^4;5.96*10^4;
+kq;2.59*10^13;1.94*10^4;1.37*10^4;
+n;
+K;
+Ka;
+Kb;11.80*10^4;8.92*10^10^4;6.29*10^10^4;
+ΔH;-22.42;-22.42;-22.42;
+ΔS;17.95;17.95;17.95;
+ΔG;-27.50;-27.68;-27.86;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

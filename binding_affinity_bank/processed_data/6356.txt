@@ -1,0 +1,69 @@
+Title:Binding mechanism of the tyrosine-kinase inhibitor nilotinib to human serum albumin determined by 1H STD NMR, 19F NMR, and molecular modeling
+DOI:10.1016/j.jpba.2016.02.024
+ligand name:nilotinib
+ligand smiles:CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;308.0
+KSV;237500.0;205400.0;150300.0
+kq;
+n;
+K;
+Ka;
+Kb;2060.0;1570.0;1070.0
+ΔH;-38.76;-38.76;-38.76
+ΔS;-75.72;-75.72;-75.72
+ΔG;-18.9;-18.59;-17.99
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

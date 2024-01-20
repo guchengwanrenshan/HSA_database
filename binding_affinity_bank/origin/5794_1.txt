@@ -1,0 +1,112 @@
+Title:Design, Synthesis, and Biophysical Studies of Novel 1,2,3-Triazole-Based Quinoline and Coumarin Compounds
+DOI:10.1021/acsomega.9b00414
+ligand name:9
+ligand smiles:CC1=CC=C(NC(=O)CCCCCN2C=C(CNC(=O)C3=CC4=C(C=C3)N=CC=C4)N=N2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;
+kq;
+n;0.894;
+K;
+Ka;
+Kb;5.56*10^5;
+ΔH;
+ΔS;
+ΔG;-32.78;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;303;
+n;1.89;
+K;
+Ka;
+Kb;5.93*10^6;
+ΔH;-572;
+ΔS;-1760;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Tyr150;;;13.41;
+Glu153;;;11.35;
+Glu188;;;13.15;
+Ala191;;;15.7;
+Ser192;;;20.99;
+Lys195;;;51.92;
+Lys199;;;18.33;
+Trp214;;;16.8;
+Arg218;;;23.27;
+Arg222;;;18.93;
+Ala291;;;28.49;
+Glu292;;;35.68;
+Lys436;;;17.31;
+Asp451;;;26.69;
+Tyr452;;;19.9;
+Val455;;;10.67;
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Evaluation of binding mode between anticancer drug etoposide and human serum albumin by numerous spectrometric techniques and molecular docking
+DOI:10.1016/j.chemphys.2019.110593
+ligand name:Etoposide
+ligand smiles:C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292.0;300.0;308.0
+KSV;268000.0;228000.0;186000.0
+kq;99300000000000.0;84400000000000.0;68800000000000.0
+n;1.407;1.259;1.118
+K;
+Ka;413000.0;315000.0;244000.0
+Kb;2014000.0;605000.0;170000.0
+ΔH;-115.315;-115.315;-115.315
+ΔS;-274.278;-274.278;-274.278
+ΔG;-35.23;-33.03;-30.84
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Probing the Binding of the Flavonoid Diosmetin to Human Serum Albumin by Multispectroscopic Techniques
+DOI:10.1021/jf205260g
+ligand name:diosmetin
+ligand smiles:COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA (Sudlow site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;6.10*10^4;4.53*10^4;3.66*10^4;
+kq;6.10*10^12;4.53*10^12;3.66*10^12;
+n;
+K;
+Ka;1.18*10^5;0.97*10^5;0.80*10^5;
+Kb;1.27*10^5;1.10*10^5;0.81*10^5;
+ΔH;-24.56;;-24.56;-24.56;
+ΔS;14.67;14.67;14.67;
+ΔG;-28.93;-29.02;-29.11;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.228*10^-26;
+E;0.197;
+R0;2.80;
+r;3.54;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

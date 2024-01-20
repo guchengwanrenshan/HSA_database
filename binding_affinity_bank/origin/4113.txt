@@ -1,0 +1,95 @@
+Title:Spectroscopic studies on the interaction of human serum albumin with nicotine
+DOI:None
+ligand name:nicotine
+ligand smiles:CN1CCC[C@H]1C2=CN=CC=C2 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;5.43*10^3;5.09*10^3;4.07*10^3;
+kq;5.42*10^11;5.01*10^11;4.03*10^11;
+n;0.89;0.91;0.87;
+K;
+Ka;
+Kb;1.78*10^3;1.75*10^3;0.785*10^3;
+ΔH;67.3;67.3;67.3;
+ΔS;243.04;243.04;243.04;
+ΔG;-3.9107;-5.1259;-6.3411;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,67 @@
+Title:Synthesis of a novel p-hydroxycinnamic amide with anticancer capability and its interaction with human serum albumin
+DOI:10.3892/etm.2018.7060
+ligand name:HMSP
+ligand smiles:COC1=CN=C(NS(=O)(=O)C2=CC=C(NC(=O)\C=C\C3=CC=C(O)C=C3)C=C2)N=C1
+key residue(hbond):Ser200;Ile290 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4;7.4;7.4
+T;298;304;310
+KSV;427000;348000;298000
+kq;427000000000;348000000000;298000000000
+n;
+K;
+Ka;
+Kb;48010;36960;19830
+ΔH;-31.01;-31.01;-31.01
+ΔS;14.38;14.38;14.38
+ΔG;-35.29;-35.38;-35.46
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+

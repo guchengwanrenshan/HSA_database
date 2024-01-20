@@ -1,0 +1,90 @@
+Title:Spectroscopic studies and molecular docking on the interaction of a new structure derivative of farrerol with human serum albumin
+DOI:10.13595/j.cnki.issn1000-0720.2017.0134
+ligand name:DJS-NO2
+ligand smiles:CC1=C(O)C2=C(OC(CC2=O)C2=CC=CC=C2[N+]([O-])=O)C(C)=C1O
+key residue(hbond):ALA118 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;6.691*10^5;3.433*10^5;
+kq;6.691*10^13;3.433*10^13;
+n;1.22;0.79;
+K;
+Ka;
+Kb;4.914*10^5;4.610*10^5;
+ΔH;-0.044;-0.044;
+ΔS;108.8;108.8;
+ΔG;-32.47;-33.78;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

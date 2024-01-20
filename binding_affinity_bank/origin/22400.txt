@@ -1,0 +1,95 @@
+Title:Study of characterization and application on the binding between 5-iodouridine with HSA by spectroscopic and modeling
+DOI:10.1016/j.carbpol.2007.12.032
+ligand name: 5-iodouridine 
+ligand smiles:C1=C(C(=O)NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)I  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;302;312;
+KSV;2.1594*10^4;1.8323*10^4;1.3682*10^4;
+kq;2.1594*10^12;1.8323*10^12;1.3682*10^12;
+n;
+K;1.4245*10^4;0.9538*10^4;0.5662*10^4;
+Ka;
+Kb;
+ΔH;-9.94;-9.94;-9.94;
+ΔS;40.0;40.0;40.0;
+ΔG;-23.22;-23.01;-22.42;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;5.81354*10^-15;
+E;0.1452;
+R0;2.24;
+r;3.01;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

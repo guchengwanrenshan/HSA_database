@@ -1,0 +1,69 @@
+Title:Characterization of the interactions of human serum albumin (HSA), gatifloxacin, and metronidazole using spectroscopic and electrochemical methods
+DOI:10.1016/j.jlumin.2014.01.023
+ligand name:gatifloxacin
+ligand smiles:CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;48700.0;44700.0;38600.0
+kq;4870000000000.0;4470000000000.0;3860000000000.0
+n;0.85;1.03;0.97
+K;
+Ka;
+Kb;47700.0;46500.0;42900.0
+ΔH;-21.45
+ΔS;18.02
+ΔG;-26.82
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

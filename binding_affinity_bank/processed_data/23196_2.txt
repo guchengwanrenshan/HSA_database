@@ -1,0 +1,69 @@
+Title:Spectroscopic Investigation of the Interactions of Cryptotanshinone and Icariin with Two Serum Albumins
+DOI:10.1007/s10953-013-0022-x
+ligand name: icariin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=C(C2=O)C(=CC(=C3CC=C(C)C)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)C5=CC=C(C=C5)OC)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.15;298.15;304.15;310.15
+KSV;36900.0;40500.0;52500.0;62000.0
+kq;
+n;1.22;1.24;1.28;1.32
+K;324800.0;420100.0;864200.0;1463500.0
+Ka;
+Kb;
+ΔH;69.64;69.64;69.64;69.64
+ΔS;342.53;342.53;342.53;342.53
+ΔG;-30.71;-32.42;-34.47;-36.53
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

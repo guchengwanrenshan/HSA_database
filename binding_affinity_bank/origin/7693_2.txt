@@ -1,0 +1,90 @@
+Title:In vitro interaction and computational studies of glycosylated photosensitizers with plasma proteins
+DOI:10.1142/s1088424619500275
+ligand name:IGlu
+ligand smiles:CN1C[C@H]2[C@@H](C1)\C1=C(\C3=C4CN(C)CC4=C(N3)\C(=C3\C=CC(=N3)\C(=C3/N\C(\C=C3)=C(/C2=N1)C1=C(F)C(F)=C(C2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C(F)=C1F)\C1=C(F)C(F)=C(C2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C(F)=C1F)C1=C(F)C(F)=C(C2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C(F)=C1F)C1=C(F)C(F)=C(C2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C(F)=C1F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;1.8*10^5;
+kq;2.9*10^13;
+n;1.2;
+K;
+Ka;
+Kb;1.0*10^6;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

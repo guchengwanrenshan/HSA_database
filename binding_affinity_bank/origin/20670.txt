@@ -1,0 +1,95 @@
+Title:Spectral and computational attributes: Binding of a potent anticancer agent, dasatinib to a transport protein
+DOI:10.1016/j.molliq.2019.111492
+ligand name:DAS(dasatinib)
+ligand smiles:CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;3.50*10^4;2.10*10^4;1.45*10^4;
+kq;3.50*10^13;2.10*10^13;1.45*10^13;
+n;1.04;1.03;1.04;
+K;4.45*10^3;2.77*10^3;6.77*10^2;
+Ka;
+Kb;
+ΔH;-143.16;-143.16;-143.16;
+ΔS;-409.17;-409.17;-409.17;
+ΔG;-20.81;-19.97;-16.70;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.902*10^-23
+E;0.088;
+R0;0.821;
+r;1.12;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

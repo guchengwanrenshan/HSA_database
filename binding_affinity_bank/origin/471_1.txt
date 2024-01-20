@@ -1,0 +1,95 @@
+Title:Effect of (-)-epicatechin-3-gallate and (-)-epigallocatechin-3-gallate on the binding of tegafur to human serum albumin as determined by spectroscopy, isothermal titration calorimetry, and molecular docking
+DOI:10.1080/07391102.2018.1505550
+ligand name:ECG
+ligand smiles:C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA and ΙΙΙA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.2;302.2;306.2;310.2;
+KSV;7.79*10^4;7.60*10^4;4.04*10^4;3.71*10^4;
+kq;7.79*10^12;7.60*10^12;4.04*10^12;3.71*10^12;
+n;
+K;
+Ka;6.57*10^4;4.15*10^4;2.50*10^4;1.80*10^4;
+Kb;
+ΔH;-84.44;-84.44;-84.44;
+ΔS;-191.11;-191.11;-191.11;
+ΔG;-27.50;-26.71;-25.78;-25.27;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,95 @@
+Title:Molecular interaction of PCB153 to human serum albumin: Insights from spectroscopic and molecular modeling studies
+DOI:10.1016/j.jhazmat.2012.12.056
+ligand name:PCB153
+ligand smiles:ClC1=CC(Cl)=C(Cl)C=C1C1=CC(Cl)=C(Cl)C=C1Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;6.01*10^6;20.57*10^6;29.94*10^6;143.15*10^6;
+ΔH;148.19;148.19;148.19;148.19;
+ΔS;519.38;519.38;519.38;519.38;
+ΔG;-3.98;-6.58;-9.18;-11.78;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

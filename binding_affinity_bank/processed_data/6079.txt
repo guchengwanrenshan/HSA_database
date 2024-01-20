@@ -1,0 +1,69 @@
+Title:A small, steady, rapid and selective TICT based fluorescent HSA sensor for pre-clinical diagnosis
+DOI:10.1016/j.snb.2018.05.037
+ligand name:NJUP1
+ligand smiles:CN(C)C1=CC2=C(C=C1)N=C(\C=C1/SC(=S)NC1=O)C=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.28
+K;
+Ka;
+Kb;1590000.0
+ΔH;2.1288
+ΔS;125.9384
+ΔG;-35.3779
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:1H-NMR study of the effect of acetonitrile on the interaction of ibuprofen with human serum albumin
+DOI:10.1016/s0731-7085(02)00225-x
+ligand name:Azo-4N(+UV) 
+ligand smiles:NCCNCCNCCNC(=O)C1=CC=C(C=C1)\N=N/C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;309.0
+KSV;26000.0;16000.0
+kq;7400000000000.0;4500000000000.0
+n;1.2;1.2
+K;
+Ka;21000.0;14000.0
+Kb;22000.0;13000.0
+ΔH;-30.5;-30.5
+ΔS;-19.9;-19.9
+ΔG;-24.7;-24.4
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

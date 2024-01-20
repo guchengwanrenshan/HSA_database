@@ -1,0 +1,95 @@
+Title:Understanding the bioconjugation reaction of phenthoate with human serum albumin: New insights from experimental and computational approaches
+DOI:10.1016/j.toxlet.2019.07.025
+ligand name:phenthoate
+ligand smiles:CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;7.176*10^4;6.173*10^4;6.417*10^4;
+kq;1.357*10^13;1.269*10^13;1.213*10^13;
+n;1.08;1.07;1.06;
+K;7.209*10^4;6.635*10^4;6.228*10^4;
+Ka;
+Kb;
+ΔH;-9.369;-9.369;-9.369;
+ΔS;61.53;61.53;61.53;
+ΔG;-27.71;-28.06;-28.45;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

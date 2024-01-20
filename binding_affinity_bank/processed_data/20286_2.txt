@@ -1,0 +1,69 @@
+Title:Evaluation of capillary electrophoresis-frontal analysis for the study of low-molecular-weight-drug-human serum albumin interactions
+DOI:10.1002/1522-2683(200209)23:17<2842::aid-elps2842>3.0.co;2-b
+ligand name:L-Tryptophan
+ligand smiles:C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;0.8
+K;
+Ka;
+Kb;6700.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

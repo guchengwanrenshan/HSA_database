@@ -1,0 +1,95 @@
+Title:Evaluation of novel chalcone-thiosemicarbazones derivatives as potential anti-Leishmania amazonensis agents and its HSA binding studies
+DOI:10.3390/biom9110643
+ligand name:5e
+ligand smiles:CC(=S)N\N=C(/C=C/C1=CC=C(Cl)C=C1)\C1=CC=CC=C1
+key residue(hbond):Ser201(site I);Ser488(site II);Arg113;Arg185(site III) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:sites I(subdomains IIA),sites II(subdomains IIIA);sites III(subdomains IB) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;2.48*10^4;2.49*10^4;2.59*10^4;2.75*10^4;
+kq;4.15*10^12;4.16*10^12;4.34*10^12;4.60*10^12;
+n;1.05;1.07;1.06;1.05;
+K;
+Ka;5.16*10^4;4.85*10^4;4.57*10^4;4.39*10^4;
+Kb;
+ΔH;-5.79;-5.79;-5.79;-5.79;
+ΔS;70.2;70.2;70.2;70.2;
+ΔG;-26.1;-26.6;-27.1;-27.6;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

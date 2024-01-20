@@ -1,0 +1,95 @@
+Title:Insights into the interaction of ulipristal acetate and human serum albumin using multi-spectroscopic methods;molecular docking;and dynamic simulation
+DOI:10.1080/07391102.2018.1502686
+ligand name:ulipristal acetate
+ligand smiles:CC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)OC(=O)C  
+key residue(hbond):Arg257 d
+key residue(hydrophobic):Glu153;Glu196;Ser192;Lys195;Lys199;Ala291;Ser202;Le198;Leu481;Trp214;Asp451;Arg218;Arg222;His288 d
+PDB ID:
+Binding Area: site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;4.226*10^4;4.061*10^4;3.834*10^4;
+kq;
+n;1.127;1.115;1.100;
+K;
+Ka;1.550*10^5;1.236*10^5;1.095*10^5;
+Kb;
+ΔH;-22.285;-22.285;-22.285;
+ΔS;24.461;24.461;24.461;
+ΔG;-29.574;-29.721;-29.930;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

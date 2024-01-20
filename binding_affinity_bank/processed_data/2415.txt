@@ -1,0 +1,69 @@
+Title:Insights into the interaction of potent antimicrobial chalcone triazole analogs with human serum albumin: spectroscopy and molecular docking approaches
+DOI:10.1039/c9ra04192c
+ligand name:CT1
+ligand smiles:COC1=CC(O)=C(C(=O)\C=C\C2=CC=C(OCC3=CN(N=N3)C3=CC=C(F)C=C3Cl)C(OC)=C2)C(OC)=C1
+key residue(hbond):GLU425;LYS432 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;44400.0;41800.0;40100.0
+kq;4440000000000.0;4180000000000.0;4010000000000.0
+n;
+K;
+Ka;
+Kb;3780000000.0;953000000.0;35000000.0
+ΔH;-171.265
+ΔS;-408.523
+ΔG;-49.525
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

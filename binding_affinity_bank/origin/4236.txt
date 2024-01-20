@@ -1,0 +1,95 @@
+Title:Binding mechanism of trans-N-caffeoyltyramine and human serum albumin: Investigation by multi-spectroscopy and docking simulation
+DOI:10.1016/j.bioorg.2016.04.002
+ligand name:trans-N-caffeoyltyramine
+ligand smiles:C1=CC(=CC=C1CCNC(=O)/C=C/C2=CC(=C(C=C2)O)O)O
+key residue(hbond):Lys199;Ala291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;303;310;
+KSV;7.82*10^4;6.70*10^4;5.70*10^4;
+kq;
+n;0.986;0.954;0.905;
+K;
+Ka;
+Kb;6.78*10^4;3.30*10^4;1.97*10^4;
+ΔH;-48.22;-48.22;-48.22;
+ΔS;-73.11;-73.11;-73.11;
+ΔG;-26.90;-26.19;-25.47;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

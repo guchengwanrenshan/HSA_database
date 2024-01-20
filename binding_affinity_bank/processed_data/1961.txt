@@ -1,0 +1,69 @@
+Title:Molecular mechanism of tobramycin with human serum albumin for probing binding interactions: multi-spectroscopic and computational approaches
+DOI:10.1039/c7nj02054f
+ligand name:tobramycin
+ligand smiles:C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H](C[C@@H]([C@H](O3)CN)O)N)N
+key residue(hbond):Arg218;Arg222;Glu292;Asn295;Lys444;Pro447;Cys448 d
+key residue(hydrophobic):Val293;Pro339;Asp451 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;54500.0;52500.0;50100.0
+kq;8540000000000.0;7850000000000.0
+n;1.02;1.0;0.6
+K;
+Ka;
+Kb;1560000.0;2060000.0;1450000.0
+ΔH;
+ΔS;
+ΔG;-28.5767;-30.2922;-30.4177
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

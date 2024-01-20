@@ -1,0 +1,94 @@
+Title:Interaction of folic acid and some matrix metalloproteinase (MMP) inhibitor folate-γ-hydroxamate derivatives with Zn(II) and human serum albumin
+DOI:10.1016/j.jinorgbio.2010.12.008
+ligand name:folate-γ-phenylalanine hydroxamic acid
+ligand smiles:NC1=NC2=NC=C(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)NC(CC3=CC=CC=C3)C(=O)NO)C(O)=O)N=C2C(=O)N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;295;
+pH;
+T;298;
+KSV;10^5.0;
+kq;
+n;
+K;
+Ka;
+Kb;10*5.04;
+ΔH;
+ΔS;
+ΔG;
+Kd;9.1;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

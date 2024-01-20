@@ -1,0 +1,69 @@
+Title:Shedding light on the bimolecular interactions of Cafaminol and human serum albumin: spectroscopic characterization and in-silico investigation
+DOI:10.1080/07391102.2020.1863262
+ligand name:Cafaminol
+ligand smiles:CN1C2=C(N=C1N(C)CCO)N(C(=O)N(C2=O)C)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0
+KSV;10460.0;8920.0;7700.0;6700.0
+kq;
+n;1.1;0.98;0.89;0.85
+K;
+Ka;
+Kb;28440.0;7710.0;2590.0;1470.0
+ΔH;-105.88;-105.88;-105.88
+ΔS;-282.34;-282.34;-282.34
+ΔG;-24.64;-22.03;-19.76;-18.762
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

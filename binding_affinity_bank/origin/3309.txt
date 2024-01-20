@@ -1,0 +1,95 @@
+Title:Characterization of the interactions of human serum albumin (HSA), gatifloxacin, and metronidazole using spectroscopic and electrochemical methods
+DOI:10.1016/j.jlumin.2014.01.023
+ligand name:gatifloxacin
+ligand smiles:CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;4.87*10^4;4.47*10^4;3.86*10^4;
+kq;4.87*10^12;4.47*10^12;3.86*10^12;
+n;0.85;1.03;0.97;
+K;
+Ka;
+Kb;4.77*10^4;4.65*10^4;4.29*10^4;
+ΔH;;;-21.45;
+ΔS;;;18.02;
+ΔG;;;-26.82;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;10.14*10^-14;7.02*10^-14;11.19*10^-14;
+E;0.1950;0.2718;0.2435;
+R0;3.61;3.39;3.67;
+r;4.57;4.00;4.43;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

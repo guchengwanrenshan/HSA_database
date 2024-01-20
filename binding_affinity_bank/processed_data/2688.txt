@@ -1,0 +1,69 @@
+Title:Interaction of 5-fluoro-5'-deoxyuridine with human serum albumin under physiological and non-physiological condition: A biophysical investigation
+DOI:10.1016/j.colsurfb.2014.09.044
+ligand name:5-fluoro-5′-deoxyuridine
+ligand smiles:C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=C(C(=O)NC2=O)F)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;5180.0;4670.0;4250.0
+kq;896000000000.0;807000000000.0;735000000000.0
+n;0.916;0.973;0.988
+K;
+Ka;
+Kb;2290.0;3610.0;3810.0
+ΔH;16.7778;16.7778;16.7778
+ΔS;122.6144;123.9756;123.0906
+ΔG;-18.4933;-20.2924;-21.2547
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;288.0;298.0;310.0
+n;
+K;
+Ka;
+Kb;25200.0;12800.0;5200.0
+ΔH;-6.5952;-7.895;-19.4486
+ΔS;74.0487;63.9713;17.2372
+ΔG;-27.9212;-26.9584;-24.7921
+Cp;-0.5969;-0.5969;-0.5969
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

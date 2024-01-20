@@ -1,0 +1,95 @@
+Title:Insight into the interaction of benzothiazole tethered triazole analogues with human serum albumin: Spectroscopy and molecular docking approaches
+DOI:10.1002/bio.3676
+ligand name:MS43
+ligand smiles:FC1=CC=C(C=C1Cl)N1C=C(CN(CC2=CN(N=N2)C2=CC=C(F)C(Cl)=C2)C2=NC3=C(S2)C=CC=C3)N=N1
+key residue(hbond):H338 d
+key residue(hydrophobic):V381;Y341;Y334;L305;S304;L302;R337;D340;P303;F377;F374;K378 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;3.10*10^3;
+kq;2.10*10^12;
+n;1.00
+K;
+Ka;
+Kb;3.231*10^3;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

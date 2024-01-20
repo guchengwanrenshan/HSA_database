@@ -1,0 +1,69 @@
+Title:Human serum albumin binding of certain antimalarials
+DOI:10.1016/j.saa.2017.10.061
+ligand name:CQ-2
+ligand smiles:C(NC2=C1C=CC(=CC1=NC=C2)Cl)CCNCC3=CC=C(S3)C4=CC=C(C=C4)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;310.0
+KSV;365000.0;346000.0;892000.0
+kq;51500000000000.0;48800000000000.0;125800000000000.0
+n;0.885;0.868;0.846
+K;
+Ka;505000.0;526000.0;561000.0
+Kb;813000.0;617000.0;437000.0
+ΔH;-26.6363;-26.6363;-26.6363
+ΔS;21.9172;21.9172;21.9172
+ΔG;-33.0581;-33.1677;-33.4307
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

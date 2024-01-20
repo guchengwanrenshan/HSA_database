@@ -1,0 +1,95 @@
+Title:Study of intermolecular interactions between pterostilbene and human serum albumin by fluorescence spectrometry-surface enhanced Raman spectroscopy
+DOI:10.11895/j.issn.0253-3820.170341
+ligand name:Pterostilbene
+ligand smiles:COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)O)OC 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;7.90*10^4;7.62*10^4;6.22*10^4;
+kq;7.90*10^12;7.62*10^12;6.22*10^12;
+n;0.84;0.95;1.12;
+K;
+Ka;
+Kb;1.12*10^4;4.07*10^4;24.5*10^4;
+ΔH;197.23;197.23;197.23;
+ΔS;738.62;738.62;738.62;
+ΔG;-22.87;-27.31;-31.74;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

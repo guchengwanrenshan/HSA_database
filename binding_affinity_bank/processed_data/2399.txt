@@ -1,0 +1,69 @@
+Title:Probing the binding of fluoxetine hydrochloride to human serum albumin by multispectroscopic techniques
+DOI:10.1016/j.saa.2009.10.031
+ligand name:fluoxetine hydrochloride
+ligand smiles:CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;300.0;310.0
+KSV;1870.0;1640.0;1360.0
+kq;187000000000.0;164000000000.0;136000000000.0
+n;
+K;
+Ka;
+Kb;
+ΔH;-9.53;-9.53;-9.53
+ΔS;29.85;29.85;29.85
+ΔG;-18.2;-18.5;-18.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

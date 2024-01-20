@@ -1,0 +1,95 @@
+Title:Multi-spectroscopic and molecular modeling studies of interaction between two different angiotensin I converting enzyme inhibitory peptides from gluten hydrolysate and human serum albumin
+DOI:10.1080/07391102.2016.1264892
+ligand name: P4(IPALLKR)
+ligand smiles:N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IA and IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;1.84*10^4;
+kq;1.84*10^12;
+n;0.98
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298；
+n;
+K;1.79*10^4;
+Ka;
+Kb;
+ΔH;-19.37;
+ΔS;11.14;
+ΔG;-22.6897;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;6.41*10^-16
+E;0.16;
+R0;3.15;
+r;1.78;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

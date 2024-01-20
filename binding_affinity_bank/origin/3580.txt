@@ -1,0 +1,95 @@
+Title:Interaction of anticancer drug clofarabine with human serum albumin and human α-1 acid glycoprotein. Spectroscopic and molecular docking approach
+DOI:10.1016/j.jpba.2016.12.001
+ligand name:clofarabine
+ligand smiles: C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)F)Cl)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;6.670*10^3;5.989*10^3;5.090*10^3;
+kq;6.670*10^12;5.989*10^12;5.090*10^12;
+n;0.964;0.962;0.981;
+K;
+Ka;
+Kb;4.602*10^3;4.120*10^3;3.689*10^3;
+ΔH;-16.3008;-16.3008;-16.3008;
+ΔS;14.4348;14.4348;14.4348;
+ΔG;-20.5267;-20.602;-20.6731;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

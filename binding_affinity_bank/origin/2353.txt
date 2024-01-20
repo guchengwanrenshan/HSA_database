@@ -1,0 +1,95 @@
+Title:Fluorometric investigation of the interaction between methylene blue and human serum albumin
+DOI:10.1016/j.jpba.2005.04.009
+ligand name:methylene blue
+ligand smiles:CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;5.598*10^4;5.405*10^4;5.279*10^4;5.152*10^4;
+kq;
+n;1.130;1.110;1.105;1.091;
+K;
+Ka;4.269*10^4;4.058*10^4;3.839*10^4;3.678*10^4;
+Kb;2.203*10^5;1.675*10^5;1.570*10^5;1.265*10^5;
+ΔH;-6.298;-6.298;-6.298;-6.298;
+ΔS;67.062;67.062;67.062;67.062;
+ΔG;-25.880;-26.282;-26.684;-27.087;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.466*10^-14;
+E;0.306;
+R0;2.389;
+r;2.738;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

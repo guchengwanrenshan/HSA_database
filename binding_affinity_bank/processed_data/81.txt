@@ -1,0 +1,69 @@
+Title:Interactions of cinnamaldehyde and its metabolite cinnamic acid with human serum albumin and interference of other food additives
+DOI:10.1016/j.foodchem.2017.09.109
+ligand name:Cinnamaldehyde
+ligand smiles:C1=CC=C(C=C1)/C=C/C=O  
+key residue(hbond):Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I and site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;87100.0;78900.0;70200.0
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;42.25;42.25;42.25
+ΔS;265.72;265.72;265.72
+ΔG;-36.67;-38.26;-40.12
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

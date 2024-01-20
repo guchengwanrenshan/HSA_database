@@ -1,0 +1,69 @@
+Title:Probing the interaction of anticancer drug temsirolimus with human serum albumin: molecular docking and spectroscopic insight
+DOI:10.1080/07391102.2017.1326320
+ligand name: Temsirolimus
+ligand smiles: C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (sub-domain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;313.0
+KSV;49000.0;27000.0;11000.0
+kq;8400000000000.0;4600000000000.0;1900000000000.0
+n;0.938;0.977;0.971
+K;29000.0;10815.0;10046.0
+Ka;
+Kb;
+ΔH;-59.478;-59.478;-59.478
+ΔS;-114.185;-1114.185;-114.185
+ΔG;-25.447;-24.079;-23.736
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

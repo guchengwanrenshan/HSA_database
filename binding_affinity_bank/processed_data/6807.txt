@@ -1,0 +1,69 @@
+Title:Interactions between m-nisoldipine and human serum albumin by spectroscopic method
+DOI:10.3969/j.issn.1007-3205.2013.06.021
+ligand name:m-nisoldipine
+ligand smiles:CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;301.0;310.0
+KSV;103900.0;124900.0;130800.0
+kq;10390000000000.0;12490000000000.0;13080000000000.0
+n;0.9181;1.2372;0.9794
+K;
+Ka;40634.98;862.78;207.11
+Kb;112200.0;97580.0;121400.0
+ΔH;3.7;3.7;3.7
+ΔS;109.3;109.3;109.3
+ΔG;-28.331;-28.753;-30.181
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

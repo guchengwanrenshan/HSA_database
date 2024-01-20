@@ -1,0 +1,95 @@
+Title:Characterization of the binding of a novel antitumor drug ibrutinib with human serum albumin: Insights from spectroscopic, calorimetric and docking studies
+DOI:10.1016/j.jphotobiol.2018.05.008
+ligand name:Ibrutinib
+ligand smiles:C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;2.13*10^4;1.70*10^4;1.47*10^4;
+kq;
+n;1.01;0.98;0.94;
+K;
+Ka;2.19*10^4;1.97*10^4;1.68*10^4;
+Kb;2.43*10^4;1.29*10^4;0.72*10^4;
+ΔH;-16.91;-16.91;-16.91;
+ΔS;26.44;26.44;26.44;
+ΔG;-24.77;-25.00;-25.09;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;0.7
+K;
+Ka;
+Kb;7.64*10^4;
+ΔH;-14.15;
+ΔS;49.81;
+ΔG;-29.003;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

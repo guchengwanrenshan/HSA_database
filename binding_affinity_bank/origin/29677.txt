@@ -1,0 +1,98 @@
+Title:Evaluation of binding properties of human serum albumin and mono-benzyl phthalate (MBZP): Multi-spectroscopic analysis and computer simulation
+DOI:10.1016/j.molliq.2021.117283
+ligand name:Mono-benzyl phthalate
+ligand smiles:C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2C(=O)O  
+key residue(hbond):Ala291;Arg222;Lys195 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;8.50*10^4;7.66*10^4;7.24*10^4;6.78*10^4;
+kq;1.35*10^13;1.22*10^13;1.15*10^13;1.08*10^13;
+n;1.03;1.01;1.00;0.99;
+K;
+Ka;
+Kb;10.26*10^4;8.67*10^4;6.96*10^4;5.75*10^4;
+ΔH;-30.78;-30.78;-30.78;-30.78;
+ΔS;-8.92;-8.92;-8.92;-8.92;
+ΔG;-28.17;-28.12;-28.08;-28.03;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Residue	HSA	HSA-MBZP	ΔASA
+Trp214	0.521	0.440	−0.081
+Tyr263	0.726	0.757	0.031
+
+
+
+
+

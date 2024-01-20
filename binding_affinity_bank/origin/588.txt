@@ -1,0 +1,95 @@
+Title:Characterization of domain-specific interaction of synthesized dye with serum proteins by spectroscopic and docking approaches along with determination of in vitro cytotoxicity and antiviral activity
+DOI:10.1080/07391102.2017.1400468
+ligand name:7-Hydroxy-4-methyl-8-(5-thioxo-4, 5-dihydro-[1, 3, 4]thiadiazol-2-ylazo)-chromen-2-one
+ligand smiles:CC1=CC(=O)OC2=C(\N=N\C3=NNC(=S)S3)C(O)=CC=C12
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;
+KSV;
+kq;
+n;1.25;1.21;1.15;
+K;
+Ka;
+Kb;1.28*10^6;0.61*10^6;0.26*10^6;
+ΔH;;-117.6;;
+ΔS;;-284.2;;
+ΔG;;-22.9;;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.07*10^-14;
+E;0.17;
+R0;2.96;
+r;3.85;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

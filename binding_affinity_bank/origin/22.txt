@@ -1,0 +1,95 @@
+Title:Investigating the site selective binding of busulfan to human serum albumin: Biophysical and molecular docking approaches
+DOI:10.1016/j.ijbiomac.2017.10.006
+ligand name: Busulfan
+ligand smiles: CS(=O)(=O)OCCCCOS(=O)(=O)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310
+KSV;2.24*10^3;1.83*10^3;1.20*10^3;
+kq;3.99*10^11;3.27*10^11;2.15*10^11;	
+n;0.98;0.99;1.01;
+K;
+Ka;
+Kb;1.96*10^3;1.84*10^3;1.65*10^3;
+ΔH;-5.858;-5.858;-5.858;
+ΔS;42.426;42.426;42.426;
+ΔG;-12.217;-12.648;-13.154;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Synthesis of a IAP antagonist analogue and its binding investigation with BSA/HSA
+DOI:10.1016/j.molstruc.2021.131989
+ligand name:IAPA
+ligand smiles:CC1CCCN(CC(=O)N2CCC3=C2C=C(Cl)N=C3)C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;22400.0;23000.0;23800.0
+kq;2240000000000.0;2300000000000.0;2380000000000.0
+n;
+K;
+Ka;
+Kb;7600.0;7700.0;8800.0
+ΔH;9.52;9.52;9.52
+ΔS;106.11;106.11;106.11
+ΔG;-22.14;-22.63;-23.42
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

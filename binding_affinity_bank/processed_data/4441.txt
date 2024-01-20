@@ -1,0 +1,69 @@
+Title:Investigation of interaction between human serum albumin and N6-(2-hydroxyethyl)-adenosine by fluorescence spectroscopy and molecular modelling
+DOI:10.1002/bio.999
+ligand name:N6-(2-hydroxyethyl)-adenosine
+ligand smiles:C1=NC(=C2C(=N1)N(C=N2)[C@H]3C([C@H]([C@H](O3)CO)O)O)NCCO  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;41400.0;37500.0;36100.0
+kq;4140000000000.0;3750000000000.0;3610000000000.0
+n;0.81;0.84;1.02
+K;
+Ka;63800.0;51700.0;35400.0
+Kb;68900.0;57700.0;36400.0
+ΔH;-24.05;-24.05;-24.05
+ΔS;30.23;30.23;30.23
+ΔG;-26.86;-27.34;-27.87
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Characterization of the interactions between itraconazole and human and bovine serum albumins by a spectroscopic method
+DOI:None
+ligand name:itraconazole
+ligand smiles:CCC(C)N1N=CN(C2=CC=C(N3CCN(C4=CC=C(OC[C@H]5CO[C@](CN6C=NC=N6)(C6=C(Cl)C=C(Cl)C=C6)O5)C=C4)CC3)C=C2)C1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;285nm;285nm;
+pH;
+T;298.0;304.0;310.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;131000.0;129000.0;127000.0
+ΔH;-21.9;-21.9;-21.9
+ΔS;35.52;35.52;35.52
+ΔG;-32.49;-32.66;-32.92
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Spectroscopic and molecular docking studies reveal binding characteristics of nazartinib (EGF816) to human serum albumin
+DOI:10.1098/rsos.191595
+ligand name:Nazartinib
+ligand smiles:CC1=NC=CC(=C1)C(=O)NC2=NC3=C(N2[C@@H]4CCCCN(C4)C(=O)/C=C/CN(C)C)C(=CC=C3)Cl
+key residue(hbond):Arg257;Arg222;Glu292 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;2.71*10^4;2.62*10^4;2.45*10^4;
+kq;1.00*10^13;0.97*10^13;0.91*10^13;
+n;1.04;1.04;1.01;
+K;
+Ka;
+Kb;2.81*10^4;2.74*10^4;2.67*10^4;
+ΔH;-3.22;-3.22;-3.22;
+ΔS;74.36;74.36;74.36;
+ΔG;-25.37;-25.75;-26.27;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

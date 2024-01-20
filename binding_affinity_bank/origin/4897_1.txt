@@ -1,0 +1,95 @@
+Title:Comparative interactions of dihydroquinazolin derivatives with human serum albumin observed via multiple spectroscopy
+DOI:10.3390/app7020200
+ligand name:3b
+ligand smiles:CC1=CC=C(\C=N\N2C(N(C(=O)CC(C)(C)C)C3=C(C=C(Cl)C=C3)C2=O)C2=CC=C(C)C=C2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;307;316;
+KSV;4.228*10^4;4.337*10^4;4.513*10^4;
+kq;4.228*10^12;4.337*10^12;4.513*10^12;
+n;0.99055;0.99108;0.99673;
+K;
+Ka;
+Kb;3.58307*10^4;3.69690*10^4;3.78131*10^4;
+ΔH;2.34762;2.34762;2.34762;
+ΔS;95.0728;95.0728;95.0728;
+ΔG;-25.9841;-26.8397;-27.6954;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

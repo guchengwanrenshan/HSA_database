@@ -1,0 +1,95 @@
+Title:Experimental and theoretical investigation on the interaction between cyclovirobuxine D and human serum albumin
+DOI:10.1016/j.saa.2014.03.007
+ligand name:Cyclovirobuxine D
+ligand smiles:C[C@@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)CC[C@@H](C5(C)C)NC)C)C)O)NC 
+key residue(hbond):Lys195;Arg222;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;7.82*10^4;6.91*10^4;6.45*10^4;5.95*10^4;
+kq;7.82*10^4;6.91*10^4;6.45*10^4;5.95*10^4;
+n;
+K;
+Ka;
+Kb;4.88*10^4;3.17*10^4;1.82*10^4;1.18*10^4;
+ΔH;-51.20;-51.20;-51.20;-51.20;
+ΔS;-87.21;-87.21;-87.21;-87.21;
+ΔG;-25.99;-25.39;-24.78;-24.17;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.57601*10^-15;
+E;0.11;
+R0;1.80;
+r;2.56;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

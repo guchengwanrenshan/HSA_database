@@ -1,0 +1,95 @@
+Title:Interaction of 4′-methylflavonoids with biological membranes, liposomes, and human albumin
+DOI:10.1038/s41598-021-95430-8
+ligand name:2′-hydroxy-4-methylchalcone (3)
+ligand smiles:CC1=CC=C(C=C1)/C=C/C(=O)C2=CC=CC=C2O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;300;305;310;
+KSV;7.03*10^4;6.50*10^4;6.22*10^4;5.70*10^4;
+kq;7.03*10^12;6.50*10^12;6.22*10^12;5.70*10^12;
+n;1.27;1.21;1.16;1.10;
+K;
+Ka;
+Kb;189.35;120.01;42.27;15.99;
+ΔH;-77.83;-77.83;-77.83;
+ΔS;-138.67;-138.67;-138.67;
+ΔG;-37.21;-35.86;-31.87;-33.37;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

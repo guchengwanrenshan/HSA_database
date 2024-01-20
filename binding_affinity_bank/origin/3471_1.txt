@@ -1,0 +1,95 @@
+Title:Impact of halogen substituents on interactions between 2-Phenyl-2,3-dihydroqulinazolin-4(1H)-one derivatives and human serum albumin
+DOI:10.3390/molecules17022000
+ligand name:3b
+ligand smiles:CC(C)(C)CC(=O)N1C(N(\N=C\C2=CC=C(F)C=C2)C(=O)C2=C1C=CC(Cl)=C2)C1=CC=C(F)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;307;316;
+KSV;3.14*10^4;3.41*10^4;3.52*10^4;
+kq;3.14*10^12;3.41*10^12;3.52*10^12;
+n;0.99313;;;
+K;
+Ka;
+Kb;2.64*10^4;2.86*10^4;3.09*10^4;
+ΔH;7.60;7.60;7.60;
+ΔS;110.13;110.13;110.13;
+ΔG;-25.22;-26.21;-27.20;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

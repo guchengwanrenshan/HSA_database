@@ -1,0 +1,95 @@
+Title:In Vitro Study of the Interaction Between HSA and 4-Bromoindolylchalcone, a Potent Human MAO-B Inhibitor: Spectroscopic and Molecular Modeling Studies
+DOI:10.1002/slct.201802665
+ligand name:IC9
+ligand smiles:BrC1=CC=C(\C=C\C(=O)C2=CNC3=C2C=CC=C3)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;317;
+KSV;7.18*10^4;7.01*10^4;6.75*10^4;5.89*10^4;
+kq;1.20*10^13;1.17*10^13;1.13*10^13;0.98*10^13;
+n;1.00;1.02;1.13;1.09;
+K;
+Ka;
+Kb;7.36*10^4;6.10*10^4;4.81*10^4;4.28*10^4;
+ΔH;-20.8;-20.8;-20.8;-20.8;
+ΔS;22.9;22.9;22.9;22.9;
+ΔG;-27.6;-27.7;-27.9;-28.1;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

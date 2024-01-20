@@ -1,0 +1,69 @@
+Title:Studies on the interactions of 3,6-diaminoacridine derivatives with human serum albumin by fluorescence spectroscopy
+DOI:10.1002/bio.2635
+ligand name:PFP
+ligand smiles:CCOC(=O)NC1=CC2=NC3=C(C=CC(NC(=O)OCC)=C3)C=C2C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;310.0
+KSV;30900.0;29400.0;29300.0
+kq;3090000000000.0;2940000000000.0;2930000000000.0
+n;0.829;0.954;1.22
+K;
+Ka;
+Kb;4290.0;17000.0;391000.0
+ΔH;199.2;199.2;199.2
+ΔS;745.9;745.9;745.9
+ΔG;-20.38;-24.54;-33.19
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

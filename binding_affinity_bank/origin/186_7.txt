@@ -1,0 +1,95 @@
+Title:The influence of glycosylation of natural and synthetic prenylated flavonoids on binding to human serum albumin and inhibition of cyclooxygenases COX-1 and COX-2
+DOI:10.3390/molecules22071230
+ligand name:8
+ligand smiles:COc3cc(OC1OC(CO)C(O)C(O)C1O)c(CC=C(C)C)c4oc(=Cc2ccc(O)cc2)c(=O)c34
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300;305;310;315;
+KSV;1.796*10^4;1.751*10^4;1.692*10^4;1.611*10^4;
+kq;3.592*10^12;3.502*10^12;3.384*10^12;3.222*10^12;
+n;0.929;0.881;0.879;0.802;
+K;
+Ka;
+Kb;0.485*10^4;0.302*10^4;0.266*10^4;0.224*10^4;
+ΔH;-43.061;-43.061;-43.061;-43.061;
+ΔS;-37.029;-37.029;-37.029;-37.029;
+ΔG;-10.429;-10.317;-10.493;-9.861;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

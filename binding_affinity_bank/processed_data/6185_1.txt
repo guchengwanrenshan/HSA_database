@@ -1,0 +1,69 @@
+Title:Complexes of alpha-fetoprotein and serum albumin with biscarbocyanine dye
+DOI:10.1134/s0018143917030067
+ligand name:CC
+ligand smiles:CCN1\C(S\C(=C\C=C2/SC3=C(C=CC=C3)N2CC)C1=O)=C\C1=[N+](CC)C2=C(S1)C=C(C=C2)[N+]([O-])=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.4
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;54000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

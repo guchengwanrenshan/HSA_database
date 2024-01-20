@@ -1,0 +1,94 @@
+Title:Synthesis, characterization and investigating the binding mechanism of novel coumarin derivatives with human serum albumin: Spectroscopic and computational approach
+DOI:10.1016/j.molstruc.2022.132366
+ligand name:L1
+ligand smiles:COC1=C(O)C=CC(N\C=C2\C(=O)OC3=C(C=CC=C3)C2=O)=C1
+key residue(hbond):Arg257;His242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;7.13*10^4;5.65*10^4;5.48*10^4;
+kq;7.13*10^12;5.65*10^12;5.48*10^12;
+n;1.10;0.99;0.94;
+K;
+Ka;
+Kb;2.39*10^5;0.561*10^5;0.288*10^5;
+ΔH;-115.78;-115.78;-115.78;
+ΔS;-289.17;-289.17;-289.17;
+ΔG;-30.19;-29.56;-26.14;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

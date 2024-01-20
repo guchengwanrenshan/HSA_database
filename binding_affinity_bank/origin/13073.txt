@@ -1,0 +1,90 @@
+Title:Investigation of the interaction of naringin palmitate with bovine serum albumin: spectroscopic analysis and molecular docking
+DOI:10.1371/journal.pone.0059106
+ligand name:naringin
+ligand smiles:C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O 
+key residue(hbond):Arg194;Arg256 d
+key residue(hydrophobic):Trp213;Leu197;Leu237;Val342 d
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;
+KSV;3.762*10^4;3.744*10^4;3.572*10^4;
+kq;3.762*10^12;3.744*10^12;3.572*10^12;
+n;1.1;1.1;1.1;
+K;
+Ka;
+Kb;8.433*10^4;7.727*10^4;5.649*10^4;
+ΔH;-13.64;-13.64;-13.64;
+ΔS;47.23;47.23;47.23;
+ΔG;-27.24;-27.72;-28.28;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.397*10^-15;
+E;0.038;
+R0;2.13;
+r;3.64;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

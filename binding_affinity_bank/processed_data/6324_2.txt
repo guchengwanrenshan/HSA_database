@@ -1,0 +1,69 @@
+Title:Binding affinity of p-PD-based schiff-bases towards human serum albumin; in-vitro and in-silico assessment
+DOI:10.1016/j.molstruc.2022.132399
+ligand name:L3
+ligand smiles:COC1=C(O)C(\C=N\C2=CC=C(C=C2)\N=C\C2=CC=CC(OC)=C2O)=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IA d
+
+#Binding and thermodynamic parameters#
+parameter;295;
+pH;
+T;
+KSV;25200.0
+kq;2520000000000.0
+n;1.17
+K;
+Ka;
+Kb;709000000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

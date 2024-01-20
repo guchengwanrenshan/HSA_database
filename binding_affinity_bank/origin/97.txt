@@ -1,0 +1,95 @@
+Title:Spectroscopic and computational evaluation on the binding of safranal with human serum albumin: Role of inner filter effect in fluorescence spectral correction
+DOI:10.1016/j.saa.2018.05.102
+ligand name:safranal
+ligand smiles:CC1=C(C(CC=C1)(C)C)C=O  
+key residue(hbond):HIS242 d
+key residue(hydrophobic):ALA291;LEU238;ILE290;Arg257;LEU260 d
+PDB ID:
+Binding Area:Sudlow's site 1(subdomain II A)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;7.12*10^3;6.70*10^3;5.62*10^3;
+kq;1.25*10^12;1.17*10^12;1.00*10^12;
+n;1.04;1.04;1.02;
+K;
+Ka;
+Kb;10.54*10^3;9.56*10^3;7.11*10^3;
+ΔH;-9.0;-9.0;-9.0;
+ΔS;43.6;43.6;43.6;
+ΔG;-22.0;-22.4;-23.0;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.5 × 10−15 
+E;0.251
+R0;1.79
+r;2.2
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

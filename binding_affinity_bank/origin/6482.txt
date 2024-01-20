@@ -1,0 +1,94 @@
+Title:Spectroscopic investigation of the interaction between human serum albumins and 10-hydroxycamptothecin
+DOI:10.1007/s11859-009-0313-7
+ligand name:10-hydroxycamptothecin
+ligand smiles:CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=C(C3=C2)N=C5C=CC(=CC5=C4)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;8.493*10^4;8.340*10^4;8.152*10^4;
+kq;8.493*10^12;8.340*10^12;8.152*10^12;
+n;0.9425;0.9366;0.9065;
+K;
+Ka;
+Kb;4.93*10^4;4.28*10^4;3.48*10^4;
+ΔH;-21.8;-21.8;-21.8;
+ΔS;16.6;16.6;16.6;
+ΔG;-26.7;-26.8;-26.9;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;3.772*10^-14;
+E;0.27;
+R0;2.97;
+r;3.51;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

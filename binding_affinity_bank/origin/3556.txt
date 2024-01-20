@@ -1,0 +1,95 @@
+Title:Supramolecular interaction of 6-shogaol, a therapeutic agent of Zingiber officinale with human serum albumin as elucidated by spectroscopic, calorimetric and molecular docking methods
+DOI:10.1016/j.phymed.2015.03.016
+ligand name:6-shogaol
+ligand smiles:CCCCC/C=C/C(=O)CCC1=CC(=C(C=C1)O)OC  
+key residue(hbond):Tyr150;Gln196;Arg257(site I);Lys414(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I,site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;318;
+KSV;6.47*10^4;5.71*10^4;5.25*10^4;4.47*10^4;
+kq;
+n;
+K;
+Ka;7.51*10^4;6.29*10^4;5.56*10^4;4.68*10^4;
+Kb;
+ΔH;-11.76;-11.76;-11.76;-11.76;
+ΔS;52.52;52.52;52.52;52.52;
+ΔG;-26.88;-27.41;-27.93;-28.46;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Insights into the binding of 2-aminobenzothiazole with human serum albumin (HSA): spectroscopic investigation and molecular modeling studies
+DOI:10.1366/11-06524
+ligand name:2-aminobenzothiazole
+ligand smiles:C1=CC=C2C(=C1)N=C(S2)N  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297.0;313.0
+KSV;10600.0;9200.0
+kq;1060000000000.0;920000000000.0
+n;1.138;1.105
+K;
+Ka;
+Kb;36200.0;25100.0
+ΔH;-17.69;-17.69
+ΔS;27.71;27.7
+ΔG;-25.92;-26.36
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

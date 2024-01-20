@@ -1,0 +1,69 @@
+Title:Studies on the binding of paeonol and two of its isomers to human serum albumin by using microcalorimetry and circular dichroism
+DOI:10.1016/j.jct.2007.05.003
+ligand name:acetovanillone
+ligand smiles:CC(=O)C1=CC(=C(C=C1)O)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.15
+n;6.1
+K;
+Ka;
+Kb;17200.0
+ΔH;-9.72
+ΔS;48.4991
+ΔG;-24.18
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

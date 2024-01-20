@@ -1,0 +1,69 @@
+Title:Thermodynamic study on the interaction between anti-tumor drug tegafur and human serum albumin
+DOI:10.1016/j.cclet.2007.05.009
+ligand name:tegafur
+ligand smiles:O=C1NC(=O)N(C2CCCO2)C=C1F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;102000.0
+Ka;
+Kb;
+ΔH;29.98
+ΔS;196.5
+ΔG;-28.59
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Interaction of non-steroidal anti-inflammatory drugs, etoricoxib and parecoxib sodium, with human serum albumin studied by fluorescence spectroscopy
+DOI:10.1515/dmdi.2006.22.1.25
+ligand name:parecoxib sodium
+ligand smiles:CCC(=O)[N-]S(=O)(=O)C1=CC=C(C=C1)C2=C(ON=C2C3=CC=CC=C3)C.[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.15;300.15;305.15;310.15
+KSV;60000.0;55700.0;49500.0;45100.0
+kq;
+n;
+K;
+Ka;
+Kb;98780.0;47300.0;37480.0;30790.0
+ΔH;-25.749;-25.749;-25.749;-25.749
+ΔS;7.743;7.743;7.743;7.743
+ΔG;-28.0189;-28.0731;-28.1118;-28.1505
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

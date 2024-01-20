@@ -1,0 +1,95 @@
+Title:Elucidation of energetics and mode of recognition of green tea polyphenols by human serum albumin
+DOI:10.1016/j.molliq.2018.07.017
+ligand name:EGCG
+ligand smiles:C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;293;298;303;310;
+KSV;
+kq;
+n;0.81;0.83;0.86;0.87;0.86;
+K;
+Ka;
+Kb;2.23*10^5;2.57*10^5;2.91*10^5;3.09*10^5;3.15*10^5;
+ΔH;
+ΔS;
+ΔG;-28.85;-30.34;-31.17;-31.84;-32.62;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;288;293;298;303;310;
+n;2.3;2.3;2.3;2.2;2.5;
+K;
+Ka;
+Kb;8.3*10^4;13.2*10^4;18.4*10^4;11.3*10^4;10.0*10^4;
+ΔH;-6.94;-8.71;8.06;-11.5;-10.6;
+ΔS;70.1;68.4;67.0;58.8;61.1;
+ΔG;-27.1;-28.8;-28.0;-29.3;-29.6;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

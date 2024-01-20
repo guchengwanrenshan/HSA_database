@@ -1,0 +1,90 @@
+Title:Analysis of eupatilin-human serum albumin interactions by means of spectroscopic and computational modelling
+DOI:10.1211/jpp.59.5.0003
+ligand name:eupatilin
+ligand smiles:COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)OC)O)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;287;298;310;318;
+KSV;1.51*10^5;1.19*10^5;1.01*10^5;0.84*10^5;
+kq;
+n;1.17;1.24;1.28;1.33;
+K;
+Ka;
+Kb;1.53*10^5;1.20*10^5;1.05*10^5;0.87*10^5;
+ΔH;-13.76;-13.76;-13.76;-13.76;
+ΔS;51.15;51.04;51.28;51.00;
+ΔG;-28.44;-28.97;-29.69;-29.97;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

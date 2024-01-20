@@ -1,0 +1,69 @@
+Title:Probing the intermolecular interactions into serum albumin and anthraquinone systems: a spectroscopic and docking approach
+DOI:10.1080/07391102.2017.1388284
+ligand name:Danthron
+ligand smiles:C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O  
+key residue(hbond):ARG222;ARG257d
+key residue(hydrophobic):LEU238;ALA291d
+PDB ID:
+Binding Area:Site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;308.0
+KSV;81800.0;69600.0
+kq;8180000000000.0;6960000000000.0
+n;0.86;0.85
+K;
+Ka;18100.0;63100.0
+Kb;
+ΔH;95.4;95.4
+ΔS;401.6;401.6
+ΔG;-24.3;-28.3
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

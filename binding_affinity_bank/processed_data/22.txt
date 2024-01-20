@@ -1,0 +1,69 @@
+Title:Investigating the site selective binding of busulfan to human serum albumin: Biophysical and molecular docking approaches
+DOI:10.1016/j.ijbiomac.2017.10.006
+ligand name: Busulfan
+ligand smiles: CS(=O)(=O)OCCCCOS(=O)(=O)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;310.0
+KSV;2240.0;1830.0;1200.0
+kq;399000000000.0;327000000000.0;215000000000.0
+n;0.98;0.99;1.01
+K;
+Ka;
+Kb;1960.0;1840.0;1650.0
+ΔH;-5.858;-5.858;-5.858
+ΔS;42.426;42.426;42.426
+ΔG;-12.217;-12.648;-13.154
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

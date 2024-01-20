@@ -1,0 +1,95 @@
+Title:A study of the interactions between ephedrine and human serum albumin based on spectroscopic;electrochemical and docking assessments
+DOI:10.1016/j.molliq.2021.118058
+ligand name:ephedrine
+ligand smiles:C[C@@H]([C@@H](C1=CC=CC=C1)O)NC 
+key residue(hbond):Phe211;Ala215 d
+key residue(hydrophobic): Leu198;Phe211;Trp214;Leu238;His242 d
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295;300;303;313;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;2.4*10^4;1.9*10^4;1.4*10^4;1.1*10^4;
+ΔH;33.8;33.8;33.8;33.8;
+ΔS;-30.7;-30.7;-30.7;-30.7;
+ΔG;-24.7;-24.6;-24.5;-24.2;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

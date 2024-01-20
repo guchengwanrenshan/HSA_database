@@ -1,0 +1,95 @@
+Title:Affinity of rosmarinic acid to human serum albumin and its effect on protein conformation stability
+DOI:10.1016/j.foodchem.2015.06.109
+ligand name:rosmarinic acid
+ligand smiles:C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):Leu198;Leu481;Trp214;Ala291 d
+PDB ID:
+Binding Area:site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;7.81*10^4;8.07*10^4;10.61*10^4;
+kq;7.81*10^12;8.07*10^12;10.61*10^12;
+n;1.24;1..26;1.22;
+K;
+Ka;
+Kb;4.13*10^4;4.29*10^4;6.13*10^4;
+ΔH;14.40;14.40;14.40;
+ΔS;137.89;137.89;137.89;
+ΔG;-26.34;-26.72;-28.09;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.069*10^-14;
+E;0.233;
+R0;2.479;
+r;3.025;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

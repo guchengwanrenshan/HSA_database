@@ -1,0 +1,95 @@
+Title:Modulated photophysical properties and sequestration of potent anti-acetylcholinesterase active coumarinyl dyes in human serum albumin
+DOI:10.1016/j.dyepig.2022.110871
+ligand name:V
+ligand smiles:CN1C(N)=C(C(C2=CC=C(Cl)C=C2)C2=C(O)C3=C(OC2=O)C=CC=C3)C(=O)N(C)C1=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;318;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1.61*10^5;1.41*10^5;1.36*10^5;1.16*10^5;0.98*10^5;
+ΔH;-18.83;-18.83;-18.83;-18.83;-18.83;
+ΔS;40;40;40;40;40;
+ΔG;-30.75;-30.95;-31.15;-31.35;-31.55;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

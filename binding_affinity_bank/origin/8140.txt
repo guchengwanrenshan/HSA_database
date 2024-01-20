@@ -1,0 +1,90 @@
+Title:Understanding the mechanism of non-enzymatic glycation inhibition by cinnamic acid: an in vitro interaction and molecular modelling study
+DOI:10.1039/c6ra12321j
+ligand name:cinnamic acid
+ligand smiles:C1=CC=C(C=C1)/C=C/C(=O)O  
+key residue(hbond):Ser287;Arg257 d
+key residue(hydrophobic):Leu219;Leu234;Leu238;Ile264;Leu260 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;1.310*10^4;1.560*10^4;1.819*10^4;
+kq;2.267*10^12;2.699*10^123.146*10^12
+n;0.985;1.033;1.046;
+K;
+Ka;
+Kb;1.111*10^4;1.949*10^4;3.711*10^4;
+ΔH;76.8726;76.8726;76.8726;
+ΔS;33.5576;33.5562;33.5570;
+ΔG;-23.1250;-24.8028;-27.1500;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298;
+n;0.986;
+K;
+Ka;
+Kb;5.87*10^4;
+ΔH;-23.3718;
+ΔS;12.8749;
+ΔG;-27.2086;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;3.09*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

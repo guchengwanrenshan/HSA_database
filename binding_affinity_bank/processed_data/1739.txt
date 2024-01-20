@@ -1,0 +1,69 @@
+Title:Investigation of anesthetic-protein interactions by a thermodynamic approach
+DOI:10.1016/bs.mie.2018.02.023
+ligand name:isoflurane
+ligand smiles:C(C(F)(F)F)(OC(F)F)Cl
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;293.0
+n;1.333
+K;1439.0
+Ka;
+Kb;
+ΔH;-32.2502
+ΔS;-49.5386
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

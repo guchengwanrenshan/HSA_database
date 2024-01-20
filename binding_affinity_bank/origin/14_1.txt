@@ -1,0 +1,95 @@
+Title:Study on the bindings of dichlorprop and diquat dibromide herbicides to human serum albumin by spectroscopic methods
+DOI:10.1016/j.jhazmat.2014.03.022
+ligand name:Diquat dibromide
+ligand smiles:C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;310;318;
+KSV;5.02*10^3;4.22*10^3;3.76*10^3;3.32*10^3;
+kq;5.02*10^11;4.22*10^11;3.76*10^11;3.32*10^11;
+n;0.90;0.89;0.88;0.87;
+K;
+Ka;
+Kb;4.04*10^3;3.31*10^3;2.80*10^3;2.36*10^3;
+ΔH;-13.25;-13.25;-13.25;-13.25;
+ΔS;23.03;23.03;23.03;23.03;
+ΔG;-19.89;-20.12;-20.40;-20.58;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

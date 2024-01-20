@@ -1,0 +1,69 @@
+Title:The interaction mechanism between paclitaxel and HSA
+DOI:10.6043/j.issn.0438-0479.2014.04.025
+ligand name:paclitaxel
+ligand smiles:CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;310.0
+KSV;15100.0;13600.0;11800.0
+kq;1510000000000.0;1360000000000.0;1180000000000.0
+n;1.1;1.0;0.9
+K;
+Ka;35100.0;10700.0;5200.0
+Kb;
+ΔH;-84.8;-84.8;-84.8
+ΔS;-202.4;-202.4;-202.4
+ΔG;-25.5;-23.5;-22.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;15.35
+K;
+Ka;
+Kb;8840.0
+ΔH;-99.12
+ΔS;-183.62
+ΔG;-43.5
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

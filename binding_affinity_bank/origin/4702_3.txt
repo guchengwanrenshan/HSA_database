@@ -1,0 +1,95 @@
+Title:Photo-physical and structural interactions between viologen phosphorus-based dendrimers and human serum albumin
+DOI:10.1016/j.jlumin.2012.01.044
+ligand name:4
+ligand smiles:CCOP(=O)(CC[N+]1=CC=C(C=C1)C1=CC=[N+](CC2=CC(C[N+]3=CC=C(C=C3)C3=CC=[N+](CC4=CC=C(C=NN(C)P5(=NP(=NP(=N5)(N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)(N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)N(C)N=CC5=CC=C(C[N+]6=CC=C(C=C6)C6=CC=[N+](CC7=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=CC(C[N+]8=CC=C(C=C8)C8=CC=[N+](CCP(=O)(OCC)OCC)C=C8)=C7)C=C6)C=C5)C=C4)C=C3)=CC(C[N+]3=CC=C(C=C3)C3=CC=[N+](CCP(=O)(OCC)OCC)C=C3)=C2)C=C1)OCC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;13.1*10^5;
+kq;
+n;1.317;
+K;
+Ka;
+Kb;2.38*10^8;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

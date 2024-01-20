@@ -1,0 +1,69 @@
+Title:Differential recognition and quantification of HSA and BSA based on two red-NIR fluorescent probes
+DOI:10.1016/j.jlumin.2018.01.021
+ligand name:NTPS-FPI
+ligand smiles:CC(C)N1C(\C=C\C=C\C2=[N+](CCCS([O-])(=O)=O)C3=C(S2)C=CC2=CC=CC=C32)=C(C2=C1C=CC=C2)C1=CC=C(F)C=C1
+key residue(hbond):Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;7943.28
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

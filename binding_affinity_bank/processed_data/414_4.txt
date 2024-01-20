@@ -1,0 +1,69 @@
+Title:Plasma protein binding of herbalflavonoids to human serum albumin and their anti-proliferative activities
+DOI:10.1590/0001-3765202020190819
+ligand name: isoorientin (HF5)
+ligand smiles:OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)C1=C(O)C2=C(OC(=CC2=O)C2=CC=C(O)C(O)=C2)C=C1O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;0.051
+kq;
+n;1.192
+K;
+Ka;
+Kb;24700.0
+ΔH;
+ΔS;
+ΔG;-25.0595
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

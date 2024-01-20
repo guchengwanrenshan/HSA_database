@@ -1,0 +1,69 @@
+Title:Unraveling the Stability of Plasma Proteins upon Interaction of Synthesized Androstenedione and Its Derivatives-A Biophysical and Computational Approach
+DOI:10.1021/acsomega.7b00577
+ligand name:6M
+ligand smiles:[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC(C)[C@]2([H])CC(=O)CC[C@]12C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;100000.0
+kq;10000000000000.0
+n;0.963
+K;
+Ka;
+Kb;95000.0
+ΔH;
+ΔS;
+ΔG;-28.5767
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Spectroscopic study of drug-binding characteristics of unmodified and pNPA-based acetylated human serum albumin: Does esterase activity affect microenvironment of drug binding sites on the protein?
+DOI:10.1016/j.jlumin.2014.11.019
+ligand name:ibuprofen
+ligand smiles:CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;298;303;308;
+KSV;0.34*10^4;0.65*10^4;0.91*10^4;1.46*10^4;
+kq;0.34*10^12;0.65*10^12;0.91*10^12;1.46*10^12;
+n;1.128;1.109;1.095;1.065;
+K;
+Ka;
+Kb;1.038*10^4;1.642*10^4;2.106*10^4;2.613*10^4;
+ΔH;33.009;33.009;33.009;33.009;
+ΔS;-193.483;-193.483;-193.483;-193.483;
+ΔG;-21.747;-23.682;-24.649;-25.616;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

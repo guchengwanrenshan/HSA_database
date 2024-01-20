@@ -1,0 +1,95 @@
+Title:Investigation of the interaction of aurantio-obtusin with human serum albumin by spectroscopic and molecular docking methods
+DOI:10.1002/bio.3378
+ligand name: aurantio-obtusin
+ligand smiles: CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)O)OC)O
+key residue(hbond):Lys199;Glu450 d
+key residue(hydrophobic):Trp 214;Val343;Leu198;Pro447 d
+PDB ID:
+Binding Area:subdomains IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;8.56*10^4;7.27*10^4;6.07*10^4;5.13*10^4;
+kq;8.56*10^13;7.27*10^13;6.07*10^13;5.13*10^13;
+n;1.20;1.23;1.24;1.25;
+K;
+Ka;
+Kb;1.52*10^5;1.39*10^5;1.33*10^5;1.12*10^5;
+ΔH;-8.20;-8.20;-8.20;-8.20;
+ΔS;70.85;70.85;70.85;70.85;
+ΔG;-28.68;-29.17;-29.67;-30.16;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

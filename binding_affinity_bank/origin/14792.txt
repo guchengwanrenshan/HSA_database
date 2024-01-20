@@ -1,0 +1,90 @@
+Title:Study of conformational changes in serum albumin by binding of chlorfenvinphos using multispectroscopic techniques and molecular dynamic simulation
+DOI:10.1007/s00706-016-1814-7
+ligand name:chlorfenvinphos
+ligand smiles:CCOP(=O)(OCC)O/C(=C/Cl)/C1=C(C=C(C=C1)Cl)Cl  
+key residue(hbond):Lys199;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;3.09*10^5;
+kq;4.84*10^13;
+n;1.07;
+K;
+Ka;
+Kb;8.08*10^5;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.43*10^-14;
+E;0.26;
+R0;3.14;
+r;3.73;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

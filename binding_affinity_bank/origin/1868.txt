@@ -1,0 +1,95 @@
+Title:Investigation of the interaction of deltamethrin (DM) with human serum albumin by multi-spectroscopic method
+DOI:10.1016/j.molstruc.2016.09.061
+ligand name:deltamethrin
+ligand smiles:CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I(subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;3.6*10^4;2.53*10^4;2.42*10^4;2.02*10^4;
+kq;3.6*10^12;2.53*10^12;2.42*10^12;2.02*10^12;
+n;1.124;0.9915;0.8408;0.6302;
+K;
+Ka;3.598*10^4;2.596*10^4;2.281*10^4;1.862*10^4;
+Kb;
+ΔH;-32.69;-32.69;-32.69;-32.69;
+ΔS;-22.81;-22.81;-22.81;-22.81;
+ΔG;-25.889;-25.776;-25.662;-25.548;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.849*10^-14;
+E;0.1001;
+R0;2.54;
+r;3.66;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

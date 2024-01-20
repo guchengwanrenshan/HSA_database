@@ -1,0 +1,69 @@
+Title:Study on the interaction of 4-hydroxy-2,2',3,4'-tetrabromodiphenyl ether with human serum albumin by computer-aided molecular modeling and spectroscopy
+DOI:None
+ligand name:4-hydroxy-2,2',3,4'-tetrabromodiphenyl ether
+ligand smiles:C1=CC(=C(C=C1Br)Br)OC2=C(C(=C(C=C2)O)Br)Br  
+key residue(hbond):Glu292;Lys195 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;298.0;310.0
+KSV;81200000.0;87700000.0;93400000.0
+kq;8120000000000000.0;8770000000000000.0;9340000000000000.0
+n;0.8508;0.9513;0.9847
+K;
+Ka;
+Kb;4700000.0;34300000.0;69000000.0
+ΔH;96.8;96.8;96.8
+ΔS;464.3;464.3;464.3
+ΔG;-37.0;-43.0;-46.5
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

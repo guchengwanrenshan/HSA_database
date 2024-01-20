@@ -1,0 +1,95 @@
+Title:Biomolecular interaction of a platelet aggregation inhibitor, 3,4-methylenedioxy-β-nitrostyrene with human serum albumin: multi-spectral and computational characterization
+DOI:10.1080/07391102.2019.1640133
+ligand name:3,4-methylenedioxy-β-nitrostyrene
+ligand smiles:[N+](=O)([O-])/C=C/C1=CC2=C(OCO2)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I, site II, site III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.45*10^4;0.94*10^4;0.55*10^4;
+kq;
+n;
+K;
+Ka;1.48*10^4;0.96*10^4;9.56*10^4;
+Kb;
+ΔH;-35.82;-35.82;-35.82;
+ΔS;44.35;44.35;44.35;
+ΔG;-48.59;-49.04;-49.48;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

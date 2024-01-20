@@ -1,0 +1,97 @@
+Title:Multi-spectroscopic characterization of human serum albumin binding with cyclobenzaprine hydrochloride: insights from biophysical and in silico approaches
+DOI:10.3390/ijms20030662
+ligand name:Cyclobenzaprine hydrochloride
+ligand smiles: CN(C)CCC=C1C2=CC=CC=C2C=CC3=CC=CC=C31
+key residue(hbond):S192 d
+key residue(hydrophobic):Y150;E153;S192;K195;Q196;K199;L238;R257;H288;A291;E292 d
+PDB ID:
+Binding Area:subdomain IIA (Sudlow site I) d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298,303,310;
+KSV;1.7*10^4;1.3*10^4;1.0*10^4;
+kq;2.6*10^12;2.2*10^12;1.7*10^12
+n;0.99;1.01;1.101;
+Kb;1.6*10^4;1.4*10^4;1.2*10^4;
+KaK;
+KbKa;
+ΔH;-21.374;-21.374;-21.374;
+ΔS;17.972;17.951;17.951;
+ΔG;-23.932;-24.058;-24.184;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+1:0;;0.017;348;7.68;6;
+1:5;;0.017;506;7.68;4.17
+1:10;;0.0167;600;7.5;3.33;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.08*10^-15;
+E;
+R0;2.18;
+r;2.34;
+EFRET;0.39;
+F0;2546;
+F;1829;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

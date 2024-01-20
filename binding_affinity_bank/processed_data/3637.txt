@@ -1,0 +1,69 @@
+Title:The interaction and binding of flavonoids to human serum albumin modify its conformation, stability and resistance against aggregation and oxidative injuries
+DOI:10.1016/j.bbagen.2016.03.014
+ligand name:phloretin
+ligand smiles:C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;36000.0;30000.0;28400.0
+kq;
+n;
+K;
+Ka;
+Kb;16800.0;23600.0;54400.0
+ΔH;33.0;33.0;33.0
+ΔS;144.0;144.0;144.0
+ΔG;-10.4;-11.2;-12.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

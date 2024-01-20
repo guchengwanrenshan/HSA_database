@@ -1,0 +1,69 @@
+Title:Characterization of interactions between polyphenolic compounds and human serum proteins by capillary electrophoresis
+DOI:10.1007/s00216-008-2046-4
+ligand name:Flavone
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;309.5
+n;2.0
+K;
+Ka;
+Kb;33000.0
+ΔH;
+ΔS;
+ΔG;-26.7721
+Kd;
+
+

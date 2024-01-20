@@ -1,0 +1,99 @@
+Title:Preferential binding of insecticide phorate with sub-domain IIA of human serum albumin induces protein damage and its toxicological significance
+DOI:10.1016/j.fct.2011.04.028
+ligand name:phorate
+ligand smiles:CCOP(=S)(OCC)SCSCC  
+key residue(hbond):Lys195;Lys199;Arg218;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;2.5*10^4;
+kq;
+n;1.02;
+K;
+Ka;
+Kb;2.96*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+Lys195;;;45.68;
+Lys199;;;23.18;
+Trp214;;;16.5;
+Arg218;;;15.05;
+Arg222;;;28.99;
+
+
+
+

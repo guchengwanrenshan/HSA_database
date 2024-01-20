@@ -1,0 +1,95 @@
+Title:Hydrochlorothiazide binding to human serum albumin induces some compactness in the molecular structure of the protein: A multi-spectroscopic and computational study
+DOI:10.1016/j.jpba.2018.09.009
+ligand name:Hydrochlorothiazide
+ligand smiles:C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl  
+key residue(hbond):Lys199;Arg222;Ala291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I (subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;13.08*10^3;11.34*10^3;10.12*10^3;9.00*10^3;
+kq;13.08*10^11;11.34*10^11;10.12*10^11;9.00*10^11;
+n;1.06;1.03;1.03;1.01;
+K;
+Ka;
+Kb;8.87*10^4;8.12*10^4;6.89*10^4;5.46*10^4
+ΔH;-58.82;-58.82;-58.82;-58.82;
+ΔS;-150.31;-150.31;-150.31;-150.31;
+ΔG;-14.03;-13.37;-12.62;-11.87;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

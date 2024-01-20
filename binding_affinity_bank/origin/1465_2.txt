@@ -1,0 +1,95 @@
+Title:Interactions of the Rad51 inhibitor DIDS with human and bovine serum albumins: Optical spectroscopy and isothermal calorimetry approaches
+DOI:10.1016/j.biochi.2019.09.016
+ligand name:DAZDS(high affinity)
+ligand smiles:OS(=O)(=O)C1=CC(=CC=C1\C=C\C1=C(C=C(C=C1)N=[N+]=[N-])S(O)(=O)=O)N=[N+]=[N-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;295;
+n;0.844;
+K;
+Ka;4.12*10^5;
+Kb;
+ΔH;9.899;
+ΔS;141.001;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

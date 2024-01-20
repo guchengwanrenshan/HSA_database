@@ -1,0 +1,69 @@
+Title:A new exploration towards (aminothiazolyl)quinolone oximes as potentially multi-targeting antibacterial agents: Design, synthesis and evaluation acting on microbes, DNA, HSA and topoisomerase IV
+DOI:10.1016/j.ejmech.2019.06.046
+ligand name:10b
+ligand smiles:CCN1C=C(C2=CSC(N)=N2)C(=O)C2=CC(F)=C(C=C12)N1CCN(C\C(C)=N\OC)CC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286.0;298.0;310.0
+KSV;189000.0;179000.0;157000.0
+kq;29500000000000.0;28000000000000.0;24500000000000.0
+n;
+K;
+Ka;98080.0;52870.0;38260.0
+Kb;180700.0;162700.0;144200.0
+ΔH;-29.018;-29.018;-29.018
+ΔS;-6.247;-6.247;-6.247
+ΔG;-27.231;-27.156;-27.081
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

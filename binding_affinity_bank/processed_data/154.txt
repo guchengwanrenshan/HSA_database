@@ -1,0 +1,69 @@
+Title:Molecular interactions between warfarin and human (HSA) or bovine (BSA) serum albumin evaluated
+DOI:10.1016/j.jpba.2017.12.008
+ligand name:warfarin
+ligand smiles:CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;84600.0;83900.0;82900.0
+kq;
+n;0.92
+K;
+Ka;
+Kb;42100.0
+ΔH;-5.6
+ΔS;69.7339
+ΔG;-26.3807
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;1.21
+K;
+Ka;
+Kb;70800.0
+ΔH;-5.4
+ΔS;74.7267
+ΔG;-27.6686
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

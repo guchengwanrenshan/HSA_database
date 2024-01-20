@@ -1,0 +1,95 @@
+Title:Introduction of fluorinated environment on metformin. Evaluation of its serum-albumin interaction with molecular modeling studies
+DOI:10.1016/j.molliq.2018.03.083
+ligand name:MTF2
+ligand smiles:CN(C)C(=N)NC(=N)NCC1=CC(F)=CC=C1
+key residue(hbond):Trp214;Glu449 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;3.25*10^4;3.22*10^4;2.62*10^4;
+kq;5.58*10^12;5.54*10^12;4.50*10^12;
+n;0.91;0.94;0.96;
+K;
+Ka;
+Kb;5.43*10^4;4.86*10^4;3.81*10^4;
+ΔH;-19.2;-19.2;-19.2;
+ΔS;25.8;25.8;25.8;
+ΔG;-26.8;-27.0;-27.2;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

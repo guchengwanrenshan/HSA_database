@@ -1,0 +1,69 @@
+Title:Interaction of nobiletin with human serum albumin studied using optical spectroscopy and molecular modeling methods
+DOI:10.1016/j.jlumin.2007.09.029
+ligand name:nobiletin
+ligand smiles:COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0
+KSV;
+kq;
+n;1.36;1.33;1.25;1.28
+K;
+Ka;
+Kb;40540.0;47690.0;56460.0;70440.0
+ΔH;1.938;1.938;1.938;1.938
+ΔS;155.195;155.195;155.195;155.195
+ΔG;-42.913;-43.999;-45.086;-46.172
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

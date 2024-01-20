@@ -1,0 +1,94 @@
+Title:Synthesis and biological evaluation of a new class of quinazolinone azoles as potential antimicrobial agents and their interactions with calf thymus DNA and human serum albumin
+DOI:10.1039/c4md00281d
+ligand name:3a
+ligand smiles:CC1=NC=C(N1CCN1C=NC2=C(C=CC(F)=C2)C1=O)[N+]([O-])=O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;8.15*10^4;7.26*10^4;6.25*10^4;
+kq;1.27*10^13;1.13*10^13;0.977*10^13;
+n;1.27;1.38;1.45;
+K;
+Ka;4.56*10^4;3.66*10^4;2.97*10^4;
+Kb;4.60*10^4;3.64*10^4;3.03*10^4;
+ΔH;-27.351;-27.351;-27.351;
+ΔS;-1.729;-1.729;-1.729;
+ΔG;-26.836;-26.827;-26.815;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

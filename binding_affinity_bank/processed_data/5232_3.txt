@@ -1,0 +1,69 @@
+Title:Characterization of interaction kinetics between chiral solutes and human serum albumin by using high-performance affinity chromatography and peak profiling
+DOI:10.1016/j.chroma.2011.08.026
+ligand name:R-5-(4-hydroxyphenyl)-5-phenylhydantoin
+ligand smiles:OC1=CC=CC(=C1)[C@]1(NC(=O)NC1=O)C1=CC=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;310.0
+KSV;
+kq;
+n;
+K;
+Ka;6300.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

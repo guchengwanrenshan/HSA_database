@@ -1,0 +1,69 @@
+Title:Stereo-selectivity of human serum albumin to enantiomeric and isoelectronic pollutants dissected by spectroscopy, calorimetry and bioinformatics
+DOI:10.1371/journal.pone.0026186
+ligand name:8-quinolinol
+ligand smiles:C1=CC2=C(C(=C1)O)N=CC=C2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I;site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0;318.0
+KSV;1.102;1.047;1.01
+kq;11600.0;8500.0;7000.0
+n;
+K;
+Ka;26800.0;17500.0;13200.0
+Kb;2690000000000.0;1980000000000.0;1640000000000.0
+ΔH;-27.8236;-27.8236;-27.8236
+ΔS;-8.619;-8.619;-8.619
+ΔG;-25.2295;-25.1458;-25.0622
+Kd;
+
+
+#ITC#
+parameter;siteI;siteI;siteI;siteI;siteII;siteII;siteII;siteII;
+pH;
+T;288.0;298.0;310.0;318.0;288.0;298.0;310.0;318.0
+n;
+K;
+Ka;
+Kb;29500.0;29100.0;9070.0;23300.0;2170.0;1950.0;545.0;308.0
+ΔH;1.5899;2.3849;12.7612;18.4933;35.4385;-42.0074;-55.7727;-60.8354
+ΔS;90.9439;93.3678;116.8821;122.4938;-59.2733;-78.0639;-127.5445;-143.677
+ΔG;-24.6019;-25.4387;-23.4722;-20.4598;-18.3678;-18.7443;-16.2339;-15.1461
+Cp;599.1488;599.1488;599.1488;599.1488;-887.8448;-887.8448;-887.8448;-887.8448
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

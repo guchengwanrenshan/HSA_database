@@ -1,0 +1,69 @@
+Title:Investigation of the binding properties between levamlodipine and HSA based on MCR-ALS and computer modeling
+DOI:10.1016/j.saa.2020.118929
+ligand name:Levamlodipine (LEE)
+ligand smiles:CCOC(=O)C1=C(NC(=C([C@@H]1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;398.0;303.0
+KSV;7691.0;7167.0;7087.0
+kq;1411000000000.0;1315000000000.0;1300000000000.0
+n;1.166;1.103;1.057
+K;
+Ka;45030.0;21390.0;12800.0
+Kb;
+ΔH;-92.934;-92.934;-92.934
+ΔS;-228.377;-228.377;-228.377
+ΔG;-25.985;-24.843;-23.701
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

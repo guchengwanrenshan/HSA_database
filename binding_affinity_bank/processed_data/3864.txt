@@ -1,0 +1,69 @@
+Title:Interaction of human serum albumin with N-(4-ethoxyphenyl)-N'-(4-antipyrinyl) thiourea using spectroscopies and molecular modeling method
+DOI:10.1016/j.jlumin.2009.02.005
+ligand name:EPAT
+ligand smiles:CCOC1=CC=C(NC(=S)NC2=C(C)N(C)N(C2=O)C2=CC=CC=C2)C=C1
+key residue(hbond):ALA219;Arg218;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;303.0;313.0
+KSV;38520.0;37210.0;35330.0
+kq;3852000000000.0;3721000000000.0;3533000000000.0
+n;1.1224;1.2147;1.3822
+K;
+Ka;37700.0;25920.0;23080.0
+Kb;38500.0;26800.0;24700.0
+ΔH;-17.0328;-17.0328;-17.0328
+ΔS;29.2939;29.2939;29.2939
+ΔG;-25.6159;-25.9089;-26.2018
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

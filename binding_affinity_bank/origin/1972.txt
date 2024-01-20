@@ -1,0 +1,95 @@
+Title:Molecular interactions of AL3818 (anlotinib) to human serum albumin as revealed by spectroscopic and molecular docking studies
+DOI:10.1016/j.molliq.2018.10.025
+ligand name:anlotinib
+ligand smiles:CC1=CC2=C(N1)C=CC(=C2F)OC3=C4C=C(C(=CC4=NC=C3)OCC5(CC5)N)OC  
+key residue(hbond):	LEU238;ALA291 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;309;
+KSV;1.13*10^5;1.11*10^5;1.11*10^5;
+kq;4.17*10^13;4.12*10^13;4.11*10^13;
+n;1.12;1.13;1.14;
+K;1.19*10^5;1.15*10^5;1.09*10^5;
+Ka;
+Kb;
+ΔH;-3.18;-3.18;-3.18;
+ΔS;86.20;86.20;86.20;
+ΔG;-28.00;-28.86;-29.82;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

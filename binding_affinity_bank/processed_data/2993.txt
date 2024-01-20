@@ -1,0 +1,69 @@
+Title:Interaction of Hydralazine with Human Serum Albumin and Effect of β-Cyclodextrin on Binding: Insights from Spectroscopic and Molecular Docking Techniques
+DOI:10.1021/acs.iecr.6b00517
+ligand name:Hydralazine
+ligand smiles:C1=CC=C2C(=C1)C=NN=C2NN 
+key residue(hbond):CYS448;TYR452;PRO447 d
+key residue(hydrophobic):Leu453;Val456;Val455;Pro447;Ala449 d
+PDB ID:
+Binding Area: site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;18520.0;16580.0;13230.0
+kq;1852000000000.0;1658000000000.0;1323000000000.0
+n;0.933;0.903;0.995
+K;
+Ka;
+Kb;6050.0;5120.0;4400.0
+ΔH;-17.3;-17.3;-17.3
+ΔS;-11.55;-11.55;-11.55
+ΔG;-20.7;-20.5;-20.92
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

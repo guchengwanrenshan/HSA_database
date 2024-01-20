@@ -1,0 +1,95 @@
+Title:A Chalcone-Based Potential Therapeutic Small Molecule That Binds to Subdomain IIA in HSA Precisely Controls the Rotamerization of Trp-214
+DOI:10.1021/acsomega.8b01079
+ligand name:ADMQ
+ligand smiles:CC1=NC2=C(C=C(Br)C=C2Br)C=C1C(=O)\C=C\C1=C2C=CC=CC2=CC2=C1C=CC=C2
+key residue(hbond):
+key residue(hydrophobic):Trp214;Leu198;Ala291;Val343;Val344;Tyr452;Val455 d
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;12.21*10^4;11.74*10^4;8.75*10^4;
+kq;12.21*10^12;11.74*10^12;8.75*10^12;
+n;
+K;
+Ka;
+Kb;4.85*10^4;4.45*10^4;4.11*10^4;
+ΔH;5.84;5.84;5.84;
+ΔS;108.0;108.0;108.0;
+ΔG;-33.25;-32.71;-32.17;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.80*10^-15;
+E;0.3574;
+R0;2.21;
+r;2.45;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

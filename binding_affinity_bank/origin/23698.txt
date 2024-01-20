@@ -1,0 +1,95 @@
+Title:Analysis on molecular interaction mechanism of myricetin binding with human serum albumin by spectroscopy and molecular modeling method
+DOI:10.13595/j.cnki.issn1000-0720.2020.022201
+ligand name:myricetin
+ligand smiles:C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;
+kq;0.06*10^14;0.072*10^14;0.095*10^14;
+n;0.96;0.93;0.88;
+K;0.378*10^5;0.300*10^5;0.239*10^5;
+Ka;
+Kb;
+ΔH;-29.09;-29.09;-29.09;
+ΔS;-10.08;-10.08;-10.08;
+ΔG;-26.08;-26.03;-25.96;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.63*10^-14;
+E;0.27;
+R0;2.88;
+r;3.399;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

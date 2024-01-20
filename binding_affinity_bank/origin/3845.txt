@@ -1,0 +1,95 @@
+Title:Characterization of the interaction between nitrofurazone and human serum albumin by spectroscopic and molecular modeling methods
+DOI:10.1039/c2mb05467a
+ligand name:nitrofurazone
+ligand smiles:C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N  
+key residue(hbond):Leu283;Ser287 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;310;
+KSV;2.80*10^3;2.53*10^3;
+kq;
+n;1.02;0.96;
+K;
+Ka;
+Kb;2.88*10^3;1.74*10^3;
+ΔH;-31.98;-31.98;
+ΔS;-41.11;-41.11;
+ΔG;-19.73;-19.23;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.48*10^-14;
+E;0.079;
+R0;2.24;
+r;3.38;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

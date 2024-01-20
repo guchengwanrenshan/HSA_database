@@ -1,0 +1,69 @@
+Title:Interactions between Human Serum Albumin and Sulfadimethoxine Determined Using Spectroscopy and Molecular Docking
+DOI:10.3390/molecules27051526
+ligand name:Sulfadimethoxine
+ligand smiles:COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;
+kq;
+n;0.9654;0.9167;0.8924
+K;
+Ka;23100.0;12500.0;8300.0
+Kb;
+ΔH;-52.33;-52.33;-52.33
+ΔS;-90.91;-90.91;-90.91
+ΔG;-24.89;-24.16;-23.47
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

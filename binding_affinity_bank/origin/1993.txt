@@ -1,0 +1,95 @@
+Title:Investigation of binding mechanism of novel 8-substituted coumarin derivatives with human serum albumin and α-1-glycoprotein
+DOI:10.1080/07391102.2015.1104264
+ligand name:Umb-1
+ligand smiles:OC1=C(\C=C(/C#N)C(=O)NCC2SCC=N2)C2=C(C=CC(=O)O2)C=C1
+key residue(hbond):LYS402 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow’s Site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;
+kq;5.5*10^13;
+n;1.3;
+K;7*10^4;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-27.196;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.06*10^-16;
+E;0.10;
+R0;1.36;
+r;1.29;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

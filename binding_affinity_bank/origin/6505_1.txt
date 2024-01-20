@@ -1,0 +1,94 @@
+Title:Study on interaction between the chiral drug of amlodipine besylate and human serum albumin by fluorescence spectrophotometry
+DOI:None
+ligand name:L-amlodipine
+ligand smiles:CCOC(=O)C1=C(NC(=C([C@@H]1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;7.44;7.44;7.44;
+T;284;293;310;
+KSV;1.381*10^12;1.328*10^4;1.307*10^12;
+kq;;1.328*10^12;;
+n;;1.18;;
+K;
+Ka;
+Kb;;6.82*10^4;;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

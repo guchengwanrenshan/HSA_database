@@ -1,0 +1,95 @@
+Title:Pharmacokinetics, tissue distribution, and human serum albumin binding properties of delicaflavone, a novel anti-tumor candidate
+DOI:10.3389/fphar.2021.761884
+ligand name:Delicaflavone
+ligand smiles:C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4=CC=C(C=C4)C5=CC(=O)C6=C(C=C(C=C6O5)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;28.06*10^3;26.65*10^3;22.10*10^3;19.75*10^3;
+kq;28.06*10^11;26.65*10^11;22.10*10^11;19.75*10^11;
+n;1.238;1.190;1.224;1.273;
+K;
+Ka;
+Kb;3.304*10^5;3.199*10^5;2.192*10^5;1.815*10^5;
+ΔH;-33.69;-33.69;-33.69;-33.69;
+ΔS;-6.831;-6.831;-6.831;-6.831;
+ΔG;-31.65;-31.62;-31.58;-31.55;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

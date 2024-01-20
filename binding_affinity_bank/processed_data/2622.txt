@@ -1,0 +1,69 @@
+Title:Studies on the binding of nevadensin to human serum albumin by molecular spectroscopy and modeling
+DOI:10.1016/j.molstruc.2007.01.020
+ligand name:nevadensin
+ligand smiles:COC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C(=C3O2)OC)O)OC)O
+key residue(hbond):Arg218;Arg222;Lys195(site I);Asp451(site II) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I;site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;306.0;318.0
+KSV;978100.0;803100.0;655800.0
+kq;195600000000000.0;160600000000000.0;131200000000000.0
+n;
+K;
+Ka;
+Kb;811400.0;681500.0;562200.0
+ΔH;-13.05;-13.05;-13.05
+ΔS;69.034;69.034;69.034
+ΔG;-33.484;-34.174;-35.003
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

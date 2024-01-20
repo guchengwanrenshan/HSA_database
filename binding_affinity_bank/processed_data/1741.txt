@@ -1,0 +1,69 @@
+Title:Alterations in the conformation and function of human serum albumin induced by the binding of methyl hydrogen phthalate
+DOI:10.1016/j.saa.2022.121335
+ligand name:Methyl hydrogen phthalate
+ligand smiles:COC(=O)C1=CC=CC=C1C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;308.0
+KSV;9638.0;8896.0;8049.0;7299.0
+kq;1549000000000.0;1430000000000.0;1294000000000.0;1173000000000.0
+n;1.008;1.01;0.984;0.968
+K;
+Ka;15390.0;11360.0;7290.0;5080.0
+Kb;
+ΔH;-59.516;-59.516;-59.516;-59.516
+ΔS;-120.036;-120.036;-120.036;-120.036
+ΔG;-24.345;-23.745;-23.145;-22.545
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

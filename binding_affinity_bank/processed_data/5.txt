@@ -1,0 +1,69 @@
+Title: Binding of erucic acid with human serum albumin using a spectroscopic and molecular docking study
+DOI: 10.1016/j.ijbiomac.2017.04.051
+ligand name:erucic acid
+ligand smiles:[H]/C(CCCCCCCC)=C(\[H])CCCCCCCCCCCC(=O)O
+key residue(Hbond):Ser342;Arg348;Arg485 d
+key residue(hydrophobic):Ser342;Val344;Arg348;Pro384;Leu387;Ile388;Asn391;Tyr411;Val415;Leu457;Phe488 d
+PDB ID:
+Binding Area: IIA;IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;30000.0;20000.0;14000.0
+kq;5100000000000.0;3400000000000.0;2400000000000.0
+n;0.96;1.06;1.15
+K;
+Ka;
+Kb;21000.0;38000.0;67000.0
+ΔH;73.5966;73.5966;73.5966
+ΔS;330.087;330.025;330.131
+ΔG;-24.7693;-26.401;-28.7441
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

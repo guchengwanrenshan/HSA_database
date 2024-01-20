@@ -1,0 +1,90 @@
+Title:Molecular spectroscopic insight into the binding of batatasin V isomers to human serum albumin
+DOI:10.1080/00387010.2017.1320765
+ligand name:isoamoenylin
+ligand smiles:COC1=CC(CCC2=CC=CC(O)=C2)=CC(OC)=C1OC
+key residue(hbond):Arg257 d
+key residue(hydrophobic):Glu153;Ala291;His288;Lys199;Arg257;Arg218 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;299;303;
+KSV;3.17*10^3;3.03*10^3;2.62*10^3;
+kq;5.47*10^11;5.22*10^11;4.52*10^11;
+n;1.02;0.93;0.89;
+K;
+Ka;
+Kb;3.55*10^3;1.55*10^3;1.05*10^3;
+ΔH;-90.70;-90.70;-90.70;
+ΔS;-241.77;-241.77;-241.77;
+ΔG;-19.86;-18.41;-17.44;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

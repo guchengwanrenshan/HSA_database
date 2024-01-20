@@ -1,0 +1,95 @@
+Title:Interaction of artemisinin and its derivatives with human serum albumin studied using spectroscopies and molecular modeling methods
+DOI:10.1007/s11033-013-2575-6
+ligand name:Artemisinin
+ligand smiles:[H][C@@]12CC[C@@H](C)[C@]3([H])CCC4(C)OO[C@@]13[C@]([H])(OC(=O)[C@@H]2C)O4
+key residue(hbond):Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;308;318;
+KSV;2.213*10^4;1.866*10^4;1.598*10^4;
+kq;2.213*10^12;1.866*10^12;1.598*10^12;
+n;0.994;0.985;1.004;
+K;
+Ka;2.730*10^4;2.298*10^4;1.897*10^4;
+Kb;2.054*10^4;1.711*10^4;1.573*10^4;
+ΔH;-14.33;-14.33;-14.33;
+ΔS;36.14;36.14;36.14;
+ΔG;-25.10;-25.46;-25.82;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.42*10^-14;
+E;0.8816;
+R0;2.599;
+r;1.86;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Synthesis, characterization, spectroelectrochemical, photophysical and HSA-binding properties of novel and versatile meso-tetra(4-pyridylvinylphenyl)porphyrins coordinated to ruthenium(II)-polypyridyl derivatives
+DOI:10.21577/0103-5053.20200080
+ligand name:1a
+ligand smiles:C1=CC(/C=C/C2=CC=C(/C3=C4\C=CC(=N4)/C(C4=CC=C(/C=C/C5=CC=NC=C5)C=C4)=C4/C=C/C(=C(\C5=CC=C(/C=C/C6=CC=NC=C6)C=C5)C5C=C/C(=C(\C6=CC=C(/C=C/C7=CC=NC=C7)C=C6)C6=CC=C3N6)N5)N4)C=C2)=CC=N1
+key residue(hbond):Lys135;Tyr160;Lys161 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;2520.0
+kq;444000000000.0
+n;1.31
+K;
+Ka;
+Kb;4540.0
+ΔH;
+ΔS;
+ΔG;-20.8363
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

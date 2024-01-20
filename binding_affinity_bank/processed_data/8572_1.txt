@@ -1,0 +1,69 @@
+Title:β-Carotene and astaxanthin with human and bovine serum albumins
+DOI:10.1016/j.foodchem.2015.01.133
+ligand name:Astaxanthin
+ligand smiles:CC1=C(C(C[C@@H](C1=O)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C(=O)[C@H](CC2(C)C)O)C)\C)\C)/C)/C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0;310.0
+KSV;3912000.0;3738000.0;3696000.0;3525000.0
+kq;391200000000000.0;373800000000000.0;369600000000000.0;352500000000000.0
+n;
+K;
+Ka;
+Kb;2652000.0;2613000.0;2601000.0;2581000.0
+ΔH;-1.144;-1.144;-1.144;-1.144
+ΔS;119.04;119.04;119.04;119.04
+ΔG;-36.02;-36.62;-37.21;-38.05
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Binding mode and interactions of the food colorant erythrosine B with human serum albumin
+DOI:None
+ligand name:erythrosine B
+ligand smiles:C1=CC=C2C(=C1)C(=O)OC23C4=CC(=C(C(=C4OC5=C(C(=C(C=C35)I)[O-])I)I)[O-])I.[Na+].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;353000.0;295000.0;278000.0
+kq;
+n;0.71;0.75;0.79
+K;
+Ka;
+Kb;8600.0;12000.0;13900.0
+ΔH;-30.51;-30.51;-30.51
+ΔS;177.99;177.99;177.99
+ΔG;-83.55;-84.62;-85.69
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Interactions of human serum albumin with phenothiazine drugs: insights from fluorescence spectroscopic studies
+DOI:10.1002/jccs.200900104
+ligand name:PMZ
+ligand smiles:CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;300;310;
+KSV;2.162*10^4;2.071*10^4;1.981*10^4;
+kq;2.162*10^12;2.071*10^12;1.981*10^12;
+n;1.10649;1.10144;1.09656;
+K;
+Ka;
+Kb;4161.5;4089.0;4029.6;
+ΔH;-1.41378;-1.41378;-1.41378;
+ΔS;64.4484;64.4484;64.4484;
+ΔG;-20.2972;-20.7483;-21.3928;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;8.04243*10^-16;
+E;0.035;
+R0;1.61;
+r;2.80;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

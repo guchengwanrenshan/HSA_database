@@ -1,0 +1,95 @@
+Title:Binding interaction and conformational changes of human serum albumin with ranitidine studied by spectroscopic and time-resolved fluorescence methods
+DOI:10.1007/s13738-016-0847-5
+ligand name:RTN
+ligand smiles:CN/C(=C\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;6.154*10^4;7.937*10^4;7.975*10^4;
+kq;6.154*10^12;7.937*10^12;7.975*10^12;
+n;
+K;
+Ka;
+Kb;2.058*10^4;4.160*10^4;6.801*10^4;
+ΔH;44.152;44.152;44.152;
+ΔS;236.13;236.13;236.13;
+ΔG;-23.852;-26.214;-28.575;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.940*10^-14;
+E;0.204;
+R0;2.85;
+r;3.40;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

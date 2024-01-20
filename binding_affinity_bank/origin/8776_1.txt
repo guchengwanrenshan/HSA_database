@@ -1,0 +1,90 @@
+Title:Study on the mechanism of the interaction of pyrazolo [3, 4-b]pyridine derivatives and human serum albumin by spectroscopy and molecular modeling
+DOI:None
+ligand name:b
+ligand smiles:CC1=NN(C2=CC=CC=C2)C2=C1C(C1=CC=C(Cl)C=C1)=C(C#N)C(N)=N2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291;310;318;
+KSV;1.27*10^4;1.19*10^4;0.284*10^4;
+kq;1.27*10^12;1.19*10^12;0.284*10^12;
+n;0.740;0.430;0.350;
+K;
+Ka;
+Kb;0.0977*10^4;0.00320*10^4;0.00120*10^4;
+ΔH;-128;-128;-128;
+ΔS;-38.3;-38.3;-38.3;
+ΔG;-16.7;-8.93;-6.57;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;19.6*10^-15;
+E;
+R0;2.17;
+r;3.80;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

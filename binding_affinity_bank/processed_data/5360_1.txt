@@ -1,0 +1,69 @@
+Title:Recreational drugs 25I-NBOH and 25I-NBOMe bind to both Sudlow′s sites I and II of human serum albumin (HSA): biophysical and molecular modeling studies
+DOI:10.1039/d1nj00806d
+ligand name:25I-NBOMe
+ligand smiles:COC1=CC(I)=C(OC)C=C1CCNCC1=C(OC)C=CC=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;310.0
+KSV;10700.0;9800.0;7100.0
+kq;1070000000000.0;980000000000.0;710000000000.0
+n;1.16;1.12;1.07
+K;
+Ka;
+Kb;39500.0;25400.0;17900.0
+ΔH;-43.2;-43.2;-43.2
+ΔS;-58.0;-58.0;-58.0
+ΔG;-26.03;-25.63;-25.22
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

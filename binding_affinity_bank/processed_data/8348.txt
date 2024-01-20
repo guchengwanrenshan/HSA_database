@@ -1,0 +1,69 @@
+Title:Investigations on the interactions of DiAmsar with serum albumins: Insights from spectroscopic and molecular docking techniques
+DOI:10.1002/bio.2773
+ligand name:DiAmsar
+ligand smiles:NC12CNCCNCC(N)(CNCCNC1)CNCCNC2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;372.0;348.0;330.0
+kq;37200000000.0;34800000000.0;33000000000.0;28000000000.0
+n;1.093;1.214;1.328;1.439
+K;
+Ka;
+Kb;695.0;1542.0;3311.0;6324.0
+ΔH;11.466;11.466;11.466;11.466
+ΔS;439.312;439.312;439.312
+ΔG;-11.945;-12.164;-12.384;-12.604
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Investigation of Interaction Between Ozagrel and Human Serum Albumin by Spectroscopic and Electrochemical Methods
+DOI:10.1007/s10812-017-0410-x
+ligand name:Ozagrel  
+ligand smiles:C1=CC(=CC=C1CN2C=CN=C2)/C=C/C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;
+KSV;5.160*10^4;4.277*10^4;3.551*10^4;
+kq;5.160*10^12;4.277*10^12;3.551*10^12;
+n;
+K;
+Ka;
+Kb;;;2.34*10^5;
+ΔH;10.86;10.86;10.86;
+ΔS;454.31;451.01;451.01;
+ΔG;-26.76;-28.04;-30.29;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.307*10^-16;
+E;0.6356;
+R0;1.92;
+r;1.75;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

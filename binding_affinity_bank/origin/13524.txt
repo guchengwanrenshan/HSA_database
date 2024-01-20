@@ -1,0 +1,90 @@
+Title:Optical, Structural and Thermodynamic Studies of the Association of an Anti-leucamic Drug Imatinib Mesylate with Transport Protein
+DOI:10.1007/s10895-011-0986-0
+ligand name:imatinib mesylate
+ligand smiles:CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;6.9*10^4;6.7*10^4;6.27*10^4
+kq;
+n;1.03;1.02;1.04;
+K;
+Ka;
+Kb;1.89*10^5;1.31*10^5;1.03*10^5;
+ΔH;-24.57;-24.57;-24.57;
+ΔS;19.166;19.166;19.166;
+ΔG;-29.29;-29.39;-29.68;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;0.829*10^-14;
+E;0.5807;
+R0;2.54;
+r;1.30;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

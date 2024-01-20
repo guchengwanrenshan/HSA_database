@@ -1,0 +1,95 @@
+Title:Multi-spectroscopic and molecular docking studies of human serum albumin interactions with sulfametoxydiazine and sulfamonomethoxine
+DOI:10.1016/j.saa.2020.119000
+ligand name:sulfametoxydiazine
+ligand smiles:COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N  
+key residue(hbond):Arg222;Ala291 d
+key residue(hydrophobic):Arg222;Ala291;Ala215;Leu219;Leu238;His242;Phe211;Trp214 d
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;308;313;
+KSV;4.92*10^4;4.223*10^4;3.343*10^4;3.126*10^4;
+kq;8.300*10^12;7.121*10^12;5.637*10^12;5.271*10^12;
+n;1.066;1.022;1.022;0.969;
+K;
+Ka;
+Kb;8.297*10^4;4.223*10^4;3.280*10^4;1.734*10^4;
+ΔH;-76.802;-76.802;-76.802;-76.802;
+ΔS;-163.911;-163.911;-163.911;-163.911;
+ΔG;-27.957;-27.137;-26.317;-25.498;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

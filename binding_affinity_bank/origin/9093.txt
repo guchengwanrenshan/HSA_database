@@ -1,0 +1,90 @@
+Title:Exploring the interaction between sodium saccharin and human serum albumin by spectroscopic and molecular modeling approaches
+DOI:None
+ligand name:sodium saccharin
+ligand smiles:C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[Na+]  
+key residue(hbond):Lys195;His288 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292;298;304;310;
+KSV;3.28*10^3;3.13*10^3;2.91*10^3;2.56*10^3;
+kq;3.28*10^11;3.13*10^11;2.91*10^11;2.56*10^11;
+n;
+K;
+Ka;
+Kb;6.01*10^3;4.53*10^3;3.24*10^3;2.19*10^3;
+ΔH;-49.03;-49.03;-49.03;-49.03;
+ΔS;-71.33;-71.33;-71.33;-71.33;
+ΔG;-21.20;-20.78;-20.35;-19.92;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

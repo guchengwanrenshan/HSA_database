@@ -1,0 +1,69 @@
+Title:Interactions of bioactive quince (Cydonia oblonga Mill.) extract with biomolecules
+DOI:10.25135/rnp.02.17.02.035
+ligand name:L(+)Ascorbic acid
+ligand smiles:C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;295.0;300.0;305.0;310.0
+KSV;8788388.0;7291368.0;6516440.0;5265988.0
+kq;
+n;1.19;1.11;1.16;1.17
+K;
+Ka;
+Kb;4808076.0;3628072.0;2853144.0;2518416.0
+ΔH;-33.2272;-33.2272;-33.2272;-33.2272
+ΔS;15.0239;15.0239;15.0239;15.0239
+ΔG;-37.6593;-37.7344;-37.8095;-37.8846
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Reversible binding of celecoxib and valdecoxib with human serum albumin using fluorescence spectroscopic technique
+DOI:10.1016/j.phrs.2006.02.008
+ligand name:celecoxib
+ligand smiles:CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;300.15;305.15;310.15;
+KSV;2.52*10^4;2.39*10^4;2.16*10^4;
+kq;2.52*10^13;2.39*10^13;2.16*10^13;
+n;
+K;
+Ka;
+Kb;7.038*10^4;5.972*10^4;5.022*10^4;
+ΔH;;;-25.983;
+ΔS;;;6.259;
+ΔG;;;-27.916;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

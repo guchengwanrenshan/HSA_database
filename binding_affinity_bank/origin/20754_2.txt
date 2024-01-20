@@ -1,0 +1,95 @@
+Title:Spectroscopic approach of the interaction study of amphiphilic drugs with the serum albumins
+DOI:10.1016/j.colsurfb.2011.06.007
+ligand name:PMT
+ligand smiles: CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;280nm;290nm;
+pH;
+T;310;310;
+KSV;2.71*10^4;2.99*10^4;
+kq;2.71*10^12;2.99*10^12;
+n;1.051;0.967；
+K;5.16*10^4;1.95*10^4;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;-27.02;-24.60;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Role of the conformational flexibility of evodiamine in its binding to protein hosts: a comparative spectroscopic and molecular modeling evaluation with rutaecarpine
+DOI:10.1039/c4cp02483d
+ligand name:evodiamine 
+ligand smiles:CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;180000.0
+ΔH;
+ΔS;
+ΔG;-29.7792
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;298.0
+n;
+K;
+Ka;
+Kb;100000.0
+ΔH;
+ΔS;
+ΔG;-28.5241
+Kd;
+
+

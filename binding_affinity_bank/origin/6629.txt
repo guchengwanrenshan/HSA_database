@@ -1,0 +1,94 @@
+Title:Interaction of an anticancer drug, gefitinib with human serum albumin: insights from fluorescence spectroscopy and computational modeling analysis
+DOI:10.1039/c6ra12019a
+ligand name:gefitinib
+ligand smiles:COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4  
+key residue(hbond):Tyr138 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;303;318;
+KSV;1.60*10^4;1.36*10^4;1.19*10^4;
+kq;2.51*10^12;2.13*10^12;1.87*10^12;
+n;
+K;
+Ka;
+Kb;1.70*10^4;1.43*10^4;1.25*10^4;
+ΔH;-7.74;-7.74;-7.74;
+ΔS;54.06;54.06;54.06;
+ΔG;-23.32;-24.13;-24.94;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

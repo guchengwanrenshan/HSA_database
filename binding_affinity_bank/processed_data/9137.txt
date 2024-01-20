@@ -1,0 +1,69 @@
+Title:Theoretical and experimental studies of the interaction between human serum albumin and Artepillin C, an active principle of the Brazilian green propolis
+DOI:10.21577/1984-6835.20190109
+ligand name:Artepillin C
+ligand smiles:CC(=CCC1=CC(=CC(=C1O)CC=C(C)C)/C=C/C(=O)O)C
+key residue(hbond):Trp214;Ser201;Val343;Ser453;Leu480 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0;317.0
+KSV;31500.0;29900.0;28700.0;27100.0;24100.0
+kq;5510000000000.0;5230000000000.0;5020000000000.0;4740000000000.0;4210000000000.0
+n;
+K;
+Ka;
+Kb;797000.0;658000.0;536000.0;445000.0;388000.0
+ΔH;-19.9;-19.9;-19.9;-19.9;-19.9
+ΔS;43.9;43.9;43.9;43.9;43.9
+ΔG;-32.6;-32.9;-33.2;-33.5;-33.8
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

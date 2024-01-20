@@ -1,0 +1,95 @@
+Title:Studies on the interactions of 3,6-diaminoacridine derivatives with human serum albumin by fluorescence spectroscopy
+DOI:10.1002/bio.2635
+ligand name:PF
+ligand smiles:C1=CC(=CC2=NC3=C(C=CC(=C3)N)C=C21)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;310;
+KSV;6.53*10^4;6.50*10^4;5.86*10^4;
+kq;6.53*10^12;6.50*10^12;5.86*10^12;
+n;0.839;1.01;1.09;
+K;
+Ka;
+Kb;1.03*10^4;6.90*10^4;15.5*10^4;
+ΔH;127.0;127.0;127.0;
+ΔS;510.4;510.4;510.4;
+ΔG;-22.51;-28.07;-30.80;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.700*10^-14;
+E;0.494;
+R0;2.73;
+r;2.74;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Identification of drug-binding sites on human serum albumin using affinity capillary electrophoresis and chemically modified proteins as buffer additives
+DOI:10.1002/1522-2683(200203)23:6<956::aid-elps956>3.0.co;2-7
+ligand name:R-Warfarin
+ligand smiles:CC(=O)C[C@H](C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;210000.0
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

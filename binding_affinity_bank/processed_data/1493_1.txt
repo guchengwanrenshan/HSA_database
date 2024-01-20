@@ -1,0 +1,69 @@
+Title:Synthesis and Stereochemical Assignment of Conioidine A: DNA- and HSA-Binding Studies of the Four Diastereomers
+DOI:10.1021/acs.jnatprod.0c00871
+ligand name:4R,6R-1
+ligand smiles:CCCCCCCCCC(=O)C1CCC[C@@H]1C[C@H](C)OC(=O)C(\C)=C\C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;72000.0
+kq;
+n;0.8
+K;
+Ka;230000.0
+Kb;7500.0
+ΔH;
+ΔS;
+ΔG;-22.1065
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;3.38
+K;
+Ka;
+Kb;59000.0
+ΔH;-7.95
+ΔS;64.852
+ΔG;-27.196
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

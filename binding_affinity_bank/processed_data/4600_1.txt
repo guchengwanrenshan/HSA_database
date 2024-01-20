@@ -1,0 +1,69 @@
+Title:Interaction between Plectranthus barbatus herbal tea components and human serum albumin and lysozyme: Binding and activity studies
+DOI:10.1155/2011/678537
+ligand name:luteolin
+ligand smiles:C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0;298.0;303.0
+KSV;194500.0;250748.0;326653.0
+kq;19450000000000.0;25074800000000.0;32665300000000.0
+n;1.5849;1.5403;1.6267
+K;
+Ka;
+Kb;303000000.0;1120000000.0;6920000000.0
+ΔH;230.67;230.67;230.67
+ΔS;948.93;948.93;948.93
+ΔG;-47.56;-51.619;-57.081
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

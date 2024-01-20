@@ -1,0 +1,94 @@
+Title:Study on the interaction between salicylic acid and human serum albumin
+DOI:None
+ligand name:salicylic acid
+ligand smiles:C1=CC=C(C(=C1)C(=O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;282;282;282;
+pH;
+T;296;306;313;
+KSV;1.99*10^4;1.37*10^4;0.922*10^4;
+kq;1.99*10^12;1.37*10^12;0.922*10^12;
+n;1.21;1.14;0.96;
+K;
+Ka;
+Kb;9.083*10^4;7.04*10^4;0.675*10^4;
+ΔH;177.07;177.07;177.07;
+ΔS;660.6;671.45;672.05;
+ΔG;-29.71;-28.40;-21.68;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

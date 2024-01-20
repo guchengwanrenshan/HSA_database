@@ -1,0 +1,95 @@
+Title:Interaction of coomassie brilliant blue G250 with human serum albumin: Probing of the binding mechanism and binding site by spectroscopic and molecular modeling methods
+DOI:10.1016/j.molstruc.2010.01.015
+ligand name:Coomassie brilliant blue G250
+ligand smiles:CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC(=C(C=C2)/C(=C\3/C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)O)C=C3C)/C5=CC=C(C=C5)NC6=CC=C(C=C6)OCC)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;11.98*10^4;10.30*10^4;9.80*10^4;8.66*10^4;
+kq;11.98*10^12;10.30*10^12;9.80*10^12;8.66*10^12;
+n;
+K;
+Ka;
+Kb;2.085*10^5;1.795*10^5;1.469*10^5;1.222*10^5;
+ΔH;-103.83;-103.83;-103.83;-103.83;
+ΔS;-12.48;-12.48;-12.48;-12.48;
+ΔG;-99.87;-99.99;-100.2;-99.96;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.334*10^-14;
+E;0.09;
+R0;4.48;
+r;5.83;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

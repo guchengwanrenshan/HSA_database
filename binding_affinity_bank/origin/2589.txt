@@ -1,0 +1,95 @@
+Title:Fluorescence spectroscopy of osthole binding to human serum albumin
+DOI:10.1016/j.jpha.2012.10.002
+ligand name:osthole
+ligand smiles:CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;9.812*10^4;9.666*10^4;9.404*10^4;
+kq;
+n;0.9958;0.9875;0.9819;
+K;
+Ka;
+Kb;9.298*10^4;8.574*10^4;4.944*10^4;
+ΔH;-9.519;-9.519;-9.519;
+ΔS;63.041;63.041;63.041;
+ΔG;-28.3056;-28.6208;-29.0621;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

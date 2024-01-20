@@ -1,0 +1,69 @@
+Title:Mechanistic insight into glycation inhibition of human serum albumin by vitamin B9: Multispectroscopic and molecular docking approach
+DOI:10.1016/j.ijbiomac.2021.03.153
+ligand name:2-(2-(Anthracen-9-ylmethylene) hydrazinyl)-4,6-dimethyl pyrimidine (ANHP) 
+ligand smiles:CC1=CC(C)=NC(N\N=C\C2=C3C=CC=CC3=CC3=C2C=CC=C3)=N1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Determination of interactions between human serum albumin and niraparib through multi-spectroscopic and computational methods
+DOI:10.1016/j.saa.2018.07.100
+ligand name: niraparib
+ligand smiles:C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N  
+key residue(hbond):Tyr138d
+key residue(hydrophobic):Phe134;Phe165;Tyr161;Leu115;Lys190;Arg186;Ile142;Ala158d
+PDB ID:
+Binding Area:site III(IB subdomains)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;33860.0;31480.0;29880.0
+kq;
+n;1.026;1.018;1.004
+K;
+Ka;
+Kb;44080.0;35510.0;28440.0
+ΔH;-15.238;-15.238;-15.238
+ΔS;36.955;36.955;36.955
+ΔG;-26.251;-26.472;-26.694
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

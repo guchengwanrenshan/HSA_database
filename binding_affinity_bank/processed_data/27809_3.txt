@@ -1,0 +1,69 @@
+Title:Binding of Volatile Anesthetics to Serum Albumin: Measurements of Enthalpy and Solvent Contributions
+DOI:10.1021/bi035941d
+ligand name:enflurane	
+ligand smiles: C(C(OC(F)F)(F)F)(F)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;293.0
+n;3.0
+K;
+Ka;
+Kb;1498.0
+ΔH;-22.0371
+ΔS;-14.3513
+ΔG;-17.8322
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

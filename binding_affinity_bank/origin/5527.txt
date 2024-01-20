@@ -1,0 +1,95 @@
+Title:Synthesis and structural investigation of new bio-relevant complexes of lanthanides with 5-hydroxyflavone: DNA binding and protein interaction studies
+DOI:10.3390/molecules21121737
+ligand name:5-hydroxyflavone
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=C(C=CC=C3O2)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;299;308;318;
+KSV;4.64*10^3;8.30*10^3;15.0*10^3;
+kq;4.64*10^11;8.30*10^11;15.0*10^11;
+n;1.32;1.27;1.20;
+K;
+Ka;
+Kb;15.1*10^5;9.18*10^5;4.84*10^5;
+ΔH;-47.51;-47.51;-47.51;
+ΔS;-40.44;-40.44;-40.44;
+ΔG;-35.42;-35.05;-34.65;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

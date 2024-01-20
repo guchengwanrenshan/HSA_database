@@ -1,0 +1,69 @@
+Title:Interaction between 2,2',4,4',5-pentabromodiphenyl ether and human serum albumin based on multi-spectroscopic and computational simulations
+DOI:10.13671/j.hjkxxb.2015.0415
+ligand name:2,2',4,4',5-pentabromodiphenyl ether
+ligand smiles:C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;298.0;310.0
+KSV;
+kq;
+n;1.11;1.11;1.08
+K;
+Ka;
+Kb;25700000.0;19800000.0;8300000.0
+ΔH;-16.89;-16.89;-16.89
+ΔS;108.38;108.38;108.38
+ΔG;-47.67;-49.31;-50.96
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

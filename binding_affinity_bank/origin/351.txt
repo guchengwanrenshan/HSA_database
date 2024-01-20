@@ -1,0 +1,95 @@
+Title:Insights into the interaction of methotrexate and human serum albumin: A spectroscopic and molecular modeling approach
+DOI:10.1002/bio.3267
+ligand name:methotrexate
+ligand smiles:CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  
+key residue(hbond):ARG222;ILE290;HIS242 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;
+KSV;4.81*10^4;4.27*10^4;3.97*10^4;
+kq;
+n;
+K;
+Ka;5.92*10^4;4.25*10^4;3.13*10^4;
+Kb;5.29*10^4;4.25*10^4;3.27*10^4;
+ΔH;-45.46;-45.46;-45.46;
+ΔS;-62.05;-62.05;-62.05;
+ΔG;-26.97;-26.72;-26.47;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

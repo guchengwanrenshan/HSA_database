@@ -1,0 +1,95 @@
+Title:Study on the interaction of ertugliflozin with human serum albumin in vitro by multispectroscopic methods, molecular docking, and molecular dynamics simulation
+DOI:10.1016/j.saa.2019.04.047
+ligand name:ertugliflozin
+ligand smiles: CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I and II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;4.566*10^3;4.304*10^3;4.127*10^3;
+kq;8.272*10^11;7.797*10^11;7.476*10^11
+n;0.894;0.849;0.770;
+K;
+Ka;1.914*10^3;1.225*10^3;0.575*10^3;
+Kb;
+ΔH;-322.67;-322.67;-322.67;
+ΔS;-817.972;-817.972;-817.972;
+ΔG;-78.324;-83.554;-68.534;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

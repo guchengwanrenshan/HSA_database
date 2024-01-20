@@ -1,0 +1,95 @@
+Title:Binding studies of lincosamide antibiotic drug clindamycin phosphate to human serum albumin by fluorescence, 3D, and circular dichroism spectroscopy
+DOI:10.1007/s00706-014-1207-8
+ligand name:clindamycin phosphate
+ligand smiles:CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)OP(=O)(O)O)O)O)[C@H](C)Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;5.64*10^3;6.20*10^3;8.52*10^3;
+kq;
+n;1.15;1.18;1.22;
+K;
+Ka;
+Kb;2.12*10^4;3.74*10^4;6.95*10^4;
+ΔH;;43.7;;
+ΔS;;215.5;;
+ΔG;;-20.4;;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.00*10^-14;
+E;0.018;
+R0;3.06;
+r;6.36;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

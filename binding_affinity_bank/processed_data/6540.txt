@@ -1,0 +1,69 @@
+Title:Probing the binding of an endocrine disrupting compound-Bisphenol F to human serum albumin: Insights into the interactions of harmful chemicals with functional biomacromolecules
+DOI:10.1016/j.saa.2014.05.093
+ligand name:Bisphenol F 
+ligand smiles:C1=CC(=CC=C1CC2=CC=C(C=C2)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;283.0;298.0;308.0
+KSV;10460.0;6270.0;3900.0
+kq;
+n;1.11;1.07;0.99
+K;
+Ka;
+Kb;35190.0;14170.0;3610.0
+ΔH;-63.741;-63.741;-63.741
+ΔS;-137.16;-137.16;-137.16
+ΔG;-24.631;-23.682;-20.973
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Probing the interaction of a therapeutic flavonoid, pinostrobin with human serum albumin: multiple spectroscopic and molecular modeling investigations
+DOI:10.1371/journal.pone.0076067
+ligand name:pinostrobin
+ligand smiles:COC1=CC(=C2C(=O)C[C@H](OC2=C1)C3=CC=CC=C3)O  
+key residue(hbond):Lys199;Arg222;Arg257 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;318;
+KSV;10.9*10^4;8.60*10^4;7.15*10^4;5.60*10^4;
+kq;
+n;1.15;1.15;1.15;1.13;
+K;
+Ka;
+Kb;12.8*10^4;10.3*10^4;8.57*10^4;6.92*10^4;
+ΔH;-15.48;-15.48;-15.48;-15.48;
+ΔS;44.06;44.06;44.06;44.06;
+ΔG;-28.17;-28.61;-29.05;-29.49;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.814*10^-15;
+E;0.214;
+R0;1.983;
+r;2.46;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

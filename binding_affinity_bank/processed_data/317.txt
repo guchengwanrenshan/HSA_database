@@ -1,0 +1,69 @@
+Title:Interactive association between RhoA transcriptional signaling inhibitor;CCG1423 and human serum albumin: Biophysical and in silico studies
+DOI:10.1080/07391102.2017.1360207
+ligand name:CCG1423
+ligand smiles:CC(C(=O)NC1=CC=C(C=C1)Cl)ONC(=O)C2=CC(=CC(=C2)C(F)(F)F)C(F)(F)F  
+key residue(hbond):Lys199;Arg222d
+key residue(hydrophobic):Leu219;Leu238;Ala261;Ile290;Ala291d
+PDB ID:
+Binding Area: Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;608000.0;477000.0;333000.0
+kq;
+n;
+K;
+Ka;1350000.0;905000.0;543000.0
+Kb;
+ΔH;-7.54;-7.54;-7.54
+ΔS;31.63;31.63;31.63
+ΔG;-16.65;-16.97;-17.28
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

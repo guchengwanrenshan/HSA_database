@@ -1,0 +1,69 @@
+Title:Investigation on the interaction between a heterocyclic aminal derivative;SBDC;and human serum albumin
+DOI:10.1016/j.colsurfb.2007.07.007
+ligand name:SBDC
+ligand smiles:CC1(O[C@@H]2[C@@H](C3(CNC(=CC(=O)C4=CC=CC=C4)NC3)O[C@@H]2O1)OCC5=CC=CC=C5)C
+key residue(hbond):Lys199;Lys195;Arg218 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;310.0
+KSV;46200.0;35700.0
+kq;4620000000000.0;3570000000000.0
+n;
+K;
+Ka;
+Kb;
+ΔH;-8.64;-8.64
+ΔS;59.28;59.28
+ΔG;-25.72;-27.02
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:The influence of several nutritional supplements on the rational use of cabozantinib
+DOI:10.1002/bio.4404
+ligand name:cabozantinib
+ligand smiles:COC1=CC2=C(C=CN=C2C=C1OC)OC3=CC=C(C=C3)NC(=O)C4(CC4)C(=O)NC5=CC=C(C=C5)F  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;310;
+KSV;5.223*10^4;5.400*10^4;5.696*10^4;
+kq;5.223*10^12;5.400*10^12;5.696*10^12;
+n;0.9137;0.8909;0.7301;
+K;
+Ka;
+Kb;5.5059*10^4;5.124*10^4;4.345*10^4;
+ΔH;0.945;0.945;0.945;
+ΔS;92.28;92.28;92.28;
+ΔG;-26.39;-27.32;-27.52;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.35004*10^-14;
+E;0.313;
+R0;2.8271;
+r;2.48;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Isorenieratene interaction with human serum albumin: Multi-spectroscopic analyses and docking.
+DOI:10.1016/j.foodchem.2018.02.105
+ligand name:Lutein
+ligand smiles:CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:sites I and II(II may be the primary binding site)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;365100.0;352700.0
+kq;36510000000000.0;35270000000000.0
+n;
+K;
+Ka;214200.0;200000.0
+Kb;
+ΔH;-4.395;-4.395
+ΔS;87.31;87.31
+ΔG;-30.46;-31.48
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

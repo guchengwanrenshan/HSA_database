@@ -1,0 +1,69 @@
+Title:Interaction between three isoflavones and different isomers of human serum albumin
+DOI:10.3964/j.issn.1000-0593(2012)01-0001-06
+ligand name:Biochanin A
+ligand smiles:COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;100000.0
+kq;20000000000000.0
+n;1.25
+K;
+Ka;
+Kb;112000.0
+ΔH;
+ΔS;
+ΔG;-28.8049
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

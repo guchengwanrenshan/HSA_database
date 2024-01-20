@@ -1,0 +1,69 @@
+Title:Real-time process quality control of ramulus cinnamomi by critical quality attribute using microscale thermophoresis and on-line NIR
+DOI:10.1016/j.saa.2019.117463
+ligand name:Ibuprofen
+ligand smiles:CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0;313.0
+KSV;
+kq;
+n;
+K;
+Ka;13249.0;7578.1;5758.7;6131.2
+Kb;
+ΔH;-40.42;-40.42;-40.42
+ΔS;-57.92;-57.92;-57.92
+ΔG;
+Kd;75500.0;132000.0;173700.0;163100.0
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

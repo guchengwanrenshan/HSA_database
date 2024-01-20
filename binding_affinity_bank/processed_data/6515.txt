@@ -1,0 +1,69 @@
+Title:Spectroscopy study of cisplatin and adriamycin on human serum albumin interactions
+DOI:10.13748/j.cnki.issn1007-7693.2014.07.015
+ligand name:adriamycin
+ligand smiles:C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;310.0
+KSV;277000.0;241000.0
+kq;27700000000000.0;24100000000000.0
+n;0.97;1.0782
+K;
+Ka;
+Kb;21300.0;27600.0
+ΔH;
+ΔS;
+ΔG;-24.0297;-26.3548
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

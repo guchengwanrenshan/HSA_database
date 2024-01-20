@@ -1,0 +1,69 @@
+Title:Study of interaction between human serum albumin and miconazole nitrate using multi-spectroscopic methods
+DOI:10.4028/www.scientific.net/amr.955-959.475
+ligand name:miconazole nitrate
+ligand smiles:C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl.[N+](=O)(O)[O-]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;
+kq;
+n;1.08;1.07
+K;
+Ka;
+Kb;181000.0;148000.0
+ΔH;-12.88;-12.88
+ΔS;57.42;57.42
+ΔG;-29.99;-30.68
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,95 @@
+Title:Probing the Binding of 4β-(Benzoyl-thioureido)-4-deoxypodophyllotoxin to Human Serum Albumin by Molecular Spectroscopy
+DOI:10.1007/s10953-014-0212-1
+ligand name:HY-1
+ligand smiles:COC1=CC(=CC(OC)=C1OC)[C@H]1[C@@H]2[C@H](COC2=O)[C@H](NC(=S)NC(=O)C2=CC=CC=C2)C2=C1C=C1OCOC1=C2
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;304;310;
+KSV;4.62*10^4;4.73*10^4;4.79*10^4;
+kq;4.62*10^12;4.73*10^12;4.79*10^12;
+n;0.811;0.781;0.748;
+K;
+Ka;
+Kb;6.04*10^3;4.48*10^3;3.15*10^3;
+ΔH;-41.60;-41.60;-41.60;
+ΔS;-66.98;-66.98;-66.98;
+ΔG;-21.57;-21.25;-20.76;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.31*10^-14;
+E;0.164;
+R0;2.56;
+r;3.36;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

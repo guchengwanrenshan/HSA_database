@@ -1,0 +1,95 @@
+Title:Interaction of an organic selenium compound with human serum albumin: a spectroscopic study
+DOI:10.1385/bter:114:1:301
+ligand name:4,4'-diselenadibenzoic acid
+ligand smiles:OC(=O)C1=CC=C([Se][Se]C2=CC=C(C=C2)C(O)=O)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;36537;3.0560;33500;32170;
+kq;
+n;0.993;1.032;1.046;1.125;
+K;
+Ka;74889.9;64965.6;59218;46790;
+Kb;67609;83176;108893;254683;
+ΔH;-10.075;-10.075;-10.075;-10.075;
+ΔS;56.55;56.55;56.55;56.55;
+ΔG;-26.926;-27.153;-27.379;-27.605;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.15215*10^-13;
+E;0.41;
+R0;3.79;
+r;4.03;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

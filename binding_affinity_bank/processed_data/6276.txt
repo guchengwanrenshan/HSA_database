@@ -1,0 +1,69 @@
+Title:Characterization of interactions of montelukast sodium with human serum albumin: multi-spectroscopic techniques and computer simulation studies
+DOI:10.1039/d2nj00419d
+ligand name:montelukast sodium
+ligand smiles:CC(C)(C1=CC=CC=C1CC[C@H](C2=CC=CC(=C2)/C=C/C3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)[O-])O.[Na+]
+key residue(hbond):Leu115;Tyr161;Leu185 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;494500.0;408400.0;379800.0
+kq;
+n;1.104;1.094;1.117
+K;
+Ka;
+Kb;954.9;630.7;498.1
+ΔH;-43.966;-43.966;-43.966
+ΔS;-91.346;-91.346;-91.346
+ΔG;-16.745;-16.197;-15.649
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

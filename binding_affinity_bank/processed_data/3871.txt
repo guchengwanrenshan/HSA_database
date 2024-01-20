@@ -1,0 +1,69 @@
+Title:Interaction of a tyrosine kinase inhibitor, vandetanib with human serum albumin as studied by fluorescence quenching and molecular docking
+DOI:10.1080/07391102.2015.1089187
+ligand name:vandetanib
+ligand smiles:CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;303.0;318.0
+KSV;8770.0;7700.0;6900.0
+kq;
+n;
+K;
+Ka;
+Kb;8920.0;7630.0;6890.0
+ΔH;-6.57;-6.57;-6.57
+ΔS;52.76;52.76;52.76
+ΔG;-21.77;-22.56;-23.35
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

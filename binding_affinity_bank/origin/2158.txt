@@ -1,0 +1,95 @@
+Title:Interaction of colchicine with human serum albumin investigated by spectroscopic methods
+DOI:10.1016/j.ijbiomac.2005.09.007
+ligand name:colchicine
+ligand smiles:CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;302;306;310;
+KSV;3.688*10^4;3.245*10^4;3.112*10^4;2.995*10^4;
+kq;
+n;
+K;
+Ka;
+Kb;4.307*10^4;3.642*10^4;3.222*10^4;2.725*10^4;
+ΔH;-28.705;-28.705;-28.705;-28.705;
+ΔS;-7.645;-7.645;-7.645;-7.645;
+ΔG;-26.425;-26.395;-26.364;-26.334;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.006*10^-14;
+E;0.250;
+R0;2.824;
+r;3.392;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

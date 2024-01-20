@@ -1,0 +1,95 @@
+Title:Interaction of aloe-emodin with human serum albumin
+DOI:10.1007/s11434-007-0032-4
+ligand name:aloe-emodin
+ligand smiles:C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO  
+key residue(hbond):His242;Ile290;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296;303;310;
+KSV;
+kq;
+n;0.937;0.914;0.915;
+K;
+Ka;
+Kb;1.754*10^5;1.650*10^5;1.542*10^5;
+ΔH;-7.041;-7.041;-7.041;
+ΔS;76.619;76.619;76.619;
+ΔG;-29.720;-30.257;-30.791;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

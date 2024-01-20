@@ -1,0 +1,69 @@
+Title:Binding mechanism of 4-octylphenol with human serum albumin: Spectroscopic investigations, molecular docking and dynamics simulation
+DOI:10.1016/j.saa.2021.119662
+ligand name:4−octylphenol
+ligand smiles:CCCCCCCCC1=CC=C(C=C1)O  
+key residue(hbond):Gln196;Cys200d
+key residue(hydrophobic):Lys195;Cys245;Cys246d
+PDB ID:
+Binding Area:site I (subdomain IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;78600.0;92000.0;103300.0
+kq;
+n;1.34;1.01;0.89
+K;
+Ka;110000.0;116000.0;132000.0
+Kb;
+ΔH;10.61;10.61;10.61
+ΔS;125.39;125.39;125.39
+ΔG;-26.76;-27.51;-28.26
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

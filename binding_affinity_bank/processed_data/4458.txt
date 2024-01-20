@@ -1,0 +1,69 @@
+Title:Albumin tailoring fluorescence and photothermal conversion effect of near-infrared-II fluorophore with aggregation-induced emission characteristics
+DOI:10.1038/s41467-019-10056-9
+ligand name:BPBBT
+ligand smiles:CCCCCCCCOC1=CC=C(C=C1)N(C1=CC=C(OCCCCCCCC)C=C1)C1=CC=C(C=C1)C1=C2C=S=CC2=C(C2=CSC=C12)C1=CC=C(C=C1)N(C1=CC=C(OCCCCCCCC)C=C1)C1=CC=C(OCCCCCCCC)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;-136.566
+ΔS;-365.263
+ΔG;-27.6981
+Cp;
+Kd;14.6
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

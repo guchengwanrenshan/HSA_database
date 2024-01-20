@@ -1,0 +1,69 @@
+Title:Investigation of binary and ternary systems of human serum albumin with oxyresveratrol/piceatannol and/or mitoxantrone by multipectroscopy, molecular docking and cytotoxicity evaluation
+DOI:10.1016/j.molliq.2020.113364
+ligand name:piceatannol
+ligand smiles:C1=CC(=C(C=C1/C=C/C2=CC(=CC(=C2)O)O)O)O 
+key residue(hbond):LYS195;GLY207;ALA210 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.2;302.2;306.2;310.2
+KSV;
+kq;10160000000000.0;9580000000000.0;9410000000000.0;9340000000000.0
+n;1.11;1.1;1.09;1.07
+K;
+Ka;
+Kb;449000.0;354000.0;291000.0;234000.0
+ΔH;-41.31;-41.31;-41.31;-41.31
+ΔS;-30.46;-30.46;-30.46;-30.46
+ΔG;-32.25;-32.08;-32.01;-31.86
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Fluorescence spectroscopy and molecular docking approach to probe the interaction between dehydroeburicoic acid and human serum albumin
+DOI:10.4236/aim.2019.91003
+ligand name:dehydroeburicoic acid
+ligand smiles:CC(C)C(=C)CC[C@H]([C@H]1CC[C@@]2([C@@]1(CC=C3C2=CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288.0;298.0;308.0
+KSV;46900.0;65580.0;68790.0
+kq;4690000000000.0;6558000000000.0;6879000000000.0
+n;0.858;0.29;0.229
+K;
+Ka;
+Kb;9.021;4.867
+ΔH;-277.34;-277.34;-277.34
+ΔS;-895.847;-895.847;-895.847
+ΔG;-19.337;-10.378;-1.42
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

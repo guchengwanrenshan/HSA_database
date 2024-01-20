@@ -1,0 +1,69 @@
+Title:Warfarin increases thermal resistance of albumin through stabilization of the protein lobe that includes its binding site
+DOI:10.1016/j.abb.2019.108123
+ligand name:warfarin 
+ligand smiles:CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;320nm;320nm;320nm;
+pH;
+T;290.0;298.0;310.0
+KSV;87000.0;68000.0;49000.0
+kq;
+n;
+K;
+Ka;
+Kb;370000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;298.0
+n;0.94
+K;
+Ka;120000.0
+Kb;
+ΔH;-21.3
+ΔS;25.3
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

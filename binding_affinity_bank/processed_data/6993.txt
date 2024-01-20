@@ -1,0 +1,69 @@
+Title:Effect of Fe3+ on the interaction between nitrofurazone and human serum albumin by spectroscopic analysis
+DOI:10.4028/www.scientific.net/amr.518-523.337
+ligand name:nitrofurazone
+ligand smiles:C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;2680.0;2420.0
+kq;
+n;
+K;
+Ka;
+Kb;2780.0;1620.0
+ΔH;
+ΔS;
+ΔG;-19.6477;-19.047
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;pH;
+parameter;pH;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

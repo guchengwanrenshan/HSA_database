@@ -1,0 +1,69 @@
+Title:Conjugation of testo and testo-Pt(II) with serum proteins: Loading efficacy and protein conformation
+DOI:10.1016/j.ijbiomac.2018.06.186
+ligand name:testo
+ligand smiles:[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])C2[C@H](C\C=C\CN2C=C(N=N2)C2=NC=CC=C2)CC2=CC(=O)CC[C@]12C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.15;308.15;318.15
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;375000.0;242000.0;184000.0
+ΔH;-12.26;-12.26;-12.26
+ΔS;5.13;5.13;5.13
+ΔG;-13.79;-13.84;-13.9
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

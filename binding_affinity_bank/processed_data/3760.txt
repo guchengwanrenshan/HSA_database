@@ -1,0 +1,69 @@
+Title:Exploring the mechanism of interaction between sulindac and human serum albumin: Spectroscopic and molecular modeling methods
+DOI:10.1016/j.jlumin.2012.12.059
+ligand name:sulindac
+ligand smiles:CC\1=C(C2=C(/C1=C\C3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+key residue(hbond):Arg222;Leu219 d
+key residue(hydrophobic):Leu238;Leu219;Leu260;Ile264;Ile290;Val241 d
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292.0;298.0;304.0;310.0
+KSV;145000.0;136300.0;127500.0;110100.0
+kq;14500000000000.0;13630000000000.0;12750000000000.0;11010000000000.0
+n;
+K;
+Ka;
+Kb;185200.0;156800.0;140300.0;117900.0
+ΔH;-18.58;-18.58;-18.58;-18.58
+ΔS;37.26;37.26;37.26;37.26
+ΔG;-29.46;-29.64;-29.91;-30.13
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

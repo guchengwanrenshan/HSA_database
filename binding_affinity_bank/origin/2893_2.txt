@@ -1,0 +1,95 @@
+Title:Study of interaction between human serum albumin and three phenanthridine derivatives: Fluorescence spectroscopy and computational approach
+DOI:10.1016/j.saa.2015.03.069
+ligand name:DFQ
+ligand smiles:CC1=C(C)C=C2C3=C(OC=C3)C3=NC4=C(C=CC=C4)N3C2=C1
+key residue(hbond):
+key residue(hydrophobic):Phe208;Ala210;Phe211;Leu203;Val344;Val482;Leu347 d
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;0.10*10^5;0.11*10^5;0.14*10^5;0.17*10^5;
+kq;0.10*10^13;0.11*10^13;0.14*10^13;0.17*10^13;
+n;0.97;1.11;1.12;1.14;
+K;
+Ka;
+Kb;1.627*10^5;1.733*10^5;1.936*10^5;2.247*10^5;
+ΔH;-11.52;-11.52;-11.52;-11.52;
+ΔS;62.43;62.43;62.43;62.43;
+ΔG;-30.87;-30.43;-30.00;-29.56;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;3.14;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

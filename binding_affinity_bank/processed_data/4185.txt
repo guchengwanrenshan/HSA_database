@@ -1,0 +1,69 @@
+Title:Effects of human serum albumin glycation on the interaction with the tyrosine kinase inhibitor pazopanib unveiled by multi-spectroscopic and bioinformatic tools
+DOI:10.1016/j.molliq.2021.116843
+ligand name:Pazopanib
+ligand smiles:CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;637000.0;527000.0;379000.0
+kq;63700000000000.0;52700000000000.0;37900000000000.0
+n;
+K;
+Ka;
+Kb;676000.0;550000.0;380000.0
+ΔH;-24.58;-24.58;-24.58
+ΔS;28.65;28.65;28.65
+ΔG;-33.06;-33.26;-33.46
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

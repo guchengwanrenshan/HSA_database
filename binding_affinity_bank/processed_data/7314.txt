@@ -1,0 +1,69 @@
+Title:Studies on the interaction of antibiotics with human serum albumin by spectroscopic and electrochemical methods
+DOI:10.13526/j.issn.1006-6144.2014.02.021
+ligand name:CPZ
+ligand smiles:CCN1CCN(C(=O)C1=O)C(=O)N[C@H](C2=CC=C(C=C2)O)C(=O)N[C@H]3[C@@H]4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)[O-].[Na+]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;318.0;328.0
+KSV;22000.0;19300.0;16000.0
+kq;2200000000000.0;1930000000000.0;1600000000000.0
+n;0.96;0.99;0.97
+K;
+Ka;13800.0;12100.0;11900.0
+Kb;
+ΔH;-17.03;-17.03;-17.03
+ΔS;17.88;22.86;24.47
+ΔG;-22.36;-24.07;-24.81
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

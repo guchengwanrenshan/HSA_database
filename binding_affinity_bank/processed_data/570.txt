@@ -1,0 +1,69 @@
+Title:Multispectral and molecular docking investigations on the interaction of primethamine/trimethoprim with BSA/HSA
+DOI:10.1080/07391102.2019.1588785
+ligand name:Primethamine
+ligand smiles:CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl 
+key residue(hbond):
+key residue(hydrophobic):Ala291;Arg257;Val241d
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;291.0;301.0;311.0
+KSV;14090.0;13900.0;13160.0
+kq;1059000000000.0;1045000000000.0;989200000000.0
+n;1.04;1.0;1.01
+K;
+Ka;15120.0;14580.0;12990.0
+Kb;
+ΔH;-12.18
+ΔS;33.19
+ΔG;-21.84
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

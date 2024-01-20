@@ -1,0 +1,69 @@
+Title:Identification of modes of interactions between 9-aminoacridine hydrochloride hydrate and serum proteins by low and high resolution spectroscopy and molecular modeling
+DOI:10.1039/c6ra04140j
+ligand name:9-aminoacridine hydrochloride hydrate
+ligand smiles:C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N.Cl  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;2820.0;8430.0;28100.0
+ΔH;175.37;175.37;175.37
+ΔS;654.36;654.36;654.36
+ΔG;-19.63;-22.9;-26.17
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Study of interaction between human serum albumin and three phenanthridine derivatives: Fluorescence spectroscopy and computational approach
+DOI:10.1016/j.saa.2015.03.069
+ligand name:DFQ
+ligand smiles:CC1=C(C)C=C2C3=C(OC=C3)C3=NC4=C(C=CC=C4)N3C2=C1
+key residue(hbond):
+key residue(hydrophobic):Phe208;Ala210;Phe211;Leu203;Val344;Val482;Leu347 d
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289.0;296.0;303.0;310.0
+KSV;10000.0;11000.0;14000.0;17000.0
+kq;1000000000000.0;1100000000000.0;1400000000000.0;1700000000000.0
+n;0.97;1.11;1.12;1.14
+K;
+Ka;
+Kb;162700.0;173300.0;193600.0;224700.0
+ΔH;-11.52;-11.52;-11.52;-11.52
+ΔS;62.43;62.43;62.43;62.43
+ΔG;-30.87;-30.43;-30.0;-29.56
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

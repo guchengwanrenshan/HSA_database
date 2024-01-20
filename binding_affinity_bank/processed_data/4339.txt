@@ -1,0 +1,69 @@
+Title:Inhibitory effect of vitamin B3 against glycation and reactive oxygen species production in HSA: An in vitro approach
+DOI:10.1016/j.abb.2017.06.009
+ligand name:niacin
+ligand smiles:C1=CC(=CN=C1)C(=O)O 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310.0
+n;0.9258
+K;
+Ka;
+Kb;23200.0
+ΔH;160.9585
+ΔS;594.128
+ΔG;-23.2212
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

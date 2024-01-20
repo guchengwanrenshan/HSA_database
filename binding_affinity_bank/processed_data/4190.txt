@@ -1,0 +1,69 @@
+Title:Spectroscopic studies of interaction between osthole and human serum albumin
+DOI:None
+ligand name:osthole
+ligand smiles:CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;310.0
+KSV;38600.0;34400.0
+kq;3860000000000.0;3440000000000.0
+n;
+K;
+Ka;
+Kb;140000.0;169000.0
+ΔH;2.53;2.53
+ΔS;108.5;106.7
+ΔG;-29.79;-30.54
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

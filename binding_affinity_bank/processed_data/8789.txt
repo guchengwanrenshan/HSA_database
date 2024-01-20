@@ -1,0 +1,69 @@
+Title:Study of reactive dye/serum albumin interactions: thermodynamic parameters, protein alterations and computational analysis
+DOI:10.1007/s11696-022-02561-x
+ligand name:
+ligand smiles:OC1=C2C(NC3=NC(NC4=CC=C(C=C4)S(=O)OCCOS([O-])(=O)=O)=NC(Cl)=N3)=CC(=CC2=CC(=C1\N=N\C1=C(C2=C(C=C1)C(=CC=C2)S([O-])(=O)=O)S([O-])(=O)=O)S([O-])(=O)=O)S([O-])(=O)=O
+key residue(hbond):R114;H146;Y161;R186 d
+key residue(hydrophobic):L115;I142;K190;E425;P421;I523 d
+PDB ID:
+Binding Area:site II d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;296.0;303.0;310.0
+KSV;136000.0;122000.0;117000.0
+kq;21400000000000.0;19100000000000.0;18400000000000.0
+n;
+K;
+Ka;
+Kb;148000.0;123000.0;119000.0
+ΔH;-11.46;-11.46;-11.46
+ΔS;59.93;59.93;59.93
+ΔG;-29.26;-29.49;-30.1
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

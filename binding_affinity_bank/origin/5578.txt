@@ -1,0 +1,95 @@
+Title:Synthesis and biological evaluation of α-triazolyl chalcones as a new type of potential antimicrobial agents and their interaction with calf thymus DNA and human serum albumin
+DOI:10.1016/j.ejmech.2013.11.003
+ligand name:9a
+ligand smiles:FC1=CC=C(C(=O)C(=C\C2=CC=CC=C2)\N2C=NC=N2)C(=C1)N1CCCCC1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;286;298;310;
+KSV;7.59*10^4;6.72*10^4;5.84*10^4;
+kq;1.19*10^13;1.05*10^13;0.913*10^13;
+n;
+K;
+Ka;4.54*10^4;3.64*10^4;2.95*10^4;
+Kb;4.60*10^4;3.64*10^4;3.03*10^4;
+ΔH;-13.189;-13.189;-13.189;
+ΔS;43.044;43.044;43.044;
+ΔG;-25.500;-26.016;-26.533;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

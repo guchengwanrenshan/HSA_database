@@ -1,0 +1,69 @@
+Title:Study on the binding of chiral drug duloxetine hydrochloride to human serum albumin
+DOI:10.1016/j.ejmech.2010.05.063
+ligand name: duloxetine hydrochloride
+ligand smiles:CNCC[C@@H](C1=CC=CS1)OC2=CC=CC3=CC=CC=C32
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;1750.0
+ΔH;
+ΔS;
+ΔG;-18.5009
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

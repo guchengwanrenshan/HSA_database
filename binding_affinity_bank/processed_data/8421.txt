@@ -1,0 +1,69 @@
+Title:Investigation on the interaction between p-Coumaric acid and human serum albumin by fluorescence and surface enhanced Raman spectra
+DOI:10.3788/fgxb20163710.1259
+ligand name:p-Coumaric acid
+ligand smiles:C1=CC(=CC=C1/C=C/C(=O)O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;304.0;310.0
+KSV;47000.0;34100.0;25400.0
+kq;4700000000000.0;3410000000000.0;2540000000000.0
+n;1.02;0.96;0.91
+K;
+Ka;
+Kb;34100.0;20900.0;13800.0
+ΔH;-57.92;-57.92;-57.92
+ΔS;107.67;107.67;107.67
+ΔG;-25.86;-25.14;-24.57
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

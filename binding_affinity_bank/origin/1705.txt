@@ -1,0 +1,95 @@
+Title:Shedding light on the bimolecular interactions of Cafaminol and human serum albumin: spectroscopic characterization and in-silico investigation
+DOI:10.1080/07391102.2020.1863262
+ligand name:Cafaminol
+ligand smiles:CN1C2=C(N=C1N(C)CCO)N(C(=O)N(C2=O)C)C 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;289;296;303;310;
+KSV;10.46*10^3;8.92*10^3;7.70*10^3;6.70*10^3;
+kq;
+n;1.10;0.98;0.89;0.85;
+K;
+Ka;
+Kb;28.44*10^3;7.71*10^3;2.59*10^3;1.47*10^3;
+ΔH;-105.88;-105.88;-105.88;
+ΔS;-282.34;-282.34;-282.34;
+ΔG;-24.64;-22.03;-19.76;-18.762;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.60*10^-14;
+E;
+R0;2.63;
+r;3.28;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

@@ -1,0 +1,69 @@
+Title:Binding of fluphenazine with human serum albumin in the presence of rutin and quercetin: An evaluation of food-drug interaction by spectroscopic techniques
+DOI:10.1002/bio.3291
+ligand name:FPZ
+ligand smiles:OCCN4CCN(CCCn3c1ccccc1sc2ccc(C(F)(F)F)cc23)CC4
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;292.0;300.0;310.0
+KSV;18570.0;16530.0;15170.0
+kq;3095000000000.0;2755000000000.0;2528000000000.0
+n;
+K;
+Ka;25210.0;24290.0;22580.0
+Kb;
+ΔH;-4.637
+ΔS;19.98
+ΔG;-24.6;-25.19;-25.84
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:Probing the binding of valacyclovir hydrochloride to the human serum albumin
+DOI:10.22036/pcr.2019.183986.1628
+ligand name:Valacyclovir
+ligand smiles:CC(C)[C@@H](C(=O)OCCOCN1C=NC2=C1N=C(NC2=O)N)N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;302.0;305.0;310.0
+KSV;3780.3;5039.0;9121.0
+kq;
+n;0.7824;0.9648;1.2445
+K;
+Ka;
+Kb;2626.0;3553.8;5087.8
+ΔH;551.931;551.931;551.931
+ΔS;1.812;1.812;1.812
+ΔG;-15.166;-20.743;-30.156
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

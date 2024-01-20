@@ -1,0 +1,90 @@
+Title:An insight into the interaction of risedronate sodium with human serum albumin by absorption, FT-IR, fluorescence, SEM, voltammetry and molecular docking studies
+DOI:10.9790/5736-1102014054
+ligand name:risedronate sodium
+ligand smiles:C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)[O-].[Na+]
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site III; site I;
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;10.2*10^4;9.5*10^4;8.4*10^4;
+kq;
+n;1.449;1.380;1.319;
+K;
+Ka;11.50*10^4;10.59*10^4;8.29*10^4;
+Kb;36.2*10^4;24.3*10^4;17.5*10^4;
+ΔH;-156.05;-156.05;-156.05;
+ΔS;-0.406;-0.406;-0.406;
+ΔG;-38.87;-34.80;-30.73;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

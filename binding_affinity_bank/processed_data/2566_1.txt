@@ -1,0 +1,69 @@
+Title:Specific interaction with human serum albumin reduces ginsenoside cytotoxicity in human umbilical vein endothelial cells
+DOI:10.3389/fphar.2020.00498
+ligand name:G-Rg5
+ligand smiles:[H][C@@]12[C@H](CC[C@@]1(C)[C@]1(C)CC[C@@]3([H])C(C)(C)C(CC[C@]3(C)[C@@]1([H])C[C@H]2O)O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(\C)=C/C=C(C)C
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;310.0
+n;2.54
+K;
+Ka;
+Kb;189000.0
+ΔH;16.644
+ΔS;156.9
+ΔG;-31.3134
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

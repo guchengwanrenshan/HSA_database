@@ -1,0 +1,90 @@
+Title:Study on the interaction between nimodipine and five proteinases and the effects of naringin and vitamin C on these interactions by spectroscopic and molecular docking methods
+DOI:10.1016/j.saa.2022.120982
+ligand name:Nimodipine
+ligand smiles:CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;303;310;
+KSV;0.0528*10^6;0.0643*10^6;0.0720*10^6;
+kq;0.0528*10^14;0.0643*10^14;0.0720*10^14;
+n;0.88;0.97;1.03;
+K;
+Ka;
+Kb;13727.77;41247.72;98423.77;
+ΔH;124.45;124.45;124.45;
+ΔS;497.66;497.66;497.66;
+ΔG;-23.85;-26.34;-29.82;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.21*10^-14;
+E;0.110;
+R0;2.60;
+r;3.70;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

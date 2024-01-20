@@ -1,0 +1,69 @@
+Title:Studies on the interaction between HSA and new halogenated metformin derivatives: influence of lipophilic groups in the binding ability
+DOI:10.1080/07391102.2019.1627247
+ligand name:MFCF3
+ligand smiles:CN(C)C(=N)NC(=N)\N=C\C1=CC=C(C=C1)C(F)(F)F
+key residue(hbond):Trp214;Glu449d 
+key residue(hydrophobic):Val342;Val343;Leu197d
+PDB ID:
+Binding Area:Sudlow's site I (subdomain IIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;305.0;310.0;315.0
+KSV;31900.0;30000.0;29400.0
+kq;5190000000000.0;4880000000000.0;4780000000000.0
+n;0.93;0.91;0.94
+K;
+Ka;14700.0;11600.0;18200.0
+Kb;33400.0;31600.0;25300.0
+ΔH;9.48;9.48;9.48
+ΔS;120.0;120.0;120.0
+ΔG;-27.0;-27.6;-28.2
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

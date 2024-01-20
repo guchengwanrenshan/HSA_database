@@ -1,0 +1,107 @@
+Title:Elucidation of molecular interaction of bioactive flavonoid luteolin with human serum albumin and its glycated analogue using multi-spectroscopic and computational studies
+DOI:10.1016/j.molliq.2020.114147
+ligand name:luteolin
+ligand smiles:C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O  
+key residue(hbond):;Asp451(subdomain IIIA ) d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA;subdomain IIIA 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;
+kq;
+n;0.939;0.901;0.860;
+K;
+Ka;
+Kb;3.907*10^5;3.594*10^5;2.524*10^5;
+ΔH;-16.204;-16.204;-16.204;
+ΔS;51.550;51.550;51.550;
+ΔG;-31.154;-31.670;-32.185;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+#subdomain IIA
+Ala291;;36.79;
+Leu238;;29.12;
+Lys199;;22.88;
+Tyr150;;16.08;
+Arg257;;15.01;
+Arg222;;13.69;
+Ile290;;12.2;
+Leu260;;11.2;
+Ser192;;10.99;
+Leu219;;10.3;
+Glu153;;9.5;
+Lys195;;7.86;
+Ile264;;7.73;
+Gln196;;7.31;
+His242;;5.23;
+Trp214;;4.85;

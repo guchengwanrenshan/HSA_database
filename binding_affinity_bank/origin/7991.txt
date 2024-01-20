@@ -1,0 +1,90 @@
+Title:Spectroscopic and Molecular Modeling Studies of the Interaction Between 4'-O-(α-L-Oleandrosyl)daunorubicin and Human Serum Albumin and Its Analytical Application
+DOI:10.1007/s10895-011-0936-x
+ligand name:ODNR
+ligand smiles:COC1=CC=CC2=C1C(=O)C1=C(C2=O)C(O)=C2C[C@@](O)(C(C)=O)C[C@H](OC3CC(N)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C2=C1O
+key residue(hbond): Arg218; Arg222;Ala291;Glu292 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;294;304;314;
+KSV;5.334*10^4;4.686*10^4;3.971*10^4;
+kq;5.334*10^12;4.686*10^12;3.971*10^12;
+n;
+K;
+Ka;
+Kb;14.4*10^5;9.89*10^5;6.95*10^5;
+ΔH;-17.97;-17.97;-17.97;
+ΔS;36.52;36.52;36.52;
+ΔG;-29.03;-29.07;-29.11;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;2.12*10^-14;
+E;0.2559;
+R0;2.779;
+r;3.32;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

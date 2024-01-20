@@ -1,0 +1,95 @@
+Title:Spectroscopic Investigation on the Interaction of Pyrimidine Derivative, 2-Amino-6-hydroxy-4-(3,4-dimethoxyphenyl)-pyrimidine-5-carbonitrile with Human Serum Albumin: Mechanistic and Conformational Study
+DOI:10.1021/ie202005c
+ligand name:AHDMPPC
+ligand smiles:COC1=C(OC)C=C(C=C1)C1=NC(N)=NC(O)=C1C#N
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;303;313;323;
+KSV;1.95*10^5;1.30*10^5;1.071*10^5;
+kq;1.95*10^13;1.30*10^13;1.071*10^13;
+n;0.9504;0.9607;1.1176;
+K;
+Ka;
+Kb;8.5408*10^4;7.2677*10^4;6.2230*10^4;
+ΔH;-13.061;-13.061;-13.061;
+ΔS;51.3472;51.3472;51.3472;
+ΔG;-28.6194;-29.1329;-29.6464;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.43962*10^-15;
+E;0.36;
+R0;2.052;
+r;2.25;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

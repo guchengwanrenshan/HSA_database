@@ -1,0 +1,94 @@
+Title:Binding of clenbuterol to HSA and FTO: a spectroscopic analysis and molecular docking
+DOI:10.1007/s00044-017-2117-1
+ligand name:clenbuterol
+ligand smiles:CC(C)(C)NCC(C1=CC(=C(C(=C1)Cl)N)Cl)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;299;308;317;
+KSV;7.900*10^3;9.040*10^3;10.06*10^3;
+kq;7.900*10^11;9.040*10^11;10.06*10^11;
+n;
+K;
+Ka;
+Kb;7.802*10^3;8.372*10^3;9.092*10^3;
+ΔH;6.692;6.692;6.692;
+ΔS;96.870;96.870;96.870;
+ΔG;-22.272;-23.144;-24.016;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+T;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

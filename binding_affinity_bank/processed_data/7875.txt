@@ -1,0 +1,69 @@
+Title:Evaluation of the biointeraction of colorant flavazin with human serum albumin: insights from multiple spectroscopic studies;in silico docking and molecular dynamics simulation
+DOI:10.1039/c3fo60712g
+ligand name:flavazin
+ligand smiles:CC1=C(C(=O)N(N1)C2=CC=C(C=C2)S(=O)(=O)O)N=NC3=CC=CC=C3.[Na+]  
+key residue(hbond):Trp214;Arg222;Lys436 d
+key residue(hydrophobic):Lys195;Leu198;Trp214;Arg222;Val343;Lys436;Tyr452;Leu481 d
+PDB ID:
+Binding Area:subdomain IIA d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;302.0;306.0;310.0
+KSV;50390.0;47870.0;44810.0;42050.0
+kq;8315000000000.0;7899000000000.0;7394000000000.0;6939000000000.0
+n;1.0;0.97;0.95;0.92
+K;
+Ka;
+Kb;50820.0;31920.0;21430.0;13210.0
+ΔH;-85.2427;-85.2427;-85.2427;-85.2427
+ΔS;-195.9352;-195.9352;-195.9352;-195.9352
+ΔG;-26.854;-26.0703;-25.2865;-24.5028
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

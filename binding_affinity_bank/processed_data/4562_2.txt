@@ -1,0 +1,69 @@
+Title:The influence of oxidative stress on serum albumin structure as a carrier of selected diazaphenothiazine with potential anticancer activity
+DOI:10.3390/ph14030285
+ligand name:Dansyl-l-Proline
+ligand smiles:CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)N3CCC[C@H]3C(=O)O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IIIA
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.0
+KSV;
+kq;
+n;0.95
+K;
+Ka;
+Kb;12100.0
+ΔH;
+ΔS;
+ΔG;-22.9008
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,90 @@
+Title:Unravelling the distinctive mode of cooperative and independent interaction mechanism of 1-butyl-2,3-dimethylimidazolium tetrafluoroborate ionic liquid with model transport proteins by comprehensive spectroscopic and computational studies
+DOI:10.1016/j.molstruc.2019.127591
+ligand name:1-Butyl-2,3-dimethylimidazolium tetrafluoroborate
+ligand smiles:CCCCN1CC[N+](C)=C1C.F[B-](F)(F)F
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298;
+KSV;4.17*10^3;
+kq;4.17*10^11;
+n;
+K;
+Ka;
+Kb;5.98*10^3;
+ΔH;
+ΔS;
+ΔG;-25.49;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

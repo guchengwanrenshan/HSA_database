@@ -1,0 +1,90 @@
+Title:Deciphering the Fluorescence Resonance Energy Transfer Signature of 3-Pyrazolyl 2-Pyrazoline in Transport Proteinous Environment
+DOI:10.1021/jp811479r
+ligand name:3-Pyrazolyl 2-Pyrazoline
+ligand smiles:[H][C@]12CCC([H])(C1)[C@@]1([H])C2N(N=C1C1=C(C#N)C(C)=NN1C1=CC=CC=C1)C1=CC=C(Br)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;3.62*10^4;
+kq;
+n;0.9;
+K;
+Ka;4.37*10^4;
+Kb;3.65*10^4;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.56*10^-12;
+E;0.25;
+R0;5.72;
+r;7.13;
+EFRET;
+F0;
+F;
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

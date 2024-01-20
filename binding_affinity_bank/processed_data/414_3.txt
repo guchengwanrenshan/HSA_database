@@ -1,0 +1,69 @@
+Title:Plasma protein binding of herbalflavonoids to human serum albumin and their anti-proliferative activities
+DOI:10.1590/0001-3765202020190819
+ligand name: eriodictyol-7,4'-dimethylether (HF4)
+ligand smiles:[H]C1([H])C(=O)C2=C(O[C@]1([H])C1=CC=C(OC)C(O)=C1)C=C(OC)C=C2O
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;0.169
+kq;
+n;1.943
+K;
+Ka;
+Kb;47900.0
+ΔH;
+ΔS;
+ΔG;-26.7005
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

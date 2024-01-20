@@ -1,0 +1,95 @@
+Title:Interaction of human serum albumin with N-(4-ethoxyphenyl)-N'-(4-antipyrinyl) thiourea using spectroscopies and molecular modeling method
+DOI:10.1016/j.jlumin.2009.02.005
+ligand name:EPAT
+ligand smiles:CCOC1=CC=C(NC(=S)NC2=C(C)N(C)N(C2=O)C2=CC=CC=C2)C=C1
+key residue(hbond):ALA219;Arg218;Arg222 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293;303;313;
+KSV;3.852*10^4;3.721*10^4;3.533*10^4;
+kq;3.852*10^12;3.721*10^12;3.533*10^12;
+n;1.1224;1.2147;1.3822;
+K;
+Ka;3.770*10^4;2.592*10^4;2.308*10^4;
+Kb;3.8500*10^4;2.6800*10^4;2.4700*10^4;
+ΔH;-17.89;-17.89;-17.89;-17.89;
+ΔS;25.12;25.12;25.12;25.12;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.42013*10^-15;
+E;0.1368;
+R0;2.14;
+r;2.79;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

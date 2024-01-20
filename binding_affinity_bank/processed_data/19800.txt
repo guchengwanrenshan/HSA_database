@@ -1,0 +1,69 @@
+Title:Comparison of binding interactions of lomefloxacin to serum albumin and serum transferrin by resonance light scattering and fluorescence quenching methods
+DOI:10.1080/07391102.2011.10508590
+ligand name:lomefloxacin
+ligand smiles:CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;208.0
+KSV;
+kq;
+n;0.77
+K;
+Ka;
+Kb;601000.0
+ΔH;
+ΔS;
+ΔG;-23.0108
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;0.72
+K;
+Ka;
+Kb;594000.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

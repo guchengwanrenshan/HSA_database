@@ -1,0 +1,95 @@
+Title:Comprehensive Insights into the Interactions of Two Emerging Bromophenolic DBPs with Human Serum Albumin by Multispectroscopy and Molecular Docking
+DOI:10.1021/acsomega.8b03116
+ligand name:4-BrPh
+ligand smiles:OC1=CC=C(Br)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomain IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290;300;310;
+KSV;4.81*10^3;3.85*10^3;3.23*10^3;
+kq;4.81*10^11;3.85*10^11;3.23*10^11;
+n;1.00;0.99;0.98;
+K;
+Ka;
+Kb;4.72*10^3;3.30*10^3;2.66*10^3;
+ΔH;-24.51;-24.51;-24.51;
+ΔS;-4.02;-4.02;-4.02;
+ΔG;-20.34;-20.30;-20.26;
+Kd
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;1.13*10^-15;
+E;0.0189;
+R0;1.16;
+r;2.24;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

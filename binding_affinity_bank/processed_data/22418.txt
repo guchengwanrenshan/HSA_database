@@ -1,0 +1,69 @@
+Title:Elucidating the interaction of propofol and serum albumin by spectroscopic and docking methods
+DOI:10.1016/j.molliq.2016.03.040
+ligand name:propofol
+ligand smiles:CC(C)C1=C(C(=CC=C1)C(C)C)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;278.0;298.0;318.0
+KSV;144000.0;109000.0;74430.0
+kq;
+n;1.18;1.17;1.25
+K;
+Ka;
+Kb;1280000.0;818000.0;157000.0
+ΔH;3.27;3.27;3.27
+ΔS;126.4;126.4;126.4
+ΔG;-32.5;-33.7;-37.7
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

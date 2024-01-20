@@ -1,0 +1,69 @@
+Title:Interactions of bromocarbazoles with human serum albumin using spectroscopic methods
+DOI:10.3390/molecules23123120
+ligand name:3-bromocarbazole
+ligand smiles:C1=CC=C2C(=C1)C3=C(N2)C=CC(=C3)Br  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area: site II (subdomain IIIA)
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;303.0;308.0
+KSV;555000.0;657000.0;713000.0
+kq;55500000000000.0;65700000000000.0;71300000000000.0
+n;0.956;0.847;0.78
+K;
+Ka;218000.0;267000.0;301000.0
+Kb;
+ΔH;24.65;24.65;24.65
+ΔS;185.02;185.02;185.02
+ΔG;-30.49;-31.41;-32.33
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

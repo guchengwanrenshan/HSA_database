@@ -1,0 +1,69 @@
+Title:Biophysical and computational view on the in vitro combination between an anticancer drug, saracatinib and human serum albumin
+DOI:10.1080/07391102.2020.1766571
+ligand name:saracatinib (SCB)
+ligand smiles:CN1CCN(CC1)CCOC2=CC3=C(C(=C2)OC4CCOCC4)C(=NC=N3)NC5=C(C=CC6=C5OCO6)Cl 
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:Sudlow's site I(subdomains IIA) 
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;290.0;300.0;310.0
+KSV;10400.0;8900.0;7000.0
+kq;1860000000000.0;1590000000000.0;1250000000000.0
+n;1.0;0.99;1.01
+K;
+Ka;10800.0;9300.0;7400.0
+Kb;
+ΔH;-13.9;-13.9;-13.9
+ΔS;29.4;29.4;29.4
+ΔG;-22.43;-22.72;-23.02
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

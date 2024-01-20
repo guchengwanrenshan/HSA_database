@@ -1,0 +1,69 @@
+Title:Conformational Changes of Human Serum Albumin and Bovine Serum Albumin Induced by 1-Naphthol
+DOI:None
+ligand name:1-napthol
+ligand smiles:C1=CC=C2C(=C1)C=CC=C2O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:subdomian IB
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;1.04
+K;
+Ka;
+Kb;14900.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

@@ -1,0 +1,69 @@
+Title:In vitro investigation of domain specific interactions of phenothiazine dye with serum proteins by spectroscopic and molecular docking approaches
+DOI:10.1039/c4ra04630g
+ligand name:Azure A 
+ligand smiles:C[N+](=C1C=CC2=NC3=C(C=C(C=C3)N)SC2=C1)C.[Cl-]  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0
+KSV;70300.0
+kq;7030000000000.0
+n;1.12
+K;470000.0
+Ka;462000.0
+Kb;575000.0
+ΔH;
+ΔS;
+ΔG;-32.36
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

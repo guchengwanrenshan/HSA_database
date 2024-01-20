@@ -1,0 +1,69 @@
+Title:Plasma protein binding study of oxybutynin by high-performance frontal analysis
+DOI:10.1016/s0378-4347(01)00497-2
+ligand name:R-oxybutynin
+ligand smiles:CCN(CC)CC#CCOC(=O)[C@@](C1CCCCC1)(C2=CC=CC=C2)O  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;
+KSV;
+kq;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;26400.0
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

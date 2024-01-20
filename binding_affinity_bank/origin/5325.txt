@@ -1,0 +1,95 @@
+Title:Combined Multispectroscopic and Molecular Docking Assessments to the Effect of an Anticonvulsant, Oxcarbazepine on Human Serum Albumin Conformation and its Binding Properties
+DOI:10.1007/s10812-022-01365-x
+ligand name:Oxcarbazepine
+ligand smiles:C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N
+key residue(hbond):Arg222;Ser287 d
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I d
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;297;305;313;
+KSV;5.72*10^5;4.45*10^5;3.22*10^5;
+kq;21.18*10^13;16.48*10^13;11.92*10^13;
+n;1.443;1.360;1.198;
+K;
+Ka;8.09*10^5;4.72*10^5;0.97*10^5;
+Kb;50.12*10^5;38.90*10^5;8.07*10^5;
+ΔH;-96.86;-96.86;-96.86;
+ΔS;-217.16;-217.16;-217.16;
+ΔG;-32.36;-30.62;-28.88;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;
+E;
+R0;
+r;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

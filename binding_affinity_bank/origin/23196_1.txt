@@ -1,0 +1,95 @@
+Title:Spectroscopic Investigation of the Interactions of Cryptotanshinone and Icariin with Two Serum Albumins
+DOI:10.1007/s10953-013-0022-x
+ligand name:cryptotanshinone 
+ligand smiles:C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;293.15;298.15;304.15;310.15;
+KSV;1.95*10^4;2.11*10^4;2.16*10^4;2.25*10^4;
+kq;
+n;1.13;1.07;1.03;0.99;
+K;
+Ka;
+Kb;6.93*10^4;4.04*10^4;3.02*10^4;1.96*10^4;
+ΔH;-53.86;-53.86;-53.86;-53.86;
+ΔS;-91.70;-91.70;-91.70;-91.70;
+ΔG;-27.00;-26.54;-25.99;-25.44;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;4.71*10^-15;
+E;0.1295;
+R0;2.22;
+r;3.05;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+
+
+
+
+

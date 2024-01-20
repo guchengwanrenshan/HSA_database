@@ -1,0 +1,69 @@
+Title:Impact of halogen substituents on interactions between 2-Phenyl-2,3-dihydroqulinazolin-4(1H)-one derivatives and human serum albumin
+DOI:10.3390/molecules17022000
+ligand name:3c
+ligand smiles:CC(C)(C)CC(=O)N1C(N(\N=C\C2=CC=C(Cl)C=C2)C(=O)C2=C1C=CC(Cl)=C2)C1=CC=C(Cl)C=C1
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;298.0;307.0;316.0
+KSV;35400.0;36400.0;38200.0
+kq;3540000000000.0;3640000000000.0;3820000000000.0
+n;1.0239
+K;
+Ka;
+Kb;34400.0;39200.0;43600.0
+ΔH;10.32;10.32;10.32
+ΔS;121.84;121.84;121.84
+ΔG;-25.99;-27.08;-28.18
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;parameter;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+

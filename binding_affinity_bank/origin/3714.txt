@@ -1,0 +1,100 @@
+Title:An integrated approach with experimental and computational tools outlining the cooperative binding between 2-phenylchromone and human serum albumin
+DOI:10.1016/j.foodchem.2015.10.027
+ligand name:2-phenylchromone 
+ligand smiles:C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2  
+key residue(hbond):
+key residue(hydrophobic):
+PDB ID:
+Binding Area:site I; site II
+
+#Binding and thermodynamic parameters#
+parameter;
+pH;
+T;288;298;308;
+KSV;1.29*10^5;1.31*10^5;1.31*10^5;
+kq;1.29*10^14;1.31*10^14;1.31*10^14;
+n;0.92;0.91;0.93;
+K;
+Ka;
+Kb;1.80*10^5;1.79*10^5;1.77*10^5;
+ΔH;-0.6;-0.6;-0.6;
+ΔS;98.4;98.4;98.4;
+ΔG;-28.9;-29.9;-30.9;
+Kd;
+
+
+#ITC#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Cp;
+Kd;
+
+
+#UV-vis absorption spectroscopy#
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#other_method#
+method;
+parameter;
+pH;
+T;
+n;
+K;
+Ka;
+Kb;
+ΔH;
+ΔS;
+ΔG;
+Kd;
+
+
+#Kinetic Parameters Describing Michaelis–Menten Constant#
+HSA/Ligand;RA (%);Vmax;Km;kcat;kcat/Km;
+
+
+
+
+#FRET from Steady State Measurements#
+parameter;
+pH;
+T;
+J;3.776*10^-15;
+E;0.441;
+R0;1.905;
+r;1.982;
+EFRET;
+F0;
+F;
+
+
+#Changes in the ASA(Å2) Values of the Interacting Residues of HSA and ligand Complex
+residues;ASA(Å2) of HSA;ASA(Å2)of com;ΔASA(Å2)
+#site I#
+Tyr150;;;24.22;
+Glu153;;;11.51;
+Lys199;;;27.96;
+Leu238;;;19.86;
+His242;;;14.26;
+Leu260;;;18.16;
+Ile264;;;11.53;
+Ala291;;;31.80; 
+Glu292;;;26.96;
