@@ -8,3 +8,6 @@
 
 "crystal_structure_bank.7z"-----The pdb file of HSA
 
+Attention: Temperature and methodology have a significant impact on binding affinity. If high precision in your model is important to you, it's essential to consider these factors.
+
+
